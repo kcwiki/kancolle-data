@@ -1,0 +1,28 @@
+{
+  "name": "@kancolle/data",
+  "description": "KanColle's api_start2 response",
+  "version": "2018.09.01",
+  "main": "index.js",
+  "repository": "kcwiki/kancolle-data",
+  "license": "MIT",
+  "files": [
+    "dist/api_start2.json",
+    "index.js"
+  ],
+  "keywords": [
+    "kancolle"
+  ],
+  "scripts": {
+    "lint": "eslint . --ext .js --fix",
+    "test": "yarn lint && tape test.js"
+  },
+  "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "prettier": "^1.14.2",
+    "tape": "^4.9.1"
+  },
+  "dependencies": {}
+}
