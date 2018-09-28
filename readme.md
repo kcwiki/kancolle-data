@@ -15,3 +15,5 @@ Module returns [`api_data` from the response](https://github.com/kcwiki/kancolle
 ```js
 const { api_mst_ship } = require('@kancolle/data')
 ```
+
+See also [`api_start2.schema.json`](https://github.com/kcwiki/kancolle-data/blob/master/dist/api_start2.schema.json) for [JSON schema](https://json-schema.org/).
