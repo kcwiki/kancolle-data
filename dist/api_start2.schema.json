@@ -297,10 +297,7 @@
             "type": "number"
           },
           "api_max_maphp": {
-            "type": [
-              "null",
-              "number"
-            ]
+            "type": "null"
           },
           "api_name": {
             "type": "string"
