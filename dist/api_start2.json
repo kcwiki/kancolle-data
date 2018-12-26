@@ -295,7 +295,7 @@
   ],
   "api_mst_const": {
     "api_boko_max_ships": {
-      "api_int_value": 390,
+      "api_int_value": 400,
       "api_string_value": ""
     },
     "api_dpflag_quest": {
@@ -7755,7 +7755,7 @@
       "api_season": 0,
       "api_title": "大型生花アレンジメント",
       "api_type": 3,
-      "api_version": 2
+      "api_version": 3
     },
     {
       "api_active_flag": 0,
@@ -8485,7 +8485,7 @@
       "api_id": 392,
       "api_no": 83,
       "api_type": 3,
-      "api_version": "2"
+      "api_version": "3"
     },
     {
       "api_filename": "087",
@@ -10982,7 +10982,7 @@
       "api_type": 0
     },
     {
-      "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計390隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
+      "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計400隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
       "api_id": 16,
       "api_item": [
         0,
@@ -10996,7 +10996,7 @@
       ],
       "api_name": "母港拡張",
       "api_price": 1000,
-      "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計390隻まで！ 装備枠も自動的に+40増加します。",
+      "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計400隻まで！ 装備枠も自動的に+40増加します。",
       "api_type": 0
     },
     {
@@ -59167,7 +59167,7 @@
         198,
         204
       ],
-      "api_filename": "khxsxmiuccsf",
+      "api_filename": "khxsxmiucccm",
       "api_id": 132,
       "api_kaisyu_d": [
         39,
@@ -59195,9 +59195,9 @@
       ],
       "api_sortno": 132,
       "api_version": [
-        "12",
-        "4",
-        "1207"
+        "14",
+        "6",
+        "1224"
       ],
       "api_weda": [
         141,
@@ -59700,31 +59700,31 @@
     },
     {
       "api_battle_d": [
-        48,
-        144
+        232,
+        177
       ],
       "api_battle_n": [
-        -48,
-        144
+        231,
+        172
       ],
       "api_boko_d": [
-        60,
-        192
+        175,
+        222
       ],
       "api_boko_n": [
-        -48,
-        156
+        151,
+        198
       ],
       "api_ensyue_n": [
-        -96,
+        154,
         0
       ],
       "api_ensyuf_d": [
-        48,
-        144
+        184,
+        171
       ],
       "api_ensyuf_n": [
-        -12,
+        183,
         168
       ],
       "api_filename": "vrtbgpzuepqx",
@@ -59738,34 +59738,34 @@
         24
       ],
       "api_kaizo_d": [
-        -36,
-        60
+        157,
+        64
       ],
       "api_kaizo_n": [
-        -96,
-        72
+        166,
+        70
       ],
       "api_map_d": [
-        -12,
-        192
+        195,
+        172
       ],
       "api_map_n": [
-        -96,
-        144
+        205,
+        163
       ],
       "api_sortno": 140,
       "api_version": [
-        "9",
+        "10",
         "9",
         "1207"
       ],
       "api_weda": [
-        384,
-        48
+        139,
+        1
       ],
       "api_wedb": [
-        168,
-        168
+        118,
+        157
       ]
     },
     {
@@ -70857,7 +70857,7 @@
         198,
         204
       ],
-      "api_filename": "ijhrnvnbqkmj",
+      "api_filename": "ijhrnvnbqkcm",
       "api_id": 301,
       "api_kaisyu_d": [
         39,
@@ -70885,9 +70885,9 @@
       ],
       "api_sortno": 1397,
       "api_version": [
-        "12",
-        "4",
-        "1207"
+        "14",
+        "6",
+        "1224"
       ],
       "api_weda": [
         141,
@@ -71740,31 +71740,31 @@
     },
     {
       "api_battle_d": [
-        48,
-        144
+        232,
+        177
       ],
       "api_battle_n": [
-        -48,
-        144
+        231,
+        172
       ],
       "api_boko_d": [
-        60,
-        192
+        175,
+        222
       ],
       "api_boko_n": [
-        -48,
-        156
+        151,
+        198
       ],
       "api_ensyue_n": [
-        -96,
+        154,
         0
       ],
       "api_ensyuf_d": [
-        48,
-        144
+        184,
+        171
       ],
       "api_ensyuf_n": [
-        -12,
+        183,
         168
       ],
       "api_filename": "kbdewgsfrkra",
@@ -71778,34 +71778,34 @@
         24
       ],
       "api_kaizo_d": [
-        -36,
-        60
+        157,
+        64
       ],
       "api_kaizo_n": [
-        -96,
-        72
+        166,
+        70
       ],
       "api_map_d": [
-        -12,
-        192
+        195,
+        172
       ],
       "api_map_n": [
-        -96,
-        144
+        205,
+        163
       ],
       "api_sortno": 1410,
       "api_version": [
-        "9",
+        "10",
         "9",
         "1207"
       ],
       "api_weda": [
-        384,
-        48
+        139,
+        1
       ],
       "api_wedb": [
-        168,
-        168
+        118,
+        157
       ]
     },
     {
@@ -87895,7 +87895,7 @@
       ],
       "api_sortno": 365,
       "api_version": [
-        "55",
+        "56",
         "2",
         "1207"
       ],
@@ -88260,32 +88260,32 @@
     },
     {
       "api_battle_d": [
-        174,
-        222
+        150,
+        232
       ],
       "api_battle_n": [
-        108,
-        174
+        135,
+        217
       ],
       "api_boko_d": [
-        66,
-        276
+        118,
+        283
       ],
       "api_boko_n": [
-        54,
-        180
+        96,
+        220
       ],
       "api_ensyue_n": [
-        63,
+        108,
         0
       ],
       "api_ensyuf_d": [
-        117,
-        195
+        103,
+        196
       ],
       "api_ensyuf_n": [
-        54,
-        147
+        100,
+        193
       ],
       "api_filename": "qygdvlmlhjhn",
       "api_id": 575,
@@ -88298,34 +88298,34 @@
         -6
       ],
       "api_kaizo_d": [
-        120,
+        93,
         94
       ],
       "api_kaizo_n": [
-        55,
-        66
+        76,
+        85
       ],
       "api_map_d": [
-        141,
-        207
+        133,
+        213
       ],
       "api_map_n": [
-        72,
-        153
+        112,
+        193
       ],
       "api_sortno": 375,
       "api_version": [
-        "51",
+        "52",
         "1",
-        "1207"
+        "1221"
       ],
       "api_weda": [
-        252,
-        34
+        234,
+        -1
       ],
       "api_wedb": [
-        145,
-        187
+        151,
+        169
       ]
     },
     {
@@ -88470,32 +88470,32 @@
     },
     {
       "api_battle_d": [
-        174,
-        222
+        150,
+        232
       ],
       "api_battle_n": [
-        108,
-        174
+        135,
+        217
       ],
       "api_boko_d": [
-        66,
-        276
+        118,
+        283
       ],
       "api_boko_n": [
-        54,
-        180
+        96,
+        220
       ],
       "api_ensyue_n": [
-        63,
+        108,
         0
       ],
       "api_ensyuf_d": [
-        117,
-        195
+        103,
+        196
       ],
       "api_ensyuf_n": [
-        54,
-        147
+        100,
+        193
       ],
       "api_filename": "osukvwqderjb",
       "api_id": 580,
@@ -88508,34 +88508,34 @@
         -6
       ],
       "api_kaizo_d": [
-        120,
+        93,
         94
       ],
       "api_kaizo_n": [
-        55,
-        66
+        76,
+        85
       ],
       "api_map_d": [
-        141,
-        207
+        133,
+        213
       ],
       "api_map_n": [
-        72,
-        153
+        112,
+        193
       ],
       "api_sortno": 380,
       "api_version": [
-        "51",
+        "52",
         "1",
-        "1207"
+        "1221"
       ],
       "api_weda": [
-        252,
-        34
+        234,
+        -1
       ],
       "api_wedb": [
-        145,
-        187
+        151,
+        169
       ]
     },
     {
@@ -89015,7 +89015,7 @@
       ],
       "api_sortno": 1485,
       "api_version": [
-        "55",
+        "56",
         "2",
         "1207"
       ],
@@ -89995,7 +89995,7 @@
       ],
       "api_sortno": 0,
       "api_version": [
-        "51",
+        "52",
         "1",
         "1"
       ],
@@ -143301,7 +143301,8 @@
         8,
         1
       ],
-      "api_usebull": "0"
+      "api_usebull": "0",
+      "api_version": 2
     },
     {
       "api_atap": 0,
@@ -152037,7 +152038,8 @@
         8,
         1
       ],
-      "api_usebull": "0"
+      "api_usebull": "0",
+      "api_version": 2
     },
     {
       "api_atap": 0,
@@ -152395,6 +152397,84 @@
         49,
         9,
         31
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_atap": 0,
+      "api_bakk": 0,
+      "api_baku": 0,
+      "api_broken": [
+        1,
+        3,
+        2,
+        2
+      ],
+      "api_houg": 1,
+      "api_houk": 1,
+      "api_houm": 0,
+      "api_id": 314,
+      "api_info": "米国で開発され、広く実戦配備された標準的な対水上艦用魚雷兵装です。<br>初期においては、動作不良も多く、安定性を欠いていた本兵装ですが、後期には不具合も解消され、対水上艦戦闘時において大きな戦果を挙げることになります。",
+      "api_leng": 1,
+      "api_luck": 0,
+      "api_name": "533mm五連装魚雷(初期型)",
+      "api_raig": 8,
+      "api_raik": 0,
+      "api_raim": 0,
+      "api_rare": 2,
+      "api_sakb": 0,
+      "api_saku": 0,
+      "api_soku": 0,
+      "api_sortno": 314,
+      "api_souk": 1,
+      "api_taik": 0,
+      "api_tais": 0,
+      "api_tyku": 0,
+      "api_type": [
+        2,
+        3,
+        5,
+        5,
+        0
+      ],
+      "api_usebull": "0"
+    },
+    {
+      "api_atap": 0,
+      "api_bakk": 0,
+      "api_baku": 0,
+      "api_broken": [
+        0,
+        0,
+        15,
+        20
+      ],
+      "api_houg": 1,
+      "api_houk": 6,
+      "api_houm": 8,
+      "api_id": 315,
+      "api_info": "米国で開発され、多くの水上艦艇に装備された実用的な対水上レーダーです。<br>紅茶の国で開発された進んだレーダー技術を導入、さらに独自の改良を加え、発展していった標準的かつ実用的な対水上及び低空警戒捜索レーダー、その初期型です。",
+      "api_leng": 2,
+      "api_luck": 0,
+      "api_name": "SG レーダー(初期型)",
+      "api_raig": 0,
+      "api_raik": 0,
+      "api_raim": 0,
+      "api_rare": 3,
+      "api_sakb": 0,
+      "api_saku": 8,
+      "api_soku": 0,
+      "api_sortno": 315,
+      "api_souk": 0,
+      "api_taik": 0,
+      "api_tais": 3,
+      "api_tyku": 3,
+      "api_type": [
+        5,
+        8,
+        12,
+        11,
+        0
       ],
       "api_usebull": "0"
     },
@@ -158923,7 +159003,7 @@
     {
       "api_category": 0,
       "api_description": [
-        "最大保有艦娘数＋10(最大390)。最大保有アイテム数＋40(最大1680)。",
+        "最大保有艦娘数＋10(最大400)。最大保有アイテム数＋40(最大1720)。",
         ""
       ],
       "api_id": 53,
@@ -159220,7 +159300,7 @@
     {
       "api_category": 0,
       "api_description": [
-        "２０１７年のクリスマスに贈ら<br>れる大きなプレゼント箱です。<br>開封時に、プレゼントの中身を<br>提督が選ぶことができます。　<br>※新春メンテ時に消滅します。",
+        "２０１８年のクリスマスに贈ら<br>れる大きなプレゼント箱です。<br>開封時に、プレゼントの中身を<br>提督が選ぶことができます。　<br>※新春メンテ時に消滅します。",
         ""
       ],
       "api_id": 80,
