@@ -744,6 +744,9 @@
       "items": {
         "type": "object",
         "properties": {
+          "api_aviation_mat_count": {
+            "type": "number"
+          },
           "api_catapult_count": {
             "type": "number"
           },
@@ -773,6 +776,7 @@
           }
         },
         "required": [
+          "api_aviation_mat_count",
           "api_catapult_count",
           "api_current_ship_id",
           "api_drawing_count",
