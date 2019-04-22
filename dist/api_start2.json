@@ -311,7 +311,7 @@
   ],
   "api_mst_const": {
     "api_boko_max_ships": {
-      "api_int_value": 400,
+      "api_int_value": 410,
       "api_string_value": ""
     },
     "api_dpflag_quest": {
@@ -2431,6 +2431,37 @@
     },
     {
       "api_equip_type": [
+        3,
+        4,
+        5,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        28,
+        29,
+        33,
+        34,
+        36,
+        37,
+        39,
+        40,
+        42,
+        43,
+        93
+      ],
+      "api_ship_id": 591
+    },
+    {
+      "api_equip_type": [
         5,
         14,
         17,
@@ -2715,7 +2746,7 @@
       "api_outside_id": 0,
       "api_price": 1200,
       "api_rarity": 1,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "ピンクの床",
       "api_type": 0,
@@ -2771,7 +2802,7 @@
       "api_outside_id": 0,
       "api_price": 800,
       "api_rarity": 2,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "真っ赤な高級絨毯",
       "api_type": 0,
@@ -2939,7 +2970,7 @@
       "api_outside_id": 0,
       "api_price": 200,
       "api_rarity": 2,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "コンクリート床",
       "api_type": 0,
@@ -4143,7 +4174,7 @@
       "api_outside_id": 0,
       "api_price": 3100,
       "api_rarity": 4,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "「主力of主力」掛け軸",
       "api_type": 3,
@@ -4199,7 +4230,7 @@
       "api_outside_id": 0,
       "api_price": 150,
       "api_rarity": 2,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "アレンジメント",
       "api_type": 3,
@@ -4661,7 +4692,7 @@
       "api_outside_id": 0,
       "api_price": 700,
       "api_rarity": 2,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "模様替えお掃除セット",
       "api_type": 4,
@@ -4871,7 +4902,7 @@
       "api_outside_id": 0,
       "api_price": 188000,
       "api_rarity": 6,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "秘書艦と提督の机",
       "api_type": 5,
@@ -5123,7 +5154,7 @@
       "api_outside_id": 0,
       "api_price": 9000,
       "api_rarity": 5,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "金剛の紅茶セット",
       "api_type": 5,
@@ -5235,7 +5266,7 @@
       "api_outside_id": 0,
       "api_price": 50,
       "api_rarity": 1,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "布団と枕",
       "api_type": 5,
@@ -5305,7 +5336,7 @@
       "api_outside_id": 0,
       "api_price": 0,
       "api_rarity": 0,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "なし",
       "api_type": 5,
@@ -5319,7 +5350,7 @@
       "api_outside_id": 0,
       "api_price": 50000,
       "api_rarity": 4,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "教室セット「黒板」",
       "api_type": 3,
@@ -5361,7 +5392,7 @@
       "api_outside_id": 0,
       "api_price": 30000,
       "api_rarity": 4,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "大きな古時計",
       "api_type": 3,
@@ -5557,7 +5588,7 @@
       "api_outside_id": 0,
       "api_price": 0,
       "api_rarity": 2,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "「横須賀鎮守府」掛け軸",
       "api_type": 3,
@@ -5739,7 +5770,7 @@
       "api_outside_id": 0,
       "api_price": 20000,
       "api_rarity": 4,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "洋酒＆ワイン棚",
       "api_type": 5,
@@ -6257,7 +6288,7 @@
       "api_outside_id": 0,
       "api_price": 0,
       "api_rarity": 2,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "「佐世保鎮守府」掛け軸",
       "api_type": 3,
@@ -6929,7 +6960,7 @@
       "api_outside_id": 3,
       "api_price": 2400,
       "api_rarity": 3,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "ラヂオの窓",
       "api_type": 2,
@@ -7269,7 +7300,7 @@
       "api_season": 0,
       "api_title": "桜の和のアレンジメント",
       "api_type": 3,
-      "api_version": 3
+      "api_version": 4
     },
     {
       "api_active_flag": 1,
@@ -7349,7 +7380,7 @@
       "api_outside_id": 0,
       "api_price": 163400,
       "api_rarity": 5,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "「瑞雲」の桐箪笥",
       "api_type": 4,
@@ -7363,7 +7394,7 @@
       "api_outside_id": 0,
       "api_price": 6340,
       "api_rarity": 5,
-      "api_saleflg": 0,
+      "api_saleflg": 1,
       "api_season": 0,
       "api_title": "「瑞雲魂」掛け軸",
       "api_type": 3,
@@ -7727,7 +7758,7 @@
       "api_outside_id": 0,
       "api_price": 1700,
       "api_rarity": 3,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "珈琲の壁紙",
       "api_type": 1,
@@ -7741,7 +7772,7 @@
       "api_outside_id": 0,
       "api_price": 121400,
       "api_rarity": 5,
-      "api_saleflg": 1,
+      "api_saleflg": 0,
       "api_season": 0,
       "api_title": "鎮守府Café",
       "api_type": 4,
@@ -7759,7 +7790,7 @@
       "api_season": 15,
       "api_title": "Caféテーブルセット",
       "api_type": 5,
-      "api_version": 2
+      "api_version": 3
     },
     {
       "api_active_flag": 1,
@@ -8432,6 +8463,104 @@
       "api_title": "「対馬」の掛け軸",
       "api_type": 3,
       "api_version": 1
+    },
+    {
+      "api_active_flag": 1,
+      "api_description": "遂に艦隊はまさかの六周年<br>デース！第三改装を迎えた<br>何者かによる掛け軸です。<br>6th Anniversary and...<br>Burning Love!",
+      "api_id": 426,
+      "api_no": 92,
+      "api_outside_id": 0,
+      "api_price": 60000,
+      "api_rarity": 6,
+      "api_saleflg": 0,
+      "api_season": 0,
+      "api_title": "「六周年記念」掛け軸",
+      "api_type": 3,
+      "api_version": 1
+    },
+    {
+      "api_active_flag": 0,
+      "api_description": "春の暖かい日差しとその中<br>へ飛翔する綿毛をイメージ<br>した緑の敷物です。優しい<br>気持ちになりたい時にぜひ<br>お使いください！",
+      "api_id": 427,
+      "api_no": 57,
+      "api_outside_id": 0,
+      "api_price": 900,
+      "api_rarity": 3,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_title": "綿毛模様の緑の敷物",
+      "api_type": 0,
+      "api_version": 1
+    },
+    {
+      "api_active_flag": 0,
+      "api_description": "春の暖かい日差し、その中<br>で夢見る艦娘とタンポポの<br>綿毛をモチーフに作られた<br>壁板です。暖かい穏やかな<br>提督室を演出します。",
+      "api_id": 428,
+      "api_no": 75,
+      "api_outside_id": 0,
+      "api_price": 1800,
+      "api_rarity": 3,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_title": "綿毛模様の緑の壁板",
+      "api_type": 1,
+      "api_version": 1
+    },
+    {
+      "api_active_flag": 0,
+      "api_description": "春は花や植物を育てたくな<br>りませんか？そんな提督の<br>ために艦娘たちが家具職人<br>の皆さんにお願いして作っ<br>てもらった園芸用窓です！",
+      "api_id": 429,
+      "api_no": 61,
+      "api_outside_id": 4,
+      "api_price": 2200,
+      "api_rarity": 5,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_title": "春の園芸窓",
+      "api_type": 2,
+      "api_version": 1
+    },
+    {
+      "api_active_flag": 0,
+      "api_description": "海と艦艇をモチーフにした<br>新作のステンドグラスに、<br>華やかな花飾りを付加した<br>装飾です。なんとなく部屋<br>がさみしい…そんな時に！",
+      "api_id": 430,
+      "api_no": 93,
+      "api_outside_id": 0,
+      "api_price": 1980,
+      "api_rarity": 5,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_title": "花飾りのステンドグラス",
+      "api_type": 3,
+      "api_version": 1
+    },
+    {
+      "api_active_flag": 0,
+      "api_description": "少し大人になったある睦月<br>型駆逐艦の用意した提督の<br>ためのお茶セットです。<br>菖蒲モチーフのインテリア<br>が提督室を演出します。",
+      "api_id": 431,
+      "api_no": 59,
+      "api_outside_id": 0,
+      "api_price": 2000,
+      "api_rarity": 4,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_title": "皐月の季節のお茶セット",
+      "api_type": 4,
+      "api_version": 1
+    },
+    {
+      "api_active_flag": 0,
+      "api_description": "艦隊運用に忙しい提督の机<br>と並んで配置された優秀な<br>秘書艦娘のための執務机、<br>その待望の二型です。<br>職人ダイナミック割引可！",
+      "api_id": 432,
+      "api_no": 81,
+      "api_outside_id": 0,
+      "api_price": 198000,
+      "api_rarity": 6,
+      "api_saleflg": 1,
+      "api_season": 0,
+      "api_title": "秘書艦と提督の机 二型",
+      "api_type": 5,
+      "api_version": 1
     }
   ],
   "api_mst_furnituregraph": [
@@ -8846,7 +8975,7 @@
       "api_id": 342,
       "api_no": 70,
       "api_type": 3,
-      "api_version": "11"
+      "api_version": "13"
     },
     {
       "api_filename": "072",
@@ -8944,7 +9073,7 @@
       "api_id": 377,
       "api_no": 75,
       "api_type": 5,
-      "api_version": "3"
+      "api_version": "4"
     },
     {
       "api_filename": "077",
@@ -9028,6 +9157,13 @@
       "api_id": 418,
       "api_no": 57,
       "api_type": 4,
+      "api_version": "1"
+    },
+    {
+      "api_filename": "093",
+      "api_id": 426,
+      "api_no": 92,
+      "api_type": 3,
       "api_version": "1"
     }
   ],
@@ -11511,7 +11647,7 @@
       "api_type": 0
     },
     {
-      "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計400隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
+      "api_description": "母港拡張 艦隊の艦娘保有数を<br>+10隻分拡張できます！<br>※ご注意※ 最大計410隻まで！<br>装備枠も自動的に+40増加しま<br>す。",
       "api_id": 16,
       "api_item": [
         0,
@@ -11525,7 +11661,7 @@
       ],
       "api_name": "母港拡張",
       "api_price": 1000,
-      "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計400隻まで！ 装備枠も自動的に+40増加します。",
+      "api_shop_description": "母港拡張 艦隊の艦娘保有数を+10隻分拡張できます！<br>※ご注意※ 最大計410隻まで！ 装備枠も自動的に+40増加します。",
       "api_type": 0
     },
     {
@@ -21089,10 +21225,10 @@
       "api_yomi": "むさし"
     },
     {
-      "api_afterbull": 0,
-      "api_afterfuel": 0,
-      "api_afterlv": 0,
-      "api_aftershipid": "0",
+      "api_afterbull": 8800,
+      "api_afterfuel": 7900,
+      "api_afterlv": 92,
+      "api_aftershipid": "591",
       "api_backs": 7,
       "api_broken": [
         10,
@@ -47116,6 +47252,71 @@
       "api_yomi": "にっしん"
     },
     {
+      "api_afterbull": 0,
+      "api_afterfuel": 0,
+      "api_afterlv": 0,
+      "api_aftershipid": "0",
+      "api_backs": 8,
+      "api_broken": [
+        14,
+        19,
+        38,
+        4
+      ],
+      "api_buildtime": 240,
+      "api_bull_max": 160,
+      "api_ctype": 6,
+      "api_fuel_max": 100,
+      "api_getmes": "<br>",
+      "api_houg": [
+        76,
+        98
+      ],
+      "api_id": 591,
+      "api_leng": 3,
+      "api_luck": [
+        18,
+        98
+      ],
+      "api_maxeq": [
+        2,
+        2,
+        3,
+        6,
+        0
+      ],
+      "api_name": "金剛改二丙",
+      "api_powup": [
+        4,
+        1,
+        2,
+        4
+      ],
+      "api_raig": [
+        20,
+        42
+      ],
+      "api_slot_num": 4,
+      "api_soku": 10,
+      "api_sort_id": 1017,
+      "api_sortno": 391,
+      "api_souk": [
+        72,
+        88
+      ],
+      "api_stype": 8,
+      "api_taik": [
+        86,
+        99
+      ],
+      "api_tyku": [
+        32,
+        89
+      ],
+      "api_voicef": 3,
+      "api_yomi": "こんごう"
+    },
+    {
       "api_afterbull": 300,
       "api_afterfuel": 160,
       "api_afterlv": 40,
@@ -51496,7 +51697,7 @@
       "api_version": [
         "25",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -51566,7 +51767,7 @@
       "api_version": [
         "28",
         "20",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -51846,7 +52047,7 @@
       "api_version": [
         "14",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -51916,7 +52117,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         226,
@@ -52056,7 +52257,7 @@
       "api_version": [
         "27",
         "20",
-        "327"
+        "422"
       ],
       "api_weda": [
         190,
@@ -52126,7 +52327,7 @@
       "api_version": [
         "16",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         331,
@@ -52196,7 +52397,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -52266,7 +52467,7 @@
       "api_version": [
         "14",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         328,
@@ -52336,7 +52537,7 @@
       "api_version": [
         "18",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         219,
@@ -52406,7 +52607,7 @@
       "api_version": [
         "18",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -52476,7 +52677,7 @@
       "api_version": [
         "47",
         "27",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -52546,7 +52747,7 @@
       "api_version": [
         "42",
         "26",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -52616,7 +52817,7 @@
       "api_version": [
         "13",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         331,
@@ -52686,7 +52887,7 @@
       "api_version": [
         "21",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         363,
@@ -52756,7 +52957,7 @@
       "api_version": [
         "13",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         214,
@@ -52826,7 +53027,7 @@
       "api_version": [
         "14",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -52896,7 +53097,7 @@
       "api_version": [
         "10",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         199,
@@ -52966,7 +53167,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         345,
@@ -53036,7 +53237,7 @@
       "api_version": [
         "26",
         "20",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -53106,7 +53307,7 @@
       "api_version": [
         "15",
         "23",
-        "327"
+        "422"
       ],
       "api_weda": [
         207,
@@ -53176,7 +53377,7 @@
       "api_version": [
         "13",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -53246,7 +53447,7 @@
       "api_version": [
         "38",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         625,
@@ -53316,7 +53517,7 @@
       "api_version": [
         "33",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         528,
@@ -53386,7 +53587,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         466,
@@ -53456,7 +53657,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         208,
@@ -53526,7 +53727,7 @@
       "api_version": [
         "10",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         256,
@@ -53596,7 +53797,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         375,
@@ -53666,7 +53867,7 @@
       "api_version": [
         "18",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -53736,7 +53937,7 @@
       "api_version": [
         "24",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         616,
@@ -53806,7 +54007,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         369,
@@ -53876,7 +54077,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -53946,7 +54147,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -54016,7 +54217,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -54086,7 +54287,7 @@
       "api_version": [
         "14",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         327,
@@ -54156,7 +54357,7 @@
       "api_version": [
         "20",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -54226,7 +54427,7 @@
       "api_version": [
         "10",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         229,
@@ -54296,7 +54497,7 @@
       "api_version": [
         "10",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -54366,7 +54567,7 @@
       "api_version": [
         "39",
         "37",
-        "327"
+        "422"
       ],
       "api_weda": [
         424,
@@ -54436,7 +54637,7 @@
       "api_version": [
         "23",
         "42",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -54505,8 +54706,8 @@
       "api_sortno": 81,
       "api_version": [
         "44",
-        "40",
-        "327"
+        "41",
+        "422"
       ],
       "api_weda": [
         123,
@@ -54576,7 +54777,7 @@
       "api_version": [
         "24",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -54646,7 +54847,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -54716,7 +54917,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -54786,7 +54987,7 @@
       "api_version": [
         "13",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         297,
@@ -54856,7 +55057,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         100,
@@ -54926,7 +55127,7 @@
       "api_version": [
         "12",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         193,
@@ -54996,7 +55197,7 @@
       "api_version": [
         "19",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         135,
@@ -55066,7 +55267,7 @@
       "api_version": [
         "19",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         448,
@@ -55136,7 +55337,7 @@
       "api_version": [
         "11",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         387,
@@ -55206,7 +55407,7 @@
       "api_version": [
         "14",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -55276,7 +55477,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -55346,7 +55547,7 @@
       "api_version": [
         "18",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         279,
@@ -55416,7 +55617,7 @@
       "api_version": [
         "16",
         "23",
-        "327"
+        "422"
       ],
       "api_weda": [
         207,
@@ -55486,7 +55687,7 @@
       "api_version": [
         "14",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -55556,7 +55757,7 @@
       "api_version": [
         "23",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         295,
@@ -55626,7 +55827,7 @@
       "api_version": [
         "13",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         286,
@@ -55696,7 +55897,7 @@
       "api_version": [
         "4",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         328,
@@ -55766,7 +55967,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         246,
@@ -55836,7 +56037,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         147,
@@ -55906,7 +56107,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -55976,7 +56177,7 @@
       "api_version": [
         "14",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         223,
@@ -56046,7 +56247,7 @@
       "api_version": [
         "9",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         267,
@@ -56116,7 +56317,7 @@
       "api_version": [
         "8",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         267,
@@ -56186,7 +56387,7 @@
       "api_version": [
         "17",
         "24",
-        "327"
+        "422"
       ],
       "api_weda": [
         156,
@@ -56256,7 +56457,7 @@
       "api_version": [
         "18",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         399,
@@ -56326,7 +56527,7 @@
       "api_version": [
         "20",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         243,
@@ -56396,7 +56597,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         205,
@@ -56466,7 +56667,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         232,
@@ -56536,7 +56737,7 @@
       "api_version": [
         "20",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         297,
@@ -56606,7 +56807,7 @@
       "api_version": [
         "25",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         127,
@@ -56676,7 +56877,7 @@
       "api_version": [
         "7",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         316,
@@ -56746,7 +56947,7 @@
       "api_version": [
         "23",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         367,
@@ -56816,7 +57017,7 @@
       "api_version": [
         "13",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         379,
@@ -56886,7 +57087,7 @@
       "api_version": [
         "20",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         261,
@@ -56956,7 +57157,7 @@
       "api_version": [
         "18",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         156,
@@ -57026,7 +57227,7 @@
       "api_version": [
         "18",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         360,
@@ -57096,7 +57297,7 @@
       "api_version": [
         "16",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         352,
@@ -57166,7 +57367,7 @@
       "api_version": [
         "20",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         379,
@@ -57236,7 +57437,7 @@
       "api_version": [
         "17",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         297,
@@ -57306,7 +57507,7 @@
       "api_version": [
         "14",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         487,
@@ -57376,7 +57577,7 @@
       "api_version": [
         "14",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -57446,7 +57647,7 @@
       "api_version": [
         "14",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         349,
@@ -57516,7 +57717,7 @@
       "api_version": [
         "20",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         351,
@@ -57586,7 +57787,7 @@
       "api_version": [
         "27",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         348,
@@ -57656,7 +57857,7 @@
       "api_version": [
         "9",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         441,
@@ -57726,7 +57927,7 @@
       "api_version": [
         "22",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         346,
@@ -57796,7 +57997,7 @@
       "api_version": [
         "15",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         438,
@@ -57866,7 +58067,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         379,
@@ -57936,7 +58137,7 @@
       "api_version": [
         "34",
         "24",
-        "327"
+        "422"
       ],
       "api_weda": [
         210,
@@ -58006,7 +58207,7 @@
       "api_version": [
         "34",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -58076,7 +58277,7 @@
       "api_version": [
         "12",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         480,
@@ -58146,7 +58347,7 @@
       "api_version": [
         "14",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         208,
@@ -58216,7 +58417,7 @@
       "api_version": [
         "15",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         279,
@@ -58286,7 +58487,7 @@
       "api_version": [
         "11",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         231,
@@ -58356,7 +58557,7 @@
       "api_version": [
         "29",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         262,
@@ -58426,7 +58627,7 @@
       "api_version": [
         "21",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         313,
@@ -58496,7 +58697,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         327,
@@ -58566,7 +58767,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         325,
@@ -58636,7 +58837,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         298,
@@ -58706,7 +58907,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         325,
@@ -58776,7 +58977,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         337,
@@ -58846,7 +59047,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         325,
@@ -58916,7 +59117,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         337,
@@ -58986,7 +59187,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         357,
@@ -59056,7 +59257,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         502,
@@ -59126,7 +59327,7 @@
       "api_version": [
         "17",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         292,
@@ -59196,7 +59397,7 @@
       "api_version": [
         "17",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         315,
@@ -59266,7 +59467,7 @@
       "api_version": [
         "17",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         315,
@@ -59336,7 +59537,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         195,
@@ -59406,7 +59607,7 @@
       "api_version": [
         "15",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         382,
@@ -59476,7 +59677,7 @@
       "api_version": [
         "21",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         325,
@@ -59546,7 +59747,7 @@
       "api_version": [
         "25",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         259,
@@ -59616,7 +59817,7 @@
       "api_version": [
         "25",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         259,
@@ -59686,7 +59887,7 @@
       "api_version": [
         "16",
         "23",
-        "327"
+        "422"
       ],
       "api_weda": [
         226,
@@ -59756,7 +59957,7 @@
       "api_version": [
         "14",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         298,
@@ -59826,7 +60027,7 @@
       "api_version": [
         "11",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         103,
@@ -59896,7 +60097,7 @@
       "api_version": [
         "11",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         103,
@@ -59966,7 +60167,7 @@
       "api_version": [
         "18",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         210,
@@ -60036,7 +60237,7 @@
       "api_version": [
         "13",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -60106,7 +60307,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -60176,7 +60377,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         249,
@@ -60246,7 +60447,7 @@
       "api_version": [
         "4",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         372,
@@ -60316,7 +60517,7 @@
       "api_version": [
         "3",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         397,
@@ -60386,7 +60587,7 @@
       "api_version": [
         "12",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         241,
@@ -60456,7 +60657,7 @@
       "api_version": [
         "22",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         319,
@@ -60526,7 +60727,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         244,
@@ -60596,7 +60797,7 @@
       "api_version": [
         "21",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -60666,7 +60867,7 @@
       "api_version": [
         "17",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         261,
@@ -60736,7 +60937,7 @@
       "api_version": [
         "26",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         162,
@@ -60806,7 +61007,7 @@
       "api_version": [
         "13",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         223,
@@ -60876,7 +61077,7 @@
       "api_version": [
         "61",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -60946,7 +61147,7 @@
       "api_version": [
         "21",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -61016,7 +61217,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         435,
@@ -61086,7 +61287,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         130,
@@ -61156,7 +61357,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         313,
@@ -61226,7 +61427,7 @@
       "api_version": [
         "11",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -61296,7 +61497,7 @@
       "api_version": [
         "8",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         199,
@@ -61366,7 +61567,7 @@
       "api_version": [
         "15",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         186,
@@ -61436,7 +61637,7 @@
       "api_version": [
         "11",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         375,
@@ -61506,7 +61707,7 @@
       "api_version": [
         "42",
         "27",
-        "327"
+        "422"
       ],
       "api_weda": [
         222,
@@ -61576,7 +61777,7 @@
       "api_version": [
         "52",
         "42",
-        "327"
+        "422"
       ],
       "api_weda": [
         183,
@@ -61646,7 +61847,7 @@
       "api_version": [
         "13",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         336,
@@ -61716,7 +61917,7 @@
       "api_version": [
         "9",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         232,
@@ -61786,7 +61987,7 @@
       "api_version": [
         "11",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         375,
@@ -61854,9 +62055,9 @@
       ],
       "api_sortno": 149,
       "api_version": [
-        "22",
+        "23",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         187,
@@ -61926,7 +62127,7 @@
       "api_version": [
         "14",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         499,
@@ -61996,7 +62197,7 @@
       "api_version": [
         "26",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         156,
@@ -62066,7 +62267,7 @@
       "api_version": [
         "14",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         396,
@@ -62136,7 +62337,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         360,
@@ -62206,7 +62407,7 @@
       "api_version": [
         "19",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -62276,7 +62477,7 @@
       "api_version": [
         "13",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         255,
@@ -62346,7 +62547,7 @@
       "api_version": [
         "2",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         360,
@@ -62416,7 +62617,7 @@
       "api_version": [
         "23",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -62486,7 +62687,7 @@
       "api_version": [
         "14",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -62556,7 +62757,7 @@
       "api_version": [
         "17",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -62626,7 +62827,7 @@
       "api_version": [
         "18",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -62696,7 +62897,7 @@
       "api_version": [
         "9",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         33,
@@ -62766,7 +62967,7 @@
       "api_version": [
         "14",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -62836,7 +63037,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         72,
@@ -62906,7 +63107,7 @@
       "api_version": [
         "23",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         135,
@@ -62976,7 +63177,7 @@
       "api_version": [
         "25",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         223,
@@ -63046,7 +63247,7 @@
       "api_version": [
         "9",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         189,
@@ -63116,7 +63317,7 @@
       "api_version": [
         "9",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -63186,7 +63387,7 @@
       "api_version": [
         "21",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -63256,7 +63457,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -63326,7 +63527,7 @@
       "api_version": [
         "32",
         "22",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -63396,7 +63597,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         516,
@@ -63466,7 +63667,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         516,
@@ -63536,7 +63737,7 @@
       "api_version": [
         "10",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         516,
@@ -63606,7 +63807,7 @@
       "api_version": [
         "13",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -63676,7 +63877,7 @@
       "api_version": [
         "8",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -63746,7 +63947,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         444,
@@ -63816,7 +64017,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         444,
@@ -63886,7 +64087,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -63956,7 +64157,7 @@
       "api_version": [
         "13",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -64026,7 +64227,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -64096,7 +64297,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -64166,7 +64367,7 @@
       "api_version": [
         "43",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         336,
@@ -64236,7 +64437,7 @@
       "api_version": [
         "39",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         432,
@@ -64306,7 +64507,7 @@
       "api_version": [
         "22",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         120,
@@ -64376,7 +64577,7 @@
       "api_version": [
         "22",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -64446,7 +64647,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         0,
@@ -64516,7 +64717,7 @@
       "api_version": [
         "43",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         360,
@@ -64586,7 +64787,7 @@
       "api_version": [
         "19",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         324,
@@ -64656,7 +64857,7 @@
       "api_version": [
         "19",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         276,
@@ -64726,7 +64927,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         307,
@@ -64796,7 +64997,7 @@
       "api_version": [
         "8",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         235,
@@ -64866,7 +65067,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         480,
@@ -64936,7 +65137,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         432,
@@ -65006,7 +65207,7 @@
       "api_version": [
         "14",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         336,
@@ -65076,7 +65277,7 @@
       "api_version": [
         "18",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -65146,7 +65347,7 @@
       "api_version": [
         "16",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         480,
@@ -65216,7 +65417,7 @@
       "api_version": [
         "22",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         504,
@@ -65286,7 +65487,7 @@
       "api_version": [
         "13",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         186,
@@ -65356,7 +65557,7 @@
       "api_version": [
         "14",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         186,
@@ -65426,7 +65627,7 @@
       "api_version": [
         "17",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -65496,7 +65697,7 @@
       "api_version": [
         "27",
         "20",
-        "327"
+        "422"
       ],
       "api_weda": [
         190,
@@ -65566,7 +65767,7 @@
       "api_version": [
         "17",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         331,
@@ -65636,7 +65837,7 @@
       "api_version": [
         "18",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -65706,7 +65907,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -65776,7 +65977,7 @@
       "api_version": [
         "24",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         616,
@@ -65846,7 +66047,7 @@
       "api_version": [
         "14",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         328,
@@ -65916,7 +66117,7 @@
       "api_version": [
         "18",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         219,
@@ -65986,7 +66187,7 @@
       "api_version": [
         "18",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -66056,7 +66257,7 @@
       "api_version": [
         "20",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         261,
@@ -66126,7 +66327,7 @@
       "api_version": [
         "15",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         349,
@@ -66196,7 +66397,7 @@
       "api_version": [
         "18",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         156,
@@ -66266,7 +66467,7 @@
       "api_version": [
         "14",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -66336,7 +66537,7 @@
       "api_version": [
         "19",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         135,
@@ -66406,7 +66607,7 @@
       "api_version": [
         "19",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         448,
@@ -66476,7 +66677,7 @@
       "api_version": [
         "29",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         262,
@@ -66546,7 +66747,7 @@
       "api_version": [
         "21",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         313,
@@ -66616,7 +66817,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         327,
@@ -66686,7 +66887,7 @@
       "api_version": [
         "10",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         153,
@@ -66756,7 +66957,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         345,
@@ -66826,7 +67027,7 @@
       "api_version": [
         "26",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -66896,7 +67097,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         178,
@@ -66966,7 +67167,7 @@
       "api_version": [
         "14",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -67036,7 +67237,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -67106,7 +67307,7 @@
       "api_version": [
         "18",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         279,
@@ -67176,7 +67377,7 @@
       "api_version": [
         "13",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         331,
@@ -67246,7 +67447,7 @@
       "api_version": [
         "21",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         363,
@@ -67316,7 +67517,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         214,
@@ -67386,7 +67587,7 @@
       "api_version": [
         "14",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -67456,7 +67657,7 @@
       "api_version": [
         "12",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         193,
@@ -67526,7 +67727,7 @@
       "api_version": [
         "34",
         "24",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -67596,7 +67797,7 @@
       "api_version": [
         "47",
         "27",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -67666,7 +67867,7 @@
       "api_version": [
         "34",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         330,
@@ -67736,7 +67937,7 @@
       "api_version": [
         "42",
         "26",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -67806,7 +68007,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         369,
@@ -67876,7 +68077,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -67946,7 +68147,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -68016,7 +68217,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -68086,7 +68287,7 @@
       "api_version": [
         "14",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         327,
@@ -68156,7 +68357,7 @@
       "api_version": [
         "20",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -68226,7 +68427,7 @@
       "api_version": [
         "11",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         229,
@@ -68296,7 +68497,7 @@
       "api_version": [
         "10",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -68366,7 +68567,7 @@
       "api_version": [
         "39",
         "37",
-        "327"
+        "422"
       ],
       "api_weda": [
         246,
@@ -68436,7 +68637,7 @@
       "api_version": [
         "23",
         "42",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -68505,8 +68706,8 @@
       "api_sortno": 1344,
       "api_version": [
         "44",
-        "40",
-        "327"
+        "41",
+        "422"
       ],
       "api_weda": [
         123,
@@ -68576,7 +68777,7 @@
       "api_version": [
         "24",
         "27",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -68646,7 +68847,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -68716,7 +68917,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -68786,7 +68987,7 @@
       "api_version": [
         "12",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         480,
@@ -68856,7 +69057,7 @@
       "api_version": [
         "14",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         208,
@@ -68926,7 +69127,7 @@
       "api_version": [
         "15",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         279,
@@ -68996,7 +69197,7 @@
       "api_version": [
         "11",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         231,
@@ -69066,7 +69267,7 @@
       "api_version": [
         "13",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         297,
@@ -69136,7 +69337,7 @@
       "api_version": [
         "7",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         100,
@@ -69206,7 +69407,7 @@
       "api_version": [
         "25",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -69276,7 +69477,7 @@
       "api_version": [
         "28",
         "20",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -69346,7 +69547,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         466,
@@ -69416,7 +69617,7 @@
       "api_version": [
         "12",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         208,
@@ -69486,7 +69687,7 @@
       "api_version": [
         "14",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         201,
@@ -69556,7 +69757,7 @@
       "api_version": [
         "10",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         256,
@@ -69626,7 +69827,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         226,
@@ -69696,7 +69897,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         375,
@@ -69766,7 +69967,7 @@
       "api_version": [
         "23",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         295,
@@ -69836,7 +70037,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         286,
@@ -69906,7 +70107,7 @@
       "api_version": [
         "4",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         328,
@@ -69976,7 +70177,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         246,
@@ -70046,7 +70247,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         147,
@@ -70116,7 +70317,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -70186,7 +70387,7 @@
       "api_version": [
         "14",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         223,
@@ -70256,7 +70457,7 @@
       "api_version": [
         "10",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         267,
@@ -70326,7 +70527,7 @@
       "api_version": [
         "8",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         267,
@@ -70396,7 +70597,7 @@
       "api_version": [
         "17",
         "24",
-        "327"
+        "422"
       ],
       "api_weda": [
         156,
@@ -70466,7 +70667,7 @@
       "api_version": [
         "18",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         399,
@@ -70536,7 +70737,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         205,
@@ -70606,7 +70807,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         232,
@@ -70676,7 +70877,7 @@
       "api_version": [
         "18",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         360,
@@ -70746,7 +70947,7 @@
       "api_version": [
         "16",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         352,
@@ -70816,7 +71017,7 @@
       "api_version": [
         "16",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         297,
@@ -70886,7 +71087,7 @@
       "api_version": [
         "14",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         487,
@@ -70956,7 +71157,7 @@
       "api_version": [
         "22",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         346,
@@ -71026,7 +71227,7 @@
       "api_version": [
         "15",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         438,
@@ -71096,7 +71297,7 @@
       "api_version": [
         "23",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         444,
@@ -71166,7 +71367,7 @@
       "api_version": [
         "25",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         408,
@@ -71236,7 +71437,7 @@
       "api_version": [
         "9",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         318,
@@ -71306,7 +71507,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         379,
@@ -71376,7 +71577,7 @@
       "api_version": [
         "9",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         441,
@@ -71446,7 +71647,7 @@
       "api_version": [
         "38",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         436,
@@ -71516,7 +71717,7 @@
       "api_version": [
         "33",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         439,
@@ -71586,7 +71787,7 @@
       "api_version": [
         "17",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         292,
@@ -71656,7 +71857,7 @@
       "api_version": [
         "15",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         195,
@@ -71726,7 +71927,7 @@
       "api_version": [
         "15",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         382,
@@ -71796,7 +71997,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         357,
@@ -71866,7 +72067,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         502,
@@ -71936,7 +72137,7 @@
       "api_version": [
         "21",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         325,
@@ -72006,7 +72207,7 @@
       "api_version": [
         "18",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         210,
@@ -72076,7 +72277,7 @@
       "api_version": [
         "13",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -72146,7 +72347,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         372,
@@ -72216,7 +72417,7 @@
       "api_version": [
         "24",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         447,
@@ -72286,7 +72487,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         307,
@@ -72356,7 +72557,7 @@
       "api_version": [
         "17",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         261,
@@ -72426,7 +72627,7 @@
       "api_version": [
         "26",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         162,
@@ -72496,7 +72697,7 @@
       "api_version": [
         "13",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         223,
@@ -72566,7 +72767,7 @@
       "api_version": [
         "61",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -72636,7 +72837,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         435,
@@ -72706,7 +72907,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         130,
@@ -72776,7 +72977,7 @@
       "api_version": [
         "11",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         313,
@@ -72846,7 +73047,7 @@
       "api_version": [
         "23",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         135,
@@ -72916,7 +73117,7 @@
       "api_version": [
         "25",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         223,
@@ -72986,7 +73187,7 @@
       "api_version": [
         "13",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -73056,7 +73257,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -73126,7 +73327,7 @@
       "api_version": [
         "32",
         "22",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -73196,7 +73397,7 @@
       "api_version": [
         "22",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -73266,7 +73467,7 @@
       "api_version": [
         "11",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -73406,7 +73607,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -73476,7 +73677,7 @@
       "api_version": [
         "21",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -73546,7 +73747,7 @@
       "api_version": [
         "22",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -73616,7 +73817,7 @@
       "api_version": [
         "16",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -73686,7 +73887,7 @@
       "api_version": [
         "9",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -73756,7 +73957,7 @@
       "api_version": [
         "39",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -73826,7 +74027,7 @@
       "api_version": [
         "14",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         0,
@@ -73896,7 +74097,7 @@
       "api_version": [
         "26",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         120,
@@ -73966,7 +74167,7 @@
       "api_version": [
         "9",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         318,
@@ -74036,7 +74237,7 @@
       "api_version": [
         "17",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -74106,7 +74307,7 @@
       "api_version": [
         "15",
         "18",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -74176,7 +74377,7 @@
       "api_version": [
         "30",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -74246,7 +74447,7 @@
       "api_version": [
         "27",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -74316,7 +74517,7 @@
       "api_version": [
         "17",
         "15",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -74386,7 +74587,7 @@
       "api_version": [
         "17",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         276,
@@ -74456,7 +74657,7 @@
       "api_version": [
         "17",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -74526,7 +74727,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         220,
@@ -74666,7 +74867,7 @@
       "api_version": [
         "9",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -75296,7 +75497,7 @@
       "api_version": [
         "19",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -75366,7 +75567,7 @@
       "api_version": [
         "26",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -75436,7 +75637,7 @@
       "api_version": [
         "27",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         108,
@@ -75506,7 +75707,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -75576,7 +75777,7 @@
       "api_version": [
         "25",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         132,
@@ -75646,7 +75847,7 @@
       "api_version": [
         "54",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -75716,7 +75917,7 @@
       "api_version": [
         "25",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         366,
@@ -75786,7 +75987,7 @@
       "api_version": [
         "16",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         138,
@@ -75856,7 +76057,7 @@
       "api_version": [
         "24",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -75925,8 +76126,8 @@
       "api_sortno": 1432,
       "api_version": [
         "13",
-        "16",
-        "327"
+        "17",
+        "422"
       ],
       "api_weda": [
         204,
@@ -75996,7 +76197,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         423,
@@ -76066,7 +76267,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         255,
@@ -76136,7 +76337,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -76206,7 +76407,7 @@
       "api_version": [
         "26",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -76276,7 +76477,7 @@
       "api_version": [
         "5",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         306,
@@ -76346,7 +76547,7 @@
       "api_version": [
         "8",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -76416,7 +76617,7 @@
       "api_version": [
         "11",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         72,
@@ -76486,7 +76687,7 @@
       "api_version": [
         "7",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -76556,7 +76757,7 @@
       "api_version": [
         "5",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -76626,7 +76827,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         150,
@@ -76696,7 +76897,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -76766,7 +76967,7 @@
       "api_version": [
         "5",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -76836,7 +77037,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         210,
@@ -76906,7 +77107,7 @@
       "api_version": [
         "7",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         120,
@@ -76976,7 +77177,7 @@
       "api_version": [
         "1",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -77046,7 +77247,7 @@
       "api_version": [
         "11",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -77116,7 +77317,7 @@
       "api_version": [
         "13",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -77186,7 +77387,7 @@
       "api_version": [
         "2",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -77256,7 +77457,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -77326,7 +77527,7 @@
       "api_version": [
         "26",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         330,
@@ -77396,7 +77597,7 @@
       "api_version": [
         "12",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         132,
@@ -77466,7 +77667,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         270,
@@ -77536,7 +77737,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         96,
@@ -77606,7 +77807,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         138,
@@ -77676,7 +77877,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -77746,7 +77947,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         102,
@@ -77816,7 +78017,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -77829,32 +78030,32 @@
     },
     {
       "api_battle_d": [
-        270,
-        66
+        175,
+        148
       ],
       "api_battle_n": [
-        186,
-        108
+        301,
+        232
       ],
       "api_boko_d": [
-        264,
-        72
+        160,
+        190
       ],
       "api_boko_n": [
-        186,
-        108
+        301,
+        262
       ],
       "api_ensyue_n": [
-        156,
+        268,
         0
       ],
       "api_ensyuf_d": [
-        252,
-        42
+        160,
+        106
       ],
       "api_ensyuf_n": [
-        156,
-        72
+        289,
+        205
       ],
       "api_filename": "glvwrolqeexv",
       "api_id": 383,
@@ -77867,34 +78068,34 @@
         -27
       ],
       "api_kaizo_d": [
-        216,
-        -42
+        142,
+        46
       ],
       "api_kaizo_n": [
-        126,
-        6
+        276,
+        130
       ],
       "api_map_d": [
-        246,
-        48
+        189,
+        136
       ],
       "api_map_n": [
-        156,
-        72
+        313,
+        213
       ],
       "api_sortno": 1463,
       "api_version": [
-        "59",
+        "60",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
-        216,
-        144
+        37,
+        -21
       ],
       "api_wedb": [
-        132,
-        168
+        147,
+        175
       ]
     },
     {
@@ -77956,7 +78157,7 @@
       "api_version": [
         "62",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         127,
@@ -78026,7 +78227,7 @@
       "api_version": [
         "61",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -78096,7 +78297,7 @@
       "api_version": [
         "62",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         60,
@@ -78166,7 +78367,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         126,
@@ -78236,7 +78437,7 @@
       "api_version": [
         "10",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -78306,7 +78507,7 @@
       "api_version": [
         "17",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         204,
@@ -78376,7 +78577,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         576,
@@ -78446,7 +78647,7 @@
       "api_version": [
         "2",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -78516,7 +78717,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         174,
@@ -78586,7 +78787,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         309,
@@ -78656,7 +78857,7 @@
       "api_version": [
         "57",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         270,
@@ -78726,7 +78927,7 @@
       "api_version": [
         "2",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         339,
@@ -78796,7 +78997,7 @@
       "api_version": [
         "4",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         372,
@@ -78866,7 +79067,7 @@
       "api_version": [
         "3",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         397,
@@ -78936,7 +79137,7 @@
       "api_version": [
         "12",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         241,
@@ -79006,7 +79207,7 @@
       "api_version": [
         "8",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         235,
@@ -79076,7 +79277,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         72,
@@ -79146,7 +79347,7 @@
       "api_version": [
         "13",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         255,
@@ -79216,7 +79417,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         276,
@@ -79286,7 +79487,7 @@
       "api_version": [
         "25",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -79356,7 +79557,7 @@
       "api_version": [
         "2",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -79426,7 +79627,7 @@
       "api_version": [
         "42",
         "26",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -79496,7 +79697,7 @@
       "api_version": [
         "4",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -79566,7 +79767,7 @@
       "api_version": [
         "9",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         318,
@@ -79636,7 +79837,7 @@
       "api_version": [
         "17",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -79706,7 +79907,7 @@
       "api_version": [
         "38",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         348,
@@ -79776,7 +79977,7 @@
       "api_version": [
         "33",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         480,
@@ -79846,7 +80047,7 @@
       "api_version": [
         "30",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -79916,7 +80117,7 @@
       "api_version": [
         "27",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -79986,7 +80187,7 @@
       "api_version": [
         "17",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -80056,7 +80257,7 @@
       "api_version": [
         "23",
         "16",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -80126,7 +80327,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -80196,7 +80397,7 @@
       "api_version": [
         "2",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -80266,7 +80467,7 @@
       "api_version": [
         "8",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -80336,7 +80537,7 @@
       "api_version": [
         "24",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -80406,7 +80607,7 @@
       "api_version": [
         "17",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         276,
@@ -80476,7 +80677,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -80546,7 +80747,7 @@
       "api_version": [
         "5",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         306,
@@ -80616,7 +80817,7 @@
       "api_version": [
         "27",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         120,
@@ -80686,7 +80887,7 @@
       "api_version": [
         "26",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -80756,7 +80957,7 @@
       "api_version": [
         "27",
         "17",
-        "327"
+        "422"
       ],
       "api_weda": [
         190,
@@ -80826,7 +81027,7 @@
       "api_version": [
         "14",
         "25",
-        "327"
+        "422"
       ],
       "api_weda": [
         432,
@@ -80896,7 +81097,7 @@
       "api_version": [
         "14",
         "24",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -80966,7 +81167,7 @@
       "api_version": [
         "17",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -81036,7 +81237,7 @@
       "api_version": [
         "9",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         316,
@@ -81106,7 +81307,7 @@
       "api_version": [
         "9",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -81176,7 +81377,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         423,
@@ -81246,7 +81447,7 @@
       "api_version": [
         "2",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -81316,7 +81517,7 @@
       "api_version": [
         "25",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         144,
@@ -81386,7 +81587,7 @@
       "api_version": [
         "28",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -81456,7 +81657,7 @@
       "api_version": [
         "16",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -81526,7 +81727,7 @@
       "api_version": [
         "3",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -81596,7 +81797,7 @@
       "api_version": [
         "2",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -81666,7 +81867,7 @@
       "api_version": [
         "5",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -81736,7 +81937,7 @@
       "api_version": [
         "7",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -81806,7 +82007,7 @@
       "api_version": [
         "27",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         345,
@@ -81876,7 +82077,7 @@
       "api_version": [
         "21",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         396,
@@ -81946,7 +82147,7 @@
       "api_version": [
         "25",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         132,
@@ -82016,7 +82217,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         210,
@@ -82086,7 +82287,7 @@
       "api_version": [
         "20",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         190,
@@ -82156,7 +82357,7 @@
       "api_version": [
         "27",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         345,
@@ -82226,7 +82427,7 @@
       "api_version": [
         "21",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         435,
@@ -82296,7 +82497,7 @@
       "api_version": [
         "8",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -82366,7 +82567,7 @@
       "api_version": [
         "5",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -82436,7 +82637,7 @@
       "api_version": [
         "20",
         "13",
-        "327"
+        "422"
       ],
       "api_weda": [
         190,
@@ -82506,7 +82707,7 @@
       "api_version": [
         "54",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         384,
@@ -82576,7 +82777,7 @@
       "api_version": [
         "11",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         72,
@@ -82646,7 +82847,7 @@
       "api_version": [
         "25",
         "9",
-        "327"
+        "422"
       ],
       "api_weda": [
         366,
@@ -82716,7 +82917,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         255,
@@ -82786,7 +82987,7 @@
       "api_version": [
         "8",
         "8",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -82856,7 +83057,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         150,
@@ -82926,7 +83127,7 @@
       "api_version": [
         "13",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -82996,7 +83197,7 @@
       "api_version": [
         "16",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         138,
@@ -83066,7 +83267,7 @@
       "api_version": [
         "24",
         "11",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -83135,8 +83336,8 @@
       "api_sortno": 260,
       "api_version": [
         "13",
-        "16",
-        "327"
+        "17",
+        "422"
       ],
       "api_weda": [
         204,
@@ -83206,7 +83407,7 @@
       "api_version": [
         "17",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         336,
@@ -83276,7 +83477,7 @@
       "api_version": [
         "17",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -83346,7 +83547,7 @@
       "api_version": [
         "12",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         210,
@@ -83416,7 +83617,7 @@
       "api_version": [
         "6",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -83486,7 +83687,7 @@
       "api_version": [
         "26",
         "10",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -83556,7 +83757,7 @@
       "api_version": [
         "17",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         336,
@@ -83626,7 +83827,7 @@
       "api_version": [
         "17",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         228,
@@ -83696,7 +83897,7 @@
       "api_version": [
         "12",
         "14",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -83766,7 +83967,7 @@
       "api_version": [
         "24",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -83836,7 +84037,7 @@
       "api_version": [
         "6",
         "6",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -83906,7 +84107,7 @@
       "api_version": [
         "6",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         324,
@@ -83976,7 +84177,7 @@
       "api_version": [
         "2",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -84046,7 +84247,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -84116,7 +84317,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -84186,7 +84387,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         126,
@@ -84256,7 +84457,7 @@
       "api_version": [
         "6",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         324,
@@ -84326,7 +84527,7 @@
       "api_version": [
         "19",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -84396,7 +84597,7 @@
       "api_version": [
         "19",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         354,
@@ -84466,7 +84667,7 @@
       "api_version": [
         "10",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -84536,7 +84737,7 @@
       "api_version": [
         "17",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         204,
@@ -84606,7 +84807,7 @@
       "api_version": [
         "7",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         120,
@@ -84746,7 +84947,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         258,
@@ -84816,7 +85017,7 @@
       "api_version": [
         "55",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         129,
@@ -84886,7 +85087,7 @@
       "api_version": [
         "12",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         132,
@@ -84956,7 +85157,7 @@
       "api_version": [
         "11",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         216,
@@ -85026,7 +85227,7 @@
       "api_version": [
         "3",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         126,
@@ -85096,7 +85297,7 @@
       "api_version": [
         "26",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -85166,7 +85367,7 @@
       "api_version": [
         "15",
         "19",
-        "327"
+        "422"
       ],
       "api_weda": [
         186,
@@ -85236,7 +85437,7 @@
       "api_version": [
         "11",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         282,
@@ -85306,7 +85507,7 @@
       "api_version": [
         "26",
         "3",
-        "327"
+        "422"
       ],
       "api_weda": [
         330,
@@ -85376,7 +85577,7 @@
       "api_version": [
         "11",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         576,
@@ -85446,7 +85647,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -85516,7 +85717,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         120,
@@ -85586,7 +85787,7 @@
       "api_version": [
         "1",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         96,
@@ -85656,7 +85857,7 @@
       "api_version": [
         "8",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         432,
@@ -85726,7 +85927,7 @@
       "api_version": [
         "39",
         "37",
-        "327"
+        "422"
       ],
       "api_weda": [
         256,
@@ -85795,8 +85996,8 @@
       "api_sortno": 298,
       "api_version": [
         "44",
-        "40",
-        "327"
+        "41",
+        "422"
       ],
       "api_weda": [
         123,
@@ -85866,7 +86067,7 @@
       "api_version": [
         "14",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         276,
@@ -85936,7 +86137,7 @@
       "api_version": [
         "14",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         141,
@@ -86006,7 +86207,7 @@
       "api_version": [
         "57",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         318,
@@ -86076,7 +86277,7 @@
       "api_version": [
         "57",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         186,
@@ -86146,7 +86347,7 @@
       "api_version": [
         "57",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -86216,7 +86417,7 @@
       "api_version": [
         "57",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         168,
@@ -86286,7 +86487,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -86356,7 +86557,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         474,
@@ -86426,7 +86627,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         390,
@@ -86496,7 +86697,7 @@
       "api_version": [
         "52",
         "4",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -86566,7 +86767,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         309,
@@ -86636,7 +86837,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         138,
@@ -86706,7 +86907,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -86776,7 +86977,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         174,
@@ -86846,7 +87047,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         102,
@@ -86859,32 +87060,32 @@
     },
     {
       "api_battle_d": [
-        270,
-        66
+        175,
+        148
       ],
       "api_battle_n": [
-        228,
-        66
+        301,
+        232
       ],
       "api_boko_d": [
-        264,
-        72
+        160,
+        190
       ],
       "api_boko_n": [
-        276,
-        84
+        301,
+        262
       ],
       "api_ensyue_n": [
-        228,
+        268,
         0
       ],
       "api_ensyuf_d": [
-        252,
-        42
+        160,
+        106
       ],
       "api_ensyuf_n": [
-        228,
-        54
+        289,
+        205
       ],
       "api_filename": "lupcrslexuxo",
       "api_id": 524,
@@ -86897,34 +87098,34 @@
         -21
       ],
       "api_kaizo_d": [
-        216,
-        -42
+        142,
+        46
       ],
       "api_kaizo_n": [
-        204,
-        -36
+        276,
+        130
       ],
       "api_map_d": [
-        246,
-        48
+        189,
+        136
       ],
       "api_map_n": [
-        228,
-        54
+        313,
+        213
       ],
       "api_sortno": 334,
       "api_version": [
-        "59",
+        "60",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
-        108,
-        144
+        37,
+        -21
       ],
       "api_wedb": [
-        150,
-        168
+        147,
+        175
       ]
     },
     {
@@ -86986,7 +87187,7 @@
       "api_version": [
         "62",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         127,
@@ -87056,7 +87257,7 @@
       "api_version": [
         "51",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         102,
@@ -87126,7 +87327,7 @@
       "api_version": [
         "54",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         274,
@@ -87196,7 +87397,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -87266,7 +87467,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         102,
@@ -87336,7 +87537,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         144,
@@ -87406,7 +87607,7 @@
       "api_version": [
         "61",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         240,
@@ -87476,7 +87677,7 @@
       "api_version": [
         "53",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         246,
@@ -87546,7 +87747,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -87616,7 +87817,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         144,
@@ -87686,7 +87887,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         159,
@@ -87756,7 +87957,7 @@
       "api_version": [
         "53",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         300,
@@ -87826,7 +88027,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         174,
@@ -87896,7 +88097,7 @@
       "api_version": [
         "62",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         60,
@@ -87966,7 +88167,7 @@
       "api_version": [
         "54",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         450,
@@ -88036,7 +88237,7 @@
       "api_version": [
         "57",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         147,
@@ -88106,7 +88307,7 @@
       "api_version": [
         "61",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -88176,7 +88377,7 @@
       "api_version": [
         "57",
         "7",
-        "327"
+        "422"
       ],
       "api_weda": [
         270,
@@ -88246,7 +88447,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -88316,7 +88517,7 @@
       "api_version": [
         "51",
         "12",
-        "327"
+        "422"
       ],
       "api_weda": [
         576,
@@ -88386,7 +88587,7 @@
       "api_version": [
         "55",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -88456,7 +88657,7 @@
       "api_version": [
         "51",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         270,
@@ -88526,7 +88727,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         339,
@@ -88596,7 +88797,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -88666,7 +88867,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         138,
@@ -88736,7 +88937,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -88806,7 +89007,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         559,
@@ -88876,7 +89077,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         396,
@@ -88946,7 +89147,7 @@
       "api_version": [
         "53",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -89016,7 +89217,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         312,
@@ -89086,7 +89287,7 @@
       "api_version": [
         "53",
         "5",
-        "327"
+        "422"
       ],
       "api_weda": [
         456,
@@ -89156,7 +89357,7 @@
       "api_version": [
         "55",
         "23",
-        "327"
+        "422"
       ],
       "api_weda": [
         270,
@@ -89226,7 +89427,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         214,
@@ -89296,7 +89497,7 @@
       "api_version": [
         "53",
         "21",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -89366,7 +89567,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -89436,7 +89637,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         373,
@@ -89506,7 +89707,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         249,
@@ -89576,7 +89777,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         393,
@@ -89646,7 +89847,7 @@
       "api_version": [
         "59",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         324,
@@ -89716,7 +89917,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         204,
@@ -89786,7 +89987,7 @@
       "api_version": [
         "55",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         264,
@@ -89856,7 +90057,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         277,
@@ -89926,7 +90127,7 @@
       "api_version": [
         "52",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         420,
@@ -89996,7 +90197,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         490,
@@ -90066,7 +90267,7 @@
       "api_version": [
         "54",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         403,
@@ -90136,7 +90337,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -90206,7 +90407,7 @@
       "api_version": [
         "52",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         420,
@@ -90276,7 +90477,7 @@
       "api_version": [
         "54",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         403,
@@ -90346,7 +90547,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         252,
@@ -90416,7 +90617,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         370,
@@ -90486,7 +90687,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         291,
@@ -90556,7 +90757,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         553,
@@ -90565,6 +90766,76 @@
       "api_wedb": [
         127,
         169
+      ]
+    },
+    {
+      "api_battle_d": [
+        -120,
+        189
+      ],
+      "api_battle_n": [
+        -88,
+        157
+      ],
+      "api_boko_d": [
+        -106,
+        214
+      ],
+      "api_boko_n": [
+        -181,
+        163
+      ],
+      "api_ensyue_n": [
+        -168,
+        0
+      ],
+      "api_ensyuf_d": [
+        -153,
+        154
+      ],
+      "api_ensyuf_n": [
+        -157,
+        139
+      ],
+      "api_filename": "hsqphprrvupr",
+      "api_id": 591,
+      "api_kaisyu_d": [
+        66,
+        -40
+      ],
+      "api_kaisyu_n": [
+        31,
+        -54
+      ],
+      "api_kaizo_d": [
+        -205,
+        82
+      ],
+      "api_kaizo_n": [
+        -186,
+        52
+      ],
+      "api_map_d": [
+        -123,
+        162
+      ],
+      "api_map_n": [
+        -136,
+        127
+      ],
+      "api_sortno": 391,
+      "api_version": [
+        "51",
+        "1",
+        "422"
+      ],
+      "api_weda": [
+        472,
+        33
+      ],
+      "api_wedb": [
+        126,
+        154
       ]
     },
     {
@@ -90626,7 +90897,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         144,
@@ -90696,7 +90967,7 @@
       "api_version": [
         "51",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         192,
@@ -90766,7 +91037,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         138,
@@ -90836,7 +91107,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         180,
@@ -90906,7 +91177,7 @@
       "api_version": [
         "55",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         129,
@@ -90976,7 +91247,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         294,
@@ -91046,7 +91317,7 @@
       "api_version": [
         "59",
         "2",
-        "327"
+        "422"
       ],
       "api_weda": [
         324,
@@ -91116,7 +91387,7 @@
       "api_version": [
         "54",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         274,
@@ -91186,7 +91457,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         291,
@@ -91256,7 +91527,7 @@
       "api_version": [
         "53",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         288,
@@ -91326,7 +91597,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         373,
@@ -91396,7 +91667,7 @@
       "api_version": [
         "51",
         "1",
-        "327"
+        "422"
       ],
       "api_weda": [
         370,
@@ -144362,6 +144633,18 @@
       "api_catapult_count": 0,
       "api_current_ship_id": 0,
       "api_drawing_count": 0,
+      "api_id": 78,
+      "api_original_ship_id": 78,
+      "api_report_count": 0,
+      "api_sortno": 21,
+      "api_upgrade_level": 0,
+      "api_upgrade_type": 1
+    },
+    {
+      "api_aviation_mat_count": 0,
+      "api_catapult_count": 0,
+      "api_current_ship_id": 0,
+      "api_drawing_count": 0,
       "api_id": 80,
       "api_original_ship_id": 80,
       "api_report_count": 0,
@@ -144660,6 +144943,18 @@
     {
       "api_aviation_mat_count": 0,
       "api_catapult_count": 0,
+      "api_current_ship_id": 209,
+      "api_drawing_count": 0,
+      "api_id": 149,
+      "api_original_ship_id": 78,
+      "api_report_count": 0,
+      "api_sortno": 149,
+      "api_upgrade_level": 2,
+      "api_upgrade_type": 1
+    },
+    {
+      "api_aviation_mat_count": 0,
+      "api_catapult_count": 0,
       "api_current_ship_id": 0,
       "api_drawing_count": 0,
       "api_id": 171,
@@ -144787,6 +145082,18 @@
       "api_report_count": 0,
       "api_sortno": 200,
       "api_upgrade_level": 2,
+      "api_upgrade_type": 1
+    },
+    {
+      "api_aviation_mat_count": 0,
+      "api_catapult_count": 0,
+      "api_current_ship_id": 78,
+      "api_drawing_count": 0,
+      "api_id": 209,
+      "api_original_ship_id": 78,
+      "api_report_count": 0,
+      "api_sortno": 1309,
+      "api_upgrade_level": 1,
       "api_upgrade_type": 1
     },
     {
@@ -145927,6 +146234,18 @@
       "api_report_count": 0,
       "api_sortno": 373,
       "api_upgrade_level": 2,
+      "api_upgrade_type": 1
+    },
+    {
+      "api_aviation_mat_count": 0,
+      "api_catapult_count": 0,
+      "api_current_ship_id": 149,
+      "api_drawing_count": 2,
+      "api_id": 591,
+      "api_original_ship_id": 78,
+      "api_report_count": 1,
+      "api_sortno": 391,
+      "api_upgrade_level": 3,
       "api_upgrade_type": 1
     }
   ],
@@ -165629,7 +165948,7 @@
     {
       "api_category": 0,
       "api_description": [
-        "最大保有艦娘数＋10(最大400)。最大保有アイテム数＋40(最大1720)。",
+        "最大保有艦娘数＋10(最大410)。最大保有アイテム数＋40(最大1760)。",
         ""
       ],
       "api_id": 53,
