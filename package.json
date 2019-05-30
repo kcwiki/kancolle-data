@@ -1,7 +1,7 @@
 {
   "name": "@kancolle/data",
   "description": "KanColle's api_start2 response",
-  "version": "2019.5.25",
+  "version": "2019.5.30",
   "main": "index.js",
   "repository": "kcwiki/kancolle-data",
   "license": "MIT",
