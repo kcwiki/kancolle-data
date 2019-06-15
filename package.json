@@ -1,15 +1,57 @@
 {
   "name": "@kancolle/data",
-  "description": "KanColle's api_start2 response",
-  "version": "2019.5.30",
-  "main": "index.js",
-  "repository": "kcwiki/kancolle-data",
-  "license": "MIT",
-  "files": [
-    "dist/api_start2.json",
-    "index.js"
-  ],
+  "version": "0.190615.0",
+  "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
-  ]
+  ],
+  "license": "MIT",
+  "author": "gakada (https://github.com/gakada)",
+  "contributors": [],
+  "homepage": "https://github.com/kcwiki/kancolle-data#readme",
+  "bugs": "https://github.com/kcwiki/kancolle-data/issues",
+  "repository": "kcwiki/kancolle-data",
+  "main": "index.js",
+  "files": [
+    "api",
+    "map",
+    "tl",
+    "index.js"
+  ],
+  "bin": {},
+  "scripts": {
+    "format": "prettier --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
+    "build": "sh build/external.sh && node build/gen-api && yarn format",
+    "lint": "eslint --fix .",
+    "test": "yarn format && yarn lint && tape test",
+    "up": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "tape": "^4.10.2"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:prettier/recommended"
+    ],
+    "parser": "babel-eslint"
+  },
+  "prettier": {
+    "printWidth": 150,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
 }

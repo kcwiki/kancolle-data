@@ -1,0 +1,22 @@
+{
+  "工作艦": "Repair Ship",
+  "戦艦": "Battleship",
+  "揚陸艦": "Amphibious Assault Ship",
+  "正規空母": "Standard Aircraft Carrier",
+  "水上機母艦": "Seaplane Tender",
+  "海防艦": "Coastal Defense Ship",
+  "潜水母艦": "Submarine Tender",
+  "潜水空母": "Aircraft Carrying Submarine",
+  "潜水艦": "Submarine",
+  "練習巡洋艦": "Training Cruiser",
+  "航空巡洋艦": "Aviation Cruiser",
+  "航空戦艦": "Aviation Battleship",
+  "装甲空母": "Armored Carrier",
+  "補給艦": "Fleet Oiler",
+  "超弩級戦艦": "Super Dreadnought",
+  "軽巡洋艦": "Light Cruiser",
+  "軽空母": "Light Carrier",
+  "重巡洋艦": "Heavy Cruiser",
+  "重雷装巡洋艦": "Torpedo Cruiser",
+  "駆逐艦": "Destroyer"
+}
