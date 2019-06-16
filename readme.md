@@ -40,7 +40,7 @@ api.getShip({ id: 1 }).api_name // '睦月'
 // same for getShipType, getEquipment, getEquipmentType, getItem
 ```
 
-See [JSON schema](https://github.com/kcwiki/kancolle-data/blob/master/doc/api_start2.schema.json) and [TypeScript typings](https://github.com/KagamiChan/kcsapi.ts/blob/master/api_start2/getData/response.ts) for `api_start2` structure.
+See [TypeScript typings](https://github.com/kcwiki/kancolle-data/blob/master/api/api_start2.ts) for `api_start2` structure.
 
 ### Translations
 
@@ -176,4 +176,19 @@ tlEquipmentType : function
 tlEquipmentTypeFromId : function
 tlItem : function
 tlItemFromId : function
+```
+
+## Updating
+
+To generate game API with [kancolle-browser](https://github.com/kcwiki/kancolle-browser):
+
+```sh
+yarn global add @kancolle/browser
+yarn build-api
+```
+
+To generate translations and map data from Wikia (via Poi) and KC3Kai sources:
+
+```sh
+yarn build-external
 ```

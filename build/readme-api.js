@@ -1,12 +1,11 @@
-const { writeFileSync } = require('fs')
 const { isArray } = require('lodash')
 
 const data = require('..')
 
 const typeOf = x => (isArray(x) ? 'array' : typeof x)
 
-writeFileSync(
-  `${__dirname}/../doc/api`,
+// eslint-disable-next-line no-console
+console.log(
   Object.keys(data)
     .map(
       key =>
