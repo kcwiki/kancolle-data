@@ -96,7 +96,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
@@ -164,25 +164,26 @@ export interface APIMstShip {
 }
 
 export interface APIMstShipgraph {
-  api_battle_d: number[]
-  api_battle_n: number[]
-  api_boko_d: number[]
-  api_boko_n: number[]
-  api_ensyue_n: number[]
-  api_ensyuf_d: number[]
-  api_ensyuf_n: number[]
+  api_battle_d?: number[]
+  api_battle_n?: number[]
+  api_boko_d?: number[]
+  api_boko_n?: number[]
+  api_ensyue_n?: number[]
+  api_ensyuf_d?: number[]
+  api_ensyuf_n?: number[]
   api_filename: string
   api_id: number
-  api_kaisyu_d: number[]
-  api_kaisyu_n: number[]
-  api_kaizo_d: number[]
-  api_kaizo_n: number[]
-  api_map_d: number[]
-  api_map_n: number[]
-  api_sortno: number
+  api_kaisyu_d?: number[]
+  api_kaisyu_n?: number[]
+  api_kaizo_d?: number[]
+  api_kaizo_n?: number[]
+  api_map_d?: number[]
+  api_map_n?: number[]
+  api_pa?: number[]
+  api_sortno?: number
   api_version: string[]
-  api_weda: number[]
-  api_wedb: number[]
+  api_weda?: number[]
+  api_wedb?: number[]
 }
 
 export interface APIMstShipupgrade {
@@ -209,7 +210,6 @@ export interface APIMstSlotitem {
   api_houk: number
   api_houm: number
   api_id: number
-  api_info: string
   api_leng: number
   api_luck: number
   api_name: string
