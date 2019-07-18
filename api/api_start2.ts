@@ -105,6 +105,7 @@ export interface APIMstMapinfo {
 }
 
 export interface APIMstMission {
+  api_damage_type: number
   api_deck_num: number
   api_details: string
   api_difficulty: number
@@ -112,12 +113,15 @@ export interface APIMstMission {
   api_id: number
   api_maparea_id: number
   api_name: string
+  api_reset_type: number
   api_return_flag: number
+  api_sample_fleet: number[]
   api_time: number
   api_use_bull: number
   api_use_fuel: number
   api_win_item1: number[]
   api_win_item2: number[]
+  api_win_mat_level: number[]
 }
 
 export interface APIMstPayitem {
