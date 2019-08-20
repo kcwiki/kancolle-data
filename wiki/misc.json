@@ -1,0 +1,1134 @@
+{
+  "EquipmentCompatibility": {
+    "1": {
+      "1": 1,
+      "12": 1,
+      "14": 1,
+      "15": 1,
+      "21": 1,
+      "23": 1,
+      "36": 1,
+      "37": 1,
+      "39": 1,
+      "43": 1
+    },
+    "2": {
+      "1": 1,
+      "5": 1,
+      "12": 1,
+      "13": {
+        "code": "Kasumi Kai Ni B",
+        "note": "Kasumi Kai Ni B only",
+        "value": 2
+      },
+      "14": 1,
+      "15": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "24": {
+        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Michishio Kai Ni, Makigumo Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
+        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Michishio Kai Ni, Makigumo Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
+        "value": 2
+      },
+      "27": {
+        "code": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni,Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Yuugumo Kai Ni, Verniy",
+        "note": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Yuugumo Kai Ni and Verniy only",
+        "value": 2
+      },
+      "29": 1,
+      "30": 1,
+      "33": 1,
+      "34": {
+        "code": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Yuugumo Kai Ni, Umikaze Kai Ni",
+        "note": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Yuugumo Kai Ni and Umikaze Kai Ni only",
+        "value": 2
+      },
+      "36": 1,
+      "37": 1,
+      "39": 1,
+      "43": 1,
+      "46": {
+        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kazagumo Kai Ni, Kuroshio Kai Ni, Michishio Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni, Verniy",
+        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kazagumo Kai Ni, Kuroshio Kai Ni, Michishio Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni and Verniy only",
+        "value": 2
+      }
+    },
+    "3": {
+      "1": 1,
+      "2": 1,
+      "4": {
+        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni",
+        "note": "Excluding Tatsuta Kai Ni and Tenryuu Kai Ni",
+        "value": 2
+      },
+      "5": 1,
+      "10": {
+        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni",
+        "note": "Excluding Tatsuta Kai Ni and Tenryuu Kai Ni",
+        "value": 2
+      },
+      "11": {
+        "code": "Agano Kai, Gotland, Gotland Kai, Noshiro Kai, Sakawa Kai, Tama Kai Ni, Yahagi Kai, Yura Kai Ni",
+        "note": "Agano Kai, Gotland, Gotland Kai, Noshiro Kai, Sakawa Kai, Tama Kai Ni, Yahagi Kai and Yura Kai Ni only",
+        "value": 2
+      },
+      "12": 1,
+      "13": {
+        "code": "CL excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni",
+        "note": "Excluding Gotland, Tatsuta Kai Ni and Tenryuu Kai Ni",
+        "value": 2
+      },
+      "14": 1,
+      "15": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "22": {
+        "code": "Abukuma Kai Ni, Yura Kai Ni",
+        "note": "Abukuma Kai Ni and Yura Kai Ni only",
+        "value": 2
+      },
+      "23": 1,
+      "24": {
+        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni",
+        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni and Yura Kai Ni only",
+        "value": 2
+      },
+      "25": {
+        "code": "Gotland, Tama Kai Ni, Tatsuta Kai Ni, Tenryuu Kai Ni, Gotland",
+        "note": "Gotland, Tama Kai Ni, Tatsuta Kai Ni and Tenryuu Kai Ni only",
+        "value": 2
+      },
+      "27": {
+        "code": "Agano Kai, Gotland Kai , Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai",
+        "note": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni and Yahagi Kai only",
+        "value": 2
+      },
+      "29": 1,
+      "30": 1,
+      "33": 1,
+      "34": 1,
+      "35": {
+        "code": "Gotland, Gotland Kai, Tama Kai Ni, Yura Kai Ni",
+        "note": "Gotland and Gotland Kai, Tama Kai Ni and Yura Kai Ni only",
+        "value": 2
+      },
+      "36": 1,
+      "37": 1,
+      "39": 1,
+      "42": {
+        "code": "Gotland Kai, Tenryuu Kai Ni",
+        "note": "Gotland Kai and Tenryuu Kai Ni only",
+        "value": 2
+      },
+      "43": 1,
+      "45": {
+        "code": "Tama Kai Ni, Yura Kai Ni",
+        "note": "Tama Kai Ni and Yura Kai Ni only",
+        "value": 2
+      },
+      "46": {
+        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni",
+        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni and Yura Kai Ni only",
+        "value": 2
+      }
+    },
+    "4": {
+      "1": 1,
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "22": 1,
+      "23": 1,
+      "27": {
+        "code": "Kiso Kai Ni",
+        "note": "Kiso Kai Ni only",
+        "value": 2
+      },
+      "33": 1,
+      "34": 1,
+      "36": 1,
+      "39": 1,
+      "43": 1
+    },
+    "5": {
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "10": 1,
+      "11": {
+        "code": "Pola Kai, Zara Kai, Zara due",
+        "note": "Pola Kai, Zara Kai and Zara due only",
+        "value": 2
+      },
+      "12": 1,
+      "13": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "27": 1,
+      "29": 1,
+      "33": 1,
+      "34": 1,
+      "35": {
+        "code": "Zara due",
+        "note": "Zara due only",
+        "value": 2
+      },
+      "36": 1,
+      "39": 1,
+      "40": 1,
+      "42": {
+        "code": "Zara due",
+        "note": "Zara due only",
+        "value": 2
+      },
+      "43": 1,
+      "45": {
+        "code": "Pola Kai, Zara Kai, Zara due",
+        "note": "Pola Kai, Zara Kai and Zara due only",
+        "value": 2
+      }
+    },
+    "6": {
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "25": 1,
+      "27": 1,
+      "29": 1,
+      "30": 1,
+      "33": 1,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "37": 1,
+      "39": 1,
+      "40": 1,
+      "43": 1,
+      "45": 1,
+      "50": 1
+    },
+    "7": {
+      "4": 1,
+      "6": 1,
+      "7": 1,
+      "8": {
+        "code": "CVL excluding Kasuga Maru",
+        "note": "Excluding Kasuga Maru",
+        "value": 2
+      },
+      "9": {
+        "code": "CVL excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou, Shinyou Kai",
+        "note": "Excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "value": 2
+      },
+      "12": 1,
+      "13": {
+        "code": "CVL excluding Kasuga Maru",
+        "note": "Excluding Kasuga Maru",
+        "value": 2
+      },
+      "14": {
+        "code": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai, Shinyou Kai Ni",
+        "note": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai and Shinyou Kai Ni only",
+        "value": 2
+      },
+      "15": {
+        "code": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai, Shinyou Kai Ni",
+        "note": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai and Shinyou Kai Ni only",
+        "value": 2
+      },
+      "16": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "25": {
+        "code": "CVL excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou, Shinyou Kai",
+        "note": "Excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "value": 2
+      },
+      "26": {
+        "code": "CVL excluding Kasuga Maru, Taiyou, Shinyou",
+        "note": "Excluding Kasuga Maru, Taiyou and Shinyou",
+        "value": 2
+      },
+      "27": 1,
+      "34": {
+        "code": "CVL excluding Kasuga Maru",
+        "note": "Excluding Kasuga Maru",
+        "value": 2
+      },
+      "35": 1,
+      "36": 1,
+      "40": {
+        "code": "CVL excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "note": "Excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "value": 2
+      },
+      "43": 1,
+      "50": 1
+    },
+    "8": {
+      "3": 1,
+      "4": 1,
+      "5": {
+        "code": "Bismarck drei, Kongou Kai Ni C",
+        "note": "Bismarck drei and Kongou Kai Ni C only",
+        "value": 2
+      },
+      "10": 1,
+      "11": {
+        "code": "Italia, Roma Kai, Kongou Kai Ni C",
+        "note": "Italia, Roma Kai, and Kongou Kai Ni C only",
+        "value": 2
+      },
+      "12": 1,
+      "13": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "28": 1,
+      "29": 1,
+      "33": 1,
+      "34": 1,
+      "36": 1,
+      "37": {
+        "code": "Kongou Kai Ni C",
+        "note": "Kongou Kai Ni C only",
+        "value": 2
+      },
+      "39": 1,
+      "40": 1,
+      "42": 1,
+      "43": 1,
+      "45": {
+        "code": "Italia, Roma Kai",
+        "note": "Italia and Roma Kai only",
+        "value": 2
+      },
+      "93": 1,
+      "Laté 298B": {
+        "code": "Italia, Roma Kai, Kongou Kai Ni C, Richelieu Kai",
+        "note": "Italia, Roma Kai, Kongou Kai Ni C, and Richelieu Kai only",
+        "value": 2
+      }
+    },
+    "9": {
+      "1": {
+        "code": "Nagato Kai Ni",
+        "note": "Nagato Kai Ni only",
+        "value": 2
+      },
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "10": 1,
+      "12": 1,
+      "13": 1,
+      "14": {
+        "code": "Musashi Kai Ni",
+        "note": "Musashi Kai Ni only",
+        "value": 2
+      },
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "24": {
+        "code": "Nagato Kai Ni",
+        "note": "Nagato Kai Ni only",
+        "value": 2
+      },
+      "25": {
+        "code": "Musashi Kai Ni, Mutsu Kai Ni",
+        "note": "Musashi Kai Ni and Mutsu Kai Ni only",
+        "value": 2
+      },
+      "28": 1,
+      "29": 1,
+      "33": 1,
+      "34": 1,
+      "36": 1,
+      "37": {
+        "code": "Mutsu Kai Ni",
+        "note": "Mutsu Kai Ni only",
+        "value": 2
+      },
+      "38": {
+        "code": "Musashi, Musashi Kai, Musashi Kai Ni, Mutsu Kai, Mutsu Kai Ni, Nagato Kai, Nagato Kai Ni, Yamato, Yamato Kai",
+        "note": "Musashi, Musashi Kai, Musashi Kai Ni, Mutsu Kai, Mutsu Kai Ni, Nagato Kai, Nagato Kai Ni, Yamato and Yamato Kai only",
+        "value": 2
+      },
+      "39": 1,
+      "40": 1,
+      "42": 1,
+      "43": 1,
+      "45": {
+        "code": "Musashi Kai, Musashi Kai Ni, Mutsu Kai, Mutsu Kai Ni, Nagato Kai, Nagato Kai Ni, Yamato Kai",
+        "note": "Musashi Kai, Musashi Kai Ni, Mutsu Kai, Mutsu Kai Ni, Nagato Kai, Nagato Kai Ni and Yamato Kai only",
+        "value": 2
+      },
+      "46": {
+        "code": "Nagato Kai Ni, Mutsu Kai Ni",
+        "note": "Nagato Kai Ni and Mutsu Kai Ni only",
+        "value": 2
+      },
+      "93": 1
+    },
+    "10": {
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "6": {
+        "code": "Ise Kai Ni, Hyuuga Kai Ni",
+        "note": "Ise Kai Ni and Hyuuga Kai Ni only",
+        "value": 2
+      },
+      "7": {
+        "code": "Ise Kai Ni, Hyuuga Kai Ni",
+        "note": "Ise Kai Ni And Hyuuga Kai Ni only",
+        "value": 2
+      },
+      "9": {
+        "code": "Ise Kai Ni, Hyuuga Kai Ni",
+        "note": "Ise Kai Ni and Hyuuga Kai Ni only",
+        "value": 2
+      },
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": {
+        "code": "Hyuuga Kai Ni",
+        "note": "Hyuuga Kai Ni only",
+        "value": 2
+      },
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "25": 1,
+      "26": {
+        "code": "Ise Kai Ni, Hyuuga Kai Ni",
+        "note": "Ise Kai Ni and Hyuuga Kai Ni only",
+        "value": 2
+      },
+      "28": 1,
+      "29": 1,
+      "33": 1,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "37": {
+        "code": "BBV excluding Ise Kai Ni",
+        "note": "Excluding Ise Kai Ni and Hyuuga Kai Ni",
+        "value": 2
+      },
+      "39": 1,
+      "40": 1,
+      "42": 1,
+      "43": 1,
+      "45": 1,
+      "50": 1,
+      "93": 1
+    },
+    "11": {
+      "4": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "12": 1,
+      "13": 1,
+      "16": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "28": 1,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "40": 1,
+      "43": 1,
+      "50": 1
+    },
+    "12": [],
+    "13": {
+      "5": 1,
+      "14": 1,
+      "17": 1,
+      "21": {
+        "code": "I-504, UIT-25",
+        "note": "I-504 and UIT-25 only",
+        "value": 2
+      },
+      "22": {
+        "code": "SS excluding Luigi Torelli Kai, UIT-25",
+        "note": "Excluding Luigi Torelli Kai and UIT-25",
+        "value": 2
+      },
+      "23": 1,
+      "30": {
+        "code": "I-504, Luigi Torelli Kai, UIT-25",
+        "note": "I-504, Luigi Torelli Kai and UIT-25 only",
+        "value": 2
+      },
+      "32": 1,
+      "37": 1,
+      "43": 1,
+      "46": 1,
+      "50": {
+        "code": "I-504, Luigi Torelli Kai, UIT-25",
+        "note": "I-504, Luigi Torelli Kai and UIT-25 only",
+        "value": 2
+      },
+      "51": 1
+    },
+    "14": {
+      "5": 1,
+      "10": 1,
+      "11": 1,
+      "14": 1,
+      "17": 1,
+      "22": 1,
+      "23": 1,
+      "32": 1,
+      "37": 1,
+      "43": 1,
+      "45": 1,
+      "46": 1,
+      "50": 1,
+      "51": 1
+    },
+    "15": [],
+    "16": {
+      "1": 1,
+      "2": {
+        "code": "Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai, Nisshin A",
+        "note": "Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai and Nisshin A only",
+        "value": 2
+      },
+      "4": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": {
+        "code": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin Kai, Nisshin A",
+        "note": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin kai and Nisshin A only",
+        "value": 2
+      },
+      "15": {
+        "code": "AV excluding Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai, Nisshin A",
+        "note": "Excluding Commandant Teste,  Commandant Teste Kai, Nisshin, Nisshin Kai and Nisshin A",
+        "value": 2
+      },
+      "16": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "22": {
+        "code": "AV excluding Akitsushima, Akitsushima Kai, Commandant Teste, Commandant Teste Kai",
+        "note": "Excluding Akitsushima, Akitsushima Kai, Commandant Teste and Commandant Teste Kai",
+        "value": 2
+      },
+      "23": 1,
+      "24": {
+        "code": "AV excluding Akitsushima, Commandant Teste",
+        "note": "Excluding Akitsushima and Commandant Teste",
+        "value": 2
+      },
+      "25": {
+        "code": "Commandant Teste, Commandant Teste Kai, Nisshin Kai, Nisshin A",
+        "note": "Commandant Teste, Commandant Teste Kai, Nisshin Kai and Nisshin A only",
+        "value": 2
+      },
+      "27": 1,
+      "29": 1,
+      "30": 1,
+      "33": 1,
+      "34": 1,
+      "35": {
+        "code": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai, Nisshin A",
+        "note": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai and Nisshin A  only",
+        "value": 2
+      },
+      "36": 1,
+      "37": {
+        "code": "AV excluding Akitsushima",
+        "note": "Excluding Akitsushima",
+        "value": 2
+      },
+      "39": 1,
+      "40": {
+        "code": "AV excluding Nisshin",
+        "note": "Excluding Nisshin",
+        "value": 2
+      },
+      "41": {
+        "code": "Akitsushima, Akitsushima Kai, Nisshin Kai, Nisshin A",
+        "note": "Akitsushima, Akitsushima Kai, Nisshin Kai and Nisshin A only",
+        "value": 2
+      },
+      "42": {
+        "code": "Commandant Teste, Commandant Teste Kai, Nisshin A",
+        "note": "Commandant Teste, Commandant Teste Kai and Nisshin A only",
+        "value": 2
+      },
+      "43": 1,
+      "45": 1,
+      "46": {
+        "code": "AV excluding Akitsushima, Commandant Teste, Nisshin",
+        "note": "Excluding Akitsushima, Commandant Teste and Nisshin",
+        "value": 2
+      },
+      "50": 1
+    },
+    "17": {
+      "1": 1,
+      "4": 1,
+      "6": 1,
+      "12": 1,
+      "15": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "24": 1,
+      "25": 1,
+      "26": 1,
+      "30": 1,
+      "34": 1,
+      "36": 1,
+      "37": 1,
+      "40": 1,
+      "43": 1,
+      "46": 1,
+      "50": 1
+    },
+    "18": {
+      "4": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "12": 1,
+      "13": 1,
+      "16": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "28": 1,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "40": 1,
+      "43": 1,
+      "50": 1,
+      "56": {
+        "code": "Shoukaku Kai Ni A, Zuikaku Kai Ni A",
+        "note": "Shoukaku Kai Ni A and Zuikaku Kai Ni A only",
+        "value": 2
+      },
+      "57": {
+        "code": "Shoukaku Kai Ni A, Zuikaku Kai Ni A",
+        "note": "Shoukaku Kai Ni A and Zuikaku Kai Ni A only",
+        "value": 2
+      },
+      "58": {
+        "code": "Shoukaku Kai Ni A, Zuikaku Kai Ni A",
+        "note": "Shoukaku Kai Ni A and Zuikaku Kai Ni A only",
+        "value": 2
+      },
+      "59": {
+        "code": "Shoukaku Kai Ni A, Zuikaku Kai Ni A",
+        "note": "Shoukaku Kai Ni A and Zuikaku Kai Ni A only",
+        "value": 2
+      },
+      "94": 1
+    },
+    "19": {
+      "1": 1,
+      "4": 1,
+      "12": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "25": 1,
+      "27": 1,
+      "31": 1,
+      "33": 1,
+      "36": 1,
+      "43": 1,
+      "50": 1
+    },
+    "20": {
+      "1": 1,
+      "4": 1,
+      "10": 1,
+      "12": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "25": 1,
+      "27": 1,
+      "33": 1,
+      "34": 1,
+      "36": 1,
+      "37": 1,
+      "39": 1,
+      "40": 1,
+      "43": 1,
+      "45": 1
+    },
+    "21": {
+      "1": 1,
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "10": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "27": 1,
+      "29": {
+        "code": "Kashima Kai, Katori Kai",
+        "note": "Kashima Kai and Katori Kai only",
+        "value": 2
+      },
+      "34": 1,
+      "36": 1,
+      "39": 1,
+      "43": 1
+    },
+    "22": {
+      "1": 1,
+      "2": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "4": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "8": {
+        "code": "Hayasui Kai",
+        "note": "Hayasui Kai only",
+        "value": 2
+      },
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": {
+        "code": "Hayasui Kai",
+        "note": "Hayasui Kai only",
+        "value": 2
+      },
+      "14": {
+        "code": "Hayasui Kai, Kamoi Kai Bo",
+        "note": "Hayasui Kai and Kamoi Kai Bo only",
+        "value": 2
+      },
+      "15": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "17": 1,
+      "20": 1,
+      "21": 1,
+      "23": 1,
+      "24": {
+        "code": "Hayasui Kai, Kamoi Kai Bo",
+        "note": "Hayasui Kai and Kamoi Kai Bo only",
+        "value": 2
+      },
+      "25": 1,
+      "27": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "29": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "30": 1,
+      "33": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "34": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "35": 1,
+      "36": 1,
+      "37": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "39": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "40": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "41": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      },
+      "43": 1,
+      "44": 1,
+      "45": 1,
+      "46": {
+        "code": "Hayasui Kai, Kamoi Kai Bo",
+        "note": "Hayasui Kai and Kamoi Kai Bo only",
+        "value": 2
+      },
+      "50": {
+        "code": "Kamoi Kai Bo",
+        "note": "Kamoi Kai Bo only",
+        "value": 2
+      }
+    }
+  },
+  "EquipmentIcons": {
+    "1": "Small Caliber Main Gun",
+    "2": "Medium Caliber Main Gun",
+    "3": "Large Caliber Main Gun",
+    "4": "Secondary Gun",
+    "5": "Torpedo",
+    "6": "Carrier-based Fighter Aircraft",
+    "7": "Carrier-based Dive Bomber",
+    "8": "Carrier-based Torpedo Bomber",
+    "9": "Carrier-based Reconnaissance Aircraft",
+    "10": "Seaplane",
+    "11": "Radar",
+    "12": "Anti-Aircraft Shell",
+    "13": "Armor Piercing Shell",
+    "14": "Damage Control Personnel",
+    "15": "Anti-Aircraft Gun",
+    "16": "Dual Purpose Gun",
+    "17": "Depth Charge",
+    "18": "Sonar",
+    "19": "Engine Improvement",
+    "20": "Landing Craft",
+    "21": "Autogyro",
+    "22": "Anti-submarine Patrol Aircraft",
+    "23": "Extra Armor",
+    "24": "Searchlight",
+    "25": "Supply Transport Container",
+    "26": "Ship Repair Facility",
+    "27": "Star Shell",
+    "28": "Command Facility",
+    "29": "Aviation Personnel",
+    "30": "Anti-Aircraft Fire Director",
+    "31": "Anti-Ground Equipment",
+    "32": "Surface Ship Personnel",
+    "33": "Large Flying Boat",
+    "34": "Combat Ration",
+    "35": "Supplies",
+    "36": "Special Amphibious Tank",
+    "37": "Land-based Attack Aircraft",
+    "38": "Interceptor Fighter",
+    "39": "Jet-powered Fighter-Bomber",
+    "40": "Jet-powered Fighter-Bomber",
+    "41": "Transportation Material",
+    "42": "Submarine Radar",
+    "43": "Seaplane Fighter",
+    "44": "Interceptor Fighter",
+    "45": "Night Fighter Aircraft",
+    "46": "Night Torpedo Bomber",
+    "47": "Land-based Patrol Aircraft"
+  },
+  "EquipmentRarityNames": {
+    "0": "Common",
+    "1": "Rare",
+    "2": "Holo",
+    "3": "S Holo",
+    "4": "SS Holo",
+    "5": "SS Holo",
+    "6": "SS Holo+",
+    "7": "SS++"
+  },
+  "EquipmentTypes": {
+    "1": "Small Caliber Main Gun",
+    "2": "Medium Caliber Main Gun",
+    "3": "Large Caliber Main Gun",
+    "4": "Secondary Gun",
+    "5": "Torpedo",
+    "6": "Carrier-based Fighter Aircraft",
+    "7": "Carrier-based Dive Bomber",
+    "8": "Carrier-based Torpedo Bomber",
+    "9": "Carrier-based Reconnaissance Aircraft",
+    "10": "Reconnaissance Seaplane",
+    "11": "Seaplane Bomber",
+    "12": "Small Radar",
+    "13": "Large Radar",
+    "14": "Sonar",
+    "15": "Depth Charge",
+    "16": "Extra Armor",
+    "17": "Engine Improvement",
+    "18": "Anti-Aircraft Shell",
+    "19": "Armor Piercing Shell",
+    "20": "VT Fuze",
+    "21": "Anti-Aircraft Gun",
+    "22": "Midget Submarine",
+    "23": "Emergency Repair Personnel",
+    "24": "Landing Craft",
+    "25": "Autogyro",
+    "26": "Anti-submarine Patrol Aircraft",
+    "27": "Extra Armor (Medium)",
+    "28": "Extra Armor (Large)",
+    "29": "Searchlight",
+    "30": "Supply Transport Container",
+    "31": "Ship Repair Facility",
+    "32": "Submarine Torpedo",
+    "33": "Star Shell",
+    "34": "Command Facility",
+    "35": "Aviation Personnel",
+    "36": "Anti-Aircraft Fire Director",
+    "37": "Anti-Ground Equipment",
+    "38": "Large Caliber Main Gun (II)",
+    "39": "Surface Ship Personnel",
+    "40": "Large Sonar",
+    "41": "Large Flying Boat",
+    "42": "Large Searchlight",
+    "43": "Combat Ration",
+    "44": "Supplies",
+    "45": "Seaplane Fighter",
+    "46": "Special Amphibious Tank",
+    "47": "Land-based Attack Aircraft",
+    "48": "Land-based Fighter",
+    "49": "Land-based Reconnaissance Aircraft",
+    "50": "Transportation Material",
+    "51": "Submarine Equipment",
+    "56": "Jet-powered Fighter Aircraft",
+    "57": "Jet-powered Fighter-Bomber",
+    "58": "Jet-powered Attack Aircraft",
+    "59": "Jet-powered Recon Aircraft",
+    "93": "Large Radar (II)",
+    "94": "Carrier-based Reconnaissance Aircraft (II)"
+  },
+  "EquipmentTypesPlural": {
+    "1": "Small Caliber Main Guns",
+    "2": "Medium Caliber Main Guns",
+    "3": "Large Caliber Main Guns",
+    "4": "Secondary Guns",
+    "5": "Torpedoes",
+    "6": "Carrier-based Fighter Aircraft",
+    "7": "Carrier-based Dive Bombers",
+    "8": "Carrier-based Torpedo Bombers",
+    "9": "Carrier-based Reconnaissance Aircraft",
+    "10": "Reconnaissance Seaplanes",
+    "11": "Seaplane Bombers",
+    "12": "Small Radars",
+    "13": "Large Radars",
+    "14": "Sonars",
+    "15": "Depth Charges",
+    "16": "Extra Armor",
+    "17": "Engine Improvements",
+    "18": "Anti-Aircraft Shells",
+    "19": "Armor Piercing Shells",
+    "20": "VT Fuzes",
+    "21": "Anti-Aircraft Guns",
+    "22": "Midget Submarines",
+    "23": "Emergency Repair Personnel",
+    "24": "Landing Craft",
+    "25": "Autogyros",
+    "26": "Anti-submarine Patrol Aircraft",
+    "27": "Extra Armor (Medium)",
+    "28": "Extra Armor (Large)",
+    "29": "Searchlights",
+    "30": "Supply Transport Containers",
+    "31": "Ship Repair Facilities",
+    "32": "Submarine Torpedoes",
+    "33": "Star Shells",
+    "34": "Command Facilities",
+    "35": "Aviation Personnel",
+    "36": "Anti-Aircraft Fire Directors",
+    "37": "Anti-Ground Equipment",
+    "38": "Large Caliber Main Guns (II)",
+    "39": "Surface Ship Personnel",
+    "40": "Large Sonars",
+    "41": "Large Flying Boats",
+    "42": "Large Searchlights",
+    "43": "Combat Rations",
+    "44": "Supplies",
+    "45": "Seaplane Fighters",
+    "46": "Special Amphibious Tanks",
+    "47": "Land-based Attack Aircraft",
+    "48": "Land-based Fighters",
+    "49": "Land-based Reconnaissance Aircraft",
+    "50": "Transportation Materials",
+    "51": "Submarine Equipment",
+    "56": "Jet-powered Fighter Aircraft",
+    "57": "Jet-powered Fighter-Bombers",
+    "58": "Jet-powered Attack Aircraft",
+    "59": "Jet-powered Recon Aircraft",
+    "93": "Large Radars (II)",
+    "94": "Carrier-based Reconnaissance Aircraft (II)"
+  },
+  "GunFitGroups": {
+    "large_caliber": ["35.6cm/38cm", "381mm", "41cm", "16inch", "Proto 46cm", "46cm", "51cm"]
+  },
+  "RangeNames": {
+    "0": "None",
+    "1": "Short",
+    "2": "Medium",
+    "3": "Long",
+    "4": "Very Long",
+    "5": "Very Long+"
+  },
+  "RarityNames": {
+    "1": "Very Common",
+    "2": "Common",
+    "3": "Uncommon",
+    "4": "Rare",
+    "5": "Very Rare",
+    "6": "Holo",
+    "7": "S Holo",
+    "8": "SS Holo",
+    "-1": "Abyssal",
+    "-10": "Special Unit",
+    "-11": "Abyssal Boss",
+    "-12": "Abyssal Boss (Final Form)",
+    "-2": "Elite",
+    "-3": "Flagship",
+    "-4": "Kai",
+    "-5": "Kai Elite",
+    "-6": "Kai Flagship",
+    "-7": "Late Model",
+    "-8": "Late Model Elite",
+    "-9": "Late Model Flagship"
+  },
+  "ShipCodes": {
+    "1": "DE",
+    "2": "DD",
+    "3": "CL",
+    "4": "CLT",
+    "5": "CA",
+    "6": "CAV",
+    "7": "CVL",
+    "8": "FBB",
+    "9": "BB",
+    "10": "BBV",
+    "11": "CV",
+    "12": "B",
+    "13": "SS",
+    "14": "SSV",
+    "15": "AP",
+    "16": "AV",
+    "17": "LHA",
+    "18": "CVB",
+    "19": "AR",
+    "20": "AS",
+    "21": "CT",
+    "22": "AO"
+  },
+  "ShipTypes": {
+    "1": "Coastal Defense Ship",
+    "2": "Destroyer",
+    "3": "Light Cruiser",
+    "4": "Torpedo Cruiser",
+    "5": "Heavy Cruiser",
+    "6": "Aviation Cruiser",
+    "7": "Light Carrier",
+    "8": "Fast Battleship",
+    "9": "Battleship",
+    "10": "Aviation Battleship",
+    "11": "Standard Aircraft Carrier",
+    "12": "Super Dreadnought",
+    "13": "Submarine",
+    "14": "Aircraft Carrying Submarine",
+    "15": "Transport Ship",
+    "16": "Seaplane Tender",
+    "17": "Amphibious Assault Ship",
+    "18": "Armored Carrier",
+    "19": "Repair Ship",
+    "20": "Submarine Tender",
+    "21": "Training Cruiser",
+    "22": "Fleet Oiler"
+  },
+  "SpeedNames": {
+    "0": "None",
+    "5": "Slow",
+    "10": "Fast",
+    "15": "Fast+",
+    "20": "Fastest"
+  },
+  "StatIcons": {
+    "aa": "Icon_AA.png",
+    "aircraft": "Icon_Aircraft.png",
+    "anti_bomber": "Icon_Hit.png",
+    "armor": "Icon_Armor.png",
+    "asw": "Icon_ASW.png",
+    "bombing": "Icon_Dive.png",
+    "combat_radius": "Icon_Range.png",
+    "evasion": "Icon_Evasion.png",
+    "firepower": "Icon_Gun.png",
+    "hp": "Icon_HP.png",
+    "interception": "Icon_Interception.png",
+    "los": "Icon_LOS.png",
+    "luck": "Icon_Luck.png",
+    "range": "Icon_Range.png",
+    "shelling_accuracy": "Icon_Hit.png",
+    "speed": "Icon_Speed.png",
+    "torpedo": "Icon_Torpedo.png"
+  }
+}

@@ -88,5 +88,12 @@ test('shape', t => {
   t.equal(data.tlItem('高速修復材'), 'Instant Repair Material')
   t.equal(data.tlItemFromId(1), 'Instant Repair Material')
 
+  t.equal(data.wiki.ship['Mutsuki Kai Ni']._japanese_name, '睦月改二')
+  t.equal(data.wiki.ship['Mutsuki Kai Ni']._full_name, 'Mutsuki Kai Ni')
+  t.deepEqual(data.wiki.ship['Mutsuki Kai Ni']._implementation_date, [2015, 4, 23])
+  t.equal(data.wiki.ship['Mutsuki Kai Ni']._voice_actor, 'Hidaka Rina')
+
+  t.equal(data.wiki.quest.A1.title, 'はじめての「編成」！')
+
   t.end()
 })

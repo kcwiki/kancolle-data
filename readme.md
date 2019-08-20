@@ -12,6 +12,7 @@ Currently includes:
 - Game API response (`api_start2`).
 - English translations.
 - Some map data and functions.
+- Some Wikia data.
 
 ## Install
 
@@ -66,6 +67,13 @@ map.getNodeLabel(445, 1) // 'A'
 // etc., see API
 ```
 
+### Wikia
+
+```js
+const { wiki } = require('@kancolle/data')
+wiki.ship['Mutsuki Kai Ni'] // { ... }
+```
+
 ### Partial imports
 
 It is possible to import only parts of the library, which can decrease memory usage. For example:
@@ -76,6 +84,7 @@ const shipTls = require('@kancolle/data/tl/ship')
 const { getShip } = require('@kancolle/data/api')
 const { getNodeLabel } = require('@kancolle/data/map')
 const mapEdges = require('@kancolle/data/map/edge')
+const wikiShips = require('@kancolle/data/wiki/ship')
 ```
 
 ## API
@@ -142,6 +151,14 @@ tl : function
   tlEquipmentTypeFromId : function
   tlItem : function
   tlItemFromId : function
+wiki : object
+  enemy : object
+  enemyEquipment : object
+  equipment : object
+  item : object
+  misc : object
+  ship : object
+  quest : object
 api_mst_bgm : array
 api_mst_const : object
 api_mst_equip_exslot : array
@@ -183,7 +200,7 @@ tlItemFromId : function
 To generate game API with [kancolle-browser](https://github.com/kcwiki/kancolle-browser):
 
 ```sh
-yarn global add @kancolle/browser
+yarn global add @kancolle/browser # one time
 yarn build-api
 ```
 
@@ -191,4 +208,10 @@ To generate translations and map data from Wikia (via Poi) and KC3Kai sources:
 
 ```sh
 yarn build-external
+```
+
+To update Wikia data:
+
+```sh
+yarn build-wiki-data
 ```
