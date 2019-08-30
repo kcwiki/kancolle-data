@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.190828.0",
+  "version": "0.190831.2",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -35,7 +35,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "bluebird": "^3.5.5",
-    "eslint": "^6.2.2",
+    "eslint": "^6.3.0",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-prettier": "^3.1.0",
     "fs-extra": "^8.1.0",

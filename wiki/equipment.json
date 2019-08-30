@@ -10050,6 +10050,37 @@
     "_type": 11,
     "_wikipedia": "Latécoère 298"
   },
+  "M4A1 DD": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": -1,
+    "_firepower": 2,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 20,
+    "_id": 355,
+    "_info": "米国で開発され、数多くのバリエーションと共に量産された代<br>表的中戦車「M4」シリーズ。その初期改良型をベースに紅茶<br>の国が防水スクリーンと推進プロペラを装備した水陸両用戦車<br>が、シャーマンDDと呼ばれたM4A1 Duplex Driveです。<br>海上からの上陸反攻作戦に投入されました。",
+    "_japanese_name": "M4A1 DD",
+    "_los": false,
+    "_luck": false,
+    "_name": "M4A1 DD",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 6,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 8,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 24
+  },
   "Me163B": {
     "_aa": 2,
     "_armor": false,
@@ -10062,7 +10093,7 @@
     "_flight_range": 1,
     "_icon": 38,
     "_id": 350,
-    "_info": "",
+    "_info": "科学の国で開発され、実戦配備に就いた世界初の量産ロケット<br>戦闘機です。圧倒的な上昇力とダイブ時にはマッハに迫る速度<br>を誇る未来感たっぷりの実在した重爆キラーの実用高高度局地<br>ロケット戦闘機。極端に短い航続距離含めて欠点も多い機体で<br>すが、文字通りコメットのように空を駆け抜けました。<br>※防空戦闘において、有効な高高度迎撃が可能です。",
     "_japanese_name": "Me163B",
     "_los": false,
     "_luck": false,
@@ -10079,7 +10110,8 @@
     "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,
-    "_type": 48
+    "_type": 48,
+    "_wikipedia": "Messerschmitt Me 163 Komet"
   },
   "New Kanhon Design Anti-torpedo Bulge (Large)": {
     "_aa": false,
@@ -11489,14 +11521,14 @@
     "_flight_range": 1,
     "_icon": 38,
     "_id": 351,
-    "_info": "",
+    "_info": "科学の国で開発され、実戦配備に就いた世界初の量産ロケット<br>戦闘機。その貴重な技術資料を伊号潜水艦で持ち帰り、不完全<br>な図面から陸海軍共同で開発を進めた日本発のロケット戦闘機<br>の試作型です。通常のレシプロ機では迎撃の難しい、遥か高高<br>度から飛来する重爆の邀撃を目指します。",
     "_japanese_name": "試製 秋水",
     "_los": false,
     "_luck": false,
     "_name": "Prototype Shuusui",
     "_range": false,
     "_rarity": 4,
-    "_reading": null,
+    "_reading": "しせい しゅうすい",
     "_scrap_ammo": 3,
     "_scrap_bauxite": 6,
     "_scrap_fuel": 4,
@@ -11506,7 +11538,8 @@
     "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,
-    "_type": 48
+    "_type": 48,
+    "_wikipedia": "Mitsubishi J8M"
   },
   "Prototype Toukai": {
     "_aa": false,
@@ -13856,14 +13889,14 @@
     "_flight_range": 1,
     "_icon": 38,
     "_id": 352,
-    "_info": "",
+    "_info": "Me163の技術を導入、日本独自の技術による補完改修を施し<br>て陸海軍共同で完成を目指した高高度局地戦闘機「秋水」。<br>本機は、完成実用化に至らなかった同機が完成し、さらに各部<br>隊で運用熟成され、数々の問題を克服して実用化されたif制式<br>高高度局戦です。<br>高高度を飛来する恐怖の重爆に、必殺の一矢を！",
     "_japanese_name": "秋水",
     "_los": false,
     "_luck": false,
     "_name": "Shuusui",
     "_range": false,
     "_rarity": 5,
-    "_reading": null,
+    "_reading": "しゅうすい",
     "_scrap_ammo": 3,
     "_scrap_bauxite": 7,
     "_scrap_fuel": 4,
@@ -13873,7 +13906,8 @@
     "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,
-    "_type": 48
+    "_type": 48,
+    "_wikipedia": "Mitsubishi J8M"
   },
   "Skilled Carrier-based Aircraft Maintenance Personnel": {
     "_aa": 1,
@@ -17558,7 +17592,25 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Nisshin/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
             "Nisshin/A": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Nisshin/Kai": {
               "Friday": true,
               "Monday": false,
               "Saturday": true,

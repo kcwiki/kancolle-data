@@ -281,6 +281,16 @@
     "_type": 23,
     "_wikipedia": "Damage control"
   },
+  "Emergency Repair Material": {
+    "_category": 0,
+    "_description": "工作艦などの艦で緊急泊地修理<br>を実施時に必要な資材です。　<br>※緊急泊地修理を実施する際、<br>　一つ消費します。",
+    "_id": 91,
+    "_item": true,
+    "_japanese_name": "緊急修理資材",
+    "_name": "Emergency Repair Material",
+    "_reading": null,
+    "_type": 0
+  },
   "Emergency Repair Personnel": {
     "_aa": false,
     "_armor": false,
@@ -532,6 +542,16 @@
     "_item": true,
     "_japanese_name": "新型砲熕兵装資材",
     "_name": "New Model Gun Mount Improvement Material",
+    "_reading": null,
+    "_type": 0
+  },
+  "New Model Jet Equipment Development Material": {
+    "_category": 0,
+    "_description": "新型噴進装備を開発及び戦力化<br>に必要な技術図面と資材です。<br>※任務や装備改修等で使用する<br>ことで、新型噴進装備の開発が<br>可能になります。",
+    "_id": 92,
+    "_item": true,
+    "_japanese_name": "新型噴進装備開発資材",
+    "_name": "New Model Jet Equipment Development Material",
     "_reading": null,
     "_type": 0
   },

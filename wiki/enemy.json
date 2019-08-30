@@ -420,6 +420,283 @@
     "_type": 11,
     "_full_name": "Abyssal Jellyfish Princess III"
   },
+  "Abyssal Mediterranean Princess": {
+    "_aa": 70,
+    "_api_id": 1877,
+    "_armor": 88,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 150,
+    "_hp": 700,
+    "_id": 1877,
+    "_japanese_name": "深海地中海棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちちゅうかいせいき",
+    "_speed": 5,
+    "_torpedo": 95,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess"
+  },
+  "Abyssal Mediterranean Princess Damaged": {
+    "_aa": 85,
+    "_api_id": 1880,
+    "_armor": 148,
+    "_asw": null,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 170,
+    "_hp": 700,
+    "_id": 1880,
+    "_japanese_name": "深海地中海棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちちゅうかいせいき-かい",
+    "_speed": 5,
+    "_suffix": "- Damaged",
+    "_torpedo": 155,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Damaged"
+  },
+  "Abyssal Mediterranean Princess Damaged II": {
+    "_aa": 100,
+    "_api_id": 1881,
+    "_armor": 228,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 740,
+    "_id": 1881,
+    "_japanese_name": "深海地中海棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちちゅうかいせいき-かい",
+    "_speed": 5,
+    "_suffix": "- Damaged II",
+    "_torpedo": 175,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Damaged II"
+  },
+  "Abyssal Mediterranean Princess Damaged III": {
+    "_aa": 125,
+    "_api_id": 1882,
+    "_armor": 288,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 230,
+    "_hp": 790,
+    "_id": 1882,
+    "_japanese_name": "深海地中海棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちちゅうかいせいき-かい",
+    "_speed": 5,
+    "_suffix": "- Damaged III",
+    "_torpedo": 195,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Damaged III"
+  },
+  "Abyssal Mediterranean Princess II": {
+    "_aa": 80,
+    "_api_id": 1878,
+    "_armor": 188,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 180,
+    "_hp": 740,
+    "_id": 1878,
+    "_japanese_name": "深海地中海棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちちゅうかいせいき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": 105,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess II"
+  },
+  "Abyssal Mediterranean Princess III": {
+    "_aa": 95,
+    "_api_id": 1879,
+    "_armor": 248,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 790,
+    "_id": 1879,
+    "_japanese_name": "深海地中海棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちちゅうかいせいき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": 125,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess III"
+  },
   "Abyssal Nimbus Princess": {
     "_aa": 77,
     "_api_id": 1846,
@@ -2296,6 +2573,55 @@
     "_type": 10,
     "_full_name": "Airfield Princess IV"
   },
+  "Airfield Princess IX": {
+    "_aa": null,
+    "_air_power_estimation": true,
+    "_api_id": 1890,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_layers": ["fortress_ace_r1", "fortress_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Sky Fortress Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Sky Fortress",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Sky Fortress",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Sky Fortress",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": 500,
+    "_id": 1890,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
+    "_speed": 0,
+    "_suffix": "IX",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess IX"
+  },
   "Airfield Princess V": {
     "_aa": 120,
     "_api_id": 1650,
@@ -2431,6 +2757,99 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess VII"
+  },
+  "Airfield Princess VIII": {
+    "_aa": null,
+    "_air_power_estimation": true,
+    "_api_id": 1889,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_layers": ["fortress_r"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Sky Fortress",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Sky Fortress",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Sky Fortress",
+        "estimation": true,
+        "size": 12
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": 500,
+    "_id": 1889,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
+    "_speed": 0,
+    "_suffix": "VIII",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess VIII"
+  },
+  "Airfield Princess X": {
+    "_aa": null,
+    "_air_power_estimation": true,
+    "_api_id": 1891,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_layers": ["fortress_ace_r1", "fortress_ace_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Sky Fortress Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Sky Fortress Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Sky Fortress Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Sky Fortress Ace",
+        "estimation": true,
+        "size": 16
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": 500,
+    "_id": 1891,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
+    "_speed": 0,
+    "_suffix": "X",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess X"
   },
   "Anchorage Demon": {
     "_aa": 70,
@@ -7999,7 +8418,7 @@
   "French Battleship Princess Vacation Mode": {
     "_aa": 80,
     "_api_id": 1834,
-    "_armor": 210,
+    "_armor": 144,
     "_asw": 0,
     "_back": -11,
     "_equipment": [
@@ -8042,7 +8461,7 @@
   "French Battleship Princess Vacation Mode Damaged": {
     "_aa": 80,
     "_api_id": 1837,
-    "_armor": 225,
+    "_armor": 174,
     "_asw": 0,
     "_back": -12,
     "_equipment": [
@@ -8086,7 +8505,7 @@
   "French Battleship Princess Vacation Mode Damaged II": {
     "_aa": 84,
     "_api_id": 1838,
-    "_armor": 255,
+    "_armor": 214,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -8134,7 +8553,7 @@
   "French Battleship Princess Vacation Mode Damaged III": {
     "_aa": 94,
     "_api_id": 1839,
-    "_armor": 305,
+    "_armor": 254,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -8182,7 +8601,7 @@
   "French Battleship Princess Vacation Mode II": {
     "_aa": 84,
     "_api_id": 1835,
-    "_armor": 240,
+    "_armor": 184,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -8230,7 +8649,7 @@
   "French Battleship Princess Vacation Mode III": {
     "_aa": 94,
     "_api_id": 1836,
-    "_armor": 280,
+    "_armor": 224,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -8725,7 +9144,7 @@
     ],
     "_evasion": null,
     "_firepower": 170,
-    "_hp": 444,
+    "_hp": 500,
     "_id": 1702,
     "_japanese_name": "港湾夏姫-壊",
     "_los": null,
@@ -8772,7 +9191,7 @@
     ],
     "_evasion": null,
     "_firepower": 188,
-    "_hp": 544,
+    "_hp": 650,
     "_id": 1703,
     "_japanese_name": "港湾夏姫-壊",
     "_los": null,
@@ -8820,7 +9239,7 @@
     ],
     "_evasion": null,
     "_firepower": 200,
-    "_hp": 644,
+    "_hp": 750,
     "_id": 1704,
     "_japanese_name": "港湾夏姫-壊",
     "_los": null,
@@ -8868,7 +9287,7 @@
     ],
     "_evasion": null,
     "_firepower": 188,
-    "_hp": 600,
+    "_hp": 650,
     "_id": 1700,
     "_japanese_name": "港湾夏姫",
     "_los": null,
@@ -8915,7 +9334,7 @@
     ],
     "_evasion": null,
     "_firepower": 200,
-    "_hp": 700,
+    "_hp": 750,
     "_id": 1701,
     "_japanese_name": "港湾夏姫",
     "_los": null,
@@ -9531,7 +9950,7 @@
     ],
     "_evasion": null,
     "_firepower": 180,
-    "_hp": 490,
+    "_hp": 540,
     "_id": 1863,
     "_japanese_name": "重巡棲姫",
     "_los": null,
@@ -9575,7 +9994,7 @@
     ],
     "_evasion": null,
     "_firepower": 220,
-    "_hp": 490,
+    "_hp": 540,
     "_id": 1864,
     "_japanese_name": "重巡棲姫",
     "_los": null,
