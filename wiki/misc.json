@@ -28,21 +28,21 @@
       "21": 1,
       "23": 1,
       "24": {
-        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Michishio Kai Ni, Makigumo Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
-        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Michishio Kai Ni, Makigumo Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
+        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
+        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
         "value": 2
       },
       "27": {
-        "code": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni,Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Yuugumo Kai Ni, Verniy",
-        "note": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Yuugumo Kai Ni and Verniy only",
+        "code": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Verniy, Yuugumo Kai Ni",
+        "note": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Verniy and Yuugumo Kai Ni only",
         "value": 2
       },
       "29": 1,
       "30": 1,
       "33": 1,
       "34": {
-        "code": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Yuugumo Kai Ni, Umikaze Kai Ni",
-        "note": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Yuugumo Kai Ni and Umikaze Kai Ni only",
+        "code": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni, Yuugumo Kai Ni",
+        "note": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni and Yuugumo Kai Ni only",
         "value": 2
       },
       "36": 1,
@@ -97,12 +97,12 @@
         "value": 2
       },
       "25": {
-        "code": "Gotland, Tama Kai Ni, Tatsuta Kai Ni, Tenryuu Kai Ni, Gotland",
+        "code": "Gotland, Tama Kai Ni, Tatsuta Kai Ni, Tenryuu Kai Ni",
         "note": "Gotland, Tama Kai Ni, Tatsuta Kai Ni and Tenryuu Kai Ni only",
         "value": 2
       },
       "27": {
-        "code": "Agano Kai, Gotland Kai , Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai",
+        "code": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai",
         "note": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni and Yahagi Kai only",
         "value": 2
       },
@@ -112,7 +112,7 @@
       "34": 1,
       "35": {
         "code": "Gotland, Gotland Kai, Tama Kai Ni, Yura Kai Ni",
-        "note": "Gotland and Gotland Kai, Tama Kai Ni and Yura Kai Ni only",
+        "note": "Gotland, Gotland Kai, Tama Kai Ni and Yura Kai Ni only",
         "value": 2
       },
       "36": 1,
@@ -166,8 +166,8 @@
       "5": 1,
       "10": 1,
       "11": {
-        "code": "Pola Kai, Zara Kai, Zara due",
-        "note": "Pola Kai, Zara Kai and Zara due only",
+        "code": "Pola Kai, Zara Due, Zara Kai",
+        "note": "Pola Kai, Zara Due and Zara Kai only",
         "value": 2
       },
       "12": 1,
@@ -183,22 +183,22 @@
       "33": 1,
       "34": 1,
       "35": {
-        "code": "Zara due",
-        "note": "Zara due only",
+        "code": "Zara Due",
+        "note": "Zara Due only",
         "value": 2
       },
       "36": 1,
       "39": 1,
       "40": 1,
       "42": {
-        "code": "Zara due",
-        "note": "Zara due only",
+        "code": "Zara Due",
+        "note": "Zara Due only",
         "value": 2
       },
       "43": 1,
       "45": {
-        "code": "Pola Kai, Zara Kai, Zara due",
-        "note": "Pola Kai, Zara Kai and Zara due only",
+        "code": "Pola Kai, Zara Due, Zara Kai",
+        "note": "Pola Kai, Zara Due and Zara Kai only",
         "value": 2
       }
     },
@@ -241,8 +241,8 @@
         "value": 2
       },
       "9": {
-        "code": "CVL excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou, Shinyou Kai",
-        "note": "Excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "code": "CVL excluding Kasuga Maru, Shinyou, Shinyou Kai, Taiyou, Taiyou Kai",
+        "note": "Excluding Kasuga Maru, Shinyou, Shinyou Kai, Taiyou and Taiyou Kai",
         "value": 2
       },
       "12": 1,
@@ -252,13 +252,13 @@
         "value": 2
       },
       "14": {
-        "code": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai, Shinyou Kai Ni",
-        "note": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai and Shinyou Kai Ni only",
+        "code": "Shinyou, Shinyou Kai, Shinyou Kai Ni, Taiyou Kai, Taiyou Kai Ni",
+        "note": "Shinyou, Shinyou Kai, Shinyou Kai Ni, Taiyou Kai and Taiyou Kai Ni only",
         "value": 2
       },
       "15": {
-        "code": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai, Shinyou Kai Ni",
-        "note": "Taiyou Kai, Taiyou Kai Ni, Shinyou, Shinyou Kai and Shinyou Kai Ni only",
+        "code": "Shinyou, Shinyou Kai, Shinyou Kai Ni, Taiyou Kai, Taiyou Kai Ni",
+        "note": "Shinyou, Shinyou Kai, Shinyou Kai Ni, Taiyou Kai and Taiyou Kai Ni only",
         "value": 2
       },
       "16": 1,
@@ -267,13 +267,13 @@
       "21": 1,
       "23": 1,
       "25": {
-        "code": "CVL excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou, Shinyou Kai",
-        "note": "Excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "code": "CVL excluding Kasuga Maru, Shinyou, Shinyou Kai, Taiyou, Taiyou Kai",
+        "note": "Excluding Kasuga Maru, Shinyou, Shinyou Kai, Taiyou and Taiyou Kai",
         "value": 2
       },
       "26": {
-        "code": "CVL excluding Kasuga Maru, Taiyou, Shinyou",
-        "note": "Excluding Kasuga Maru, Taiyou and Shinyou",
+        "code": "CVL excluding Kasuga Maru, Shinyou, Taiyou",
+        "note": "Excluding Kasuga Maru, Shinyou and Taiyou",
         "value": 2
       },
       "27": 1,
@@ -284,9 +284,14 @@
       },
       "35": 1,
       "36": 1,
+      "39": {
+        "code": "Shinyou Kai, Shinyou Kai Ni, Taiyou Kai Ni",
+        "note": "Shinyou Kai, Shinyou Kai Ni and Taiyou Kai Ni only",
+        "value": 2
+      },
       "40": {
-        "code": "CVL excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
-        "note": "Excluding Kasuga Maru, Taiyou, Taiyou Kai, Shinyou and Shinyou Kai",
+        "code": "CVL excluding Kasuga Maru, Shinyou, Shinyou Kai, Taiyou, Taiyou Kai",
+        "note": "Excluding Kasuga Maru, Shinyou, Shinyou Kai, Taiyou and Taiyou Kai",
         "value": 2
       },
       "43": 1,
@@ -296,18 +301,23 @@
       "3": 1,
       "4": 1,
       "5": {
-        "code": "Bismarck drei, Kongou Kai Ni C",
-        "note": "Bismarck drei and Kongou Kai Ni C only",
+        "code": "Bismarck Drei, Kongou Kai Ni C",
+        "note": "Bismarck Drei and Kongou Kai Ni C only",
         "value": 2
       },
       "10": 1,
       "11": {
-        "code": "Italia, Roma Kai, Kongou Kai Ni C",
-        "note": "Italia, Roma Kai, and Kongou Kai Ni C only",
+        "code": "Italia, Kongou Kai Ni C, Richelieu Kai, Roma Kai",
+        "note": "Italia, Kongou Kai Ni C, Richelieu Kai and Roma Kai only",
         "value": 2
       },
       "12": 1,
       "13": 1,
+      "14": {
+        "code": "Kongou Kai Ni C",
+        "note": "Kongou Kai Ni C only",
+        "value": 2
+      },
       "16": 1,
       "17": 1,
       "18": 1,
@@ -400,8 +410,8 @@
         "value": 2
       },
       "46": {
-        "code": "Nagato Kai Ni, Mutsu Kai Ni",
-        "note": "Nagato Kai Ni and Mutsu Kai Ni only",
+        "code": "Mutsu Kai Ni, Nagato Kai Ni",
+        "note": "Mutsu Kai Ni and Nagato Kai Ni only",
         "value": 2
       },
       "93": 1
@@ -411,18 +421,18 @@
       "3": 1,
       "4": 1,
       "6": {
-        "code": "Ise Kai Ni, Hyuuga Kai Ni",
-        "note": "Ise Kai Ni and Hyuuga Kai Ni only",
+        "code": "Hyuuga Kai Ni, Ise Kai Ni",
+        "note": "Hyuuga Kai Ni and Ise Kai Ni only",
         "value": 2
       },
       "7": {
-        "code": "Ise Kai Ni, Hyuuga Kai Ni",
-        "note": "Ise Kai Ni And Hyuuga Kai Ni only",
+        "code": "Hyuuga Kai Ni, Ise Kai Ni",
+        "note": "Hyuuga Kai Ni and Ise Kai Ni only",
         "value": 2
       },
       "9": {
-        "code": "Ise Kai Ni, Hyuuga Kai Ni",
-        "note": "Ise Kai Ni and Hyuuga Kai Ni only",
+        "code": "Hyuuga Kai Ni, Ise Kai Ni",
+        "note": "Hyuuga Kai Ni and Ise Kai Ni only",
         "value": 2
       },
       "10": 1,
@@ -443,8 +453,8 @@
       "23": 1,
       "25": 1,
       "26": {
-        "code": "Ise Kai Ni, Hyuuga Kai Ni",
-        "note": "Ise Kai Ni and Hyuuga Kai Ni only",
+        "code": "Hyuuga Kai Ni, Ise Kai Ni",
+        "note": "Hyuuga Kai Ni and Ise Kai Ni only",
         "value": 2
       },
       "28": 1,
@@ -454,8 +464,8 @@
       "35": 1,
       "36": 1,
       "37": {
-        "code": "BBV excluding Ise Kai Ni",
-        "note": "Excluding Ise Kai Ni and Hyuuga Kai Ni",
+        "code": "BBV excluding Hyuuga Kai Ni, Ise Kai Ni",
+        "note": "Excluding Hyuuga Kai Ni and Ise Kai Ni",
         "value": 2
       },
       "39": 1,
@@ -539,8 +549,8 @@
     "16": {
       "1": 1,
       "2": {
-        "code": "Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai, Nisshin A",
-        "note": "Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai and Nisshin A only",
+        "code": "Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin A, Nisshin Kai",
+        "note": "Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin A and Nisshin Kai only",
         "value": 2
       },
       "4": 1,
@@ -549,13 +559,13 @@
       "12": 1,
       "13": 1,
       "14": {
-        "code": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin Kai, Nisshin A",
-        "note": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin kai and Nisshin A only",
+        "code": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin A, Nisshin Kai",
+        "note": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin A and Nisshin Kai only",
         "value": 2
       },
       "15": {
-        "code": "AV excluding Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai, Nisshin A",
-        "note": "Excluding Commandant Teste,  Commandant Teste Kai, Nisshin, Nisshin Kai and Nisshin A",
+        "code": "AV excluding Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin A, Nisshin Kai",
+        "note": "Excluding Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin A and Nisshin Kai",
         "value": 2
       },
       "16": 1,
@@ -574,18 +584,23 @@
         "value": 2
       },
       "25": {
-        "code": "Commandant Teste, Commandant Teste Kai, Nisshin Kai, Nisshin A",
-        "note": "Commandant Teste, Commandant Teste Kai, Nisshin Kai and Nisshin A only",
+        "code": "Commandant Teste, Commandant Teste Kai, Nisshin A, Nisshin Kai",
+        "note": "Commandant Teste, Commandant Teste Kai, Nisshin A and Nisshin Kai only",
         "value": 2
       },
       "27": 1,
       "29": 1,
       "30": 1,
+      "31": {
+        "code": "Akitsushima Kai",
+        "note": "Akitsushima Kai only",
+        "value": 2
+      },
       "33": 1,
       "34": 1,
       "35": {
-        "code": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai, Nisshin A",
-        "note": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin Kai and Nisshin A  only",
+        "code": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin A, Nisshin Kai",
+        "note": "Akitsushima Kai, Commandant Teste, Commandant Teste Kai, Nisshin, Nisshin A and Nisshin Kai only",
         "value": 2
       },
       "36": 1,
@@ -601,8 +616,8 @@
         "value": 2
       },
       "41": {
-        "code": "Akitsushima, Akitsushima Kai, Nisshin Kai, Nisshin A",
-        "note": "Akitsushima, Akitsushima Kai, Nisshin Kai and Nisshin A only",
+        "code": "Akitsushima, Akitsushima Kai, Nisshin A, Nisshin Kai",
+        "note": "Akitsushima, Akitsushima Kai, Nisshin A and Nisshin Kai only",
         "value": 2
       },
       "42": {

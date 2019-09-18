@@ -545,13 +545,13 @@
     "_reading": null,
     "_type": 0
   },
-  "New Model Jet Equipment Development Material": {
+  "New Model Rocket Development Material": {
     "_category": 0,
     "_description": "新型噴進装備を開発及び戦力化<br>に必要な技術図面と資材です。<br>※任務や装備改修等で使用する<br>ことで、新型噴進装備の開発が<br>可能になります。",
     "_id": 92,
     "_item": true,
     "_japanese_name": "新型噴進装備開発資材",
-    "_name": "New Model Jet Equipment Development Material",
+    "_name": "New Model Rocket Development Material",
     "_reading": null,
     "_type": 0
   },

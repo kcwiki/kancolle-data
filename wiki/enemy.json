@@ -424,7 +424,7 @@
     "_aa": 70,
     "_api_id": 1877,
     "_armor": 88,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
@@ -456,7 +456,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Mediterranean Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき",
     "_speed": 5,
@@ -468,7 +468,7 @@
     "_aa": 85,
     "_api_id": 1880,
     "_armor": 148,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_equipment": [
       {
@@ -500,7 +500,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Mediterranean Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき-かい",
     "_speed": 5,
@@ -513,7 +513,7 @@
     "_aa": 100,
     "_api_id": 1881,
     "_armor": 228,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
@@ -547,7 +547,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Mediterranean Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき-かい",
     "_speed": 5,
@@ -560,7 +560,7 @@
     "_aa": 125,
     "_api_id": 1882,
     "_armor": 288,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
@@ -594,7 +594,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Mediterranean Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき-かい",
     "_speed": 5,
@@ -607,7 +607,7 @@
     "_aa": 80,
     "_api_id": 1878,
     "_armor": 188,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
@@ -641,7 +641,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Mediterranean Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき",
     "_speed": 5,
@@ -654,7 +654,7 @@
     "_aa": 95,
     "_api_id": 1879,
     "_armor": 248,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
@@ -688,7 +688,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Mediterranean Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき",
     "_speed": 5,
@@ -2575,7 +2575,6 @@
   },
   "Airfield Princess IX": {
     "_aa": null,
-    "_air_power_estimation": true,
     "_api_id": 1890,
     "_armor": null,
     "_asw": null,
@@ -2585,24 +2584,24 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": "Abyssal Sky Fortress Ace",
+        "equipment": "Abyssal Sky Fortress Ace (Reconnaissance Model)",
         "estimation": true,
-        "size": 16
+        "size": 9
       },
       {
-        "equipment": "Abyssal Sky Fortress",
+        "equipment": "Abyssal Sky Fortress (Reconnaissance Model)",
         "estimation": true,
-        "size": 16
+        "size": 9
       },
       {
-        "equipment": "Abyssal Sky Fortress",
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
         "size": 12
       },
       {
-        "equipment": "Abyssal Sky Fortress",
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
         "estimation": true,
-        "size": 4
+        "size": 12
       }
     ],
     "_evasion": null,
@@ -2760,7 +2759,6 @@
   },
   "Airfield Princess VIII": {
     "_aa": null,
-    "_air_power_estimation": true,
     "_api_id": 1889,
     "_armor": null,
     "_asw": null,
@@ -2770,18 +2768,15 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": "Abyssal Sky Fortress",
-        "estimation": true,
-        "size": 16
+        "equipment": "Abyssal Sky Fortress (Reconnaissance Model)",
+        "size": 9
       },
       {
-        "equipment": "Abyssal Sky Fortress",
-        "estimation": true,
-        "size": 12
+        "equipment": "Abyssal Sky Fortress (Reconnaissance Model)",
+        "size": 9
       },
       {
-        "equipment": "Abyssal Sky Fortress",
-        "estimation": true,
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "size": 12
       }
     ],
@@ -2804,7 +2799,6 @@
   },
   "Airfield Princess X": {
     "_aa": null,
-    "_air_power_estimation": true,
     "_api_id": 1891,
     "_armor": null,
     "_asw": null,
@@ -2814,24 +2808,24 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": "Abyssal Sky Fortress Ace",
+        "equipment": "Abyssal Sky Fortress Ace (Reconnaissance Model)",
         "estimation": true,
-        "size": 24
+        "size": 9
       },
       {
-        "equipment": "Abyssal Sky Fortress Ace",
+        "equipment": "Abyssal Sky Fortress Ace (Reconnaissance Model)",
         "estimation": true,
-        "size": 16
+        "size": 9
       },
       {
-        "equipment": "Abyssal Sky Fortress Ace",
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": 16
+        "size": 18
       },
       {
-        "equipment": "Abyssal Sky Fortress Ace",
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": 16
+        "size": 12
       }
     ],
     "_evasion": null,
@@ -2850,6 +2844,148 @@
     "_torpedo": null,
     "_type": 10,
     "_full_name": "Airfield Princess X"
+  },
+  "Airfield Princess XI": {
+    "_aa": null,
+    "_air_power_estimation": true,
+    "_api_id": 1892,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_layers": ["fortress_heavy_r"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Sky Fortress (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 18
+      },
+      {
+        "equipment": "Abyssal Sky Fortress (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Sky Fortress (Reconnaissance Model)",
+        "estimation": true,
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": 500,
+    "_id": 1892,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
+    "_speed": 0,
+    "_suffix": "XI",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XI"
+  },
+  "Airfield Princess XII": {
+    "_aa": null,
+    "_air_power_estimation": true,
+    "_api_id": 1893,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_layers": ["fortress_heavy_ace_r1", "fortress_heavy_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Sky Fortress Ace (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 18
+      },
+      {
+        "equipment": "Abyssal Sky Fortress (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Sky Fortress (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Sky Fortress (Reconnaissance Model)",
+        "estimation": true,
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": 500,
+    "_id": 1893,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
+    "_speed": 0,
+    "_suffix": "XII",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XII"
+  },
+  "Airfield Princess XIII": {
+    "_aa": null,
+    "_air_power_estimation": true,
+    "_api_id": 1894,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_layers": ["fortress_heavy_ace_r1", "fortress_heavy_ace_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Sky Fortress Ace (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 36
+      },
+      {
+        "equipment": "Abyssal Sky Fortress Ace (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 18
+      },
+      {
+        "equipment": "Abyssal Sky Fortress Ace (Heavy Bomber Model)",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Sky Fortress Ace (Reconnaissance Model)",
+        "estimation": true,
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": 500,
+    "_id": 1894,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
+    "_speed": 0,
+    "_suffix": "XIII",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XIII"
   },
   "Anchorage Demon": {
     "_aa": 70,
@@ -3658,6 +3794,295 @@
     "_torpedo": 140,
     "_type": 2,
     "_full_name": "Ancient Destroyer Princess III"
+  },
+  "Anzio Princess": {
+    "_aa": 66,
+    "_api_id": 1883,
+    "_armor": 229,
+    "_asw": null,
+    "_back": -11,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 158,
+    "_hp": 800,
+    "_id": 1883,
+    "_japanese_name": "アンツィオ沖棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anzio Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "アンツィオおきせいき",
+    "_speed": 10,
+    "_torpedo": 158,
+    "_type": 2,
+    "_full_name": "Anzio Princess"
+  },
+  "Anzio Princess Damaged": {
+    "_aa": 77,
+    "_api_id": 1886,
+    "_armor": 249,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 179,
+    "_hp": 800,
+    "_id": 1886,
+    "_japanese_name": "アンツィオ沖棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anzio Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "アンツィオおきせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged",
+    "_torpedo": 209,
+    "_type": 2,
+    "_full_name": "Anzio Princess Damaged"
+  },
+  "Anzio Princess Damaged II": {
+    "_aa": 88,
+    "_api_id": 1887,
+    "_armor": 299,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 189,
+    "_hp": 840,
+    "_id": 1887,
+    "_japanese_name": "アンツィオ沖棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anzio Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "アンツィオおきせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged II",
+    "_torpedo": 249,
+    "_type": 2,
+    "_full_name": "Anzio Princess Damaged II"
+  },
+  "Anzio Princess Damaged III": {
+    "_aa": 99,
+    "_api_id": 1888,
+    "_armor": 339,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 199,
+    "_hp": 888,
+    "_id": 1888,
+    "_japanese_name": "アンツィオ沖棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anzio Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "アンツィオおきせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged III",
+    "_torpedo": 299,
+    "_type": 2,
+    "_full_name": "Anzio Princess Damaged III"
+  },
+  "Anzio Princess II": {
+    "_aa": 77,
+    "_api_id": 1884,
+    "_armor": 269,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 178,
+    "_hp": 840,
+    "_id": 1884,
+    "_japanese_name": "アンツィオ沖棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anzio Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "アンツィオおきせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 178,
+    "_type": 2,
+    "_full_name": "Anzio Princess II"
+  },
+  "Anzio Princess III": {
+    "_aa": 88,
+    "_api_id": 1885,
+    "_armor": 299,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 4.7inch Gun Mk.XII",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 188,
+    "_hp": 888,
+    "_id": 1885,
+    "_japanese_name": "アンツィオ沖棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anzio Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "アンツィオおきせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 228,
+    "_type": 2,
+    "_full_name": "Anzio Princess III"
   },
   "Armored Carrier Demon": {
     "_aa": 60,
