@@ -4152,7 +4152,7 @@
     "title_en": "Enhance the Use of Aviation Firepower"
   },
   "D11": {
-    "detail_en": "Complete Expedition 37 or 38 six more times within the same week.",
+    "detail_en": "Complete Expedition 37 or 38 six times within the same week.",
     "label": "D11",
     "note": "Requires: [[#D9|D9]] <br />'''Weekly Quest'''",
     "reward_ammo": 0,
@@ -4164,7 +4164,7 @@
     "title_en": "Continue Carrying Out the Rat Transportation (Tokyo Express) towards South"
   },
   "D12": {
-    "detail_en": "Complete Expedition 23 four more times.",
+    "detail_en": "Complete Expedition 23 four times.",
     "label": "D12",
     "note": "Requires: [[#D10|D10]]",
     "reward_ammo": 0,
@@ -4248,7 +4248,7 @@
     "title_en": "Execute Naval Review"
   },
   "D19": {
-    "detail_en": "Complete Expedition 35 and 26 once each.",
+    "detail_en": "Complete Expeditions 35 and 26 once each.",
     "label": "D19",
     "note": "Requires: [[#B50|B50]], [[#D9|D9]]<br />Unlocks: [[#F21|F21]]",
     "reward_ammo": 200,
@@ -4260,7 +4260,7 @@
     "title_en": "Enhance the Use of the Task Force"
   },
   "D2": {
-    "detail_en": "Complete 3 successful [[Expedition|Expeditions]] within the same day.",
+    "detail_en": "Complete 3 [[Expedition|Expeditions]] within the same day.",
     "label": "D2",
     "note": "Unlocks: [[#D3|D3]], [[#D20|D20]], [[#D22|D22]], [[#D27|D27]]<br />'''Daily Quest'''",
     "reward_ammo": 100,
@@ -4272,7 +4272,7 @@
     "title_en": "Complete 3 Expeditions"
   },
   "D20": {
-    "detail_en": "Complete Expedition 30 and 31 once each.",
+    "detail_en": "Complete Expeditions 30 and 31 once each.",
     "label": "D20",
     "note": "Requires: [[#D2|D2]], [[#D6|D6]]<br />Unlocks: [[#D21|D21]]",
     "reward_ammo": 100,
@@ -4284,7 +4284,7 @@
     "title_en": "Submarine Dispatch Operation to Acquire Aircraft Technology"
   },
   "D21": {
-    "detail_en": "Prepare 5000 Steel and 1500 Bauxite in your inventory. Complete Expedition 30 and 31 once each.<br>'''※ The prepared resources will be consumed upon quest completion.'''",
+    "detail_en": "Prepare 5000 Steel and 1500 Bauxite in your inventory. Complete Expeditions 30 and 31 once each.<br>'''※ The prepared resources will be consumed upon quest completion.'''",
     "label": "D21",
     "note": "Requires: [[#B88|B88]], [[#D20|D20]]",
     "reward_ammo": 0,
@@ -4305,10 +4305,10 @@
     "reward_other": "[[File:Furniture box medium.png|30px|link=Furniture]] x2",
     "reward_steel": 0,
     "title": "輸送船団護衛を強化せよ！",
-    "title_en": "Reinforce the Transport Escort !"
+    "title_en": "Reinforce the Transport Escort!"
   },
   "D23": {
-    "detail_en": "Complete Expedition 4, 5, and 9 once each.",
+    "detail_en": "Complete Expeditions 4, 5, and 9 once each.",
     "label": "D23",
     "note": "Requires: [[#D22|D22]], [[#F54|F54]],  ??",
     "reward_ammo": 700,
@@ -4320,13 +4320,13 @@
     "title_en": "Maritime Escort Squadron, Expedition Start!"
   },
   "D24": {
-    "detail_en": "Complete Expedition 3, 4, 5, and 10 once each.",
+    "detail_en": "Complete Expeditions 3, 4, 5, and 10 once each.",
     "label": "D24",
-    "note": "Requires: ? <br />Unlocks: [[#D26|D26]]<br />'''Quarterly Quest'''",
+    "note": "Requires: ?? <br />Unlocks: [[#D26|D26]]<br />'''Quarterly Quest'''",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 800,
-    "reward_other": "[[File:Development material.png|30px|link=Construction]] x4<br>[[File:Combat Ration 145 Full.png|30px|link=Combat Ration]] x2",
+    "reward_other": "[[File:Development material.png|30px|link=Construction]] x4<br>{{EquipmentLink|Combat Ration|text=true|image=30px}} x2",
     "reward_steel": 0,
     "title": "海上通商航路の警戒を厳とせよ！",
     "title_en": "Stay Alert on the Maritime Routes"
@@ -4338,13 +4338,13 @@
     "reward_ammo": 200,
     "reward_bauxite": 0,
     "reward_fuel": 200,
-    "reward_other": "[[File:Provisional Resupply Card.png|30px]][[Provisional Resupply]]<br>[[File:Combat Ration 145 Full.png|30px|link=Combat Ration]] x2",
+    "reward_other": "[[File:Provisional Resupply Card.png|30px]][[Provisional Resupply]]<br>{{EquipmentLink|Combat Ration|text=true|image=30px}} x2",
     "reward_steel": 0,
     "title": "遠征「補給」支援体制を強化せよ！",
     "title_en": "Reinforce the Expedition Resupply Support Regime!"
   },
   "D26": {
-    "detail_en": "Complete Expedition 4, A2, and A3 twice each.",
+    "detail_en": "Complete Expeditions 4, A2, and A3 twice each.",
     "label": "D26",
     "note": "Requires: [[Quest#D24|D24]], [[Quest#D25|D25]]",
     "reward_ammo": 1000,
@@ -4356,7 +4356,7 @@
     "title_en": "Suppress the Enemy Ships intruding into the close seas!"
   },
   "D27": {
-    "detail_en": "Complete Expedition 3, A1, and B1 once each.",
+    "detail_en": "Complete Expeditions 3, A1, and B1 once each.",
     "label": "D27",
     "note": "Requires: [[Quests#B108|B108]], [[Quests#D2|D2]], ??<br />Unlocks: [[#A82|A82]], [[#B109|B109]]",
     "reward_ammo": 600,
@@ -4368,7 +4368,7 @@
     "title_en": "Operation Shō-Gō 1, Begin!"
   },
   "D28": {
-    "detail_en": "Complete Expedition 5, 9, A1, and A2 once each.",
+    "detail_en": "Complete Expeditions 5, 9, A1, and A2 once each.",
     "label": "D28",
     "note": "Requires: [[Quests#C20|C20]](?)",
     "reward_ammo": 0,
@@ -4380,7 +4380,7 @@
     "title_en": "Coastal Defense Ships, Head Out!"
   },
   "D29": {
-    "detail_en": "Complete Expedition 17, A1, A2, and B1 once each.",
+    "detail_en": "Complete Expeditions 17, A1, A2, and B1 once each.",
     "label": "D29",
     "note": "Requires: [[Quests#D12|D12]], [[Quest#D28|D28]]",
     "reward_ammo": 0,
@@ -4392,7 +4392,7 @@
     "title_en": "Fleet Headquarters Improvements [Preparation Phase]"
   },
   "D3": {
-    "detail_en": "Complete 10 successful [[Expedition|Expeditions]] within the same day.",
+    "detail_en": "Complete 10 [[Expedition|Expeditions]] within the same day.",
     "label": "D3",
     "note": "Requires: [[#D2|D2]]<br />'''Daily Quest'''",
     "reward_ammo": 300,
@@ -4404,7 +4404,7 @@
     "title_en": "Complete 10 Expeditions"
   },
   "D30": {
-    "detail_en": "Complete Expedition 10, A2, and B1 once each.",
+    "detail_en": "Complete Expeditions 10, A2, and B1 once each.",
     "label": "D30",
     "note": "Requires: ??",
     "reward_ammo": 0,
@@ -4416,7 +4416,7 @@
     "title_en": "Reinforce our Defences as well as Scout Patrols!"
   },
   "D31": {
-    "detail_en": "Complete Expedition 35, 36, 37, 38, and 40 once each.",
+    "detail_en": "Complete Expeditions 35, 36, 37, 38, and 40 once each.",
     "label": "D31",
     "note": "Requires: [[Quests#D23|D23]], [[#D30|D30]], ??",
     "reward_ammo": 0,
@@ -4428,7 +4428,7 @@
     "title_en": "Carry Out Expeditions to the Southern Front!"
   },
   "D4": {
-    "detail_en": "Complete 30 successful [[Expedition|Expeditions]] within the same week.",
+    "detail_en": "Complete 30 [[Expedition|Expeditions]] within the same week.",
     "label": "D4",
     "note": "'''Weekly Quest'''",
     "reward_ammo": 500,
@@ -4452,7 +4452,7 @@
     "title_en": "The First Submarine Dispatch Operation"
   },
   "D6": {
-    "detail_en": "Complete Expedition 30 once more.",
+    "detail_en": "Complete Expedition 30 once.",
     "label": "D6",
     "note": "Requires: [[#D5|D5]] <br />Unlocks: [[#D7|D7]], [[#D20|D20]]",
     "reward_ammo": 0,
@@ -4464,13 +4464,13 @@
     "title_en": "The Second Submarine Dispatch Operation"
   },
   "D7": {
-    "detail_en": "Complete Expedition 30 two more times.",
+    "detail_en": "Complete Expedition 30 twice.",
     "label": "D7",
     "note": "Requires: [[#D6|D6]] <br />Unlocks: [[#D8|D8]]",
     "reward_ammo": 0,
     "reward_bauxite": 800,
     "reward_fuel": 0,
-    "reward_other": "{{EquipmentLink|Ju 87C Kai|text=true|image=30px}} x1''<br>''[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
+    "reward_other": "{{EquipmentLink|Ju 87C Kai|text=true|image=30px}} x1<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 0,
     "title": "潜水艦派遣作戦による技術入手の継続",
     "title_en": "Continue to Obtain Technology through Submarine Dispatch Operations"
@@ -4497,7 +4497,7 @@
     "reward_other": "[[File:Furniture box small.png|30px|link=Furniture]] x1",
     "reward_steel": 0,
     "title": "南方への輸送作戦を成功させよ！",
-    "title_en": "Complete the Transport Operations towards South"
+    "title_en": "Complete the Transport Operations towards the South"
   },
   "E1": {
     "detail_en": "Resupply a ship.",
@@ -6051,6 +6051,32 @@
     "reward_steel": 0,
     "title": "迎春！「空母機動部隊」出撃開始！",
     "title_en": "?"
+  },
+  "SB43": {
+    "detail_en": "Sortie a fleet with a [[CL|Light Cruiser]]/[[CVL|Light Aircraft Carrier]]/[[AV|Seaplane Tender]] as flagship, 4 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]], and up to 1 additional ship to Worlds [[1-1]], [[1-2]], [[1-3]] and [[1-4]]. Obtain a S-rank at each boss node.",
+    "label": "SB43",
+    "letter": "B",
+    "note": "Requires: ??",
+    "reward_ammo": 250,
+    "reward_bauxite": 250,
+    "reward_fuel": 250,
+    "reward_other": "'''Choice between'''<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x2<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x4<br>'''then choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1",
+    "reward_steel": 0,
+    "title": "春の海上警備行動！艦隊、抜錨せよ！",
+    "title_en": "Guarding the Calm Spring Sea! Fleet, Weigh Anchor!"
+  },
+  "SB44": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Naganami}} as flagship, 3 of {{ShipLink|Takanami}}, {{ShipLink|Okinami}}, {{ShipLink|Kishinami}} or {{ShipLink|Asashimo}}, and up to 2 additonal ships to Worlds [[2-1]], [[2-2]] and [[5-4]]. Obtain a S-rank '''twice''' at the boss node of [[2-1]] and [[2-2]]. Obtain an A-rank (or greater) '''once''' at the boss node of [[5-4]].",
+    "label": "SB44",
+    "letter": "B",
+    "note": "Requires: [[#C2|C2]], ??.",
+    "reward_ammo": 310,
+    "reward_bauxite": 0,
+    "reward_fuel": 310,
+    "reward_other": "'''Choice between'''<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1<br>'''or'''<br>[[File:Furniture box large.jpg|30px|link=Furniture]] x3<br>'''then choice between'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x2<br>'''or'''<br>[[File:Medal.png|30px|link=Medal]] x1<br>'''or'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x1",
+    "reward_steel": 2019,
+    "title": "春！「三一駆」旗艦「長波」、出撃せよ！",
+    "title_en": "Spring! DesDiv 31 Flagship \"Naganami\", Sortie!"
   },
   "SF1": {
     "detail_en": "Scrap 5 pieces of equipment.",

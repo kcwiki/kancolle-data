@@ -9540,7 +9540,6 @@
   },
   "Harbour Summer Princess Damaged": {
     "_aa": 170,
-    "_air_power_estimation": true,
     "_api_id": 1702,
     "_armor": 164,
     "_asw": 0,
@@ -9558,12 +9557,10 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
         "size": 81
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
         "size": 81
       }
     ],
