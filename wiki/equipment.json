@@ -7646,7 +7646,7 @@
     "_name": "8inch Triple Gun Mount Mk.9",
     "_range": 2,
     "_rarity": 2,
-    "_reading": null,
+    "_reading": "8インチさんれんそうほう マークナイン",
     "_scrap_ammo": 6,
     "_scrap_bauxite": false,
     "_scrap_fuel": false,
@@ -13920,6 +13920,82 @@
     "_flight_range": false,
     "_icon": 31,
     "_id": 348,
+    "_improvements": {
+      "_ammo": 120,
+      "_bauxite": 10,
+      "_fuel": 20,
+      "_products": {
+        "Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 4,
+            "_equipment": {
+              "Drum Canister (Transport Use)": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 5,
+            "_development_material_x": 8,
+            "_equipment": {
+              "12cm 30-tube Rocket Launcher": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "10": {
+            "_development_material": 20,
+            "_development_material_x": 36,
+            "_equipment": {
+              "New Model Rocket Development Material": 2,
+              "true": 1
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 13
+          },
+          "_ships": {
+            "Akitsushima/": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Akitsushima/Kai": {
+              "Friday": null,
+              "Monday": true,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": null
+            },
+            "Arashio/Kai": {
+              "Friday": null,
+              "Monday": true,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": null
+            },
+            "Ooshio/Kai": {
+              "Friday": null,
+              "Monday": true,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": 30
+    },
     "_info": "地対地ロケット兵装として、日本陸軍によって開発された試製四式噴進砲。圧倒的な火力を集中的に投射して、敵の地上戦力や陣地を破壊制圧する目的で整備され、防御戦にも実際に投入されました。本兵装は、同地対地噴進砲を艦載し、集中運用することで、敵地上兵力を叩く艦艇用対地if装備です。※本兵装は集中運用することで、さらに能力を発揮します。",
     "_japanese_name": "艦載型 四式20cm対地噴進砲",
     "_los": false,
@@ -17659,7 +17735,7 @@
             "_development_material_x": 30,
             "_equipment": {
               "Action Report": 1,
-              "Type 2 12cm Mortar Kai": 2
+              "true": 1
             },
             "_improvement_material": 6,
             "_improvement_material_x": 9
@@ -19579,6 +19655,37 @@
     "_torpedo": false,
     "_torpedo_accuracy": 12,
     "_type": 12
+  },
+  "Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)": {
+    "_aa": false,
+    "_armor": -4,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 1,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 31,
+    "_id": 349,
+    "_info": "",
+    "_japanese_name": "四式20cm対地噴進砲 集中配備",
+    "_los": false,
+    "_luck": false,
+    "_name": "Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 6,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 1,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 37
   },
   "Type 4 Fighter Hayate": {
     "_aa": 10,

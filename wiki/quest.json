@@ -56,7 +56,7 @@
   "A12": {
     "category": null,
     "detail": null,
-    "detail_en": "Have a [[CVL|Light Aircraft Carrier]]/[[CV|Standard Aircraft Carrier]]//[[CVB|Armored Aircraft Carrier]] as flagship and 3 [[DD|Destroyers]] in your first fleet.",
+    "detail_en": "Have a [[CVL|Light Aircraft Carrier]]/[[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]] as flagship and 3 [[DD|Destroyers]] in your first fleet.",
     "id": null,
     "label": "A12",
     "note": "Unlocks: [[#A13|A13]]",
@@ -74,7 +74,7 @@
   "A13": {
     "category": null,
     "detail": null,
-    "detail_en": "Have 1 [[BB|Battleship]] and 2 [[CA|Heavy Cruisers]] in your first fleet.'''<br><span style=\"color:red\">※ [[BBV|Aviation Battleships]] do not count.</span>'''",
+    "detail_en": "Have 1 [[BB|Battleship]] and 2 [[CA|Heavy Cruisers]] in your first fleet.'''<br>{{color|red|※ [[BBV|Aviation Battleships]] do not count.}}'''",
     "id": null,
     "label": "A13",
     "note": "Requires: [[#A12|A12]]<br>Unlocks: [[#A19|A19]], [[#A20|A20]]",
@@ -100,7 +100,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 100,
-    "reward_other": "<span style=\"color:red\">Unlocks the third fleet</span>",
+    "reward_other": "{{color|red|Unlocks the third fleet}}",
     "reward_steel": 100,
     "title": "「川内」型軽巡姉妹の全3艦を編成せよ！",
     "title_en": "Organize All 3 Sisters of the [[Ship_Class#Sendai-class|Sendai-class]] Light Cruisers",
@@ -136,7 +136,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
-    "reward_other": "<span style=\"color:red\">Unlocks the fourth fleet</span>",
+    "reward_other": "{{color|red|Unlocks the fourth fleet}}",
     "reward_steel": 0,
     "title": "「金剛」型による高速戦艦部隊を編成せよ！",
     "title_en": "Organize a Fast Battleship Force with the [[Ship_Class#Kongou-class|Kongou-class]]",
@@ -401,7 +401,6 @@
     "note": "Requires: [[#A2|A2]]<br>Unlocks: [[#A4|A4]], [[#A5|A5]]",
     "requires": null,
     "reward_ammo": 40,
-    "reward_bauxite": 40,
     "reward_fuel": 40,
     "reward_other": "[[Emergency Repair Personnel]] x1",
     "reward_steel": 0,
@@ -594,7 +593,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 50,
-    "reward_other": "<span style=\"color:red\">Unlocks the second fleet<br>Unlocks [[Expeditions]]</span>",
+    "reward_other": "{{color|red|Unlocks the second fleet<br>Unlocks [[Expeditions]]}}",
     "reward_steel": 50,
     "title": "6隻編成の艦隊を編成せよ！",
     "title_en": "Organize a Fleet of 6 Ships",
@@ -1155,7 +1154,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x2",
     "reward_steel": 100,
     "title": "強行高速輸送部隊を編成せよ！",
-    "title_en": "Organise a Forced High-speed Transport Fleet!",
+    "title_en": "Organize a Forced High-speed Transport Fleet!",
     "type": null,
     "unlocks": null
   },
@@ -1173,14 +1172,14 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x2",
     "reward_steel": 0,
     "title": "新編「水雷戦隊」を含む艦隊を再編成せよ！",
-    "title_en": "Organise a New Torpedo Squadron!",
+    "title_en": "Organize a New Torpedo Squadron!",
     "type": null,
     "unlocks": null
   },
   "A7": {
     "category": null,
     "detail": null,
-    "detail_en": "Have 2 [[CA|Heavy Cruisers]] in your fleet.<br>'''<span style=\"color:red\">※ [[CAV|Aviation Cruisers]] do not count.</span>'''",
+    "detail_en": "Have 2 [[CA|Heavy Cruisers]] in your fleet.<br>'''{{color|red|※ [[CAV|Aviation Cruisers]] do not count.}}'''",
     "id": null,
     "label": "A7",
     "note": "Requires: [[#A5|A5]]<br>Unlocks: [[#A14|A14]]",
@@ -1209,7 +1208,7 @@
     "reward_other": "[[File:Development material.png|30px|link=Construction]] x3",
     "reward_steel": 0,
     "title": "新編「第八駆逐隊」を再編成せよ！",
-    "title_en": "Reorganise the New 8th Destroyer Division!",
+    "title_en": "Reorganize the New 8th Destroyer Division!",
     "type": null,
     "unlocks": null
   },
@@ -1245,7 +1244,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x2<br>[[Combat Ration]] x1",
     "reward_steel": 190,
     "title": "「第十九駆逐隊」を編成せよ！",
-    "title_en": "Organise the 19th Destroyer Division!",
+    "title_en": "Organize the 19th Destroyer Division!",
     "type": null,
     "unlocks": null
   },
@@ -1281,7 +1280,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x3<br>[[Emergency Repair Personnel]] x1",
     "reward_steel": 0,
     "title": "精鋭「第十六戦隊」を再編成せよ！",
-    "title_en": "Reorganise the Elite 16th Cruiser Division!",
+    "title_en": "Reorganize the Elite 16th Cruiser Division!",
     "type": null,
     "unlocks": null
   },
@@ -1414,7 +1413,7 @@
   "A81": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Michishio Kai Ni]], [[Asashio Kai Ni]] or [[Asashio Kai Ni D]], [[Ooshio Kai Ni]], and [[Arashio Kai Ni]] in your fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest A81 achieved.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Michishio Kai Ni]], [[Asashio Kai Ni]] or [[Asashio Kai Ni D]], [[Ooshio Kai Ni]], and [[Arashio Kai Ni]] in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A81 achieved.ogg}}}}'''",
     "id": null,
     "label": "A81",
     "note": "Requires: [[#B74|B74]], [[#B108|B108]], ??<br>",
@@ -1432,7 +1431,7 @@
   "A82": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Mogami]], [[Michishio]], [[Shigure]], [[Asagumo]], and [[Yamagumo]] in your '''third''' fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest A82 achieved.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Mogami]], [[Michishio]], [[Shigure]], [[Asagumo]], and [[Yamagumo]] in your '''third''' fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A82 achieved.ogg}}}}'''",
     "id": null,
     "label": "A82",
     "note": "Requires: [[#D2|D2]], [[#D27|D27]]",
@@ -1468,7 +1467,7 @@
   "A84": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Murasame Kai Ni]] as flagship, 3 of [[Yura Kai Ni]], [[Yuudachi Kai Ni]], [[Harusame Kai]], [[Samidare Kai]], and [[Akizuki Kai]], and 2 additional ships in your fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest A84 achieved.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Murasame Kai Ni]] as flagship, 3 of [[Yura Kai Ni]], [[Yuudachi Kai Ni]], [[Harusame Kai]], [[Samidare Kai]], and [[Akizuki Kai]], and 2 additional ships in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A84 achieved.ogg}}}}'''",
     "id": null,
     "label": "A84",
     "note": "Requires: [[#A78|A78]], [[#B34|B34]]",
@@ -1503,7 +1502,7 @@
   },
   "A86": {
     "category": null,
-    "detail_en": "Have [[Isokaze B Kai]], [[Hamakaze B Kai]], [[Urakaze Kai]], and [[Tanikaze Kai]] in your fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest A86 achieved.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Isokaze B Kai]], [[Hamakaze B Kai]], [[Urakaze Kai]], and [[Tanikaze Kai]] in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A86 achieved.ogg}}}}'''",
     "id": null,
     "label": "A86",
     "note": "Requires: [[#B61|B61]], [[#F72|F72]]",
@@ -1531,14 +1530,14 @@
     "reward_other": "'''Choice between'''<br>[[File:Reinforcement_expansion_064_useitem.png|30px|link=Reinforcement Expansion]][[Reinforcement Expansion]] x1<br> '''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 180,
     "title": " 精鋭「第十八駆逐隊」を編成せよ！",
-    "title_en": "Organise the Elite \"18th Destroyer Division\"!",
+    "title_en": "Organize the Elite \"18th Destroyer Division\"!",
     "type": null,
     "unlocks": null
   },
   "A88": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Kagerou Kai Ni]], [[Shiranui Kai Ni]], [[Kuroshio Kai Ni]], and 3 level 70 or above [[Ship_Class#Kagerou-class|Kagerou]]/[[Ship_Class#Yuugumo-class|Yuugumo]] class Destroyers in your fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest A88 achieved.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Kagerou Kai Ni]], [[Shiranui Kai Ni]], [[Kuroshio Kai Ni]], and 3 level 70 or above [[Ship_Class#Kagerou-class|Kagerou]]/[[Ship_Class#Yuugumo-class|Yuugumo]] class Destroyers in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A88 achieved.ogg}}}}'''",
     "id": null,
     "label": "A88",
     "note": "Requires: [[#B109|B109]], ?? <br>Unlocks: [[#C18|C18]]",
@@ -1592,7 +1591,7 @@
   "A90": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Isokaze B Kai]], [[Hamakaze B Kai]], [[Urakaze D Kai]], and [[Tanikaze D Kai]] in your fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest_A90_atcheved_.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Isokaze B Kai]], [[Hamakaze B Kai]], [[Urakaze D Kai]], and [[Tanikaze D Kai]] in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A90 achieved.ogg}}}}'''",
     "id": null,
     "label": "A90",
     "note": "Requires: [[#A86|A86]], ??",
@@ -1628,7 +1627,7 @@
   "A92": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Nagato Kai Ni]] as flagship and [[Mutsu Kai Ni]] as second ship in your fleet.<br>'''<span style=\"color:red\">※ On completion plays <span class=\"audio-button\">[[Media:Quest A92 achieved.ogg|Play]]</span></span>'''",
+    "detail_en": "Have [[Nagato Kai Ni]] as flagship and [[Mutsu Kai Ni]] as second ship in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A92 achieved.ogg}}}}'''",
     "id": null,
     "label": "A92",
     "note": "Requires: [[#B99|B99]], [[#Bd2|Bd2]], ??",
@@ -2109,7 +2108,7 @@
     "reward_other": "{{EquipmentLink|35.6cm Twin Gun Mount Kai Ni|text=true|image=30px}} x1<br>'''then choice between'''<br>{{ItemLink|text=true|image=30px|Action Report}} x1<br>'''or'''<br>{{ItemLink|text=true|image=30px|New Model Gun Mount Improvement Material}} x2<br>'''or'''<br>[[File:Medal.png|30px|link=Medal]] x1",
     "reward_steel": 0,
     "title": "重改装高速戦艦「金剛改二丙」、南方突入！",
-    "title_en": "Heavily Refurbished Fast Fattleship \"Kongou K2C\", Head to the South!"
+    "title_en": "Heavily Refurbished Fast Battleship \"Kongou K2C\", Head to the South!"
   },
   "B134": {
     "detail_en": "Sortie a fleet with {{ShipLink|Ooyodo}} as flagship, either {{ShipLink|Akashi}} or a [[AV|Seaplane Tender]], and up to 4 additional ships to Worlds [[2-3]], [[3-3]], and [[4-1]]. Obtain a S-rank at each boss node '''twice'''.",
@@ -2424,7 +2423,7 @@
     "title_en": "Sortie the 2nd Squadron!"
   },
   "B32": {
-    "detail_en": "Sortie a fleet with 2 [[BB|Battleships]], 1 [[CVL|Light Aircraft Carrier]], and 3 additional ships to World [[3-5]]. Obtain a S-rank at the boss node.<br>'''<span style=\"color:red\">※ [[BBV|Aviation Battleships]] do not count as [[BB|Battleships]] for this quest.</span>'''",
+    "detail_en": "Sortie a fleet with 2 [[BB|Battleships]], 1 [[CVL|Light Aircraft Carrier]], and 3 additional ships to World [[3-5]]. Obtain a S-rank at the boss node.<br>'''{{color|red|※ [[BBV|Aviation Battleships]] do not count as [[BB|Battleships]] for this quest.}}'''",
     "label": "B32",
     "note": "Requires: [[#Bm4|Bm4]] <br />Unlocks: [[#B49|B49]]",
     "reward_ammo": 500,
@@ -3048,7 +3047,7 @@
     "title_en": "19th Destroyer Division: Engage the Enemy's Main Forces!"
   },
   "B8": {
-    "detail_en": "Sortie a fleet with a [[BB|Battleship]] as flagship to any map.<br>'''<span style=\"color:red\">※ [[BBV|Aviation Battleships]] do not count as [[BB|Battleships]] for this quest.</span>'''",
+    "detail_en": "Sortie a fleet with a [[BB|Battleship]] as flagship to any map.<br>'''{{color|red|※ [[BBV|Aviation Battleships]] do not count as [[BB|Battleships]] for this quest.}}'''",
     "label": "B8",
     "note": "Requires: [[#B7|B7]] <br />Unlocks: [[#B9|B9]], [[#B88|B88]]",
     "reward_ammo": 150,
@@ -3480,7 +3479,7 @@
     "title_en": "Carrier Task Force, Westwards Ho!"
   },
   "Bm7": {
-    "detail_en": "Sortie a fleet with a [[DD|Destroyer]] as flagship, 1 [[CA|Heavy Cruiser]], 1 [[CL|Light Cruiser]], and 3 other [[DD|Destroyers]] to World [[2-5]]. Obtain a S-rank at the boss node.<br>'''<span style=\"color:red\">※ [[CAV|Aviation Cruisers]] do not count as [[CA|Heavy Cruisers]] for this quest.</span>'''",
+    "detail_en": "Sortie a fleet with a [[DD|Destroyer]] as flagship, 1 [[CA|Heavy Cruiser]], 1 [[CL|Light Cruiser]], and 3 other [[DD|Destroyers]] to World [[2-5]]. Obtain a S-rank at the boss node.<br>'''{{color|red|※ [[CAV|Aviation Cruisers]] do not count as [[CA|Heavy Cruisers]] for this quest.}}'''",
     "label": "Bm7",
     "note": "Requires: [[#A46|A46]], [[#Bm6|Bm6]]<br />Unlocks: [[#A61|A61]]",
     "reward_ammo": 600,
@@ -3537,7 +3536,19 @@
     "reward_other": "[[File:Ranking point reward.png|30px]] '''80 ranking points'''<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1<br>'''then choice between'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x2<br>'''or'''<br>{{EquipmentLink|text=true|image=30px|Type 94 Depth Charge Projector}} x2<br>'''or'''<br>{{EquipmentLink|Drum Canister (Transport Use)|text=true|image=30px}} x2",
     "reward_steel": 800,
     "title": "南西諸島方面「海上警備行動」発令！",
-    "title_en": "\"Surface Security Actions\" around the Nansei Archipelago Annoucement"
+    "title_en": "\"Surface Security Actions\" around the Nansei Archipelago Announcement"
+  },
+  "Bq12": {
+    "detail_en": "Sortie a fleet to Worlds [[4-1]], [[4-2]], [[4-3]], [[4-4]], and [[4-5]]. Obtain a S-rank(?) at each boss node.",
+    "label": "Bq12",
+    "note": "Requires: [[Quests#Bq11|Bq11]], ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "[[File:Ranking point reward.png|30px]] '''330 ranking points'''<br>'''then choice between'''<br>[[File:Medal.png|30px|link=Medal]] x1<br>'''or'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|New Model Rocket Development Material|text=true|image=30px}} x1",
+    "reward_steel": 2400,
+    "title": "発令！「西方海域作戦」",
+    "title_en": "Official Announcement! Western Sea Operation!"
   },
   "Bq2": {
     "detail_en": "Sortie a fleet to Worlds [[2-4]], [[6-1]], [[6-3]], and [[6-4]]. Obtain an A-rank (or higher) at the boss node of [[2-4]], [[6-1]], and [[6-3]]. Obtain a '''S-rank''' at the boss node of [[6-4]].",
@@ -3630,7 +3641,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 600,
-    "reward_other": "'''Choice bewteen'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x4<br>'''then choice between'''<br>{{EquipmentLink|Saiun|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1<br>'''or'''<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x4<br>'''then choice between'''<br>{{EquipmentLink|Saiun|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1<br>'''or'''<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
     "reward_steel": 600,
     "title": "空母戦力の投入による兵站線戦闘哨戒",
     "title_en": "Supply Line Combat Patrol for the release of the Aircraft Carrier Strength"
@@ -3777,7 +3788,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
     "reward_steel": 300,
     "title": "秋季大演習",
-    "title_en": "Large-scale Autumn Season Exercise"
+    "title_en": "Large-scale Fall Season Exercise"
   },
   "C11": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 8 times within the same day.",
@@ -3801,7 +3812,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
     "reward_steel": 1000,
     "title": "春季大演習",
-    "title_en": "Large Scale Spring Training"
+    "title_en": "Large-scale Spring Season Exercise"
   },
   "C13": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
@@ -3933,7 +3944,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
     "reward_steel": 0,
     "title": "夏季大演習",
-    "title_en": "Large-scale Summer Exercise"
+    "title_en": "Large-scale Summer Season Exercise"
   },
   "C25": {
     "detail_en": "Use a fleet with at least 4 [[Ship_Class#Asashio-class|Asashio-class]] Destroyers and up to 2 additonal ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
@@ -4054,6 +4065,30 @@
     "reward_steel": 0,
     "title": "輸送船団演習",
     "title_en": "Transport Fleet Exercise"
+  },
+  "C38": {
+    "detail_en": "Use a fleet with {{ShipLink|Kagerou}}, {{ShipLink|Shiranui}}, {{ShipLink|Kasumi}}, {{ShipLink|Arare}}, and up to 2 additional ships to obtain a S-rank in [[Exercises (PvP)]] 3 times within the same day.",
+    "label": "C38",
+    "note": "Requires: ??<br>'''Quarterly Quest'''",
+    "reward_ammo": 180,
+    "reward_bauxite": 0,
+    "reward_fuel": 180,
+    "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''then choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|12cm 30-tube Rocket Launcher|text=true|image=30px}} x2<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3",
+    "reward_steel": 180,
+    "title": "「十八駆」演習！",
+    "title_en": "DesDiv 18 Exercise!"
+  },
+  "C39": {
+    "detail_en": "Use a fleet with 4 {{ShipLink|Mutsuki|link_class=Mutsuki|text=Mutsuki-class}} ships and up to 2 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)]] 4 times within the same day.",
+    "label": "C39",
+    "note": "Requires: [[Quests#Bd5|Bd5]], ??",
+    "reward_ammo": 200,
+    "reward_bauxite": 0,
+    "reward_fuel": 200,
+    "reward_other": "[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x5<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>{{EquipmentLink|New Model Rocket Development Material|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "睦月型集合！演習始め！",
+    "title_en": "Mutsuki-class, Assemble! Commence Exercises!"
   },
   "C4": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 20 times within the same week.",
@@ -5615,6 +5650,18 @@
     "title": "軍縮条約対応！",
     "title_en": "Response to Disarmament Treaty"
   },
+  "F90": {
+    "detail_en": "Prepare 6000 Furniture Coins, 3 {{EquipmentLink|35.6cm Twin Gun Mount}}, and 3 {{EquipmentLink|Type 96 Fighter}} in your inventory. Scrap 6 {{EquipmentLink|14cm Single Gun Mount}}.",
+    "label": "F90",
+    "note": "Requires: ??<br>'''Quarterly Quest'''",
+    "reward_ammo": 0,
+    "reward_bauxite": 600,
+    "reward_fuel": 0,
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Type 0 Fighter Model 21|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Type 96 Land-based Attack Aircraft|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Type 94 Depth Charge Projector|text=true|image=30px}} x3<br>'''or'''<br>{{EquipmentLink|12cm 30-tube Rocket Launcher|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Type 2 12cm Mortar Kai|text=true|image=30px}} x1",
+    "reward_steel": 600,
+    "title": "工廠稼働！次期作戦準備！",
+    "title_en": "Arsenal Work! Preparations for the Next Operation!"
+  },
   "G1": {
     "detail_en": "Perform a successful modernization.",
     "label": "G1",
@@ -5683,7 +5730,7 @@
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 100,
-    "reward_other": "{{ShipLink|Iona (fog)}}<br><span style=\"color:red;\">Unlocks [[Christmas 2013 Event]] E-1.",
+    "reward_other": "{{ShipLink|Iona (fog)}}<br>{{color|red|Unlocks [[Christmas 2013 Event]] E-1}}",
     "reward_steel": 0,
     "title": "謎の潜水艦「イオナ」と接触せよ！",
     "title_en": "?"
@@ -5702,14 +5749,14 @@
     "title_en": "?"
   },
   "MB03": {
-    "detail_en": "Sortie a fleet to any map. Obtain an A-rank (or higher) at boss nodes 4 times.<br><span style=\"color:red\">※ The enemy flagship must be sunk for A-ranks to count toward quest progress.</span>",
+    "detail_en": "Sortie a fleet to any map. Obtain an A-rank (or higher) at boss nodes 4 times.<br>{{color|red|※ The enemy flagship must be sunk for A-ranks to count toward quest progress.}}",
     "label": "MB03",
     "letter": "B",
     "note": "Requires: [[#MD01|MD01]].",
     "reward_ammo": 200,
     "reward_bauxite": 0,
     "reward_fuel": 200,
-    "reward_other": "{{ShipLink|Takao (fog)}}<br><span style=\"color:red;\">Unlocks [[Christmas 2013 Event]] E-2.",
+    "reward_other": "{{ShipLink|Takao (fog)}}<br>{{color|red|Unlocks [[Christmas 2013 Event]] E-2}}",
     "reward_steel": 0,
     "title": "霧の艦隊重巡「タカオ」と接触せよ！",
     "title_en": "?"
@@ -5735,7 +5782,7 @@
     "reward_ammo": 300,
     "reward_bauxite": 0,
     "reward_fuel": 300,
-    "reward_other": "{{ShipLink|Haruna (fog)}}<br><span style=\"color:red;\">Unlocks [[Christmas 2013 Event]] E-3.",
+    "reward_other": "{{ShipLink|Haruna (fog)}}<br>{{color|red|Unlocks [[Christmas 2013 Event]] E-3}}",
     "reward_steel": 0,
     "title": "霧の大戦艦「ハルナ」と接触せよ！",
     "title_en": "?"
@@ -5780,14 +5827,14 @@
     "title_en": "?"
   },
   "OR2": {
-    "detail_en": "Complete Expedition 175 once.<br><span style=\"color:red\">※ This was a [[Winter 2016 Event]]-exclusive expedition.</span><br><span style=\"color:red\">※ Flagship must be ≥ level 6, fleet must have a combined level ≥ level 15.</span>",
+    "detail_en": "Complete Expedition 175 once.<br>{{color|red|※ This was a [[Winter 2016 Event]]-exclusive expedition.<br>※ Flagship must be ≥ level 6, fleet must have a combined level ≥ level 15.}}",
     "label": "OR2",
     "letter": "D",
     "note": "Requires: [[#OR1|OR1]].",
     "reward_ammo": 100,
     "reward_bauxite": 100,
     "reward_fuel": 100,
-    "reward_other": "{{EquipmentLink|203mm/53 Twin Gun Mount|text=true|image=30px}} x1<br><span style=\"color:red\">Unlocks [[Winter 2016 Event]] E-3.</span>",
+    "reward_other": "{{EquipmentLink|203mm/53 Twin Gun Mount|text=true|image=30px}} x1<br>{{color|red|Unlocks [[Winter 2016 Event]] E-3}}",
     "reward_steel": 300,
     "title": "親善艦参加観艦式を実施せよ！",
     "title_en": "?"
@@ -5871,7 +5918,7 @@
     "title_en": "?"
   },
   "SB07": {
-    "detail_en": "Have 32 pieces of [[Decoration Material]] in your inventory.<br><span style=\"color:red\">※ 32 pieces of [[Decoration Material]] will be removed from your inventory upon completion of this quest.</span>",
+    "detail_en": "Have 32 pieces of [[Decoration Material]] in your inventory.<br>{{color|red|※ 32 pieces of [[Decoration Material]] will be removed from your inventory upon completion of this quest.}}",
     "label": "SB07",
     "letter": "B",
     "note": "Requires: [[#SB06|SB06]].",
@@ -6125,7 +6172,7 @@
     "reward_ammo": 250,
     "reward_bauxite": 250,
     "reward_fuel": 0,
-    "reward_other": "<span style=\"color:red\">Unlocks [[Summer 2015 Event]] E-3.",
+    "reward_other": "{{color|red|Unlocks [[Summer 2015 Event]] E-3}}",
     "reward_steel": 0,
     "title": "主力機動部隊の前路哨戒を実施せよ！",
     "title_en": "?"
@@ -6177,7 +6224,7 @@
     "reward_ammo": 300,
     "reward_bauxite": 0,
     "reward_fuel": 300,
-    "reward_other": "<span style=\"color:red\">Unlocks [[Summer 2015 Event]] E-5.",
+    "reward_other": "{{color|red|Unlocks [[Summer 2015 Event]] E-5}}",
     "reward_steel": 0,
     "title": "FS作戦に備え、艦隊練度向上に努めよ！",
     "title_en": "?"
@@ -6229,7 +6276,7 @@
     "reward_ammo": 450,
     "reward_bauxite": 450,
     "reward_fuel": 0,
-    "reward_other": "<span style=\"color:red\">Unlocks [[Summer 2015 Event]] E-6.",
+    "reward_other": "{{color|red|Unlocks [[Summer 2015 Event]] E-6}}",
     "reward_steel": 0,
     "title": "FS作戦の橋頭堡を築け！",
     "title_en": "?"

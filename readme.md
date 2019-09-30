@@ -197,21 +197,33 @@ tlItemFromId : function
 
 ## Updating
 
-To generate game API with [kancolle-browser](https://github.com/kcwiki/kancolle-browser):
+Generate game API with [kancolle-browser](https://github.com/kcwiki/kancolle-browser):
 
 ```sh
 yarn global add @kancolle/browser # one time
 yarn build-api
 ```
 
-To generate translations and map data from Wikia (via Poi) and KC3Kai sources:
+Generate translations and map data from Wikia (via Poi) and KC3Kai sources:
 
 ```sh
 yarn build-external
 ```
 
-To update Wikia data:
+Update Wikia data:
 
 ```sh
 yarn build-wiki-data
+```
+
+Update dependencies:
+
+```sh
+yarn up
+```
+
+Run tests:
+
+```sh
+yarn test
 ```
