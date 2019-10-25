@@ -26,7 +26,7 @@
   "新型砲熕兵装資材": "New Model Gun Mount Improvement Material",
   "新型航空兵装資材": "New Model Aerial Armament Material",
   "新型航空機設計図": "New Technology Aircraft Blueprint",
-  "書類一式＆指輪": "Marriage Papers and Ring",
+  "書類一式＆指輪": "Marriage Ring and Documents",
   "梅干": "Umeboshi",
   "母港拡張": "Homeport Expansion",
   "洋上補給": "Underway Replenishment",
@@ -36,8 +36,8 @@
   "燃料": "Fuel",
   "特注家具職人": "Furniture Fairy",
   "甲種勲章": "First Class Medal",
-  "秋刀魚": "Mackerel",
-  "秋刀魚の缶詰": "Canned Mackerel",
+  "秋刀魚": "Saury",
+  "秋刀魚の缶詰": "Canned Saury",
   "節分の豆": "Setsubun Beans",
   "給糧艦「伊良湖」": "Food Supply Ship Irako",
   "給糧艦「間宮」": "Food Supply Ship Mamiya",
@@ -51,5 +51,6 @@
   "開発資材": "Development Material",
   "高速修復材": "Instant Repair Material",
   "高速建造材": "Instant Construction Material",
+  "鰯": "Sardine",
   "鳳翔さんの夕食券": "Houshou Dinner Ticket"
 }

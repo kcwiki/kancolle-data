@@ -27,7 +27,7 @@
     "_reading": null,
     "_type": 6
   },
-  "Canned Mackerel": {
+  "Canned Saury": {
     "_aa": false,
     "_armor": false,
     "_asw": false,
@@ -43,7 +43,7 @@
     "_japanese_name": "秋刀魚の缶詰",
     "_los": false,
     "_luck": false,
-    "_name": "Canned Mackerel",
+    "_name": "Canned Saury",
     "_page": false,
     "_range": false,
     "_rarity": 2,
@@ -327,6 +327,7 @@
     "_wikipedia": "Damage control"
   },
   "First Class Medal": {
+    "_card": "Item Card First Class Medal.png",
     "_category": 0,
     "_description": "難易度の高い作戦を、精鋭の艦娘たちと共に攻略した提督のみに贈られる勝利の証。それが、「甲種勲章」。資材等に交換することも可能です。",
     "_id": 61,
@@ -484,28 +485,18 @@
     "_reading": null,
     "_type": 1
   },
-  "Mackerel": {
-    "_category": 0,
-    "_description": "漁場の安全を確保し、秋刀魚漁を支援することで入手した貴重な旬の「秋刀魚」です。※秋刀魚祭り終了時に消滅します。",
-    "_id": 68,
-    "_item": true,
-    "_japanese_name": "秋刀魚",
-    "_name": "Mackerel",
-    "_reading": null,
-    "_type": 4
-  },
-  "Marriage Papers and Ring": {
+  "Marriage Ring and Documents": {
     "_category": 0,
     "_description": "ケッコンカッコカリに必要な書類一式と指輪。改装で使用する。",
     "_id": 55,
     "_item": true,
     "_japanese_name": "書類一式＆指輪",
-    "_name": "Marriage Papers and Ring",
+    "_name": "Marriage Ring and Documents",
     "_reading": null,
     "_type": 0
   },
   "Medal": {
-    "_card": "Medal 057 useitem.png",
+    "_card": "Item Card Medal.png",
     "_category": 0,
     "_description": "暁の水平線に勝利を刻んだ提督に贈られる「証」。資源や改修資材、または複数集めて改装設計図と交換することも可能です。",
     "_id": 57,
@@ -624,6 +615,26 @@
     "_item": true,
     "_japanese_name": "お米",
     "_name": "Rice",
+    "_reading": null,
+    "_type": 4
+  },
+  "Sardine": {
+    "_category": 0,
+    "_description": "漁場の安全を確保し、鰯漁を支<br>援することで入手した美味しい<br>旬の「鰯」です。※秋刀魚＆鰯<br>祭り終了時に消滅します。",
+    "_id": 93,
+    "_item": true,
+    "_japanese_name": "鰯",
+    "_name": "Sardine",
+    "_reading": null,
+    "_type": 4
+  },
+  "Saury": {
+    "_category": 0,
+    "_description": "漁場の安全を確保し、秋刀魚漁を支援することで入手した貴重な旬の「秋刀魚」です。※秋刀魚祭り終了時に消滅します。",
+    "_id": 68,
+    "_item": true,
+    "_japanese_name": "秋刀魚",
+    "_name": "Saury",
     "_reading": null,
     "_type": 4
   },
