@@ -2215,7 +2215,7 @@
   "B137": {
     "detail_en": "Sortie a fleet with {{ShipLink|Akagi/Kai Ni}} or {{ShipLink|Akagi/Kai Ni E}} as flagship, {{ShipLink|Kaga}} as second ship, and up to 4 additional ships to Worlds [[4-5]], [[5-2]], and [[6-5]]. Obtain a S-rank at the boss node of [[4-5]] and [[5-2]] once. Obtain a S-rank at the boss node of [[6-5]] '''twice'''.",
     "label": "B137",
-    "note": "Requires: [[#C33|C33]], ??",
+    "note": "Requires: [[#C33|C33]], [[#B40|B40]]",
     "reward_ammo": 0,
     "reward_bauxite": 1000,
     "reward_fuel": 0,
@@ -4073,7 +4073,7 @@
     "title_en": "Aircraft Exercise"
   },
   "C32": {
-    "detail_en": "Use a fleet with 1 [[CL|Light Cruiser]] and 3 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]] to obtain a S-rank in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
+    "detail_en": "Use a fleet with 1 [[CL|Light Cruiser]], 3 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]], and any 2 other ships to obtain an S-rank in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
     "label": "C32",
     "note": "Requires: ??",
     "reward_ammo": 600,
