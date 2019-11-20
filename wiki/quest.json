@@ -466,7 +466,7 @@
     "note": "Requires: [[#A2|A2]]<br>Unlocks: [[#A4|A4]], [[#A5|A5]]",
     "requires": null,
     "reward_ammo": 40,
-    "reward_bauxite": 0,
+    "reward_bauxite": 40,
     "reward_fuel": 40,
     "reward_other": "[[Emergency Repair Personnel]] x1",
     "reward_steel": 0,
@@ -3892,6 +3892,10 @@
     "title": "輸送部隊の練度向上に努めよ！",
     "title_en": "Raise the Transport Unit's Experience!"
   },
+  "C14": {
+    "alias_of": "C11",
+    "label": "C14"
+  },
   "C15": {
     "detail_en": "Use your first fleet with at least 2 [[Ship_Class#Kagerou-class|Kagerou]]/[[Ship_Class#Kagerou-class|Yuugumo]] class Destroyers and up to 4 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times. Then, sortie a fleet meeting the same conditions to Worlds [[2-2]], [[2-3]], [[2-4]], and [[2-5]]. Obtain an A-rank (or higher) at each boss node.+",
     "label": "C15",
@@ -3939,6 +3943,10 @@
     "reward_steel": 0,
     "title": "駆逐隊、特訓始め！",
     "title_en": "Destroyer Squadron, Begin the Special Training!"
+  },
+  "C19": {
+    "alias_of": "C12",
+    "label": "C19"
   },
   "C2": {
     "detail_en": "Participate in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
@@ -4024,6 +4032,10 @@
     "title": "朝潮型集合！特訓始め！",
     "title_en": "Asashio-class, Assemble! Commence Special Training!"
   },
+  "C26": {
+    "alias_of": "C10",
+    "label": "C26"
+  },
   "C27": {
     "detail_en": "Use a fleet with {{ShipLink|Isokaze/B Kai}}, {{ShipLink|Hamakaze/B Kai}},  {{ShipLink|Urakaze/D Kai}}, {{ShipLink|Tanikaze/D Kai}}, and up to 2 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
     "label": "C27",
@@ -4035,6 +4047,10 @@
     "reward_steel": 170,
     "title": "精強「十七駆」、猛特訓！",
     "title_en": "Elite 17th Destroyer Division, Begin the Intense Training!"
+  },
+  "C28": {
+    "alias_of": "C11",
+    "label": "C28"
   },
   "C29": {
     "detail_en": "Use a fleet with a [[CVL|Light Aircraft Carrier]]/[[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]] as flagship, 1 other [[CVL|Light Aircraft Carrier]]/[[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]], 2 [[DD|Destroyers]], and up to 2 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
@@ -4059,6 +4075,10 @@
     "reward_steel": 0,
     "title": "「演習」で他提督を圧倒せよ！",
     "title_en": "Overwhelm the Other Admirals through Exercises!"
+  },
+  "C30": {
+    "alias_of": "C12",
+    "label": "C30"
   },
   "C31": {
     "detail_en": "Use a fleet with a [[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]] as flagship, 1 other [[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]], 2 [[DD|Destroyers]], and up to 2 additional ships to obtain an A-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
@@ -4120,6 +4140,10 @@
     "title": "新しき盾",
     "title_en": "A New Shield"
   },
+  "C36": {
+    "alias_of": "C24",
+    "label": "C36"
+  },
   "C37": {
     "detail_en": "Use a fleet with 2 [[LHA|Amphibious Assault Ships]]/[[AO|Fleet Oilers]]/[[DE|Coastal Defense Ships]] and up to 4 additional ships to obtain an A-rank in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
     "label": "C37",
@@ -4167,6 +4191,10 @@
     "reward_steel": 200,
     "title": "大規模演習",
     "title_en": "Large-scale Exercises"
+  },
+  "C40": {
+    "alias_of": "C10",
+    "label": "C40"
   },
   "C5": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
@@ -6567,6 +6595,71 @@
     "reward_steel": 2000,
     "title": "【GW期間限定】六周年出撃任務 -拡張作戦-",
     "title_en": "[GW-only] 6th Anniversary Sortie Mission -Extra Operation-"
+  },
+  "SB47": {
+    "detail_en": "Have 3 pieces of Saury in your inventory.",
+    "label": "SB47",
+    "letter": "B",
+    "note": "",
+    "reward_ammo": 300,
+    "reward_bauxite": 0,
+    "reward_fuel": 300,
+    "reward_other": "'''Choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x5<br>'''then choice between'''<br>{{EquipmentLink|Type 3 Active Sonar|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Searchlight|text=true|image=30px}} x2<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3",
+    "reward_steel": 0,
+    "title": "秋刀魚漁：今年は不漁？でも…上々ね！",
+    "title_en": "Saury Fishing: Fish are scarce this year? I can't complain though."
+  },
+  "SB48": {
+    "detail_en": "Have 8 pieces of Saury in your inventory.",
+    "label": "SB48",
+    "letter": "B",
+    "note": "Requires: [[#SB47|SB47]]",
+    "reward_ammo": 800,
+    "reward_bauxite": 0,
+    "reward_fuel": 800,
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|12cm 30-tube Rocket Launcher|text=true|image=30px}} x3<br>'''or'''<br>{{EquipmentLink|Combat Ration|text=true|image=30px}} x4<br>'''then choice between'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Ryuusei Kai (CarDiv 1)|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "秋刀魚漁：今年は気分が高揚します！",
+    "title_en": "Saury Fishing: I'm getting excited this year!"
+  },
+  "SB49": {
+    "detail_en": "Have 18 pieces of Saury in your inventory.",
+    "label": "SB49",
+    "letter": "B",
+    "note": "Requires: [[#SB48|SB48]]",
+    "reward_ammo": 1800,
+    "reward_bauxite": 0,
+    "reward_fuel": 1800,
+    "reward_other": "Type 19 Fleet Fishery Banner<br>'''then choice between'''<br>{{EquipmentLink|Type144/147 ASDIC|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x2<br>'''or'''<br>[[File:Type 18 Fleet Fishery banner.png|30px]][[Furniture/Object#Type_18_Fleet_Fishery_Banner|Type 18 Fleet Fishery Banner]] x1",
+    "reward_steel": 1800,
+    "title": "秋刀魚漁：大漁旗、ここは…譲れません！",
+    "title_en": ""
+  },
+  "SB50": {
+    "detail_en": "Have 25 Sardines in your inventory.",
+    "label": "SB50",
+    "letter": "B",
+    "note": "Requires: [[#SB47|SB47]]",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 1500,
+    "reward_other": "'''Choice between'''<br>{{ShipLink|Etorofu}}<br>'''or'''<br>{{ShipLink|Matsuwa}}<br>'''or'''<br>{{ShipLink|Sado}}<br>'''or'''<br>{{ShipLink|Tsushima}}<br>'''or'''<br>{{ShipLink|Fukae}}<br>'''then choice between'''<br>{{EquipmentLink|Type 2 Depth Charge|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Reinforcement Expansion|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x5",
+    "reward_steel": 0,
+    "title": "【特別任務】大丈夫、鰯があるじゃない！",
+    "title_en": "Special Mission: Don't worry, we still have sardines!"
+  },
+  "SB51": {
+    "detail_en": "Have 50 Sardines in your inventory.",
+    "label": "SB51",
+    "letter": "B",
+    "note": "Requires: [[#SB50|SB50]]",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 3000,
+    "reward_other": "'''Choice between'''<br>{{ShipLink|Hiburi}}<br>'''or'''<br>{{ShipLink|Daitou}}<br>'''or'''<br>{{ShipLink|Shimushu}}<br>'''or'''<br>{{ShipLink|Kunashiri}}<br>'''or'''<br>{{ShipLink|Akashi}}<br>'''then choice between'''<br>{{EquipmentLink|Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "【特別任務】今年は鰯が豊漁なのです！",
+    "title_en": "Special Mission: Sardines are plentiful this year!"
   },
   "SF1": {
     "detail_en": "Scrap 5 pieces of equipment.",
