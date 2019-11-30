@@ -4285,6 +4285,266 @@
     "_type": 9,
     "_full_name": "Artillery Imp III"
   },
+  "Batavia Princess": {
+    "_aa": 80,
+    "_api_id": 1898,
+    "_armor": 166,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 160,
+    "_hp": 690,
+    "_id": 1898,
+    "_japanese_name": "バタビア沖棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Batavia Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "バタビアおきせいき",
+    "_speed": 10,
+    "_torpedo": 110,
+    "_type": 8,
+    "_full_name": "Batavia Princess"
+  },
+  "Batavia Princess Damaged": {
+    "_aa": 90,
+    "_api_id": 1901,
+    "_armor": 222,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 690,
+    "_id": 1901,
+    "_japanese_name": "バタビア沖棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Batavia Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "バタビアおきせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged",
+    "_torpedo": 130,
+    "_type": 8,
+    "_full_name": "Batavia Princess Damaged"
+  },
+  "Batavia Princess Damaged II": {
+    "_aa": 110,
+    "_api_id": 1902,
+    "_armor": 244,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 220,
+    "_hp": 790,
+    "_id": 1902,
+    "_japanese_name": "バタビア沖棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Batavia Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "バタビアおきせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged II",
+    "_torpedo": 160,
+    "_type": 8,
+    "_full_name": "Batavia Princess Damaged II"
+  },
+  "Batavia Princess Damaged III": {
+    "_aa": 130,
+    "_api_id": 1903,
+    "_armor": 333,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 270,
+    "_hp": 790,
+    "_id": 1903,
+    "_japanese_name": "バタビア沖棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Batavia Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "バタビアおきせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged III",
+    "_torpedo": 190,
+    "_type": 8,
+    "_full_name": "Batavia Princess Damaged III"
+  },
+  "Batavia Princess II": {
+    "_aa": 90,
+    "_api_id": 1899,
+    "_armor": 233,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 190,
+    "_hp": 790,
+    "_id": 1899,
+    "_japanese_name": "バタビア沖棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Batavia Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "バタビアおきせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 130,
+    "_type": 8,
+    "_full_name": "Batavia Princess II"
+  },
+  "Batavia Princess III": {
+    "_aa": 100,
+    "_api_id": 1900,
+    "_armor": 266,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 230,
+    "_hp": 790,
+    "_id": 1900,
+    "_japanese_name": "バタビア沖棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Batavia Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "バタビアおきせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 150,
+    "_type": 8,
+    "_full_name": "Batavia Princess III"
+  },
   "Battleship Princess": {
     "_aa": 80,
     "_api_id": 1557,
@@ -10034,22 +10294,18 @@
     "_equipment": [
       {
         "equipment": "8inch Triple Gun Mount",
-        "estimation": true,
         "size": 0
       },
       {
         "equipment": "8inch Triple Gun Mount",
-        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal FCS + CIC",
-        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
-        "estimation": true,
         "size": 28
       }
     ],
@@ -10069,6 +10325,133 @@
     "_torpedo": 74,
     "_type": 6,
     "_full_name": "Heavy Cruiser Ne-Class Flagship"
+  },
+  "Heavy Cruiser Ne-Class Kai": {
+    "_aa": 78,
+    "_api_id": 1895,
+    "_armor": 144,
+    "_asw": 0,
+    "_back": -4,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 118,
+    "_hp": 330,
+    "_id": 1895,
+    "_japanese_name": "重巡ネ級改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Heavy Cruiser Ne-Class",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんネきゅうかい",
+    "_speed": 10,
+    "_suffix": "Kai",
+    "_torpedo": 108,
+    "_type": 5,
+    "_full_name": "Heavy Cruiser Ne-Class Kai"
+  },
+  "Heavy Cruiser Ne-Class Kai II": {
+    "_aa": 88,
+    "_api_id": 1896,
+    "_armor": 222,
+    "_asw": null,
+    "_back": -4,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 128,
+    "_hp": 360,
+    "_id": 1896,
+    "_japanese_name": "重巡ネ級改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Heavy Cruiser Ne-Class",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんネきゅうかい",
+    "_speed": 10,
+    "_suffix": "Kai II",
+    "_torpedo": 128,
+    "_type": 5,
+    "_full_name": "Heavy Cruiser Ne-Class Kai II"
+  },
+  "Heavy Cruiser Ne-Class Kai III": {
+    "_aa": 98,
+    "_api_id": 1897,
+    "_armor": 255,
+    "_asw": 0,
+    "_back": -4,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Reconnaissance Observation Seaplane",
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 148,
+    "_hp": 390,
+    "_id": 1897,
+    "_japanese_name": "重巡ネ級改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Heavy Cruiser Ne-Class",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんネきゅうかい",
+    "_speed": 10,
+    "_suffix": "Kai III",
+    "_torpedo": 138,
+    "_type": 5,
+    "_full_name": "Heavy Cruiser Ne-Class Kai III"
   },
   "Heavy Cruiser Princess": {
     "_aa": 72,
@@ -11993,6 +12376,92 @@
     "_torpedo": 80,
     "_type": 3,
     "_full_name": "Light Cruiser He-Class Flagship"
+  },
+  "Light Cruiser He-Class Kai Flagship": {
+    "_aa": 40,
+    "_api_id": 1904,
+    "_armor": 69,
+    "_asw": null,
+    "_back": -6,
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "6inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "6inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Depth Charge Projector",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Sonar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 58,
+    "_hp": 115,
+    "_id": 1904,
+    "_japanese_name": "軽巡ヘ級改flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser He-Class",
+    "_range": 2,
+    "_rarity": 4,
+    "_reading": "けいじゅんヘきゅうかいフラグシップ",
+    "_speed": 10,
+    "_suffix": "Kai Flagship",
+    "_torpedo": 80,
+    "_type": 3,
+    "_full_name": "Light Cruiser He-Class Kai Flagship"
+  },
+  "Light Cruiser He-Class Kai Flagship II": {
+    "_aa": 50,
+    "_api_id": 1905,
+    "_armor": 89,
+    "_asw": null,
+    "_back": -6,
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "6inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "6inch Twin Rapid Fire Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Depth Charge Projector",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Sonar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 78,
+    "_hp": 150,
+    "_id": 1905,
+    "_japanese_name": "軽巡ヘ級改flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser He-Class",
+    "_range": 2,
+    "_rarity": 4,
+    "_reading": "けいじゅんヘきゅうかいフラグシップ",
+    "_speed": 10,
+    "_suffix": "Kai Flagship II",
+    "_torpedo": 90,
+    "_type": 3,
+    "_full_name": "Light Cruiser He-Class Kai Flagship II"
   },
   "Light Cruiser Ho-Class": {
     "_aa": 10,
