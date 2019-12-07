@@ -2134,7 +2134,6 @@
   },
   "Aircraft Carrier Princess III": {
     "_aa": 130,
-    "_air_power": 154,
     "_air_power_estimation": true,
     "_api_id": 1781,
     "_armor": 180,
@@ -2228,6 +2227,146 @@
     "_torpedo": 0,
     "_type": 11,
     "_full_name": "Aircraft Carrier Princess IV"
+  },
+  "Aircraft Carrier Princess Kai": {
+    "_aa": 160,
+    "_air_power_estimation": true,
+    "_api_id": 1906,
+    "_armor": 220,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 60
+      },
+      {
+        "equipment": "Abyssal Hell Dive Bomber Kai",
+        "estimation": true,
+        "size": 52
+      },
+      {
+        "equipment": "Abyssal Revenge Torpedo Bomber Kai",
+        "estimation": true,
+        "size": 56
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 30
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 198,
+    "_hp": 500,
+    "_id": 1906,
+    "_japanese_name": "空母棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くうぼせいきかい",
+    "_speed": 10,
+    "_suffix": "Kai",
+    "_torpedo": 0,
+    "_type": 11,
+    "_full_name": "Aircraft Carrier Princess Kai"
+  },
+  "Aircraft Carrier Princess Kai II": {
+    "_aa": 180,
+    "_air_power_estimation": true,
+    "_api_id": 1907,
+    "_armor": 240,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 60
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 52
+      },
+      {
+        "equipment": "Abyssal Revenge Torpedo Bomber Kai",
+        "estimation": true,
+        "size": 56
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 30
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 208,
+    "_hp": 550,
+    "_id": 1907,
+    "_japanese_name": "空母棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くうぼせいきかい",
+    "_speed": 10,
+    "_suffix": "Kai II",
+    "_torpedo": 0,
+    "_type": 11,
+    "_full_name": "Aircraft Carrier Princess Kai II"
+  },
+  "Aircraft Carrier Princess Kai III": {
+    "_aa": 200,
+    "_api_id": 1908,
+    "_armor": 270,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter",
+        "size": 60
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 52
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 56
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 30
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 228,
+    "_hp": 600,
+    "_id": 1908,
+    "_japanese_name": "空母棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くうぼせいきかい",
+    "_speed": 10,
+    "_suffix": "Kai III",
+    "_torpedo": 0,
+    "_type": 11,
+    "_full_name": "Aircraft Carrier Princess Kai III"
   },
   "Aircraft Carrier Summer Demon": {
     "_aa": 120,
@@ -3795,6 +3934,266 @@
     "_type": 2,
     "_full_name": "Ancient Destroyer Princess III"
   },
+  "Anti-Air Cruiser Princess": {
+    "_aa": 230,
+    "_api_id": 1909,
+    "_armor": 195,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 150,
+    "_hp": 733,
+    "_id": 1909,
+    "_japanese_name": "防空巡棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんせいき",
+    "_speed": 10,
+    "_torpedo": 125,
+    "_type": 3,
+    "_full_name": "Anti-Air Cruiser Princess"
+  },
+  "Anti-Air Cruiser Princess Damaged": {
+    "_aa": 240,
+    "_api_id": 1912,
+    "_armor": 255,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 150,
+    "_hp": 733,
+    "_id": 1912,
+    "_japanese_name": "防空巡棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged",
+    "_torpedo": 145,
+    "_type": 3,
+    "_full_name": "Anti-Air Cruiser Princess Damaged"
+  },
+  "Anti-Air Cruiser Princess Damaged II": {
+    "_aa": 260,
+    "_api_id": 1913,
+    "_armor": 315,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 180,
+    "_hp": 755,
+    "_id": 1913,
+    "_japanese_name": "防空巡棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged II",
+    "_torpedo": 165,
+    "_type": 3,
+    "_full_name": "Anti-Air Cruiser Princess Damaged II"
+  },
+  "Anti-Air Cruiser Princess Damaged III": {
+    "_aa": 280,
+    "_api_id": 1914,
+    "_armor": 355,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 220,
+    "_hp": 777,
+    "_id": 1914,
+    "_japanese_name": "防空巡棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんせいき-かい",
+    "_speed": 10,
+    "_suffix": "- Damaged III",
+    "_torpedo": 195,
+    "_type": 3,
+    "_full_name": "Anti-Air Cruiser Princess Damaged III"
+  },
+  "Anti-Air Cruiser Princess II": {
+    "_aa": 250,
+    "_api_id": 1910,
+    "_armor": 255,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 180,
+    "_hp": 755,
+    "_id": 1910,
+    "_japanese_name": "防空巡棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 135,
+    "_type": 3,
+    "_full_name": "Anti-Air Cruiser Princess II"
+  },
+  "Anti-Air Cruiser Princess III": {
+    "_aa": 270,
+    "_api_id": 1911,
+    "_armor": 295,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 220,
+    "_hp": 777,
+    "_id": 1911,
+    "_japanese_name": "防空巡棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 155,
+    "_type": 3,
+    "_full_name": "Anti-Air Cruiser Princess III"
+  },
   "Anzio Princess": {
     "_aa": 66,
     "_api_id": 1883,
@@ -4289,7 +4688,7 @@
     "_aa": 80,
     "_api_id": 1898,
     "_armor": 166,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
@@ -4317,7 +4716,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Batavia Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "バタビアおきせいき",
     "_speed": 10,
@@ -4329,7 +4728,7 @@
     "_aa": 90,
     "_api_id": 1901,
     "_armor": 222,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
@@ -4358,7 +4757,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Batavia Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "バタビアおきせいき-かい",
     "_speed": 10,
@@ -4371,7 +4770,7 @@
     "_aa": 110,
     "_api_id": 1902,
     "_armor": 244,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
@@ -4404,7 +4803,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Batavia Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "バタビアおきせいき-かい",
     "_speed": 10,
@@ -4417,7 +4816,7 @@
     "_aa": 130,
     "_api_id": 1903,
     "_armor": 333,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
@@ -4450,7 +4849,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Batavia Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "バタビアおきせいき-かい",
     "_speed": 10,
@@ -4463,7 +4862,7 @@
     "_aa": 90,
     "_api_id": 1899,
     "_armor": 233,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
@@ -4493,7 +4892,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Batavia Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "バタビアおきせいき",
     "_speed": 10,
@@ -4506,7 +4905,7 @@
     "_aa": 100,
     "_api_id": 1900,
     "_armor": 266,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
@@ -4536,7 +4935,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Batavia Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "バタビアおきせいき",
     "_speed": 10,
@@ -10371,7 +10770,7 @@
     "_aa": 88,
     "_api_id": 1896,
     "_armor": 222,
-    "_asw": null,
+    "_asw": 0,
     "_back": -4,
     "_battle_card_reference": "/Kai",
     "_cg_reference": "/Kai",
@@ -10528,7 +10927,7 @@
     ],
     "_evasion": null,
     "_firepower": 130,
-    "_hp": 350,
+    "_hp": 370,
     "_id": 1660,
     "_japanese_name": "重巡棲姫",
     "_los": null,
@@ -10574,7 +10973,7 @@
     ],
     "_evasion": null,
     "_firepower": 160,
-    "_hp": 350,
+    "_hp": 390,
     "_id": 1661,
     "_japanese_name": "重巡棲姫",
     "_los": null,
@@ -10619,7 +11018,7 @@
     ],
     "_evasion": null,
     "_firepower": 130,
-    "_hp": 370,
+    "_hp": 350,
     "_id": 1662,
     "_japanese_name": "重巡棲姫",
     "_los": null,
@@ -10665,7 +11064,7 @@
     ],
     "_evasion": null,
     "_firepower": 160,
-    "_hp": 380,
+    "_hp": 370,
     "_id": 1663,
     "_japanese_name": "重巡棲姫",
     "_los": null,
@@ -16033,6 +16432,236 @@
     "_torpedo": 170,
     "_type": 13,
     "_full_name": "Submarine Princess III"
+  },
+  "Submarine Princess Kai Flagship": {
+    "_aa": 0,
+    "_api_id": 1915,
+    "_armor": 19,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 55,
+    "_hp": 290,
+    "_id": 1915,
+    "_japanese_name": "潜水棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかい",
+    "_speed": 5,
+    "_suffix": "Kai Flagship",
+    "_torpedo": 155,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai Flagship"
+  },
+  "Submarine Princess Kai Flagship Damaged": {
+    "_aa": 0,
+    "_api_id": 1918,
+    "_armor": 24,
+    "_asw": 0,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 68,
+    "_hp": 290,
+    "_id": 1918,
+    "_japanese_name": "潜水棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかい-かい",
+    "_speed": 5,
+    "_suffix": "Kai Flagship - Damaged",
+    "_torpedo": 169,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai Flagship Damaged"
+  },
+  "Submarine Princess Kai Flagship Damaged II": {
+    "_aa": 0,
+    "_api_id": 1919,
+    "_armor": 44,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Kai Flagship Damaged",
+    "_cg_reference": "/Kai Flagship Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 78,
+    "_hp": 390,
+    "_id": 1919,
+    "_japanese_name": "潜水棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかい-かい",
+    "_speed": 5,
+    "_suffix": "Kai Flagship - Damaged II",
+    "_torpedo": 209,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai Flagship Damaged II"
+  },
+  "Submarine Princess Kai Flagship Damaged III": {
+    "_aa": 0,
+    "_api_id": 1920,
+    "_armor": 74,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Kai Flagship Damaged",
+    "_cg_reference": "/Kai Flagship Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 98,
+    "_hp": 490,
+    "_id": 1920,
+    "_japanese_name": "潜水棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかい-かい",
+    "_speed": 5,
+    "_suffix": "Kai Flagship - Damaged III",
+    "_torpedo": 239,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai Flagship Damaged III"
+  },
+  "Submarine Princess Kai Flagship II": {
+    "_aa": 0,
+    "_api_id": 1916,
+    "_armor": 39,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/Kai Flagship",
+    "_cg_reference": "/Kai Flagship",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 75,
+    "_hp": 390,
+    "_id": 1916,
+    "_japanese_name": "潜水棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかい",
+    "_speed": 5,
+    "_suffix": "Kai Flagship II",
+    "_torpedo": 175,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai Flagship II"
+  },
+  "Submarine Princess Kai Flagship III": {
+    "_aa": 0,
+    "_api_id": 1917,
+    "_armor": 69,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/Kai Flagship",
+    "_cg_reference": "/Kai Flagship",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 95,
+    "_hp": 490,
+    "_id": 1917,
+    "_japanese_name": "潜水棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかい",
+    "_speed": 5,
+    "_suffix": "Kai Flagship III",
+    "_torpedo": 195,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai Flagship III"
   },
   "Submarine So-Class": {
     "_aa": 0,
