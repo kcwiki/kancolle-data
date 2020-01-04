@@ -1291,7 +1291,6 @@
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
         "size": 32
       }
     ],
@@ -1303,7 +1302,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Sun Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいにちせいき",
     "_speed": 10,
@@ -1335,7 +1334,6 @@
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
         "size": 32
       }
     ],
@@ -1347,7 +1345,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Sun Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいにちせいき-かい",
     "_speed": 10,
@@ -1384,7 +1382,6 @@
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
         "size": 64
       }
     ],
@@ -1396,7 +1393,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Sun Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいにちせいき-かい",
     "_speed": 10,
@@ -1433,7 +1430,6 @@
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
         "size": 96
       }
     ],
@@ -1482,7 +1478,6 @@
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
         "size": 64
       }
     ],
@@ -1494,7 +1489,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Sun Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいにちせいき",
     "_speed": 10,
@@ -1531,7 +1526,6 @@
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
         "size": 96
       }
     ],
@@ -2230,7 +2224,6 @@
   },
   "Aircraft Carrier Princess Kai": {
     "_aa": 160,
-    "_air_power_estimation": true,
     "_api_id": 1906,
     "_armor": 220,
     "_asw": 0,
@@ -2238,8 +2231,7 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 60
+        "size": 56
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
@@ -2249,7 +2241,7 @@
       {
         "equipment": "Abyssal Revenge Torpedo Bomber Kai",
         "estimation": true,
-        "size": 56
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -2265,7 +2257,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "くうぼせいきかい",
     "_speed": 10,
@@ -2276,7 +2268,6 @@
   },
   "Aircraft Carrier Princess Kai II": {
     "_aa": 180,
-    "_air_power_estimation": true,
     "_api_id": 1907,
     "_armor": 240,
     "_asw": 0,
@@ -2286,8 +2277,7 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 60
+        "size": 58
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -2297,7 +2287,7 @@
       {
         "equipment": "Abyssal Revenge Torpedo Bomber Kai",
         "estimation": true,
-        "size": 56
+        "size": 50
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -2313,7 +2303,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "くうぼせいきかい",
     "_speed": 10,
@@ -2359,7 +2349,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "くうぼせいきかい",
     "_speed": 10,
@@ -3966,7 +3956,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき",
     "_speed": 10,
@@ -4007,7 +3997,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき-かい",
     "_speed": 10,
@@ -4053,7 +4043,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき-かい",
     "_speed": 10,
@@ -4099,7 +4089,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき-かい",
     "_speed": 10,
@@ -4142,7 +4132,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき",
     "_speed": 10,
@@ -4185,7 +4175,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき",
     "_speed": 10,

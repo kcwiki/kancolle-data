@@ -28,14 +28,17 @@ const nodeTypes = {
   '3-0-3': 'Storm',
   '4-1-4': 'Normal',
   '4-2-11': 'Night',
+  '4-5-4': 'Normal',
   '4-6-10': 'Defense',
   '4-8-13': 'Ambush',
   '5-1-5': 'Boss',
   '5-5-5': 'Boss',
   '6-0-4': 'Empty',
   '6-1-4': 'Empty',
+  '6-6-4': 'Empty',
   '6-2-4': 'Select',
-  '9-0-6': 'Resource',
+  '9-0-6': 'Landing',
+  '10-0-14': 'Repair',
 }
 
 const regularMaps = [
