@@ -2029,7 +2029,7 @@
       "_bauxite": false,
       "_fuel": 10,
       "_products": {
-        "false": {
+        "14cm Twin Gun Mount Kai": {
           "0": {
             "_development_material": 2,
             "_development_material_x": 2,
@@ -2045,6 +2045,16 @@
             },
             "_improvement_material": 2,
             "_improvement_material_x": 3
+          },
+          "10": {
+            "_development_material": 14,
+            "_development_material_x": 48,
+            "_equipment": {
+              "15.2cm Twin Gun Mount Kai": 1,
+              "New Model Gun Mount Improvement Material": 2
+            },
+            "_improvement_material": 8,
+            "_improvement_material_x": 14
           },
           "_ships": {
             "Yuubari/": {
@@ -2064,6 +2074,33 @@
               "Thursday": true,
               "Tuesday": false,
               "Wednesday": false
+            },
+            "Yuubari/Kai Ni": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Yuubari/Kai Ni Toku": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": true
             }
           },
           "_stars": false
@@ -3209,32 +3246,32 @@
           },
           "6": {
             "_development_material": 6,
-            "_development_material_x": null,
+            "_development_material_x": 8,
             "_equipment": {
               "41cm Twin Gun Mount": 2
             },
             "_improvement_material": 3,
-            "_improvement_material_x": null
+            "_improvement_material_x": 6
           },
           "10": {
-            "_development_material": null,
+            "_development_material": 16,
             "_development_material_x": 24,
             "_equipment": {
               "41cm Twin Gun Mount": 3,
               "New Model Gun Mount Improvement Material": 1
             },
-            "_improvement_material": null,
+            "_improvement_material": 6,
             "_improvement_material_x": 8
           },
           "_ships": {
             "Colorado/": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Colorado/Kai": {
               "Friday": true,
@@ -3316,10 +3353,10 @@
               "Wednesday": null
             },
             "Colorado/Kai": {
-              "Friday": null,
+              "Friday": false,
               "Monday": true,
-              "Saturday": null,
-              "Sunday": null,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
@@ -7838,6 +7875,65 @@
     "_flight_range": false,
     "_icon": 2,
     "_id": 356,
+    "_improvements": {
+      "_ammo": 120,
+      "_bauxite": 10,
+      "_fuel": 20,
+      "_products": {
+        "8inch Triple Gun Mount Mk.9 mod.2": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "20.3cm Twin Gun Mount": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 6,
+            "_development_material_x": 9,
+            "_equipment": {
+              "20.3cm Twin Gun Mount": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 30,
+            "_equipment": {
+              "20.3cm (No.2) Twin Gun Mount": 1,
+              "New Model Gun Mount Improvement Material": 1
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 12
+          },
+          "_ships": {
+            "Houston/": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Houston/Kai": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          },
+          "_stars": false
+        }
+      },
+      "_steel": 160
+    },
     "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡<br>洋艦群に装備された三連装主砲兵装です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、<br>大火力を備えた主砲兵装です。米海軍の条約型重巡Pensacola<br>級やNorthampton級の主兵装として運用されました。",
     "_japanese_name": "8inch三連装砲 Mk.9",
     "_los": false,
@@ -7869,6 +7965,55 @@
     "_flight_range": false,
     "_icon": 2,
     "_id": 357,
+    "_improvements": {
+      "_ammo": 160,
+      "_bauxite": 20,
+      "_fuel": 30,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 6,
+            "_development_material_x": 7,
+            "_equipment": {
+              "20.3cm Twin Gun Mount": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "6": {
+            "_development_material": 9,
+            "_development_material_x": 15,
+            "_equipment": {
+              "20.3cm (No.2) Twin Gun Mount": 1
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 8
+          },
+          "_ships": {
+            "Houston/": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Houston/Kai": {
+              "Friday": null,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          },
+          "_stars": false
+        }
+      },
+      "_steel": 190
+    },
     "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡洋艦群に装備された三連装主砲兵装の改修後期型です。20cm級の砲を一基三門に集約したベーシックでありながら、大火力の主砲兵装として米海軍条約型重巡Northampton級などで運用された三連装重巡主砲、その熟成改良型です。",
     "_japanese_name": "8inch三連装砲 Mk.9 mod.2",
     "_los": false,
@@ -20462,7 +20607,7 @@
               "Sunday": false,
               "Thursday": true,
               "Tuesday": false,
-              "Wednesday": true
+              "Wednesday": false
             },
             "Kirishima/": {
               "Friday": true,
@@ -21998,6 +22143,37 @@
     "_special": false,
     "_speed": false,
     "_torpedo": 14,
+    "_torpedo_accuracy": false,
+    "_type": 22
+  },
+  "Type D Kouhyouteki Kai (Kouryuu Kai)": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 5,
+    "_id": 364,
+    "_info": "独自開発された「特殊潜航艇」、その後期改良型のさらなる発展型です。従来の甲標的を大型化、航続距離や通信能力を強化、搭乗員も5名に拡張、艇首に45cm魚雷発射管2基を備えるミニ潜水艦に近づいた強化発展型甲標的です。本来はその戦局から艦上での運用を前提の設計でしたが、改良型の本艇は同運用に対応した水上艦での積極運用が可能です。",
+    "_japanese_name": "甲標的 丁型改(蛟龍改)",
+    "_los": 2,
+    "_luck": false,
+    "_name": "Type D Kouhyouteki Kai (Kouryuu Kai)",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 9,
+    "_scrap_bauxite": 4,
+    "_scrap_fuel": 4,
+    "_scrap_steel": 12,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 17,
     "_torpedo_accuracy": false,
     "_type": 22
   },

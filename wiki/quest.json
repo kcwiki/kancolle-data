@@ -1479,7 +1479,7 @@
   "A81": {
     "category": null,
     "detail": null,
-    "detail_en": "Have [[Michishio Kai Ni]], [[Asashio Kai Ni]] or [[Asashio Kai Ni D]], [[Ooshio Kai Ni]], and [[Arashio Kai Ni]] in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A81 achieved.ogg}}}}'''",
+    "detail_en": "Have '''ONLY''' [[Michishio Kai Ni]], [[Asashio Kai Ni]] or [[Asashio Kai Ni D]], [[Ooshio Kai Ni]], and [[Arashio Kai Ni]] in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A81 achieved.ogg}}}}'''",
     "id": null,
     "label": "A81",
     "note": "Requires: [[#B74|B74]], [[#B108|B108]], ??<br>",
@@ -2259,6 +2259,30 @@
     "reward_steel": 400,
     "title": "「西村艦隊」出撃せよ！",
     "title_en": "Sortie the Nishimura Fleet!"
+  },
+  "B140": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship and up to 5 additional ships to Worlds [[2-5]], [[3-3]], [[5-3]], and [[6-3]]. Obtain a S-rank at each boss node.",
+    "label": "B140",
+    "note": "Requires: [[#F5|F5]], ??",
+    "reward_ammo": 3000,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "{{EquipmentLink|14cm Twin Gun Mount Kai|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Type 2 Depth Charge|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x2<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
+    "reward_steel": 0,
+    "title": "「夕張改二」試してみてもいいかしら？",
+    "title_en": ""
+  },
+  "B141": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship, 3 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}}, and up to 2 additional ships to Worlds [[1-5]], [[1-6]], [[2-2]], [[3-2]], and [[7-1]]. Obtain a S-rank at the boss node of [[1-5]], [[2-2]], [[3-2]], and [[7-1]] once. Reach the anchor node N of [[1-6]] once.<br>'''{{color|red|※ Ships that one can bring alongside Yuubari for this quest are still pending investigation.}}'''",
+    "label": "B141",
+    "note": "Requires: [[#B140|B140]], ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 3000,
+    "reward_other": "[[File:Reinforcement_expansion_064_useitem.png|30px|link=Reinforcement Expansion]][[Reinforcement Expansion]] x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x12<br>'''or'''<br>{{EquipmentLink|Type D Kouhyouteki Kai (Kouryuu Kai)|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x6",
+    "reward_steel": 0,
+    "title": "新編「六水戦」出撃！後で感想、聞かせてね！",
+    "title_en": ""
   },
   "B15": {
     "detail_en": "Sortie a fleet with {{ShipLink|Shoukaku}}, {{ShipLink|Zuikaku}}, and 4 additional ships to World [[3-1]]. Obtain a B-rank (or higher) at the boss node.",
@@ -3616,6 +3640,18 @@
     "title": "発令！「西方海域作戦」",
     "title_en": "Official Announcement! Western Sea Operation!"
   },
+  "Bq13": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship and '''one of the following two configurations''': EITHER 2 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}} and up to 3 additional ships, OR {{ShipLink|Yura/Kai Ni}} and up to 4 additional ships, to Worlds [[5-1]], [[5-4]], [[6-4]], and [[6-5]]. Obtain a S-rank at each boss node.<br>'''{{color|red|※ Ships that one can bring alongside Yuubari for this quest are still pending investigation.}}'''",
+    "label": "Bq13",
+    "note": "Requires: [[#B141|B141]], ??",
+    "reward_ammo": 1000,
+    "reward_bauxite": 1000,
+    "reward_fuel": 0,
+    "reward_other": "[[File:Ranking point reward.png|30px]] '''390 ranking points'''<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x10<br>'''or'''<br>[[File:Medal.png|30px|link=Medal]] x1<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1",
+    "reward_steel": 1000,
+    "title": "拡張「六水戦」、最前線へ！",
+    "title_en": null
+  },
   "Bq2": {
     "detail_en": "Sortie a fleet to Worlds [[2-4]], [[6-1]], [[6-3]], and [[6-4]]. Obtain an A-rank (or higher) at the boss node of [[2-4]], [[6-1]], and [[6-3]]. Obtain a '''S-rank''' at the boss node of [[6-4]].",
     "label": "Bq2",
@@ -4195,6 +4231,10 @@
   "C40": {
     "alias_of": "C10",
     "label": "C40"
+  },
+  "C41": {
+    "alias_of": "C11",
+    "label": "C41"
   },
   "C5": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
@@ -5853,7 +5893,7 @@
     "reward_other": "{{ShipLink|Iona (fog)}}<br>{{color|red|Unlocks [[Christmas 2013 Event]] E-1}}",
     "reward_steel": 0,
     "title": "謎の潜水艦「イオナ」と接触せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "MB02": {
     "detail_en": "Sortie a fleet to [[Christmas 2013 Event]] E-1. Obtain a B-rank (or higher) at the boss node.",
@@ -5866,7 +5906,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x1",
     "reward_steel": 300,
     "title": "観音崎沖の霧の艦隊を迎撃せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "MB03": {
     "detail_en": "Sortie a fleet to any map. Obtain an A-rank (or higher) at boss nodes 4 times.<br>{{color|red|※ The enemy flagship must be sunk for A-ranks to count toward quest progress.}}",
@@ -5879,7 +5919,7 @@
     "reward_other": "{{ShipLink|Takao (fog)}}<br>{{color|red|Unlocks [[Christmas 2013 Event]] E-2}}",
     "reward_steel": 0,
     "title": "霧の艦隊重巡「タカオ」と接触せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "MB04": {
     "detail_en": "Sortie a fleet to [[Christmas 2013 Event]] E-2. Obtain a B-rank (or higher) at the boss node.",
@@ -5892,7 +5932,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x2",
     "reward_steel": 500,
     "title": "硫黄島周辺の霧の艦隊を撃破せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "MB05": {
     "detail_en": "Sink 8 enemy [[Enemy_Vessels#Light_Aircraft_Carriers_.28CVL.29|Light Aircraft Carriers]]/[[Enemy_Vessels#Standard_Aircraft_Carriers_.28CV.29|Standard Aircraft Carriers]].",
@@ -5905,7 +5945,7 @@
     "reward_other": "{{ShipLink|Haruna (fog)}}<br>{{color|red|Unlocks [[Christmas 2013 Event]] E-3}}",
     "reward_steel": 0,
     "title": "霧の大戦艦「ハルナ」と接触せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "MC01": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
@@ -5918,7 +5958,7 @@
     "reward_other": "[[File:Development material.png|30px|link=Construction]] x1",
     "reward_steel": 300,
     "title": "対霧の艦隊「演習」を実施せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "MD01": {
     "detail_en": "Complete 6 [[Expedition|Expeditions]] within the same day.",
@@ -5931,7 +5971,7 @@
     "reward_other": "{{EquipmentLink|Emergency Repair Personnel|text=true|image=30px}} x1",
     "reward_steel": 200,
     "title": "情報収集！ツンデレ重巡を探せ！",
-    "title_en": "?"
+    "title_en": null
   },
   "OH1": {
     "detail_en": "Prepare 10 [[File:Development material.png|30px|link=Construction]] and 1 {{EquipmentLink|Type 97 Torpedo Bomber}} in your inventory. Scrap 1 {{EquipmentLink|Type 0 Reconnaissance Seaplane}}.<br>'''※ The prepared items will be consumed upon quest completion.'''",
@@ -5983,7 +6023,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x5<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
     "reward_steel": 0,
     "title": "水上反撃作戦【礼号作戦】を完遂せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "OR2": {
     "detail_en": "Complete Expedition 175 once.<br>{{color|red|※ This was a [[Winter 2016 Event]]-exclusive expedition.<br>※ Flagship must be ≥ level 6, fleet must have a combined level ≥ level 15.}}",
@@ -5996,7 +6036,7 @@
     "reward_other": "{{EquipmentLink|203mm/53 Twin Gun Mount|text=true|image=30px}} x1<br>{{color|red|Unlocks [[Winter 2016 Event]] E-3}}",
     "reward_steel": 300,
     "title": "親善艦参加観艦式を実施せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB01": {
     "detail_en": "Have 3 pieces of [[Seasonal/Hishimochi 2015|Hishimochi]] in your inventory.",
@@ -6009,7 +6049,7 @@
     "reward_other": "[[File:Furniture box large.jpg|30px|link=Furniture]] x1<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 330,
     "title": "桃の節句：「菱餅」を集めよう！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB02": {
     "detail_en": "Have 10 pieces of [[Seasonal/Hishimochi 2015|Hishimochi]] in your inventory.",
@@ -6022,7 +6062,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>{{EquipmentLink|Skilled Lookouts|text=true|image=30px}} x1",
     "reward_steel": 880,
     "title": "桃の節句：「菱餅」を沢山集めるのです！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB03": {
     "detail_en": "Have 3 pieces of [[Mackerel|Saury]] in your inventory.",
@@ -6035,7 +6075,7 @@
     "reward_other": "{{EquipmentLink|Type 93 Passive Sonar|text=true|image=30px}} x1<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 0,
     "title": "秋刀魚漁：「秋刀魚」を収獲しよう！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB04": {
     "detail_en": "Have 10 pieces of [[Mackerel|Saury]] in your inventory.",
@@ -6048,7 +6088,7 @@
     "reward_other": "{{EquipmentLink|Type 3 Active Sonar|text=true|image=30px}} x1<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x3",
     "reward_steel": 0,
     "title": "秋刀魚漁：「秋刀魚」を収獲しよう！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB05": {
     "detail_en": "Have 30 pieces of [[Mackerel|Saury]] in your inventory.",
@@ -6061,7 +6101,7 @@
     "reward_other": "{{EquipmentLink|Type 4 Passive Sonar|text=true|image=30px}} x1<br>[[File:Fleet_Fishery_Banner_050.png|30px]] [[Furniture/Object#Fleet_fishery_banner|Furniture: Fleet Fishery Banner]] x1",
     "reward_steel": 300,
     "title": "秋刀魚漁：「秋刀魚」を収獲しよう！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB06": {
     "detail_en": "Have 16 pieces of [[Decoration Material]] in your inventory.",
@@ -6074,7 +6114,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x1",
     "reward_steel": 0,
     "title": "師走の「間宮」のお手伝い",
-    "title_en": "?"
+    "title_en": null
   },
   "SB07": {
     "detail_en": "Have 32 pieces of [[Decoration Material]] in your inventory.<br>{{color|red|※ 32 pieces of [[Decoration Material]] will be removed from your inventory upon completion of this quest.}}",
@@ -6087,7 +6127,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>[[File:Fleet_Safety_Decoration.png|30px|link=File:Fleet_Safety_Decoration.png]][[Furniture/Object#Fleet_Safety_Decoration|Furniture: Fleet Safety Decoration]] x1",
     "reward_steel": 0,
     "title": "年越し準備！師走の「間宮」のお手伝い",
-    "title_en": "?"
+    "title_en": null
   },
   "SB08": {
     "detail_en": "Sortie a fleet with 1 [[CL|Light Cruiser]]/[[CT|Training Cruiser]] and 3-5 [[DD|Destroyers]] to World [[1-3]]. Obtain a S-rank at the boss node.",
@@ -6100,7 +6140,7 @@
     "reward_other": "{{EquipmentLink|Emergency Repair Goddess|text=true|size=30px}} x1",
     "reward_steel": 0,
     "title": "謹賀新年！「水雷戦隊」出撃始め！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB09": {
     "detail_en": "Sortie a fleet to World [[2-3]]. Obtain a S-rank at the boss node '''three''' times.",
@@ -6113,7 +6153,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x2<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x2",
     "reward_steel": 0,
     "title": "新年の「伊良湖」のお手伝い！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB10": {
     "detail_en": "Sortie a fleet with 4 [[BB|Battleships]]/[[BBV|Aviation Battleships]] and up to 2 additional ships to World [[4-2]]. Obtain a S-rank at the boss node '''twice'''.",
@@ -6126,7 +6166,7 @@
     "reward_other": "[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>{{EquipmentLink|Type 1 Armor Piercing Shell|text=true|image=30px}} x1",
     "reward_steel": 2016,
     "title": "漲る戦艦魂！大艦巨砲なお正月！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB11": {
     "detail_en": "Sortie a fleet with 2 [[CVL|Light Aircraft Carriers]]/[[CV|Standard Aircraft Carriers]]/[[CVB|Armored Aircraft Carriers]] and up to 4 additional ships to World [[6-2]]. Obtain a S-rank at the boss node '''twice'''.",
@@ -6139,7 +6179,7 @@
     "reward_other": "[[File:Development material.png|30px|link=Construction]] x4<br>{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "迎春！「機動部隊」抜錨せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB12": {
     "detail_en": "Have 3 pieces of [[Mackerel|Saury]] in your inventory.",
@@ -6152,7 +6192,7 @@
     "reward_other": "{{EquipmentLink|Type 3 Active Sonar|text=true|image=30px}} x1<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 0,
     "title": "秋刀魚漁：きらりーん！秋刀魚漁支援！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB13": {
     "detail_en": "Have 8 pieces of [[Mackerel|Saury]] in your inventory.",
@@ -6165,7 +6205,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Searchlight|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|WG42 (Wurfgerät 42)|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "秋刀魚漁：もっともーっと、秋刀魚漁！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB14": {
     "detail_en": "Have 24 pieces of [[Mackerel|Saury]] in your inventory.",
@@ -6178,7 +6218,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Type 96 150cm Searchlight|text=true|image=30px}} x1<br>'''or'''<br>[[File:Fleet Fishery Banner 050.png|30px]] [[Furniture/Object#Fleet_fishery_banner|Furniture: Old Fleet Fishery Banner]] x1<br>'''or'''<br>[[File:Type 16 Fleet Fishery Banner 065.png|30px]] [[Furniture/Object#Type_16_Fleet_fishery_banner|Furniture: Type 16 Fleet Fishery Banner]] x1",
     "reward_steel": 3000,
     "title": "秋刀魚漁：最新鋭の秋刀魚漁！もっとぉ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB15": {
     "detail_en": "Sortie a fleet with 4 [[DD|Destroyers]] to Worlds [[1-1]] and [[1-2]]. Obtain a S-rank at each boss node.",
@@ -6191,7 +6231,7 @@
     "reward_other": "[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''then choice between'''<br>{{EquipmentLink|25mm Triple Autocannon Mount|text=true|image=30px}}★+3 x1<br>'''or'''<br>{{EquipmentLink|Anti-torpedo Bulge (Large)|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "冬季特別任務：精鋭「駆逐隊」、出撃！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB16": {
     "detail_en": "Sortie a fleet with a [[AV|Seaplane Tender]] as flagship, 3 [[DD|Destroyers]], and up to 2 additional ships to Worlds [[1-3]] and [[1-4]]. Obtain a S-rank at each boss node.",
@@ -6204,7 +6244,7 @@
     "reward_other": "[[File:Reinforcement_expansion_064_useitem.png|30px|link=Reinforcement Expansion]][[Reinforcement Expansion]] x1<br>[[Furniture/Desk#Rice_Croquette_Dinner|Furniture: Rice Croquette Dinner]]",
     "reward_steel": 0,
     "title": "冬季特別任務：水上機母艦、抜錨せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB17": {
     "detail_en": "Sortie a fleet with a [[CL|Light Cruiser]] as flagship and at least 1 [[DD|Destroyer]] to Worlds [[1-2]], [[1-3]], and [[1-4]]. Obtain a S-rank at each boss node.",
@@ -6217,7 +6257,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x3<br>{{EquipmentLink|Emergency Repair Goddess|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "謹賀新年！「水雷戦隊」出撃始め！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB18": {
     "detail_en": "Sortie a fleet with a [[AV|Seaplane Tender]]/[[AS|Submarine Tender]]/[[DD|Destroyer]] as flagship and up to 5 additional ships to World [[2-3]]. Obtain a S-rank at the boss node '''three''' times.",
@@ -6230,7 +6270,7 @@
     "reward_other": "[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x3<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1",
     "reward_steel": 0,
     "title": "新春「伊良湖」のお手伝い！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB19": {
     "detail_en": "Sortie a fleet with an [[BBV|Aviation Battleship]] as flagship, 1 additional [[BBV|Aviation Battleship]], 2 [[CAV|Aviation Cruisers]], and up to 2 additional ships to World [[4-2]]. Obtain a S-rank at the boss node '''three''' times.",
@@ -6243,7 +6283,7 @@
     "reward_other": "[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''then choice between'''<br>{{EquipmentLink|Shiun|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Ro.43 Reconnaissance Seaplane|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|OS2U|text=true|image=30px}} x1",
     "reward_steel": 2017,
     "title": "時代が来たか！航空火力艦なお正月！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB20": {
     "detail_en": "Sortie a fleet with a [[CVL|Light Aircraft Carrier]]/[[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]] as flagship, 2 [[DD|Destroyers]], and up to 3 additional ships to World [[3-5]]. Obtain a S-rank at the boss node '''three''' times.",
@@ -6256,7 +6296,7 @@
     "reward_other": "{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1<br>[[Furniture/Object#New_Year.27s_Eve_Scroll_2017|Furniture: New Year's Eve Scroll 2017]]",
     "reward_steel": 0,
     "title": "迎春！「空母機動部隊」出撃開始！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB21": {
     "detail_en": "Sortie a fleet with 2 [[DD|Destroyers]] and 2-4 additional ships to Worlds [[1-1]], [[1-2]], and [[2-3]]. Obtain a S-rank at each boss node.",
@@ -6425,7 +6465,7 @@
     "reward_other": "{{EquipmentLink|Emergency Repair Goddess|text=true|image=30px}}<br> '''then choice between'''<br>{{EquipmentLink|Combat Ration|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|25mm Triple Autocannon Mount|text=true|image=30px}} x2<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x5",
     "reward_steel": 0,
     "title": "謹賀新年！亥年「水雷戦隊」出撃始め！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB34": {
     "detail_en": "Sortie a fleet with a [[BBV|Aviation Battleship]]/[[CAV|Aviation Cruiser]]/[[AV|Seaplane Tender]] as flagship and up to 5 additional ships to Worlds [[2-2]], [[2-3]], and [[2-4]]. Obtain an A-rank or above at each boss node '''twice'''.",
@@ -6438,7 +6478,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Zuiun|text=true|image=30px}} x4<br>'''or'''<br>{{EquipmentLink|Zuiun Model 12|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''then choice between'''<br>{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|12cm 30-tube Rocket Launcher|text=true|image=30px}} x4<br>'''or'''<br>{{EquipmentLink|Type 13 Air Radar Kai|text=true|image=30px}} x2",
     "reward_steel": 2019,
     "title": "謹賀瑞雲！「日向」と「伊勢」のお手伝い！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB35": {
     "detail_en": "Sortie a fleet with 0-1 [[CVL|Light Aircraft Carriers]] and 1-6 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]] to Worlds [[1-5]], [[1-6]], and [[2-1]]. Obtain an A-rank or above at the boss node of [[1-5]] and [[2-1]] '''twice'''. Reach node N of [[1-6]] '''twice'''.",
@@ -6451,7 +6491,7 @@
     "reward_other": "'''Choice between'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''or'''<br>{{EquipmentLink|Type 2 Depth Charge|text=true|image=30px}} x2<br>'''or'''<br>[[File:Present box.png|30px|link=Present_Box]][[Present Box|\"Present Box\"]] x2<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x9<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 0,
     "title": "亥年護衛始め！「海上護衛隊」なお正月！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB36": {
     "detail_en": "Sortie a fleet with a [[CV|Standard Aircraft Carrier]]/[[CVB|Armored Aircraft Carrier]] as flagship, 2 [[DD|Destroyers]], and up to 3 additional ships to World [[4-5]]. Obtain an A-rank or above at the boss node '''four''' times.",
@@ -6464,7 +6504,7 @@
     "reward_other": "[[Furniture|Furniture: Advances and Progress Scroll(?)]]<br>'''then choice between'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Kyoufuu Kai|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Shiun|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "迎春！亥年「空母機動部隊」新春の西へ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB37": {
     "detail_en": "Use a fleet with at least 2 [[DD|Destroyers]] to obtain a S-rank in [[Exercises_(PvP)|Exercises]] 3 times within the same day.",
@@ -6672,7 +6712,7 @@
     "reward_other": "{{EquipmentLink|Emergency Repair Goddess|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Combat Ration|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Type 95 Depth Charge|text=true|image=30px}} x2<br>'''or'''<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x2",
     "reward_steel": 0,
     "title": "賀正！令和二年「水雷戦隊」出撃始め！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB53": {
     "detail_en": "Sortie a fleet with a [[AV|Seaplane Tender]] or [[CAV|Aviation Cruiser]] as flagship and up to 5 additional ships to Worlds [[2-2]], [[2-3]], and [[2-4]]. Obtain  an A-rank (or higher) at each boss node '''twice'''.",
@@ -6685,7 +6725,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Type 2 Seaplane Fighter Kai|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Zuiun (631 Air Group)|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Laté 298B|text=true|image=30px}} ★+2 x2<br>'''then choice between'''<br>{{EquipmentLink|Skilled Carrier-based Aircraft Maintenance Personnel|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x3<br>'''or'''<br>{{EquipmentLink|12cm 30-tube Rocket Launcher|text=true|image=30px}} x6",
     "reward_steel": 2020,
     "title": "謹賀新年！「水上機母艦」出撃せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB54": {
     "detail_en": "Sortie a fleet with 0-1 [[CVL|Light Aircraft Carriers]] and 1-6 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]] to Worlds [[1-5]], [[1-6]], and [[7-1]]. Obtain an an A-rank (or higher) at the boss node of [[1-5]] and [[7-1]] '''twice'''. Reach node N of [[1-6]] '''twice'''.",
@@ -6698,7 +6738,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Ka Type Observation Autogyro|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Type 2 Depth Charge|text=true|image=30px}} x2<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4<br>'''then choice between'''<br>[[File:Instant construction 2.png|30px|link=Construction]] x10<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x8<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 0,
     "title": "令和二年護衛始め！「海上護衛隊」抜錨！",
-    "title_en": "?"
+    "title_en": null
   },
   "SB55": {
     "detail_en": "Sortie a fleet with {{ShipLink|Yuubari}} or a [[DD|Destroyer]] as flagship, 2 additional [[DD|Destroyers]], and up to 3 additional ships to World [[3-5]]. Obtain a S-rank at the boss node '''three''' times.",
@@ -6711,7 +6751,59 @@
     "reward_other": "Furniture: \"Yuubari's Greeting\" Scroll<br>'''then choice between'''<br>{{EquipmentLink|14cm Twin Gun Mount Kai|text=true|image=30px}} ★+8 x2<br>'''or'''<br>{{EquipmentLink|Type 1 Land-based Attack Aircraft Model 34|text=true|image=30px}} ★+4 x1<br>'''or'''<br>{{EquipmentLink|Prototype Toukai|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "迎春！軽巡「夕張」、北へ！",
-    "title_en": "?"
+    "title_en": null
+  },
+  "SB56": {
+    "detail_en": "Use a fleet with at least 2 [[DE|Coastal Defense Ships]]/[[DD|Destroyers]] to obtain a S-rank in [[Exercises_(PvP)|Exercises]] 3 times within the same day.",
+    "label": "SB56",
+    "letter": "C",
+    "note": "'''Daily Quest'''",
+    "reward_ammo": 23,
+    "reward_bauxite": 0,
+    "reward_fuel": 23,
+    "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x1",
+    "reward_steel": 0,
+    "title": "【節分任務】節分演習！",
+    "title_en": "Setsubun Mission: \"Setsubun Exercises!\""
+  },
+  "SB57": {
+    "detail_en": "Sortie a fleet with a [[CVL|Light Aircraft Carrier]] or [[CL|Light Cruiser]] as flagship, 3 [[DE|Coastal Defense Ships]]/[[DD|Destroyers]], and up to 2 additional ships to Worlds [[1-4]], [[2-1]], and [[2-2]]. Obtain an A-rank (or higher) at each boss node.",
+    "label": "SB57",
+    "letter": "B",
+    "note": "Requires: [[#SB56|SB56]]<br>'''Weekly Quest'''",
+    "reward_ammo": 203,
+    "reward_bauxite": 203,
+    "reward_fuel": 0,
+    "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x1<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x3<br>'''or'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Emergency Repair Material|text=true|image=30px}} x1",
+    "reward_steel": 203,
+    "title": "【節分任務】令和二年節分作戦",
+    "title_en": null
+  },
+  "SB58": {
+    "detail_en": "Sortie a fleet with a [[CA|Heavy Cruiser]] or a [[AV|Seaplane Tender]] as flagship, 2 [[DE|Coastal Defense Ships]]/[[DD|Destroyers]], and up to 3 additional ships to Worlds [[4-1]], [[4-2]], and [[4-3]]. Obtain an S-rank at each boss node.",
+    "label": "SB58",
+    "letter": "B",
+    "note": "Requires: [[#SB57|SB57]]<br>'''Weekly Quest'''",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 2020,
+    "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x2<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x5<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x1",
+    "reward_steel": 0,
+    "title": "【節分任務】令和二年西方海域節分作戦",
+    "title_en": null
+  },
+  "SB59": {
+    "detail_en": "Sortie a fleet with a [[BB|Battleship]], [[CV|Standard Aircraft Carrier]], or [[CVB|Armored Aircraft Carrier]] as flagship, 2 [[DD|Destroyers]], and up to 3 additional ships to Worlds [[5-4]], [[5-5]], and [[6-4]]. Obtain a S-rank at each boss node.",
+    "label": "SB59",
+    "letter": "B",
+    "note": "Requires: [[#SB58|SB58]]<br>'''Weekly Quest'''",
+    "reward_ammo": 2020,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x2<br>[[File:Ranking point reward.png|30px]] '''203 ranking points'''",
+    "reward_steel": 2020,
+    "title": "【節分拡張任務】令和二年節分作戦、全力出撃！",
+    "title_en": null
   },
   "SF1": {
     "detail_en": "Scrap 5 pieces of equipment.",
@@ -6724,7 +6816,7 @@
     "reward_other": "{{EquipmentLink|Combat Ration|text=true|image=30px}} x1<br>[[Furniture/Chest#Cool-looking_Fishbowl|Furniture: Cool-looking Fishbowl]]",
     "reward_steel": 200,
     "title": "初夏の整理整頓",
-    "title_en": "?"
+    "title_en": null
   },
   "SF2": {
     "detail_en": "Prepare 5000 Furniture Coins, 2 {{EquipmentLink|12cm Single Gun Mount}}, and 2 {{EquipmentLink|Type 0 Reconnaissance Seaplane}} in your inventory. Scrap 2 {{EquipmentLink|20.3cm Twin Gun Mount}}.",
@@ -6763,7 +6855,7 @@
     "reward_other": "[[File:Present_box.png|30px|link=Present Box]] x1<br>[[File:Combat Provisions.png|30px|link=Combat_Provisions]] x1",
     "reward_steel": 250,
     "title": "第二次SN作戦、初動作戦完了！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN02": {
     "detail_en": "Scrap equipment 5 times.",
@@ -6776,7 +6868,7 @@
     "reward_other": "[[File:Development material.png|30px|link=Construction]] x2<br>[[File:Combat Provisions.png|30px|link=Combat_Provisions]] x1",
     "reward_steel": 100,
     "title": "「工廠」の整理整頓！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN03": {
     "detail_en": "Sink 6 enemy [[Enemy_Vessel#Submarines_.28SS.29|Submarines]].",
@@ -6789,7 +6881,7 @@
     "reward_other": "{{color|red|Unlocks [[Summer 2015 Event]] E-3}}",
     "reward_steel": 0,
     "title": "主力機動部隊の前路哨戒を実施せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN04": {
     "detail_en": "Have {{ShipLink|Akagi}} as secretary equipped with a {{EquipmentLink|Type 97 Torpedo Bomber (Murata Squadron)}}.",
@@ -6802,7 +6894,7 @@
     "reward_other": "[[File:Combat Provisions.png|30px|link=Combat_Provisions]] x2<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue|alt=Mamiya]] x1",
     "reward_steel": 0,
     "title": "「赤城」に艦攻「村田隊」を配属せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN05": {
     "detail_en": "Clear [[Summer 2015 Event]] E-4.",
@@ -6815,7 +6907,7 @@
     "reward_other": "[[File:Present_box.png|30px|link=Present Box]] x1<br>[[File:Combat Provisions.png|30px|link=Combat_Provisions]] x1",
     "reward_steel": 400,
     "title": "ソロモン海方面の制空権を奪え！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN06": {
     "detail_en": "Have {{ShipLink|Shoukaku}} as secretary equipped with a {{EquipmentLink|Type 97 Torpedo Bomber (Murata Squadron)}}.",
@@ -6828,7 +6920,7 @@
     "reward_other": "[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x3<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3",
     "reward_steel": 400,
     "title": "「翔鶴」に艦攻「村田隊」を配置転換せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN07": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
@@ -6841,7 +6933,7 @@
     "reward_other": "{{color|red|Unlocks [[Summer 2015 Event]] E-5}}",
     "reward_steel": 0,
     "title": "FS作戦に備え、艦隊練度向上に努めよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN08": {
     "detail_en": "Have {{ShipLink|Shoukaku}} as secretary equipped with a {{EquipmentLink|Type 97 Torpedo Bomber (Murata Squadron)}}. Scrap 2 {{EquipmentLink|Tenzan}}.",
@@ -6854,7 +6946,7 @@
     "reward_other": "{{EquipmentLink|Tenzan Model 12 (Murata Squadron)|text=true|image=30px}}",
     "reward_steel": 0,
     "title": "「工廠」”機種転換",
-    "title_en": "?"
+    "title_en": null
   },
   "SN09": {
     "detail_en": "Clear [[Summer 2015 Event]] E-5.",
@@ -6867,7 +6959,7 @@
     "reward_other": "[[File:Present_box.png|30px|link=Present Box]] x1<br>[[File:Combat Provisions.png|30px|link=Combat_Provisions]] x1",
     "reward_steel": 550,
     "title": "西部方面派遣艦隊、出撃せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN10": {
     "detail_en": "Have {{ShipLink|Zuikaku}}, {{ShipLink|Shoukaku}}, and {{ShipLink|Zuihou}} in your first fleet. Then create a [[Combined Fleet|Carrier Task Force]].",
@@ -6880,7 +6972,7 @@
     "reward_other": "[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "空母機動部隊「第三艦隊」を編成せよ！",
-    "title_en": "?"
+    "title_en": null
   },
   "SN11": {
     "detail_en": "Sink 9 enemy [[Enemy_Vessel#Light_Aircraft_Carriers_.28CVL.29|Light Aircraft Carriers]]/[[Enemy_Vessel#Standard_Aircraft_Carriers_.28CV.29|Standard Aircraft Carriers]].",
@@ -6893,7 +6985,7 @@
     "reward_other": "{{color|red|Unlocks [[Summer 2015 Event]] E-6}}",
     "reward_steel": 0,
     "title": "FS作戦の橋頭堡を築け！",
-    "title_en": "?"
+    "title_en": null
   },
   "Su01": {
     "detail_en": "Collect 5 Rice, then make 1 Onigiri.<br>'''※ The quest must be active when you make the Onigiri in order to count.'''",

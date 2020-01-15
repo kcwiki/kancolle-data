@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.191231.1",
+  "version": "0.200114.2",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -44,7 +44,7 @@
     "prettier": "^1.19.1",
     "quicktype": "^15.0.209",
     "sort-keys": "^4.0.0",
-    "tape": "^4.12.1"
+    "tape": "^4.13.0"
   },
   "eslintConfig": {
     "env": {
