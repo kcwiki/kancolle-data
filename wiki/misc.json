@@ -59,14 +59,14 @@
       "1": 1,
       "2": 1,
       "4": {
-        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni",
-        "note": "Excluding Tatsuta Kai Ni and Tenryuu Kai Ni",
+        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
+        "note": "Excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D",
         "value": 2
       },
       "5": 1,
       "10": {
-        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni",
-        "note": "Excluding Tatsuta Kai Ni and Tenryuu Kai Ni",
+        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
+        "note": "Excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D",
         "value": 2
       },
       "11": {
@@ -76,8 +76,8 @@
       },
       "12": 1,
       "13": {
-        "code": "CL excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni",
-        "note": "Excluding Gotland, Tatsuta Kai Ni and Tenryuu Kai Ni",
+        "code": "CL excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
+        "note": "Excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D",
         "value": 2
       },
       "14": 1,
@@ -86,14 +86,14 @@
       "20": 1,
       "21": 1,
       "22": {
-        "code": "Abukuma Kai Ni, Yura Kai Ni",
-        "note": "Abukuma Kai Ni and Yura Kai Ni only",
+        "code": "Abukuma Kai Ni, Yura Kai Ni, Yuubari Kai Ni Toku",
+        "note": "Abukuma Kai Ni, Yura Kai Ni, and Yuubari Kai Ni Toku only",
         "value": 2
       },
       "23": 1,
       "24": {
-        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni",
-        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni and Yura Kai Ni only",
+        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni, Yuubari Kai Ni Toku",
+        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni and Yuubari Kai Ni Toku only",
         "value": 2
       },
       "25": {
@@ -102,8 +102,8 @@
         "value": 2
       },
       "27": {
-        "code": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai",
-        "note": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni and Yahagi Kai only",
+        "code": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai, Yuubari Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
+        "note": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai, Yuubari Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D only",
         "value": 2
       },
       "29": 1,
@@ -118,6 +118,11 @@
       "36": 1,
       "37": 1,
       "39": 1,
+      "40": {
+        "code": "Yuubari Kai Ni D",
+        "note": "Yuubari Kai Ni D only",
+        "value": 2
+      },
       "42": {
         "code": "Gotland Kai, Tenryuu Kai Ni",
         "note": "Gotland Kai and Tenryuu Kai Ni only",
@@ -130,8 +135,8 @@
         "value": 2
       },
       "46": {
-        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni",
-        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni and Yura Kai Ni only",
+        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni, Yuubari Kai Ni Toku",
+        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni and Yuubari Kai Ni Toku only",
         "value": 2
       }
     },

@@ -2273,7 +2273,7 @@
     "title_en": ""
   },
   "B141": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship, 3 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}}, and up to 2 additional ships to Worlds [[1-5]], [[1-6]], [[2-2]], [[3-2]], and [[7-1]]. Obtain a S-rank at the boss node of [[1-5]], [[2-2]], [[3-2]], and [[7-1]] once. Reach the anchor node N of [[1-6]] once.<br>'''{{color|red|※ Ships that one can bring alongside Yuubari for this quest are still pending investigation.}}'''",
+    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship, 3 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}}, {{ShipLink|Uzuki}}, {{ShipLink|Kikuzuki}} and up to 2 additional ships to Worlds [[1-5]], [[1-6]], [[2-2]], [[3-2]], and [[7-1]]. Obtain a S-rank at the boss node of [[1-5]], [[2-2]], [[3-2]], and [[7-1]] once. Reach the anchor node N of [[1-6]] once.'''",
     "label": "B141",
     "note": "Requires: [[#B140|B140]], ??",
     "reward_ammo": 0,
@@ -3629,7 +3629,7 @@
     "title_en": "\"Surface Security Actions\" around the Nansei Archipelago Announcement"
   },
   "Bq12": {
-    "detail_en": "Sortie a fleet to Worlds [[4-1]], [[4-2]], [[4-3]], [[4-4]], and [[4-5]]. Obtain a S-rank(?) at each boss node.",
+    "detail_en": "Sortie a fleet to Worlds [[4-1]], [[4-2]], [[4-3]], [[4-4]], and [[4-5]]. Obtain a S-rank at each boss node.",
     "label": "Bq12",
     "note": "Requires: [[Quests#Bq11|Bq11]], ??",
     "reward_ammo": 0,
@@ -3641,7 +3641,7 @@
     "title_en": "Official Announcement! Western Sea Operation!"
   },
   "Bq13": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship and '''one of the following two configurations''': EITHER 2 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}} and up to 3 additional ships, OR {{ShipLink|Yura/Kai Ni}} and up to 4 additional ships, to Worlds [[5-1]], [[5-4]], [[6-4]], and [[6-5]]. Obtain a S-rank at each boss node.<br>'''{{color|red|※ Ships that one can bring alongside Yuubari for this quest are still pending investigation.}}'''",
+    "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship and '''one of the following two configurations''': EITHER 2 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}}, {{ShipLink|Uzuki}}, {{ShipLink|Kikuzuki}} and up to 3 additional ships, OR {{ShipLink|Yura/Kai Ni}} and up to 4 additional ships, to Worlds [[5-1]], [[5-4]], [[6-4]], and [[6-5]]. Obtain a S-rank at each boss node.'''",
     "label": "Bq13",
     "note": "Requires: [[#B141|B141]], ??",
     "reward_ammo": 1000,
@@ -3867,6 +3867,30 @@
     "reward_steel": 0,
     "title": "南方海域珊瑚諸島沖の制空権を握れ！",
     "title_en": "Seize Air Superiority on the Southern Sea Coral Islands"
+  },
+  "By1": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Ayanami/Kai Ni}}, {{ShipLink|Shikinami/Kai Ni}}, and up to 4 additional ships to Worlds [[2-5]], [[3-4]], [[4-5]], and [[5-3]]. Obtain a S-rank(?) at each boss node.",
+    "label": "By1",
+    "note": "Requires: ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 1900,
+    "reward_other": "'''Choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''or'''<br>[[File:Furniture box medium.png|30px|link=Furniture]] x10<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x8<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x10<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4",
+    "reward_steel": 1900,
+    "title": "精鋭「十九駆」、躍り出る！",
+    "title_en": "Elite \"DesDiv 19\", In the Spotlight!"
+  },
+  "By2": {
+    "detail_en": "Sortie a fleet with 3 [[DE|Coastal Defense Ships]] and up to 2 additional ships to Worlds [[1-1]], [[1-2]], [[1-3]], [[1-5]], and [[1-6]]. Obtain a S-rank(?) at the boss node of [[1-1]], [[1-2]], [[1-3]], and [[1-5]] once. Reach the anchor node N of [[1-6]] once.",
+    "label": "By2",
+    "note": "Requires: ??",
+    "reward_ammo": 600,
+    "reward_bauxite": 0,
+    "reward_fuel": 1200,
+    "reward_other": "'''Choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x6<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x8<br>'''then choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>{{EquipmentLink|Type 2 Depth Charge|text=true|image=30px}} x1<br>'''or'''<br>[[File:Medal.png|30px|link=Medal]] x1",
+    "reward_steel": 600,
+    "title": "「海防艦」、海を護る！",
+    "title_en": "\"Coastal Defense Ships\", Protecting the Sea!"
   },
   "C1": {
     "detail_en": "Participate in [[Exercises (PvP)|Exercises]] once.",
@@ -4236,6 +4260,18 @@
     "alias_of": "C11",
     "label": "C41"
   },
+  "C42": {
+    "detail_en": "Use a fleet with {{ShipLink|Isonami}}, {{ShipLink|Uranami}}, {{ShipLink|Ayanami}}, {{ShipLink|Shikinami}}, and up to 2 additional ships to obtain a S-rank in [[Exercises (PvP)]] 3 times within the same day.",
+    "label": "C42",
+    "note": "Requires: ??<br>'''Quarterly Quest'''",
+    "reward_ammo": 190,
+    "reward_bauxite": 0,
+    "reward_fuel": 190,
+    "reward_other": "'''Choice between'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''then choice between'''<br>{{EquipmentLink|Type 3 Depth Charge Projector|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model B Kai 2|text=true|image=30px}} x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x8",
+    "reward_steel": 190,
+    "title": "「十九駆」演習！",
+    "title_en": "\"DesDiv 19\" Exercises!"
+  },
   "C5": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
     "label": "C5",
@@ -4595,6 +4631,18 @@
     "reward_steel": 750,
     "title": "南方戦線遠征を実施せよ！",
     "title_en": "Carry Out Expeditions to the Southern Front!"
+  },
+  "D32": {
+    "detail_en": "Complete Expeditions 3, 5, 9, A1, and A2 once each.",
+    "label": "D32",
+    "note": "Requires: ??<br>'''Yearly Quest'''",
+    "reward_ammo": 0,
+    "reward_bauxite": 500,
+    "reward_fuel": 1000,
+    "reward_other": "'''Choice between'''<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x2<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x5<br>'''then choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x2<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''or'''<br>{{EquipmentLink|Emergency Repair Material|text=true|image=30px}} x2",
+    "reward_steel": 0,
+    "title": "特設護衛船団司令部、活動開始！",
+    "title_en": "Establishing the Special Escort Convoy Headquarters!"
   },
   "D4": {
     "detail_en": "Complete 30 [[Expedition|Expeditions]] within the same week.",
@@ -6777,10 +6825,10 @@
     "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x1<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x3<br>'''or'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Emergency Repair Material|text=true|image=30px}} x1",
     "reward_steel": 203,
     "title": "【節分任務】令和二年節分作戦",
-    "title_en": null
+    "title_en": "Weekly Setsubun Mission: Reiwa 2nd Year Setsubun Operation"
   },
   "SB58": {
-    "detail_en": "Sortie a fleet with a [[CA|Heavy Cruiser]] or a [[AV|Seaplane Tender]] as flagship, 2 [[DE|Coastal Defense Ships]]/[[DD|Destroyers]], and up to 3 additional ships to Worlds [[4-1]], [[4-2]], and [[4-3]]. Obtain an S-rank at each boss node.",
+    "detail_en": "Sortie a fleet with a [[CA|Heavy Cruiser]]/[[CAV|Aviation Cruiser]] or a [[AV|Seaplane Tender]] as flagship, 2 [[DE|Coastal Defense Ships]]/[[DD|Destroyers]], and up to 3 additional ships to Worlds [[4-1]], [[4-2]], and [[4-3]]. Obtain an S-rank at each boss node.",
     "label": "SB58",
     "letter": "B",
     "note": "Requires: [[#SB57|SB57]]<br>'''Weekly Quest'''",
@@ -6790,7 +6838,7 @@
     "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x2<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x5<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x1",
     "reward_steel": 0,
     "title": "【節分任務】令和二年西方海域節分作戦",
-    "title_en": null
+    "title_en": "Weekly Setsubun Mission: Reiwa 2nd Year Western Region Setsubun Operation"
   },
   "SB59": {
     "detail_en": "Sortie a fleet with a [[BB|Battleship]], [[CV|Standard Aircraft Carrier]], or [[CVB|Armored Aircraft Carrier]] as flagship, 2 [[DD|Destroyers]], and up to 3 additional ships to Worlds [[5-4]], [[5-5]], and [[6-4]]. Obtain a S-rank at each boss node.",
@@ -6803,7 +6851,7 @@
     "reward_other": "{{ItemCard|Setsubun Beans|size=30px}} x2<br>[[File:Ranking point reward.png|30px]] '''203 ranking points'''",
     "reward_steel": 2020,
     "title": "【節分拡張任務】令和二年節分作戦、全力出撃！",
-    "title_en": null
+    "title_en": "Weekly Setsubun Extra Mission: Reiwa 2nd Year Setsubun Operation, All-Out Sortie!"
   },
   "SF1": {
     "detail_en": "Scrap 5 pieces of equipment.",

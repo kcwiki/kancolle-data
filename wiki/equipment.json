@@ -1000,6 +1000,45 @@
     "_flight_range": false,
     "_icon": 16,
     "_id": 296,
+    "_improvements": {
+      "_ammo": 90,
+      "_bauxite": 50,
+      "_fuel": 30,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 10,
+            "_development_material_x": 12,
+            "_equipment": {
+              "12.7cm Twin Gun Mount Model B Kai 2": 2
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 6
+          },
+          "6": {
+            "_development_material": 15,
+            "_development_material_x": 30,
+            "_equipment": {
+              "Type 94 Anti-Aircraft Fire Director": 1
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 9
+          },
+          "_ships": {
+            "Shikinami/Kai Ni": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": 130
+    },
     "_info": "やや旧式化したB型砲の余剰装備に全面改修を実施、両用砲に換装した戦時改修if駆逐艦主砲です。現実的な対空戦闘に対応するため、最大仰角、装填機構の換装、高射装置との連動等、従来のB型砲とは全く別の駆逐艦用兵装に昇華しています。特II型以降、初春型、白露型などでの装備運用を想定して改修され、両用砲として対空戦闘も可能です。",
     "_japanese_name": "12.7cm連装砲B型改四(戦時改修)+高射装置",
     "_los": false,
@@ -2094,10 +2133,10 @@
               "Wednesday": null
             },
             "Yuubari/Kai Ni Toku": {
-              "Friday": null,
+              "Friday": true,
               "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": null,
               "Tuesday": null,
               "Wednesday": true
@@ -7911,20 +7950,20 @@
           },
           "_ships": {
             "Houston/": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             },
             "Houston/Kai": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             }
@@ -7991,20 +8030,20 @@
           },
           "_ships": {
             "Houston/": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             },
             "Houston/Kai": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             }
@@ -17332,7 +17371,7 @@
       "_bauxite": 20,
       "_fuel": 30,
       "_products": {
-        "false": {
+        "Type 1 Armor Piercing Shell Kai": {
           "0": {
             "_development_material": 3,
             "_development_material_x": 5,
@@ -17350,6 +17389,17 @@
             },
             "_improvement_material": 2,
             "_improvement_material_x": 4
+          },
+          "10": {
+            "_development_material": 10,
+            "_development_material_x": 30,
+            "_equipment": {
+              "Action Report": 1,
+              "New Model Gun Mount Improvement Material": 2,
+              "true": 2
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 15
           },
           "_ships": {
             "Haruna/": {
@@ -17424,6 +17474,85 @@
     "_scrap_bauxite": false,
     "_scrap_fuel": false,
     "_scrap_steel": 9,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 19
+  },
+  "Type 1 Armor Piercing Shell Kai": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_back": 4,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 11,
+    "_icon": 13,
+    "_id": 365,
+    "_improvements": {
+      "_ammo": 200,
+      "_bauxite": 40,
+      "_fuel": 50,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 8,
+            "_development_material_x": 10,
+            "_equipment": {
+              "46cm Triple Gun Mount": 2
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 7
+          },
+          "6": {
+            "_development_material": 10,
+            "_development_material_x": 40,
+            "_equipment": {
+              "Type 1 Armor Piercing Shell": 1
+            },
+            "_improvement_material": 8,
+            "_improvement_material_x": 10
+          },
+          "_ships": {
+            "Kiyoshimo": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Kongou/Kai Ni C": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": 390
+    },
+    "_info": "遠距離砲撃戦における秘密兵器「九一式徹甲弾」改良版、「一式徹甲弾」。本徹甲弾はそのさらなる改良版です。本改良徹甲弾は弾頭炸薬を増量し、被帽頭を再設計したif強化弾です。海中突入後魚雷のように敵艦水線下に突き進む喫水下破砕を企図した水中弾能力も強化、もちろん弾頭部に弾着観測用着色剤を充填。戦艦・航空戦艦・高速戦艦で運用可能です。",
+    "_japanese_name": "一式徹甲弾改",
+    "_los": false,
+    "_luck": false,
+    "_name": "Type 1 Armor Piercing Shell Kai",
+    "_page": false,
+    "_range": false,
+    "_rarity": 4,
+    "_reading": "いちしきてっこうだんかい",
+    "_scrap_ammo": 6,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": false,
+    "_scrap_steel": 10,
     "_shelling_accuracy": 2,
     "_special": false,
     "_speed": false,
@@ -22165,7 +22294,7 @@
     "_name": "Type D Kouhyouteki Kai (Kouryuu Kai)",
     "_range": false,
     "_rarity": 4,
-    "_reading": null,
+    "_reading": "こうひょうてき ていがたかい(こうりゅうかい)",
     "_scrap_ammo": 9,
     "_scrap_bauxite": 4,
     "_scrap_fuel": 4,
