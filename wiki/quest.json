@@ -4263,7 +4263,7 @@
   "C42": {
     "detail_en": "Use a fleet with {{ShipLink|Isonami}}, {{ShipLink|Uranami}}, {{ShipLink|Ayanami}}, {{ShipLink|Shikinami}}, and up to 2 additional ships to obtain a S-rank in [[Exercises (PvP)]] 3 times within the same day.",
     "label": "C42",
-    "note": "Requires: ??<br>'''Quarterly Quest'''",
+    "note": "Requires: [[Quests#C38|C38]], ??<br>'''Quarterly Quest'''",
     "reward_ammo": 190,
     "reward_bauxite": 0,
     "reward_fuel": 190,

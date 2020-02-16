@@ -287,6 +287,7 @@
     "_armor": 140,
     "_asw": 0,
     "_back": -11,
+    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": "Abyssal Cat Fighter Kai",
@@ -332,7 +333,10 @@
     "_armor": 170,
     "_asw": 0,
     "_back": -11,
+    "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
@@ -379,7 +383,10 @@
     "_armor": 190,
     "_asw": 0,
     "_back": -11,
+    "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
@@ -14778,7 +14785,6 @@
     "_armor": 189,
     "_asw": 0,
     "_back": -12,
-    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": "Abyssal 12inch Triple Gun Mount",
@@ -14823,10 +14829,7 @@
     "_armor": 209,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
-    "_can_debuff": true,
-    "_cg_damaged_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
@@ -14872,10 +14875,7 @@
     "_armor": 239,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
-    "_can_debuff": true,
-    "_cg_damaged_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
@@ -15422,6 +15422,7 @@
     "_armor": 175,
     "_asw": null,
     "_back": -11,
+    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount",
@@ -15468,7 +15469,10 @@
     "_armor": 195,
     "_asw": null,
     "_back": -11,
+    "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
@@ -15516,7 +15520,10 @@
     "_armor": 215,
     "_asw": null,
     "_back": -11,
+    "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
