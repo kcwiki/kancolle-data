@@ -1027,12 +1027,12 @@
           "_ships": {
             "Shikinami/Kai Ni": {
               "Friday": true,
-              "Monday": null,
+              "Monday": true,
               "Saturday": true,
               "Sunday": true,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             }
           }
         }
@@ -1523,7 +1523,7 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": false,
     "_icon": 15,
@@ -3663,7 +3663,7 @@
     "_asw": false,
     "_back": 2,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 9,
     "_icon": 2,
@@ -17519,21 +17519,30 @@
           "_ships": {
             "Kiyoshimo": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
               "Sunday": false,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Kongou/Kai Ni C": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
               "Sunday": true,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Mutsu Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
             }
           }
         }
@@ -21247,7 +21256,7 @@
     "_asw": 4,
     "_asw_damage_type": "DCR",
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": false,
     "_flight_cost": false,
@@ -22985,7 +22994,7 @@
     "_armor": false,
     "_asw": 2,
     "_bombing": 7,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": false,
     "_flight_cost": 6,

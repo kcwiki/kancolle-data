@@ -2179,7 +2179,7 @@
   "B134": {
     "detail_en": "Sortie a fleet with {{ShipLink|Ooyodo}} as flagship, either {{ShipLink|Akashi}} or a [[AV|Seaplane Tender]], and up to 4 additional ships to Worlds [[2-3]], [[3-3]], and [[4-1]]. Obtain a S-rank at each boss node '''twice'''.",
     "label": "B134",
-    "note": "Requires: [[#D29|D29]], ??",
+    "note": "Requires: [[#D29|D29]], \"B21+B58?\" ",
     "reward_ammo": 1200,
     "reward_bauxite": 0,
     "reward_fuel": 1200,
