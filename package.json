@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.200228.0",
+  "version": "0.200303.2",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -42,9 +42,9 @@
     "lua-json": "^1.0.0",
     "nodemw": "^0.12.2",
     "prettier": "^1.19.1",
-    "quicktype": "^15.0.214",
+    "quicktype": "^15.0.221",
     "sort-keys": "^4.0.0",
-    "tape": "^4.13.0"
+    "tape": "^4.13.2"
   },
   "eslintConfig": {
     "env": {

@@ -17283,6 +17283,283 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess III"
   },
+  "Supply Depot Princess B": {
+    "_aa": 60,
+    "_api_id": 1921,
+    "_armor": 50,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 9
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 9
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 9
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 9
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 70,
+    "_hp": 600,
+    "_id": 1921,
+    "_japanese_name": "集積地棲姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "しゅうせきちせいきツー",
+    "_speed": 0,
+    "_torpedo": 88,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B"
+  },
+  "Supply Depot Princess B Damaged": {
+    "_aa": 70,
+    "_api_id": 1924,
+    "_armor": 80,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 14
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 14
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 14
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 14
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 600,
+    "_id": 1924,
+    "_japanese_name": "集積地棲姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "しゅうせきちせいきツー -かい",
+    "_speed": 0,
+    "_suffix": "- Damaged",
+    "_torpedo": 88,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Damaged"
+  },
+  "Supply Depot Princess B Damaged II": {
+    "_aa": 80,
+    "_api_id": 1925,
+    "_armor": 170,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 18
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 18
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 18
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 18
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 160,
+    "_hp": 660,
+    "_id": 1925,
+    "_japanese_name": "集積地棲姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "しゅうせきちせいきツー -かい",
+    "_speed": 0,
+    "_suffix": "- Damaged II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Damaged II"
+  },
+  "Supply Depot Princess B Damaged III": {
+    "_aa": 90,
+    "_api_id": 1926,
+    "_armor": 240,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 26
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 26
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 26
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 26
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 190,
+    "_hp": 990,
+    "_id": 1926,
+    "_japanese_name": "集積地棲姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "しゅうせきちせいきツー -かい",
+    "_speed": 0,
+    "_suffix": "- Damaged III",
+    "_torpedo": 118,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Damaged III"
+  },
+  "Supply Depot Princess B II": {
+    "_aa": 70,
+    "_api_id": 1922,
+    "_armor": 130,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 90,
+    "_hp": 660,
+    "_id": 1922,
+    "_japanese_name": "集積地棲姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "しゅうせきちせいきツー",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B II"
+  },
+  "Supply Depot Princess B III": {
+    "_aa": 80,
+    "_api_id": 1923,
+    "_armor": 180,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 22
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 22
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 22
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 22
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 990,
+    "_id": 1923,
+    "_japanese_name": "集積地棲姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "しゅうせきちせいきツー",
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 118,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B III"
+  },
   "Supply Depot Princess Vacation Mode": {
     "_aa": 80,
     "_api_id": 1809,
