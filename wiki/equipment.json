@@ -609,7 +609,7 @@
               "Friday": false,
               "Monday": true,
               "Saturday": false,
-              "Sunday": true,
+              "Sunday": false,
               "Thursday": false,
               "Tuesday": true,
               "Wednesday": true
@@ -618,7 +618,7 @@
               "Friday": false,
               "Monday": true,
               "Saturday": false,
-              "Sunday": true,
+              "Sunday": false,
               "Thursday": false,
               "Tuesday": true,
               "Wednesday": true
@@ -627,7 +627,7 @@
               "Friday": false,
               "Monday": true,
               "Saturday": false,
-              "Sunday": true,
+              "Sunday": false,
               "Thursday": false,
               "Tuesday": true,
               "Wednesday": true
@@ -635,8 +635,8 @@
             "Isonami/": {
               "Friday": true,
               "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": false,
               "Tuesday": false,
               "Wednesday": false
@@ -2146,30 +2146,30 @@
               "Wednesday": false
             },
             "Yuubari/Kai Ni": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Yuubari/Kai Ni D": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Yuubari/Kai Ni Toku": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": false,
               "Sunday": false,
-              "Thursday": null,
-              "Tuesday": null,
+              "Thursday": true,
+              "Tuesday": true,
               "Wednesday": true
             }
           },
@@ -3414,10 +3414,10 @@
           },
           "_ships": {
             "Colorado/": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": null,
               "Tuesday": null,
               "Wednesday": null
@@ -9935,6 +9935,37 @@
     "_torpedo_accuracy": false,
     "_type": 7
   },
+  "Fairey Seafox Kai": {
+    "_aa": 1,
+    "_armor": false,
+    "_asw": 3,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": 2,
+    "_flight_cost": 6,
+    "_flight_range": 3,
+    "_icon": 10,
+    "_id": 371,
+    "_info": "",
+    "_japanese_name": "Fairey Seafox改",
+    "_los": 6,
+    "_luck": false,
+    "_name": "Fairey Seafox Kai",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 4,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 10
+  },
   "Fleet Command Facility": {
     "_aa": 1,
     "_armor": false,
@@ -10665,6 +10696,54 @@
     "_flight_range": 4,
     "_icon": 10,
     "_id": 194,
+    "_improvements": {
+      "_ammo": 290,
+      "_bauxite": 250,
+      "_fuel": 110,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 6,
+            "_development_material_x": 8,
+            "_equipment": {
+              "Zuiun": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 7,
+            "_development_material_x": 10,
+            "_equipment": {
+              "Zuiun": 2
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Commandant Teste/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Commandant Teste/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 0
+    },
     "_info": "トリコロールの国で開発された水上攻撃機です。<br>日本海軍ではあまり研究されなかった、水上雷撃機としての運用を狙った機体でもあります。本機は同機の水上機母艦艦載機バージョンで、索敵や爆装攻撃を含むマルチロールが期待されていました。",
     "_japanese_name": "Laté 298B",
     "_los": 4,
@@ -14494,19 +14573,19 @@
           },
           "_ships": {
             "Akitsushima/": {
-              "Friday": null,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
               "Tuesday": null,
-              "Wednesday": null
+              "Wednesday": false
             },
             "Akitsushima/Kai": {
               "Friday": false,
               "Monday": true,
-              "Saturday": null,
-              "Sunday": null,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
@@ -14514,7 +14593,7 @@
             "Arashio/Kai Ni": {
               "Friday": true,
               "Monday": true,
-              "Saturday": null,
+              "Saturday": true,
               "Sunday": true,
               "Thursday": true,
               "Tuesday": true,
@@ -14523,7 +14602,7 @@
             "Ooshio/Kai Ni": {
               "Friday": true,
               "Monday": true,
-              "Saturday": null,
+              "Saturday": true,
               "Sunday": true,
               "Thursday": true,
               "Tuesday": true,
@@ -15526,6 +15605,64 @@
     "_flight_range": 3,
     "_icon": 8,
     "_id": 242,
+    "_improvements": {
+      "_ammo": 280,
+      "_bauxite": 210,
+      "_fuel": 90,
+      "_products": {
+        "Swordfish Mk.II (Skilled)": {
+          "0": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "Type 97 Torpedo Bomber": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 5,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Tenzan": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 18,
+            "_equipment": {
+              "Ryuusei": 2,
+              "Skilled Crew Member": 1
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 9
+          },
+          "_ships": {
+            "Ark Royal/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Ark Royal/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 0
+    },
     "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>航空母艦「Ark Royal」搭載の本機は、戦艦「Bismarck」と英艦隊との激闘に大きな一撃を放ちます。旧式ながら赫々たる戦果をおさめた傑作機、遂に実装です！",
     "_japanese_name": "Swordfish",
     "_los": 1,
@@ -15558,6 +15695,99 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 367,
+    "_improvements": {
+      "_ammo": 280,
+      "_bauxite": 240,
+      "_fuel": 90,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "Type 97 Torpedo Bomber": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 5,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Type 0 Reconnaissance Seaplane": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "_ships": {
+            "Commandant Teste/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Commandant Teste/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Gotland/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Gotland/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kamoi/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kamoi/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kamoi/Kai Bo": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 0
+    },
     "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。航空母艦「Ark Royal」などに搭載され、戦艦「Bismarck」と英艦隊との激闘に大きな一撃を放つことになる旧式ながら赫々たる戦果をおさめた傑作機。実在した、その水上機型です！",
     "_japanese_name": "Swordfish(水上機型)",
     "_los": 2,
@@ -15608,6 +15838,37 @@
     "_torpedo_accuracy": false,
     "_type": 8,
     "_wikipedia": "Fairey Swordfish"
+  },
+  "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": 6,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 1,
+    "_flight_cost": 5,
+    "_flight_range": 3,
+    "_icon": 10,
+    "_id": 370,
+    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、旧式ながら赫々たる戦果をおさめたメカジキの名を持つ紅茶の国の傑作艦上攻撃機、その改修水偵型です。同水上機の索敵偵察装備も強化、よりバランスの良い索敵機として仕上がった紅茶の国の水上偵察機です。Old Ladyへの搭載もぜひ!",
+    "_japanese_name": "Swordfish Mk.II改(水偵型)",
+    "_los": 5,
+    "_luck": false,
+    "_name": "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 4,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 10
   },
   "Swordfish Mk.III (Skilled)": {
     "_aa": false,
@@ -15669,6 +15930,38 @@
     "_special": false,
     "_speed": false,
     "_torpedo": 6,
+    "_torpedo_accuracy": false,
+    "_type": 11
+  },
+  "Swordfish Mk.III Kai (Seaplane Model/Skilled)": {
+    "_aa": false,
+    "_armor": false,
+    "_asset_name": "Swordfish Mk.III Kai (Seaplane Model Skilled)",
+    "_asw": 8,
+    "_bombing": 8,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 4,
+    "_flight_cost": 5,
+    "_flight_range": 3,
+    "_icon": 10,
+    "_id": 369,
+    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。旧式ながら赫々たる戦果をおさめた傑作機、その水上機型を強化改修、S9 Ospreyの後継機として輸出導入するif多用途作戦水上機を駆る熟練水上機作戦部隊です。",
+    "_japanese_name": "Swordfish Mk.III改(水上機型/熟練)",
+    "_los": 4,
+    "_luck": false,
+    "_name": "Swordfish Mk.III Kai (Seaplane Model/Skilled)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 3,
+    "_scrap_bauxite": 3,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 3,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 7,
     "_torpedo_accuracy": false,
     "_type": 11
   },
@@ -19471,6 +19764,33 @@
               "Thursday": false,
               "Tuesday": true,
               "Wednesday": true
+            },
+            "Yuubari/Kai Ni": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Yuubari/Kai Ni Toku": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
             }
           }
         }
@@ -20328,6 +20648,33 @@
               "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
+            },
+            "Yuubari/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Yuubari/Kai Ni Toku": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             }
           },
           "_stars": false
@@ -20507,6 +20854,33 @@
               "Thursday": false,
               "Tuesday": false,
               "Wednesday": true
+            },
+            "Yuubari/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni Toku": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -20644,7 +21018,7 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 1,
     "_firepower": false,
     "_icon": 30,
@@ -20946,6 +21320,33 @@
               "Thursday": false,
               "Tuesday": false,
               "Wednesday": false
+            },
+            "Yuubari/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni Toku": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
             }
           },
           "_stars": 3
@@ -21045,6 +21446,33 @@
               "Wednesday": false
             },
             "Yuubari/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Yuubari/Kai Ni Toku": {
               "Friday": true,
               "Monday": false,
               "Saturday": true,

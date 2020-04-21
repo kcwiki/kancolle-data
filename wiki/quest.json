@@ -13,7 +13,7 @@
     "title_en": "Limited-time Spring Mission: Fly! Swordfish Floatplanes"
   },
   "2003LQ2": {
-    "detail_en": "Have {{ShipLink|Gotland}} set as Flagship and place {{EquipmentLink|Swordfish (Seaplane Model)}} MAX★ in her 1st Slot. Prepare 2,500 Ammo, 4,000 Bauxite, 1x {{EquipmentLink|New Model Aerial Armament Material}}, 1x {{EquipmentLink|Skilled Crew Member}}. Scrap 3x {{EquipmentLink|Zuiun}}, 3x {{EquipmentLink|Type 0 Reconnaissance Seaplane}}, and 1x {{EquipmentLink|Type 13 Air Radar Kai}}.",
+    "detail_en": "Prepare 2500 Ammunition, 4000 Bauxite, 1 {{EquipmentLink|New Model Aerial Armament Material}}, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Gotland}} as secretary equipped with a ★max {{EquipmentLink|Swordfish (Seaplane Model)}} on her first slot. Scrap 3 {{EquipmentLink|Zuiun}}, 3 {{EquipmentLink|Type 0 Reconnaissance Seaplane}}, and 1 {{EquipmentLink|Type 13 Air Radar Kai}}.<br>'''※ Equipped equipment must be unlocked.'''<br>'''※ The equipped plane will be converted to the reward listed.'''<br>'''※ The prepared resources and items will be consumed upon quest completion.'''<br>'''※ The plane will lose all improvement stars'''",
     "label": "2003LQ2",
     "letter": "F",
     "note": "Requires: [[#2003LQ1|2003LQ1]]",
@@ -52,7 +52,7 @@
     "title_en": "The Doll Festival Mission: Assault the Supply Depot of Invasion Force!"
   },
   "20WiB3": {
-    "detail_en": "Sortie a fleet with 2 [[CV|CV(B)]], 2 [[BB|(F)BB(V))]], 2 [[CA|CA(V)]], and up to 6 additional ships to the [[Hinamatsuri 2020 Mini-Event]] map. Obtain an A-rank (or higher) at node T '''four times'''.",
+    "detail_en": "Sortie a fleet with 2 [[CV|Standard Aircraft Carriers/Armored Aircraft Carriers]], 2 [[BB|Battleships/Fast Battleships]]/[[BBV|Aviation Battleships]], 2 [[CA|Heavy Cruisers/Aviation Cruisers]], and up to 6 additional ships to the [[Hinamatsuri 2020 Mini-Event]] map. Obtain an A-rank (or higher) at node T '''four times'''.",
     "label": "20WiB3",
     "letter": "B",
     "note": "Requires: [[#20WiB1|20WiB1]], [[#20WiB2|20WiB2]], [[#20WiD1|20WiD1]]",
@@ -65,7 +65,7 @@
     "title_en": "The Doll Festival Mission: Intercept Battle against the Enemy Carrier Task Force!"
   },
   "20WiB4": {
-    "detail_en": "Sortie a fleet with 3 Yuugumo-class [[DD|Destroyers]] and up to 3-9 additional ships to Worlds [[2-2]], [[2-3]], [[3-5]], [[7-2]], and the [[Hinamatsuri 2020 Mini-Event]] map. Obtain an A-rank (or higher) at the boss node of [[2-2]], [[2-3]], and [[3-5]] once. Obtain an A-rank (or higher) at the second boss node of [[7-2]] once. Obtain a S-rank at node I of the [[Hinamatsuri 2020 Mini-Event]] map once.",
+    "detail_en": "Sortie a fleet with 3 {{ShipLink|Yuugumo|link_class=Yuugumo|text=Yuugumo-class Destroyers}} and up to 3-9 additional ships to Worlds [[2-2]], [[2-3]], [[3-5]], [[7-2]], and the [[Hinamatsuri 2020 Mini-Event]] map. Obtain an A-rank (or higher) at the boss node of [[2-2]], [[2-3]], and [[3-5]] once. Obtain an A-rank (or higher) at the second boss node of [[7-2]] once. Obtain a S-rank at node I of the [[Hinamatsuri 2020 Mini-Event]] map once.",
     "label": "20WiB4",
     "letter": "B",
     "note": "Requires: [[#20WiB3|20WiB3]]<br>'''Weekly Quest'''",
@@ -78,7 +78,7 @@
     "title_en": "The Doll Festival Mission: Mainstay of Mainstays, Heading Out!"
   },
   "20WiB5": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Okinami}}, 2 additional Yuugumo-class [[DD|Destroyers]], and up to 3-9 additional ships to the [[Hinamatsuri 2020 Mini-Event]] map. Obtain an A-rank (or higher) at nodes I, J, and T once.",
+    "detail_en": "Sortie a fleet with {{ShipLink|Okinami}}, 2 additional {{ShipLink|Yuugumo|link_class=Yuugumo|text=Yuugumo-class Destroyers}}, and up to 3-9 additional ships to the [[Hinamatsuri 2020 Mini-Event]] map. Obtain an A-rank (or higher) at nodes I, J, and T once.",
     "label": "20WiB5",
     "letter": "B",
     "note": "Requires: [[#20WiG4|20WiG4]], ??",
@@ -156,7 +156,7 @@
     "title_en": "The Doll Festival Mission: Doll Festival Light Cruiser  Moderization"
   },
   "20WiG4": {
-    "detail_en": "Prepare 10 Hishimochi in your inventory. Successfully modernize 4 [[CA|Heavy Cruisers]] onto a Yuugumo-class [[DD|Destroyer]] twice.<br>'''※ The prepared items will be consumed.'''",
+    "detail_en": "Prepare 10 Hishimochi in your inventory. Successfully modernize 4 [[CA|Heavy Cruisers]] onto a {{ShipLink|Yuugumo|link_class=Yuugumo|text=Yuugumo-class Destroyer}} twice.<br>'''※ The prepared items will be consumed.'''",
     "label": "20WiG4",
     "letter": "G",
     "note": "Requires: [[#20WiB1|20WiB1]], [[#20WiB2|20WiB2]]",
@@ -2478,7 +2478,7 @@
     "reward_other": "{{EquipmentLink|14cm Twin Gun Mount Kai|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Type 2 Depth Charge|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x2<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
     "reward_steel": 0,
     "title": "「夕張改二」試してみてもいいかしら？",
-    "title_en": ""
+    "title_en": "Shall We Put \"My\" Kai Ni to the Test?"
   },
   "B141": {
     "detail_en": "Sortie a fleet with {{ShipLink|Yuubari/Kai Ni}}/{{ShipLink|Yuubari/Kai Ni Toku}}/{{ShipLink|Yuubari/Kai Ni D}} as flagship, 3 of {{ShipLink|Yayoi}}, {{ShipLink|Mutsuki}}, {{ShipLink|Kisaragi}}, {{ShipLink|Mochizuki}}, {{ShipLink|Uzuki}}, {{ShipLink|Kikuzuki}} and up to 2 additional ships to Worlds [[1-5]], [[1-6]], [[2-2]], [[3-2]], and [[7-1]]. Obtain a S-rank at the boss node of [[1-5]], [[2-2]], [[3-2]], and [[7-1]] once. Reach the anchor node N of [[1-6]] once.'''",
@@ -2490,7 +2490,7 @@
     "reward_other": "[[File:Reinforcement_expansion_064_useitem.png|30px|link=Reinforcement Expansion]][[Reinforcement Expansion]] x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x12<br>'''or'''<br>{{EquipmentLink|Type D Kouhyouteki Kai (Kouryuu Kai)|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x6",
     "reward_steel": 0,
     "title": "新編「六水戦」出撃！後で感想、聞かせてね！",
-    "title_en": ""
+    "title_en": "New \"DesRon6\", Sortie! Let Me Know What You Think Atherwards!"
   },
   "B142": {
     "detail_en": "Sortie a fleet with {{ShipLink|Okinami/Kai Ni}}, {{ShipLink|Naganami}}, {{ShipLink|Kishinami}}, {{ShipLink|Asashimo}}, and up to 2 additional ships to Worlds [[1-3]], [[1-4]], [[1-5]], [[2-2]], and [[2-3]]. Obtain a S-rank at each boss node once.'''",
@@ -2502,10 +2502,10 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x3<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x6<br>'''or'''<br>{{EquipmentLink|Combat Ration (Special Onigiri)|text=true|image=30px}} x2<br>'''then choice between'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Rocket Development Material|text=true|image=30px}} x1<br>'''or'''<br>[[Furniture|Furniture: Okinami's Shelf (「沖に立つ波」私物棚)]]",
     "reward_steel": 880,
     "title": "再編「第三一駆逐隊」、抜錨せよ！",
-    "title_en": ""
+    "title_en": "Reorganized \"DesDiv31\", Weigh Anchor!"
   },
   "B143": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Shoukaku}}, {{ShipLink|Zuikaku}}, {{ShipLink|Oboro}}, {{ShipLink|Akigumo}}, and up to 2 additional ships to Worlds [[3-5]], [[5-2]], [[7-2]], and [[6-5]]. Obtain a S-rank(?) at the boss node of [[3-5]], [[5-2]], and [[6-5]] once. Obtain a S-rank at the '''second''' boss of [[7-2]] once.",
+    "detail_en": "Sortie a fleet with {{ShipLink|Shoukaku}}, {{ShipLink|Zuikaku}}, {{ShipLink|Oboro}}, {{ShipLink|Akigumo}}, and up to 2 additional ships to Worlds [[3-5]], [[5-2]], [[7-2]], and [[6-5]]. Obtain a S-rank at the boss node of [[3-5]], [[5-2]], and [[6-5]] once. Obtain a S-rank at the '''second''' boss of [[7-2]] once.",
     "label": "B143",
     "note": "Requires: ??",
     "reward_ammo": 0,
@@ -4113,7 +4113,7 @@
     "title_en": "Elite \"DesDiv 19\", In the Spotlight!"
   },
   "By2": {
-    "detail_en": "Sortie a fleet with 3 [[DE|Coastal Defense Ships]] and up to 2 additional ships to Worlds [[1-1]], [[1-2]], [[1-3]], [[1-5]], and [[1-6]]. Obtain a S-rank(?) at the boss node of [[1-1]], [[1-2]], [[1-3]], and [[1-5]] once. Reach the anchor node N of [[1-6]] once.",
+    "detail_en": "Sortie a fleet with 3 [[DE|Coastal Defense Ships]] and up to 2 additional ships to Worlds [[1-1]], [[1-2]], [[1-3]], [[1-5]], and [[1-6]]. Obtain a A-rank (or higher) at the boss node of [[1-1]], [[1-2]], [[1-3]], and [[1-5]] once. Reach the anchor node N of [[1-6]] once.",
     "label": "By2",
     "note": "Requires: ??<br>'''Resets in February every year.'''",
     "reward_ammo": 600,
@@ -4125,20 +4125,8 @@
     "title_en": "\"Coastal Defense Ships\", Protecting the Sea!"
   },
   "By3": {
-    "detail_en": "Sortie a fleet with 3 [[CA|Heavy Cruisers]], 1 [[DD|Destroyer]], and up to 2 additional ships to Worlds [[4-1]], [[4-2]], [[4-3]], and [[4-4]]. Obtain a S-rank(?) at each boss node once.",
+    "detail_en": "Sortie a fleet with {{ShipLink|Akashi}} as flagship, 3 [[DD|Destroyers]], and up to 2 additional ships to Worlds [[1-3]], [[1-6]], [[2-1]], [[2-2]], and [[2-3]]. Obtain a A-rank (or higher) at the boss node of [[1-3]], [[2-1]], [[2-2]], and [[2-3]] once. Reach the anchor node N of [[1-6]] once.'''",
     "label": "By3",
-    "note": "Requires: ??<br>'''Resets in March every year.'''",
-    "reward_ammo": 800,
-    "reward_bauxite": 0,
-    "reward_fuel": 0,
-    "reward_other": "'''Choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x5<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Anti-torpedo Bulge (Medium)|text=true|image=30px}}<br>'''then choice between'''<br>{{EquipmentLink|20.3cm (No.2) Twin Gun Mount|text=true|image=30px}} x2<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4",
-    "reward_steel": 800,
-    "title": "重巡戦隊、西へ！",
-    "title_en": "Heavy Cruiser Squadron, to the West!"
-  },
-  "By4": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Akashi}}, 3 [[DD|Destroyers]], and up to 2 additional ships to Worlds [[1-3]], [[1-6]], [[2-1]], [[2-2]], and [[2-3]]. Obtain a S-rank(?) at the boss node of [[1-3]], [[2-1]], [[2-2]], and [[2-3]] once. Reach the anchor node N of [[1-6]] once.'''",
-    "label": "By4",
     "note": "Requires: ??<br>'''Resets in March every year.'''",
     "reward_ammo": 0,
     "reward_bauxite": 0,
@@ -4147,6 +4135,18 @@
     "reward_steel": 600,
     "title": "工作艦「明石」護衛任務",
     "title_en": "Repair Ship \"Akashi\" Escort Mission"
+  },
+  "By4": {
+    "detail_en": "Sortie a fleet with 3 [[CA|Heavy Cruisers]], 1 [[DD|Destroyer]], and up to 2 additional ships to Worlds [[4-1]], [[4-2]], [[4-3]], and [[4-4]]. Obtain a A-rank (or higher) at each boss node once.",
+    "label": "By4",
+    "note": "Requires: ??<br>'''Resets in March every year.'''",
+    "reward_ammo": 800,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "'''Choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x5<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Anti-torpedo Bulge (Medium)|text=true|image=30px}}<br>'''then choice between'''<br>{{EquipmentLink|20.3cm (No.2) Twin Gun Mount|text=true|image=30px}} x2<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4",
+    "reward_steel": 800,
+    "title": "重巡戦隊、西へ！",
+    "title_en": "Heavy Cruiser Squadron, to the West!"
   },
   "C1": {
     "detail_en": "Participate in [[Exercises (PvP)|Exercises]] once.",
