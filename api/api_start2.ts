@@ -184,6 +184,7 @@ export interface APIMstShipgraph {
   api_map_d?: number[]
   api_map_n?: number[]
   api_pa?: number[]
+  api_pab?: number[]
   api_sortno?: number
   api_version: string[]
   api_weda?: number[]

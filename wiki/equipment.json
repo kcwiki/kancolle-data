@@ -633,7 +633,7 @@
               "Wednesday": true
             },
             "Isonami/": {
-              "Friday": true,
+              "Friday": false,
               "Monday": true,
               "Saturday": false,
               "Sunday": false,
@@ -3419,8 +3419,8 @@
               "Saturday": false,
               "Sunday": false,
               "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Colorado/Kai": {
               "Friday": false,
@@ -4921,6 +4921,15 @@
             "_improvement_material_x": 9
           },
           "_ships": {
+            "Hiei/Kai Ni C": {
+              "Friday": true,
+              "Monday": "null",
+              "Saturday": true,
+              "Sunday": "null",
+              "Thursday": true,
+              "Tuesday": "null",
+              "Wednesday": "null"
+            },
             "Kongou/Kai Ni C": {
               "Friday": false,
               "Monday": true,
@@ -8609,6 +8618,45 @@
     "_flight_range": false,
     "_icon": 2,
     "_id": 303,
+    "_improvements": {
+      "_ammo": 300,
+      "_bauxite": 20,
+      "_fuel": 20,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "15.2cm Single Gun Mount": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 7,
+            "_development_material_x": 9,
+            "_equipment": {
+              "15.2cm Twin Gun Mount": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "_ships": {
+            "Gotland/Andra": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": 150
+    },
     "_info": "北欧スウェーデンの名門火器メーカーが開発した軽巡用中口径連装主砲兵装です。<br>日本の5,500t級軽巡とほぼ同じ排水量を持つ、スウェーデン海軍の軽巡級に採用されました。限定的ではありますが、対空戦闘にも対応可能です。",
     "_japanese_name": "Bofors 15.2cm連装砲 Model 1930",
     "_los": false,
@@ -10742,7 +10790,7 @@
           }
         }
       },
-      "_steel": 0
+      "_steel": false
     },
     "_info": "トリコロールの国で開発された水上攻撃機です。<br>日本海軍ではあまり研究されなかった、水上雷撃機としての運用を狙った機体でもあります。本機は同機の水上機母艦艦載機バージョンで、索敵や爆装攻撃を含むマルチロールが期待されていました。",
     "_japanese_name": "Laté 298B",
@@ -13649,6 +13697,56 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 304,
+    "_improvements": {
+      "_ammo": 30,
+      "_bauxite": 220,
+      "_fuel": 100,
+      "_products": {
+        "Swordfish Mk.III Kai (Seaplane Model)": {
+          "0": {
+            "_development_material": 6,
+            "_development_material_x": 7,
+            "_equipment": {
+              "Type 0 Reconnaissance Seaplane": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 7,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Zuiun": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "10": {
+            "_development_material": 30,
+            "_development_material_x": null,
+            "_equipment": {
+              "New Model Aerial Armament Material": 2,
+              "Skilled Crew Member": 1,
+              "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)": 1
+            },
+            "_improvement_material": 9,
+            "_improvement_material_x": null
+          },
+          "_ships": {
+            "Gotland/Andra": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "紅茶の国で生まれた複葉複座機の傑作機Hawker Hart。<br>やや旧式ではありますが、同ベストセラー機の改良水上機型が本機「Osprey」です。<br>スウェーデン海軍にも採用され、偵察や弾着観測機として運用されました。",
     "_japanese_name": "S9 Osprey",
     "_los": 4,
@@ -14572,15 +14670,6 @@
             "_improvement_material_x": 13
           },
           "_ships": {
-            "Akitsushima/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": null,
-              "Wednesday": false
-            },
             "Akitsushima/Kai": {
               "Friday": false,
               "Monday": true,
@@ -14807,6 +14896,45 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 248,
+    "_improvements": {
+      "_ammo": 70,
+      "_bauxite": 220,
+      "_fuel": 90,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 3,
+            "_development_material_x": 4,
+            "_equipment": {
+              "Type 99 Dive Bomber": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 4,
+            "_development_material_x": null,
+            "_equipment": {
+              "Type 0 Fighter Model 21": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": null
+          },
+          "_ships": {
+            "Ark Royal": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "紅茶の国で生まれた運動性の高い艦上爆撃機です。<br/>非力ではありますが、高性能な艦上戦闘機を装備しない初期の同海軍の海上航空戦力として、よく空を支えました。名機「Spitfire」の艦戦型などにその任を引き継いでいきます。",
     "_japanese_name": "Skua",
     "_los": false,
@@ -15700,7 +15828,7 @@
       "_bauxite": 240,
       "_fuel": 90,
       "_products": {
-        "false": {
+        "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)": {
           "0": {
             "_development_material": 4,
             "_development_material_x": 5,
@@ -15718,6 +15846,17 @@
             },
             "_improvement_material": 3,
             "_improvement_material_x": 5
+          },
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 18,
+            "_equipment": {
+              "New Model Aerial Armament Material": 1,
+              "Skilled Crew Member": 1,
+              "Type 2 Reconnaissance Aircraft": 1
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 12
           },
           "_ships": {
             "Commandant Teste/": {
@@ -15786,7 +15925,7 @@
           }
         }
       },
-      "_steel": 0
+      "_steel": false
     },
     "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。航空母艦「Ark Royal」などに搭載され、戦艦「Bismarck」と英艦隊との激闘に大きな一撃を放つことになる旧式ながら赫々たる戦果をおさめた傑作機。実在した、その水上機型です！",
     "_japanese_name": "Swordfish(水上機型)",
@@ -15851,6 +15990,99 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 370,
+    "_improvements": {
+      "_ammo": 30,
+      "_bauxite": 290,
+      "_fuel": 110,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "Type 0 Reconnaissance Seaplane": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "6": {
+            "_development_material": 7,
+            "_development_material_x": 10,
+            "_equipment": {
+              "Saiun": 1
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 7
+          },
+          "_ships": {
+            "Commandant Teste/": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Commandant Teste/Kai": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Kamoi/": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Kamoi/Kai": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Kamoi/Kai Bo": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Warspite/": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Warspite/Kai": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、旧式ながら赫々たる戦果をおさめたメカジキの名を持つ紅茶の国の傑作艦上攻撃機、その改修水偵型です。同水上機の索敵偵察装備も強化、よりバランスの良い索敵機として仕上がった紅茶の国の水上偵察機です。Old Ladyへの搭載もぜひ!",
     "_japanese_name": "Swordfish Mk.II改(水偵型)",
     "_los": 5,
@@ -15914,6 +16146,45 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 368,
+    "_improvements": {
+      "_ammo": 350,
+      "_bauxite": 350,
+      "_fuel": 120,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 8,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Zuiun": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 5
+          },
+          "6": {
+            "_development_material": 10,
+            "_development_material_x": 17,
+            "_equipment": {
+              "S9 Osprey": 1
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 9
+          },
+          "_ships": {
+            "Gotland/Andra": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。旧式ながら赫々たる戦果をおさめた傑作機、その水上機型を強化改修、S9 Ospreyの後継機として輸出導入するif多用途作戦水上機、その初期モデルです。",
     "_japanese_name": "Swordfish Mk.III改(水上機型)",
     "_los": 3,
@@ -22550,6 +22821,56 @@
     "_flight_range": 4,
     "_icon": 8,
     "_id": 93,
+    "_improvements": {
+      "_ammo": 330,
+      "_bauxite": 360,
+      "_fuel": 220,
+      "_products": {
+        "Tenzan Model 12 (Tomonaga Squadron)": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "Type 97 Torpedo Bomber": 2
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 5
+          },
+          "6": {
+            "_development_material": 6,
+            "_development_material_x": 8,
+            "_equipment": {
+              "Tenzan": 2
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 7
+          },
+          "10": {
+            "_development_material": 18,
+            "_development_material_x": 24,
+            "_equipment": {
+              "New Model Aerial Armament Material": 1,
+              "Skilled Crew Member": 2,
+              "Tenzan": 3
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 14
+          },
+          "_ships": {
+            "Hiryuu/Kai Ni": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": true,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機「九七艦攻」。本部隊は、闘志と高い技量を兼ね備えた友永隊長の率いる九七艦攻隊です。",
     "_japanese_name": "九七式艦攻(友永隊)",
     "_los": 4,
