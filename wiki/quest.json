@@ -283,7 +283,7 @@
     "reward_other": "'''Choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''then choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br>'''or'''<br>[[File:Reinforcement_expansion_064_useitem.png|30px|link=Reinforcement Expansion]][[Reinforcement Expansion]] x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x7",
     "reward_steel": 0,
     "title": "七周年任務【前段作戦】",
-    "title_en": ""
+    "title_en": "7th Anniversary Mission: Preliminary Operation"
   },
   "7thAnvLB2": {
     "detail_en": "Sortie a fleet with 1 [[CL|Light Cruiser]], 2 [[DD|Destroyers]], and up to 3 additional ships to Worlds [[2-3]], [[3-1]], [[3-2]], [[3-3]], [[3-4]], [[3-5]], and [[7-2]]. Obtain a S-rank(?) at the boss node of [[2-3]], [[3-1]], [[3-2]], [[3-3]], [[3-4]], and [[3-5]] once. Obtain a S-rank(?) at the '''second''' boss node of [[7-2]] once.",
@@ -296,7 +296,7 @@
     "reward_other": "'''Choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x7<br>'''or'''<br>{{EquipmentLink|61cm Triple (Oxygen) Torpedo Mount Late Model|text=true|image=30px}} ★+7 x1<br>'''or'''<br>{{EquipmentLink|Swordfish (Seaplane Model)|text=true|image=30px}} x1<br>'''then choice between'''<br>[[File:Medal.png|30px|link=Medal]] x1<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "七周年任務【後段作戦】",
-    "title_en": ""
+    "title_en": "7th Anniversary Mission: Latter Operation"
   },
   "7thAnvLB3": {
     "detail_en": "Sortie a fleet to Worlds [[6-1]], [[6-2]], [[6-3]], [[6-4]], and [[6-5]]. Obtain a S-rank(?) at each boss node.",
@@ -309,7 +309,7 @@
     "reward_other": "'''Choice between'''<br>{{ShipLink|Mizuho}}<br>'''or'''<br>{{ShipLink|Kamoi}}<br>'''or'''<br>{{ShipLink|Hayasui}}<br>'''or'''<br>{{ShipLink|Commandant Teste}}<br>'''or'''<br>{{ShipLink|Gotland}}<br>'''then choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x7<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x7<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x2",
     "reward_steel": 7000,
     "title": "七周年任務【拡張作戦】",
-    "title_en": ""
+    "title_en": "7th Anniversary Mission: Extra Operation"
   },
   "7thAnvLC1": {
     "detail_en": "Use a fleet with 2 of {{ShipLink|Oboro}}, {{ShipLink|Akebono}}, {{ShipLink|Sazanami}}, and {{ShipLink|Ushio}}, and up to 4 additional ships to obtain an A-rank in [[Exercises (PvP)]] 3 times within the same day.",
@@ -322,7 +322,7 @@
     "reward_other": "[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>[[Furniture|Furniture: 7th Anniversary Wall Scroll]]",
     "reward_steel": 0,
     "title": "七周年任務【七駆演習】",
-    "title_en": ""
+    "title_en": "7th Anniversary Mission: DesDiv 7 Exercise"
   },
   "A1": {
     "category": null,
@@ -2604,6 +2604,42 @@
     "title": "「Gotland」戦隊、進撃せよ！",
     "title_en": "Gotland Squadron, Advance!"
   },
+  "B147": {
+    "detail_en": "Sortie a fleet with 2 ships from the United States and up to 4 additional ships to Worlds [[2-2]], [[2-3]], and [[2-4]]. Obtain a S-rank(?) at each boss node.",
+    "label": "B147",
+    "note": "Requires: [[#B135|B135]], ??",
+    "reward_ammo": 400,
+    "reward_bauxite": 400,
+    "reward_fuel": 400,
+    "reward_other": "'''Choice between'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x2<br>'''or'''<br>{{EquipmentLink|Emergency Repair Material|text=true|image=30px}} x2<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x4<br>'''then choice between'''<br>{{EquipmentLink|Tenzan|text=true|image=30px}} x3<br>'''or'''<br>{{EquipmentLink|OS2U|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "南西諸島海域合同哨戒",
+    "title_en": "Joint Patrols in the Southwest-Islands Waters"
+  },
+  "B148": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Fletcher/Kai Mod.2}} as flagship, 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom, and 3 additional ships to Worlds [[1-4]], [[2-5]], and [[3-5]]. Obtain an S-rank(?) at each boss node.",
+    "label": "B148",
+    "note": "Requires: [[Quests#B147|B147]], ??",
+    "reward_ammo": 600,
+    "reward_bauxite": 0,
+    "reward_fuel": 600,
+    "reward_other": "{{EquipmentLink|533mm Quintuple Torpedo Mount (Late Model)|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|F4F-3|text=true|image=30px}} ★+3 x2<br>'''or'''<br>{{EquipmentLink|TBD|text=true|image=30px}} ★+3 x2<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x6",
+    "reward_steel": 600,
+    "title": "合同艦隊旗艦、改装「Fletcher」、抜錨！",
+    "title_en": "Coalition Fleet's Flagship \"Fletcher\" , Sortie! "
+  },
+  "B149": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Fletcher/Mk.II}} as flagship, 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom, and 3 additional ships to Worlds [[1-5]], [[7-1]], [[6-2]], and [[6-5]]. Obtain an S-rank(?) at each boss node '''twice'''.",
+    "label": "B149",
+    "note": "Requires: [[Quests#B148|B148]], ??",
+    "reward_ammo": 700,
+    "reward_bauxite": 700,
+    "reward_fuel": 700,
+    "reward_other": "{{EquipmentLink|RUR-4A Weapon Alpha Kai|text=true|image=30px}} x1<br>'''then choice between'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4<br>'''or'''<br>{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x3",
+    "reward_steel": 700,
+    "title": "改装護衛駆逐艦「Fletcher Mk.II」作戦開始！",
+    "title_en": "Remodeled Escort Destroyer \"Fletcher Mk. II\",  Begin  the Operation!"
+  },
   "B15": {
     "detail_en": "Sortie a fleet with {{ShipLink|Shoukaku}}, {{ShipLink|Zuikaku}}, and 4 additional ships to World [[3-1]]. Obtain a B-rank (or higher) at the boss node.",
     "label": "B15",
@@ -2615,6 +2651,30 @@
     "reward_steel": 0,
     "title": "「第五航空戦隊」出撃せよ！",
     "title_en": "Sortie the 5th Carrier Division!"
+  },
+  "B150": {
+    "detail_en": "Sortie a fleet with 1 [[CVL|Light Aircraft Carrier]](?) or [[CV|Standard Aircraft Carrier]] from either the United States or the United Kingdom and up to 5 additional ships to Worlds [[3-4]], [[4-3]], [[5-2]], and [[7-2]]. Obtain a S-rank(?) at the boss node of [[3-4]], [[4-3]], and [[5-2]] once. Obtain a S-rank(?) at the '''second''' boss of [[7-2]] once.",
+    "label": "B150",
+    "note": "Requires: [[Quests#B147|B147]], ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 1000,
+    "reward_fuel": 0,
+    "reward_other": "'''Choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x4<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x5<br>'''then choice between'''<br>{{EquipmentLink|SK Radar|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x2",
+    "reward_steel": 500,
+    "title": "合同艦隊機動部隊、出撃せよ！",
+    "title_en": "Coalition Carrier Task Force, Sortie!"
+  },
+  "B151": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Fletcher/Mk.II}}, 3 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom, and 2 additional ships to Worlds [[4-5]], [[5-5]], and [[6-4]]. Obtain an S-rank at each boss node '''twice'''.",
+    "label": "B151",
+    "note": "Requires: [[Quests#B149|B149]], ??",
+    "reward_ammo": 1000,
+    "reward_bauxite": 0,
+    "reward_fuel": 1000,
+    "reward_other": "[[File:Medal.png|30px|link=Medal]] x1<br>'''then choice between'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|ASW Lightweight Torpedo (Experimental Initial Model)|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Blueprint|text=true|image=30px}} x1",
+    "reward_steel": 1000,
+    "title": "合同艦隊作戦任務【拡張作戦】",
+    "title_en": "Coalition Fleet's Operational Mission [Extra Operation]"
   },
   "B16": {
     "detail_en": "Sortie a fleet with {{ShipLink|Choukai}}, {{ShipLink|Furutaka}}, {{ShipLink|Kako}}, {{ShipLink|Aoba}}, {{ShipLink|Kinugasa}}, and {{ShipLink|Tenryuu}} to World [[2-3]]. Obtain a B-rank (or higher) at the boss node.",
@@ -4225,7 +4285,7 @@
     "title_en": "Repair Ship \"Akashi\" Escort Mission"
   },
   "By4": {
-    "detail_en": "Sortie a fleet with 3 [[CA|Heavy Cruisers]], 1 [[DD|Destroyer]], and up to 2 additional ships to Worlds [[4-1]], [[4-2]], [[4-3]], and [[4-4]]. Obtain a A-rank (or higher) at each boss node once.",
+    "detail_en": "Sortie a fleet with 3 [[CA|Heavy Cruisers]], 1 [[DD|Destroyer]], and up to 2 additional ships to Worlds [[4-1]], [[4-2]], [[4-3]], and [[4-4]]. Obtain a A-rank (or higher) at each boss node once.<br>'''{{color|red|※ [[CAV|Aviation Cruisers]] do not count as [[CA|Heavy Cruisers]] for this quest.}}'''",
     "label": "By4",
     "note": "Requires: ??<br>'''Resets in March every year.'''",
     "reward_ammo": 800,
@@ -4620,6 +4680,18 @@
     "alias_of": "C12",
     "label": "C43"
   },
+  "C44": {
+    "detail_en": "Use a fleet with 3 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]], 1 additional [[DD|Destroyer]]/[[DE|Coastal Defense Ship]] OR 1 [[CL|Light Cruiser]], and up to 2 additional ships to obtain an A-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
+    "label": "C44",
+    "note": "Requires: ??<br>'''Quarterly Quest'''",
+    "reward_ammo": 300,
+    "reward_bauxite": 0,
+    "reward_fuel": 300,
+    "reward_other": "'''Choice between'''<br>[[File:Development material.png|30px|link=Construction]] x4<br>'''or'''<br>{{EquipmentLink|Type 95 Depth Charge|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Type 0 Reconnaissance Seaplane|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|25mm Single Autocannon Mount|text=true|image=30px}} x3<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x4",
+    "reward_steel": 300,
+    "title": "小艦艇群演習強化任務",
+    "title_en": ""
+  },
   "C5": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
     "label": "C5",
@@ -5003,6 +5075,18 @@
     "reward_steel": 400,
     "title": "練習航海及び警備任務を実施せよ！",
     "title_en": "Carry out a Training Voyage as well as Guard Duty!"
+  },
+  "D34": {
+    "detail_en": "Complete Expeditions 4, A5, A6, and B1 once each.",
+    "label": "D34",
+    "note": "Requires: ??<br>'''Yearly Quest - Resets in May every year.'''",
+    "reward_ammo": 600,
+    "reward_bauxite": 400,
+    "reward_fuel": 600,
+    "reward_other": "'''Choice between'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''then choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x7",
+    "reward_steel": 0,
+    "title": "小笠原沖哨戒線の強化を実施せよ！",
+    "title_en": "Strengthen the Ogasawara Corstal Patrol Line!"
   },
   "D4": {
     "detail_en": "Complete 30 [[Expedition|Expeditions]] within the same week.",

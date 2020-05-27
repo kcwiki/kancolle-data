@@ -632,15 +632,6 @@
               "Tuesday": true,
               "Wednesday": true
             },
-            "Isonami/": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
             "Isonami/Kai": {
               "Friday": true,
               "Monday": true,
@@ -2100,6 +2091,48 @@
       "_fuel": 10,
       "_products": {
         "14cm Twin Gun Mount Kai": {
+          "10": {
+            "_development_material": 14,
+            "_development_material_x": 48,
+            "_equipment": {
+              "15.2cm Twin Gun Mount Kai": 1,
+              "New Model Gun Mount Improvement Material": 2
+            },
+            "_improvement_material": 8,
+            "_improvement_material_x": 14
+          },
+          "_ships": {
+            "Yuubari/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Yuubari/Kai Ni D": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Yuubari/Kai Ni Toku": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          },
+          "_stars": false
+        },
+        "false": {
           "0": {
             "_development_material": 2,
             "_development_material_x": 2,
@@ -2115,16 +2148,6 @@
             },
             "_improvement_material": 2,
             "_improvement_material_x": 3
-          },
-          "10": {
-            "_development_material": 14,
-            "_development_material_x": 48,
-            "_equipment": {
-              "15.2cm Twin Gun Mount Kai": 1,
-              "New Model Gun Mount Improvement Material": 2
-            },
-            "_improvement_material": 8,
-            "_improvement_material_x": 14
           },
           "_ships": {
             "Yuubari/": {
@@ -2172,8 +2195,7 @@
               "Tuesday": true,
               "Wednesday": true
             }
-          },
-          "_stars": false
+          }
         }
       },
       "_steel": 100
@@ -4923,12 +4945,12 @@
           "_ships": {
             "Hiei/Kai Ni C": {
               "Friday": true,
-              "Monday": "null",
+              "Monday": false,
               "Saturday": true,
-              "Sunday": "null",
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": "null",
-              "Wednesday": "null"
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Kongou/Kai Ni C": {
               "Friday": false,
@@ -6497,6 +6519,37 @@
     "_special": false,
     "_speed": false,
     "_torpedo": 8,
+    "_torpedo_accuracy": false,
+    "_type": 5
+  },
+  "533mm Quintuple Torpedo Mount (Late Model)": {
+    "_aa": false,
+    "_armor": 1,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": 1,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 5,
+    "_id": 376,
+    "_info": "米国で開発され、広く実戦配備された標準的な対水上艦用魚雷兵装、その改良後期型です。初期型では動作不良も多く安定性を欠いていましたが、改良更新されたこの後期型には不具合も解消され、対水上艦戦闘時において大きな力を発揮することが可能となりました。",
+    "_japanese_name": "533mm五連装魚雷(後期型)",
+    "_los": false,
+    "_luck": false,
+    "_name": "533mm Quintuple Torpedo Mount (Late Model)",
+    "_range": 1,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 4,
+    "_scrap_bauxite": 3,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 11,
     "_torpedo_accuracy": false,
     "_type": 5
   },
@@ -10813,6 +10866,37 @@
     "_type": 11,
     "_wikipedia": "Latécoère 298"
   },
+  "Lightweight ASW Torpedo (Initial Test Model)": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": 20,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 17,
+    "_id": 378,
+    "_info": "現代の水上艦装備の対潜兵装としても運用されている新世代の対潜誘導魚雷、その先行初期型です。爆雷に替わる新世代の対潜兵装として米国で開発された、音響ホーミング形式の対潜魚雷、そのごく初期型です。その後、年月と様々な改良が加えられ、進化発展していきます。",
+    "_japanese_name": "対潜短魚雷(試作初期型)",
+    "_los": false,
+    "_luck": false,
+    "_name": "Lightweight ASW Torpedo (Initial Test Model)",
+    "_range": false,
+    "_rarity": 6,
+    "_reading": null,
+    "_scrap_ammo": 11,
+    "_scrap_bauxite": 5,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 2,
+    "_torpedo_accuracy": false,
+    "_type": 15
+  },
   "M4A1 DD": {
     "_aa": false,
     "_armor": false,
@@ -12583,6 +12667,37 @@
     "_torpedo_accuracy": false,
     "_type": 1
   },
+  "RUR-4A Weapon Alpha Kai": {
+    "_aa": false,
+    "_armor": 1,
+    "_asw": 17,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 17,
+    "_id": 377,
+    "_info": "増大する潜水艦の脅威に対抗するため開発された、革新的な次世代の対潜前投ロケット弾兵装です。実機は不具合の多発により運用上の問題を抱えていましたが、本兵装は改良によって不発率の低下に成功したif改修兵装です。本兵装のコンセプトは、あの名対潜兵装アスロックへと受け継がれていきます。",
+    "_japanese_name": "RUR-4A Weapon Alpha改",
+    "_los": false,
+    "_luck": false,
+    "_name": "RUR-4A Weapon Alpha Kai",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 10,
+    "_scrap_bauxite": 4,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 4,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 15
+  },
   "Raiden": {
     "_aa": 6,
     "_armor": false,
@@ -13365,7 +13480,7 @@
     "_wikipedia": "IMAM Ro.44"
   },
   "Ryuusei": {
-    "_aa": false,
+    "_aa": 1,
     "_armor": false,
     "_asw": 4,
     "_back": 3,
@@ -13437,7 +13552,7 @@
     "_upgradable": false
   },
   "Ryuusei Kai": {
-    "_aa": false,
+    "_aa": 1,
     "_armor": false,
     "_asw": 3,
     "_bombing": false,
@@ -13733,14 +13848,23 @@
             "_improvement_material_x": null
           },
           "_ships": {
-            "Gotland/Andra": {
+            "Gotland": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Gotland/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -14906,7 +15030,7 @@
             "_development_material": 3,
             "_development_material_x": 4,
             "_equipment": {
-              "Type 99 Dive Bomber": 1
+              "Type 96 Fighter": 1
             },
             "_improvement_material": 2,
             "_improvement_material_x": 3
@@ -16500,6 +16624,104 @@
     "_special": false,
     "_speed": false,
     "_torpedo": 14,
+    "_torpedo_accuracy": false,
+    "_type": 8
+  },
+  "Tenzan Model 12A": {
+    "_aa": 1,
+    "_armor": false,
+    "_asw": 4,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 7,
+    "_flight_range": 5,
+    "_icon": 8,
+    "_id": 372,
+    "_info": "",
+    "_japanese_name": "天山一二型甲",
+    "_los": 2,
+    "_luck": false,
+    "_name": "Tenzan Model 12A",
+    "_range": false,
+    "_rarity": 3,
+    "_reading": "てんざんいちにがたこう",
+    "_scrap_ammo": 5,
+    "_scrap_bauxite": 5,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 9,
+    "_torpedo_accuracy": false,
+    "_type": 8
+  },
+  "Tenzan Model 12A Kai (Skilled w/ Type 6 Airborne Radar Kai)": {
+    "_aa": 1,
+    "_armor": false,
+    "_asset_name": "Tenzan Model 12A Kai (Skilled w Type 6 Airborne Radar Kai)",
+    "_asw": 7,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 8,
+    "_flight_range": 6,
+    "_icon": 8,
+    "_id": 374,
+    "_improvements": false,
+    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」その改良後期型に、機上電探空六号の改良調整型と電波高度計などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦艦上攻撃機。同機で編成され、熟練搭乗員を集中配備した夜間作戦の要となる精鋭艦攻隊です。",
+    "_japanese_name": "天山一二型甲改(熟練/空六号電探改装備機)",
+    "_los": 6,
+    "_luck": false,
+    "_name": "Tenzan Model 12A Kai (Skilled w/ Type 6 Airborne Radar Kai)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": "てんざんいちにがたこうかい　(じゅくれん/くうろくごうでんたんかい そうびき)",
+    "_scrap_ammo": 6,
+    "_scrap_bauxite": 6,
+    "_scrap_fuel": 3,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 13,
+    "_torpedo_accuracy": false,
+    "_type": 8
+  },
+  "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)": {
+    "_aa": 1,
+    "_armor": false,
+    "_asset_name": "Tenzan Model 12A Kai (w Type 6 Airborne Radar Kai)",
+    "_asw": 6,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 8,
+    "_flight_range": 5,
+    "_icon": 8,
+    "_id": 373,
+    "_improvements": false,
+    "_info": "「九七艦攻」の後継機として開発れた艦上攻撃機「天山」その改良後期型に、機上電探空六号の改良調整型と電波高度計などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦艦上攻撃機です。",
+    "_japanese_name": "天山一二型甲改(空六号電探改装備機)",
+    "_localized_name": false,
+    "_los": 5,
+    "_luck": false,
+    "_name": "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": "てんざんいちにがたこうかい　(くうろくごうでんたんかい そうびき)",
+    "_scrap_ammo": 5,
+    "_scrap_bauxite": 6,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 11,
     "_torpedo_accuracy": false,
     "_type": 8
   },
@@ -22859,12 +23081,12 @@
           "_ships": {
             "Hiryuu/Kai Ni": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -23285,6 +23507,37 @@
     "_type": 37,
     "_upgradable": false,
     "_wikipedia": "30 cm Nebelwerfer 42"
+  },
+  "XF5U": {
+    "_aa": 12,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 2,
+    "_firepower": false,
+    "_flight_cost": 12,
+    "_flight_range": 4,
+    "_icon": 6,
+    "_id": 375,
+    "_info": "米海軍が名機「F4U」を生み出した航空機メーカーに発注した円盤翼を持つ独特な機体の試作新型艦上戦闘機です。「Flying Pancake」とも呼ばれた革新的な機体は、STOL性と高い運動性能、そして頑丈な機体強度を持っています。ぜひ米空母に搭載して、幻の戦闘配備を！",
+    "_japanese_name": "XF5U",
+    "_los": 1,
+    "_luck": false,
+    "_name": "XF5U",
+    "_range": false,
+    "_rarity": 6,
+    "_reading": "エックス,エフ,ファイブ,ユー",
+    "_scrap_ammo": 4,
+    "_scrap_bauxite": 14,
+    "_scrap_fuel": 3,
+    "_scrap_steel": 1,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 6
   },
   "Zero Fighter Model 21 (w/ Iwamoto Flight)": {
     "_aa": 9,

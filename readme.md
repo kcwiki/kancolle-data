@@ -201,6 +201,7 @@ Generate game API with [kancolle-browser](https://github.com/kcwiki/kancolle-bro
 
 ```sh
 yarn global add @kancolle/browser # one time
+yarn fetch-api # to open the browser and save to /tmp/api_start2
 yarn build-api
 ```
 

@@ -5,7 +5,7 @@ const MW = require('nodemw')
 const sortKeys = require('sort-keys')
 const { parse } = require('lua-json')
 
-const concurrency = process.env.concurrency || 50
+const concurrency = +process.env.concurrency || 50
 
 const categories = {
   ship: 'Player ship modules',
