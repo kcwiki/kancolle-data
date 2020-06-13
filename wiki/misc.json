@@ -28,30 +28,35 @@
       "21": 1,
       "23": 1,
       "24": {
-        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
-        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
+        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Mikazuki Kai, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
+        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Mikazuki Kai, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
         "value": 2
       },
       "27": {
-        "code": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Verniy, Yuugumo Kai Ni",
-        "note": "Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Verniy and Yuugumo Kai Ni only",
+        "code": "Asashimo Kai Ni, Fletcher Mk.II, Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Okinami Kai Ni, Shiranui Kai Ni, Verniy, Yuugumo Kai Ni",
+        "note": "Asashimo Kai Ni, Fletcher Mk.II, Kagerou Kai Ni, Kazagumo Kai Ni, Kuroshio Kai Ni, Makigumo Kai Ni, Naganami Kai Ni, Okinami Kai Ni, Shiranui Kai Ni, Verniy and Yuugumo Kai Ni only",
         "value": 2
       },
       "29": 1,
       "30": 1,
       "33": 1,
       "34": {
-        "code": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni, Yuugumo Kai Ni",
-        "note": "Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni and Yuugumo Kai Ni only",
+        "code": "Fletcher Kai Mod.2, Fletcher Mk.II, Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni, Yuugumo Kai Ni",
+        "note": "Fletcher Kai Mod.2, Fletcher Mk.II, Kasumi Kai Ni, Murasame Kai Ni, Naganami Kai Ni, Shiranui Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni and Yuugumo Kai Ni only",
         "value": 2
       },
       "36": 1,
       "37": 1,
       "39": 1,
+      "40": {
+        "code": "Fletcher Mk.II",
+        "note": "Fletcher Mk.II only",
+        "value": 2
+      },
       "43": 1,
       "46": {
-        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kazagumo Kai Ni, Kuroshio Kai Ni, Michishio Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni, Verniy",
-        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kazagumo Kai Ni, Kuroshio Kai Ni, Michishio Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni and Verniy only",
+        "code": "Arare Kai Ni, Arashio Kai Ni, Asashimo Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kazagumo Kai Ni, Kuroshio Kai Ni, Michishio Kai Ni, Okinami Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni, Verniy",
+        "note": "Arare Kai Ni, Arashio Kai Ni, Asashimo Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kazagumo Kai Ni, Kuroshio Kai Ni, Michishio Kai Ni, Okinami Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Shiratsuyu Kai Ni, Umikaze Kai Ni and Verniy only",
         "value": 2
       }
     },
@@ -59,25 +64,25 @@
       "1": 1,
       "2": 1,
       "4": {
-        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
-        "note": "Excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D",
+        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni D, Yuubari Kai Ni Toku",
+        "note": "Excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni D and Yuubari Kai Ni Toku",
         "value": 2
       },
       "5": 1,
       "10": {
-        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
-        "note": "Excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D",
+        "code": "CL excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni D, Yuubari Kai Ni Toku",
+        "note": "Excluding Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni, Yuubari Kai Ni D and Yuubari Kai Ni Toku",
         "value": 2
       },
       "11": {
-        "code": "Agano Kai, Gotland, Gotland Kai, Noshiro Kai, Sakawa Kai, Tama Kai Ni, Yahagi Kai, Yura Kai Ni",
-        "note": "Agano Kai, Gotland, Gotland Kai, Noshiro Kai, Sakawa Kai, Tama Kai Ni, Yahagi Kai and Yura Kai Ni only",
+        "code": "Agano Kai, Gotland, Gotland Andra, Gotland Kai, Noshiro Kai, Sakawa Kai, Tama Kai Ni, Yahagi Kai, Yura Kai Ni",
+        "note": "Agano Kai, Gotland, Gotland Andra, Gotland Kai, Noshiro Kai, Sakawa Kai, Tama Kai Ni, Yahagi Kai and Yura Kai Ni only",
         "value": 2
       },
       "12": 1,
       "13": {
-        "code": "CL excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
-        "note": "Excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D",
+        "code": "CL excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni D, Yuubari Kai Ni Toku",
+        "note": "Excluding Gotland, Tatsuta Kai Ni, Tenryuu Kai Ni, Yuubari Kai Ni D and Yuubari Kai Ni Toku",
         "value": 2
       },
       "14": 1,
@@ -87,23 +92,23 @@
       "21": 1,
       "22": {
         "code": "Abukuma Kai Ni, Yura Kai Ni, Yuubari Kai Ni Toku",
-        "note": "Abukuma Kai Ni, Yura Kai Ni, and Yuubari Kai Ni Toku only",
+        "note": "Abukuma Kai Ni, Yura Kai Ni and Yuubari Kai Ni Toku only",
         "value": 2
       },
       "23": 1,
       "24": {
-        "code": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni, Yuubari Kai Ni Toku",
-        "note": "Abukuma Kai Ni, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni and Yuubari Kai Ni Toku only",
+        "code": "Abukuma Kai Ni, Gotland Andra, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni, Yuubari Kai Ni Toku",
+        "note": "Abukuma Kai Ni, Gotland Andra, Kinu Kai Ni, Tama Kai Ni, Tatsuta Kai Ni, Yura Kai Ni and Yuubari Kai Ni Toku only",
         "value": 2
       },
       "25": {
-        "code": "Gotland, Tama Kai Ni, Tatsuta Kai Ni, Tenryuu Kai Ni",
-        "note": "Gotland, Tama Kai Ni, Tatsuta Kai Ni and Tenryuu Kai Ni only",
+        "code": "Gotland, Gotland Andra, Tama Kai Ni, Tatsuta Kai Ni, Tenryuu Kai Ni",
+        "note": "Gotland, Gotland Andra, Tama Kai Ni, Tatsuta Kai Ni and Tenryuu Kai Ni only",
         "value": 2
       },
       "27": {
-        "code": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai, Yuubari Kai Ni, Yuubari Kai Ni Toku, Yuubari Kai Ni D",
-        "note": "Agano Kai, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai, Yuubari Kai Ni, Yuubari Kai Ni Toku and Yuubari Kai Ni D only",
+        "code": "Agano Kai, Gotland Andra, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai, Yuubari Kai Ni, Yuubari Kai Ni D, Yuubari Kai Ni Toku",
+        "note": "Agano Kai, Gotland Andra, Gotland Kai, Kiso Kai, Noshiro Kai, Sakawa Kai, Tama Kai, Tama Kai Ni, Yahagi Kai, Yuubari Kai Ni, Yuubari Kai Ni D and Yuubari Kai Ni Toku only",
         "value": 2
       },
       "29": 1,
@@ -111,8 +116,8 @@
       "33": 1,
       "34": 1,
       "35": {
-        "code": "Gotland, Gotland Kai, Tama Kai Ni, Yura Kai Ni",
-        "note": "Gotland, Gotland Kai, Tama Kai Ni and Yura Kai Ni only",
+        "code": "Gotland, Gotland Andra, Gotland Kai, Tama Kai Ni, Yura Kai Ni",
+        "note": "Gotland, Gotland Andra, Gotland Kai, Tama Kai Ni and Yura Kai Ni only",
         "value": 2
       },
       "36": 1,
@@ -124,8 +129,8 @@
         "value": 2
       },
       "42": {
-        "code": "Gotland Kai, Tenryuu Kai Ni",
-        "note": "Gotland Kai and Tenryuu Kai Ni only",
+        "code": "Gotland Andra, Gotland Kai, Tenryuu Kai Ni",
+        "note": "Gotland Andra, Gotland Kai and Tenryuu Kai Ni only",
         "value": 2
       },
       "43": 1,
@@ -306,8 +311,8 @@
       "3": 1,
       "4": 1,
       "5": {
-        "code": "Bismarck Drei, Kongou Kai Ni C",
-        "note": "Bismarck Drei and Kongou Kai Ni C only",
+        "code": "Bismarck Drei, Hiei Kai Ni C, Kongou Kai Ni C",
+        "note": "Bismarck Drei, Hiei Kai Ni C and Kongou Kai Ni C only",
         "value": 2
       },
       "10": 1,
@@ -319,8 +324,8 @@
       "12": 1,
       "13": 1,
       "14": {
-        "code": "Kongou Kai Ni C",
-        "note": "Kongou Kai Ni C only",
+        "code": "Hiei Kai Ni C, Kongou Kai Ni C",
+        "note": "Hiei Kai Ni C and Kongou Kai Ni C only",
         "value": 2
       },
       "16": 1,
@@ -336,8 +341,8 @@
       "34": 1,
       "36": 1,
       "37": {
-        "code": "Kongou Kai Ni C",
-        "note": "Kongou Kai Ni C only",
+        "code": "Hiei Kai Ni C, Kongou Kai Ni C",
+        "note": "Hiei Kai Ni C and Kongou Kai Ni C only",
         "value": 2
       },
       "39": 1,
@@ -345,8 +350,8 @@
       "42": 1,
       "43": 1,
       "45": {
-        "code": "Italia, Roma Kai",
-        "note": "Italia and Roma Kai only",
+        "code": "Hiei Kai Ni C, Italia, Roma Kai",
+        "note": "Hiei Kai Ni C, Italia and Roma Kai only",
         "value": 2
       },
       "93": 1,
@@ -642,24 +647,99 @@
     "17": {
       "1": 1,
       "4": 1,
-      "6": 1,
+      "6": {
+        "code": "LHA excluding Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Excluding Shinshuu Maru and Shinshuu Maru Kai",
+        "value": 2
+      },
+      "10": {
+        "code": "Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Shinshuu Maru and Shinshuu Maru Kai only",
+        "value": 2
+      },
+      "11": {
+        "code": "Shinshuu Maru Kai",
+        "note": "Shinshuu Maru Kai only",
+        "value": 2
+      },
       "12": 1,
+      "13": {
+        "code": "Shinshuu Maru Kai",
+        "note": "Shinshuu Maru Kai only",
+        "value": 2
+      },
+      "14": {
+        "code": "Shinshuu Maru Kai",
+        "note": "Shinshuu Maru Kai only",
+        "value": 2
+      },
       "15": 1,
+      "16": {
+        "code": "Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Shinshuu Maru and Shinshuu Maru Kai only",
+        "value": 2
+      },
       "17": 1,
       "20": 1,
       "21": 1,
       "23": 1,
       "24": 1,
-      "25": 1,
-      "26": 1,
+      "25": {
+        "code": "LHA excluding Shinshuu Maru",
+        "note": "Excluding Shinshuu Maru",
+        "value": 2
+      },
+      "26": {
+        "code": "LHA excluding Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Excluding Shinshuu Maru and Shinshuu Maru Kai",
+        "value": 2
+      },
+      "27": {
+        "code": "Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Shinshuu Maru and Shinshuu Maru Kai only",
+        "value": 2
+      },
+      "29": {
+        "code": "Shinshuu Maru Kai",
+        "note": "Shinshuu Maru Kai only",
+        "value": 2
+      },
       "30": 1,
       "34": 1,
-      "36": 1,
+      "35": {
+        "code": "Shinshuu Maru Kai",
+        "note": "Shinshuu Maru Kai only",
+        "value": 2
+      },
+      "36": {
+        "code": "LHA excluding Shinshuu Maru",
+        "note": "Excluding Shinshuu Maru",
+        "value": 2
+      },
       "37": 1,
+      "39": {
+        "code": "Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Shinshuu Maru and Shinshuu Maru Kai only",
+        "value": 2
+      },
       "40": 1,
+      "42": {
+        "code": "Shinshuu Maru Kai",
+        "note": "Shinshuu Maru Kai only",
+        "value": 2
+      },
       "43": 1,
+      "45": {
+        "code": "Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Shinshuu Maru and Shinshuu Maru Kai only",
+        "value": 2
+      },
       "46": 1,
-      "50": 1
+      "50": {
+        "code": "LHA excluding Shinshuu Maru, Shinshuu Maru Kai",
+        "note": "Excluding Shinshuu Maru and Shinshuu Maru Kai",
+        "value": 2
+      }
     },
     "18": {
       "4": 1,

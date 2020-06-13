@@ -482,6 +482,37 @@
     "_torpedo_accuracy": false,
     "_type": 1
   },
+  "12.7cm Single High-angle Gun Mount Kai 2": {
+    "_aa": 5,
+    "_armor": false,
+    "_asw": 2,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 3,
+    "_firepower": 1,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 16,
+    "_id": 379,
+    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された単装両用砲です。運用実績の豊富な八九式12.7cm連装高角砲を単装化、防盾付き艦載両用砲として再整備されました。本砲は、さらに発射速度などの向上を図ったその改良型です。松型駆逐艦を始め、一部の艦艇でより効果的な運用が可能です。",
+    "_japanese_name": "12.7cm単装高角砲改二",
+    "_los": false,
+    "_luck": false,
+    "_name": "12.7cm Single High-angle Gun Mount Kai 2",
+    "_range": 1,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": false,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
+  },
   "12.7cm Twin Gun Mount": {
     "_aa": 2,
     "_armor": false,
@@ -1477,6 +1508,37 @@
     "_type": 1,
     "_wikipedia": "12.7 cm/40 Type 89 naval gun"
   },
+  "12.7cm Twin High-angle Gun Mount Kai 2": {
+    "_aa": 6,
+    "_armor": false,
+    "_asw": 2,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 2,
+    "_firepower": 2,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 16,
+    "_id": 380,
+    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦などに搭載された運用実績の豊富な八九式12.7cm連装高角砲、その強化改良型です。戦訓により従来型に対して発射速度等の向上を図った本改良型は、松型駆逐艦を始め一部の艦艇で運用することで、より効果的な戦闘力を発揮することが可能です。",
+    "_japanese_name": "12.7cm連装高角砲改二",
+    "_los": false,
+    "_luck": false,
+    "_name": "12.7cm Twin High-angle Gun Mount Kai 2",
+    "_range": 1,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": false,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
+  },
   "12.7mm Single Machine Gun Mount": {
     "_aa": 3,
     "_armor": false,
@@ -1864,6 +1926,54 @@
     "_flight_range": false,
     "_icon": 1,
     "_id": 293,
+    "_improvements": {
+      "_ammo": 30,
+      "_bauxite": 10,
+      "_fuel": 10,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 3,
+            "_development_material_x": 4,
+            "_equipment": {
+              "12cm Single Gun Mount": 2
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "Type 22 Surface Radar": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 4
+          },
+          "_ships": {
+            "Kisaragi/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Mutsuki/Kai Ni": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 50
+    },
     "_info": "旧型駆逐艦に標準的主砲として搭載された小口径主砲の改良型です。装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました本兵装を戦訓を取り入れて改良、実戦時の運用性を大きく向上させています。残念ながら対空射撃には不向きです。",
     "_japanese_name": "12cm単装砲改二",
     "_los": false,
@@ -3502,6 +3612,37 @@
     "_scrap_fuel": false,
     "_scrap_steel": 22,
     "_shelling_accuracy": 4,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 3
+  },
+  "16inch Triple Gun Mount Mk.6": {
+    "_aa": 2,
+    "_armor": 1,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 22,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 3,
+    "_id": 381,
+    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。南太平洋海戦に機動部隊と共に参加、さらに南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦「South Dakota」にも、その主兵装として装備されました。",
+    "_japanese_name": "16inch三連装砲 Mk.6",
+    "_los": false,
+    "_luck": false,
+    "_name": "16inch Triple Gun Mount Mk.6",
+    "_range": 3,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 13,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": false,
+    "_scrap_steel": 22,
+    "_shelling_accuracy": 2,
     "_special": false,
     "_speed": false,
     "_torpedo": false,
@@ -11445,7 +11586,54 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 171,
-    "_improvements": false,
+    "_improvements": {
+      "_ammo": 30,
+      "_bauxite": 320,
+      "_fuel": 80,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "Type 0 Reconnaissance Seaplane": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 6,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Type 0 Reconnaissance Seaplane": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "_ships": {
+            "Houston/Kai": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Iowa/Kai": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 0
+    },
     "_info": "Vought社が開発した艦載観測機です。水上機タイプの本機は、米海軍の水上艦に搭載され、Iowa級をはじめ、戦艦や巡洋艦等の目として索敵等に運用されました。",
     "_japanese_name": "OS2U",
     "_los": 6,
@@ -12472,7 +12660,7 @@
       "_bauxite": 470,
       "_fuel": 270,
       "_products": {
-        "false": {
+        "Tenzan Model 12 A Kai (w/ Type 6 Airborne Radar Kai)": {
           "0": {
             "_development_material": 7,
             "_development_material_x": 8,
@@ -12491,6 +12679,17 @@
             "_improvement_material": 5,
             "_improvement_material_x": 6
           },
+          "10": {
+            "_development_material": 40,
+            "_development_material_x": 80,
+            "_equipment": {
+              "New Model Aerial Armament Material": 2,
+              "Skilled Crew Member": 2,
+              "Tenzan Model 12A": 1
+            },
+            "_improvement_material": 11,
+            "_improvement_material_x": 22
+          },
           "_ships": {
             "Ryuuhou/Kai": {
               "Friday": true,
@@ -12500,6 +12699,15 @@
               "Thursday": true,
               "Tuesday": false,
               "Wednesday": false
+            },
+            "Zuihou/Kai Ni B": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             }
           }
         }
@@ -13997,6 +14205,54 @@
     "_flight_range": false,
     "_icon": 11,
     "_id": 278,
+    "_improvements": {
+      "_ammo": 0,
+      "_bauxite": 200,
+      "_fuel": 10,
+      "_products": {
+        "SK + SG Radar": {
+          "0": {
+            "_development_material": 20,
+            "_development_material_x": 24,
+            "_equipment": {
+              "Type 21 Air Radar": 1
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 6
+          },
+          "6": {
+            "_development_material": 28,
+            "_development_material_x": 36,
+            "_equipment": {
+              "Type 13 Air Radar Kai": 1
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 9
+          },
+          "10": {
+            "_development_material": 50,
+            "_development_material_x": 100,
+            "_equipment": {
+              "SG Radar (Initial Model)": 1
+            },
+            "_improvement_material": 18,
+            "_improvement_material_x": 30
+          },
+          "_ships": {
+            "Gambier Bay/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 270
+    },
     "_info": "米国で開発・運営された対空早期監視レーダーです。探知距離も大きく優れた能力を持っています。本レーダーと迎撃戦闘機隊の連携、そしてエセックス級などの新型かつ強力な航空母艦の投入は、圧倒的な艦隊防空網を発揮します。",
     "_japanese_name": "SK レーダー",
     "_los": 10,
@@ -16469,7 +16725,72 @@
     "_flight_range": 5,
     "_icon": 8,
     "_id": 17,
-    "_improvements": false,
+    "_improvements": {
+      "_ammo": 360,
+      "_bauxite": 430,
+      "_fuel": 280,
+      "_products": {
+        "Tenzan Model 12A": {
+          "0": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "Tenzan": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 6,
+            "_development_material_x": 8,
+            "_equipment": {
+              "Tenzan": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 20,
+            "_equipment": {
+              "Ryuusei": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 7
+          },
+          "_ships": {
+            "Shoukaku/Kai Ni A": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Taihou/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Zuikaku/Kai Ni A": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 0
+    },
     "_info": "旧式化した「九七艦攻」の後継機として開発された、新型の艦上攻撃機「天山」。<br/>機動部隊に配備され、主に雷撃任務を担当します。<br/>急降下爆撃機の｢彗星｣などと一緒に、ぜひ空母機動部隊で運用してくださいね。",
     "_japanese_name": "天山",
     "_localized_name": "Heavenly Mountain",
@@ -16639,7 +16960,7 @@
     "_flight_range": 5,
     "_icon": 8,
     "_id": 372,
-    "_info": "",
+    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」。発動機を換装し、武装を強化。さらに細部を改修した「天山」の改良後期型です。「翔鶴」「瑞鶴」、そして「大鳳」などの航空母艦で運用して、戦果を挙げたいですね。",
     "_japanese_name": "天山一二型甲",
     "_los": 2,
     "_luck": false,
@@ -23571,7 +23892,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_upgradeable": false,
+    "_upgradable": false,
     "_wikipedia": "Tetsuzo Iwamoto"
   },
   "Zero Fighter Model 52A (w/ Iwamoto Flight)": {

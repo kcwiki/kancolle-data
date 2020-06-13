@@ -1831,7 +1831,7 @@
     "detail_en": "Have [[Isokaze B Kai]], [[Hamakaze B Kai]], [[Urakaze Kai]], and [[Tanikaze Kai]] in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A86 achieved.ogg}}}}'''",
     "id": null,
     "label": "A86",
-    "note": "Requires: [[#B61|B61]], [[#F72|F72]]",
+    "note": "Requires: [[#B61|B61]], [[#F72|F72]]<br>Unlocks: [[#A90|A90]]",
     "requires": null,
     "reward_ammo": 170,
     "reward_bauxite": 0,
@@ -3531,7 +3531,7 @@
   "B80": {
     "detail_en": "Sortie a fleet to World [[6-3]]. Obtain a S-rank at the boss node.",
     "label": "B80",
-    "note": "Requires: [[#B41|B41]], [[#B62|B62]], [[#Bw9|Bw9]]<br />Unlocks: [[#B81|B81]]",
+    "note": "Requires: [[#B41|B41]], [[#B62|B62]]<br />Unlocks: [[#B81|B81]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
