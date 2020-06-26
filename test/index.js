@@ -7,6 +7,7 @@ test('shape', t => {
   t.equal(data.api.api_mst_ship.find(e => e.api_name === '睦月').api_id, 1)
 
   t.equal(data.api.getShip({ name: '睦月' }).api_id, 1)
+  t.equal(data.api.getShip({ id: 1501 }).api_name, '駆逐イ級')
   t.equal(data.api.getShipType({ name: '海防艦' }).api_id, 1)
   t.equal(data.api.getEquipment({ name: '12cm単装砲' }).api_id, 1)
   t.equal(data.api.getEquipmentType({ name: '小口径主砲' }).api_id, 1)
@@ -66,6 +67,10 @@ test('shape', t => {
   t.equal(data.tl.tlEnemyEquipmentFromId(501), '5inch Single Gun Mount')
   t.equal(data.tlEnemyEquipment('5inch単装砲'), '5inch Single Gun Mount')
   t.equal(data.tlEnemyEquipmentFromId(501), '5inch Single Gun Mount')
+
+  t.equal(data.tlEnemyEquipment('5inch単装高射砲'), '5inch Single Anti-Aircraft Gun Mount (?)')
+  t.equal(data.tlEnemyEquipmentFromId(504), '5inch Single Anti-Aircraft Gun Mount')
+  t.equal(data.tlEnemyEquipmentFromId(510), '5inch Single Anti-Aircraft Gun Mount (Secondary)')
 
   t.equal(data.tl('海防艦'), 'Coastal Defense Ship')
   t.equal(data.tl.shipType['海防艦'], 'Coastal Defense Ship')

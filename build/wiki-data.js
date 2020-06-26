@@ -25,7 +25,11 @@ const main = async () => {
       toPairs(categories),
       async ([categoryName, category]) => {
         const titles = (await bot.getPagesInCategoryAsync(category)).filter(e => e.title.startsWith('Module:')).map(e => e.title)
-        const modules = await map(titles, async title => [title.replace('Module:', ''), parse(await bot.getArticleAsync(title))], { concurrency })
+        const modules = await map(
+          titles,
+          async title => [title.replace('Module:', '').replace(/Data\/.+?\//, ''), parse(await bot.getArticleAsync(title))],
+          { concurrency },
+        )
         return [categoryName, fromPairs(modules)]
       },
       { concurrency: 1 },

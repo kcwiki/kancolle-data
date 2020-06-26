@@ -28,7 +28,10 @@ module.exports = Object.assign(module.exports, {
     result[`tl${upperFirst(key)}`] = name => value[name]
     const apiGetter = api[`get${upperFirst(key === 'enemy' ? 'ship' : key === 'enemyEquipment' ? 'equipment' : key)}`]
     if (apiGetter) {
-      result[`tl${upperFirst(key)}FromId`] = id => value[`${apiGetter({ id }).api_name}${key === 'enemy' ? `_${id}` : ''}`]
+      result[`tl${upperFirst(key)}FromId`] = id => {
+        const name = apiGetter({ id }).api_name
+        return value[`${name}_${id}`] || value[name]
+      }
     }
   }),
 })
