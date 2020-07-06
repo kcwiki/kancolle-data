@@ -176,7 +176,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
-    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Technology Aircraft Blueprint|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1",
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Remodel Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Technology Aircraft Blueprint|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "【桃の節句任務】菱餅改修：破",
     "title_en": "The Doll Festival Mission: Hissimochi Improvement - Midpoint"
@@ -2311,7 +2311,7 @@
     "reward_ammo": 700,
     "reward_bauxite": 0,
     "reward_fuel": 700,
-    "reward_other": "'''Choice between'''<br>[[File:Furniture_fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model B Kai Ni|image=30px|text=true}} x3<br>'''or'''<br>{{EquipmentLink|Daihatsu Landing Craft|image=30px|text=true}} x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x8<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x5<br>'''or'''<br>{{EquipmentLink|Type 0 Passive Sonar|image=30px|text=true}} x1",
+    "reward_other": "'''Choice between'''<br>[[File:Furniture_fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model B Kai 2|image=30px|text=true}} x3<br>'''or'''<br>{{EquipmentLink|Daihatsu Landing Craft|image=30px|text=true}} x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x8<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x5<br>'''or'''<br>{{EquipmentLink|Type 0 Passive Sonar|image=30px|text=true}} x1",
     "reward_steel": 700,
     "title": "「第七駆逐隊」、南西諸島を駆ける！",
     "title_en": "7th Destroyer Division, Sail to the Southwestern Waters!"
@@ -2671,7 +2671,7 @@
     "reward_ammo": 1000,
     "reward_bauxite": 0,
     "reward_fuel": 1000,
-    "reward_other": "[[File:Medal.png|30px|link=Medal]] x1<br>'''then choice between'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|ASW Lightweight Torpedo (Experimental Initial Model)|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Blueprint|text=true|image=30px}} x1",
+    "reward_other": "[[File:Medal.png|30px|link=Medal]] x1<br>'''then choice between'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Lightweight ASW Torpedo (Initial Test Model)|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Remodel Blueprint|text=true|image=30px}} x1",
     "reward_steel": 1000,
     "title": "合同艦隊作戦任務【拡張作戦】",
     "title_en": "Coalition Fleet's Operational Mission [Extra Operation]"
@@ -5067,7 +5067,7 @@
   "D33": {
     "detail_en": "Complete Expeditions 1, 2, 3, 4, and 10 once each.",
     "label": "D33",
-    "note": "Requires: ??<br>'''Yearly Quest - Resets in March every year.'''",
+    "note": "Requires: [[#D30|D30]],??<br>'''Yearly Quest - Resets in March every year.'''",
     "reward_ammo": 400,
     "reward_bauxite": 0,
     "reward_fuel": 400,
@@ -5079,7 +5079,7 @@
   "D34": {
     "detail_en": "Complete Expeditions 4, A5, A6, and B1 once each.",
     "label": "D34",
-    "note": "Requires: ??<br>'''Yearly Quest - Resets in May every year.'''",
+    "note": "Requires: [[#D30|D30]],??<br>'''Yearly Quest - Resets in May every year.'''",
     "reward_ammo": 600,
     "reward_bauxite": 400,
     "reward_fuel": 600,
@@ -6255,7 +6255,7 @@
   "F89": {
     "detail_en": "Prepare 1700 Ammunition, 30 [[File:Development material.png|30px|link=Construction]], and 10 [[File:Instant construction 2.png|30px|link=Construction]] in your inventory. Have a [[CL|Light Cruiser]] as secretary equipped with a {{EquipmentLink|7.7mm Machine Gun}} in her first slot. Scrap 2 {{EquipmentLink|25mm Single Autocannon Mount}}, 2 {{EquipmentLink|Drum Canister (Transport Use)}}, and 1 {{EquipmentLink|12cm 30-tube Rocket Launcher}}.",
     "label": "F89",
-    "note": "Requires: ??",
+    "note": "Requires: [[Quests#F72|F72]], ??<br>",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -7188,7 +7188,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 3000,
-    "reward_other": "'''Choice between'''<br>{{ShipLink|Hiburi}}<br>'''or'''<br>{{ShipLink|Daitou}}<br>'''or'''<br>{{ShipLink|Shimushu}}<br>'''or'''<br>{{ShipLink|Kunashiri}}<br>'''or'''<br>{{ShipLink|Akashi}}<br>'''then choice between'''<br>{{EquipmentLink|Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1",
+    "reward_other": "'''Choice between'''<br>{{ShipLink|Hiburi}}<br>'''or'''<br>{{ShipLink|Daitou}}<br>'''or'''<br>{{ShipLink|Shimushu}}<br>'''or'''<br>{{ShipLink|Kunashiri}}<br>'''or'''<br>{{ShipLink|Akashi}}<br>'''then choice between'''<br>{{EquipmentLink|Remodel Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "【特別任務】今年は鰯が豊漁なのです！",
     "title_en": "Special Mission: Sardines are plentiful this year!"

@@ -96,7 +96,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: null
+  api_max_maphp: number | null
   api_name: string
   api_no: number
   api_opetext: string

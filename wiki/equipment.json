@@ -610,6 +610,106 @@
       "_fuel": 10,
       "_products": {
         "12.7cm Twin Gun Mount Model A Kai 2": {
+          "10": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "12.7cm Twin Gun Mount": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "_ships": {
+            "Fubuki/": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Fubuki/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Fubuki/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Shirayuki/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Shirayuki/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          },
+          "_stars": false
+        },
+        "12.7cm Twin Gun Mount Model A Kai 2*": {
+          "10": {
+            "_development_material": 4,
+            "_development_material_x": 8,
+            "_equipment": {
+              "12.7cm Twin Gun Mount": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Isonami/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Uranami/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Uranami/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          },
+          "_stars": false
+        },
+        "false": {
           "0": {
             "_development_material": 1,
             "_development_material_x": 2,
@@ -625,15 +725,6 @@
             },
             "_improvement_material": 1,
             "_improvement_material_x": 2
-          },
-          "10": {
-            "_development_material": 4,
-            "_development_material_x": 8,
-            "_equipment": {
-              "12.7cm Twin Gun Mount": 2
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 6
           },
           "_ships": {
             "Fubuki/": {
@@ -708,8 +799,7 @@
               "Tuesday": false,
               "Wednesday": false
             }
-          },
-          "_stars": false
+          }
         }
       },
       "_steel": 50
@@ -1111,7 +1201,7 @@
             "_development_material": 3,
             "_development_material_x": 4,
             "_equipment": {
-              "12.7cm Twin Gun Mount Model B Kai Ni": 1
+              "12.7cm Twin Gun Mount Model B Kai 2": 1
             },
             "_improvement_material": 3,
             "_improvement_material_x": 4
@@ -1827,7 +1917,7 @@
             "_development_material": 2,
             "_development_material_x": 4,
             "_equipment": {
-              "No. 22 Surface Radar": 1
+              "Type 22 Surface Radar": 1
             },
             "_improvement_material": 2,
             "_improvement_material_x": 6
@@ -2038,6 +2128,64 @@
     "_flight_range": false,
     "_icon": 16,
     "_id": 382,
+    "_improvements": {
+      "_ammo": 20,
+      "_bauxite": 20,
+      "_fuel": 10,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 3,
+            "_development_material_x": 3,
+            "_equipment": {
+              "12cm Single Gun Mount": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 3,
+            "_development_material_x": 4,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "_ships": {
+            "Daitou/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Hiburi/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Mikura/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          },
+          "_stars": false
+        }
+      },
+      "_steel": 40
+    },
     "_info": "やや旧式ながら実績のある単装高角砲、その後期艦載型です。量産に向いた構造で経済性が高く、後期の量産海防艦に搭載され、雲霞のような敵艦載機に立ち向かいます。御蔵型、日振型、そして鵜来型、さらに小型簡略化された丙型及び丁型海防艦でも装備運用されました。",
     "_japanese_name": "12cm単装高角砲E型",
     "_los": false,
@@ -2566,7 +2714,7 @@
             "_development_material": 10,
             "_development_material_x": 15,
             "_equipment": {
-              "No. 22 Surface Radar": 2
+              "Type 22 Surface Radar": 2
             },
             "_improvement_material": 7,
             "_improvement_material_x": 8
@@ -2650,7 +2798,7 @@
             "_development_material": 5,
             "_development_material_x": 8,
             "_equipment": {
-              "No. 22 Surface Radar": 1
+              "Type 22 Surface Radar": 1
             },
             "_improvement_material": 4,
             "_improvement_material_x": 10
@@ -3680,6 +3828,37 @@
     "_torpedo_accuracy": false,
     "_type": 3
   },
+  "16inch Triple Gun Mount Mk.6 mod.2": {
+    "_aa": 2,
+    "_armor": 2,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 23,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 3,
+    "_id": 385,
+    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。南太平洋海戦に機動部隊と共に参加、さらに南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦「South Dakota」の主兵装となった兵装の強化改修型です。",
+    "_japanese_name": "16inch三連装砲 Mk.6 mod.2",
+    "_los": false,
+    "_luck": false,
+    "_name": "16inch Triple Gun Mount Mk.6 mod.2",
+    "_range": 3,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 14,
+    "_scrap_bauxite": 3,
+    "_scrap_fuel": false,
+    "_scrap_steel": 22,
+    "_shelling_accuracy": 3,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 3
+  },
   "16inch Triple Gun Mount Mk.7": {
     "_aa": 3,
     "_armor": 1,
@@ -3719,7 +3898,7 @@
             "_development_material": 20,
             "_development_material_x": 28,
             "_equipment": {
-              "No. 32 Surface Radar": 2
+              "Type 32 Surface Radar": 2
             },
             "_improvement_material": 12,
             "_improvement_material_x": 20
@@ -3791,7 +3970,7 @@
             "_development_material": 16,
             "_development_material_x": 24,
             "_equipment": {
-              "No. 22 Surface Radar": 2
+              "Type 22 Surface Radar": 2
             },
             "_improvement_material": 8,
             "_improvement_material_x": 12
@@ -3800,7 +3979,7 @@
             "_development_material": 16,
             "_development_material_x": 24,
             "_equipment": {
-              "No. 32 Surface Radar": 2
+              "Type 32 Surface Radar": 2
             },
             "_improvement_material": 8,
             "_improvement_material_x": 16
@@ -4384,7 +4563,7 @@
       "_bauxite": 10,
       "_fuel": false,
       "_products": {
-        "25mm Triple Autocannon Mount Concentrated Deployment": {
+        "25mm Triple Autocannon Mount (Concentrated Deployment)": {
           "10": {
             "_development_material": 5,
             "_development_material_x": 9,
@@ -7887,7 +8066,7 @@
       "_bauxite": 40,
       "_fuel": 10,
       "_products": {
-        "8cm High-angle Gun Kai + Extra Machine Guns": {
+        "8cm High-angle Gun Kai + Additional Machine Guns": {
           "0": {
             "_development_material": 4,
             "_development_material_x": 5,
@@ -8868,14 +9047,32 @@
             "_improvement_material_x": 5
           },
           "_ships": {
+            "Gotland/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
             "Gotland/Andra": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Gotland/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
             }
           }
         }
@@ -9417,7 +9614,7 @@
       "_bauxite": 30,
       "_fuel": 70,
       "_products": {
-        "Special Type 2 Amphibious Landing Craft": {
+        "Special Type 2 Amphibious Tank": {
           "0": {
             "_development_material": 3,
             "_development_material_x": 5,
@@ -10096,7 +10293,7 @@
             "_development_material": 12,
             "_development_material_x": 16,
             "_equipment": {
-              "Reppuu": 1
+              "Prototype Reppuu Late Model": 1
             },
             "_improvement_material": 8,
             "_improvement_material_x": 12
@@ -10927,6 +11124,37 @@
     "_type": 45,
     "_wikipedia": "Kawanishi N1K"
   },
+  "Late Model 53cm Bow Torpedo Mount (8 tubes)": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 5,
+    "_id": 383,
+    "_info": "",
+    "_japanese_name": "後期型53cm艦首魚雷(8門)",
+    "_los": false,
+    "_luck": false,
+    "_name": "Late Model 53cm Bow Torpedo Mount (8 tubes)",
+    "_range": 1,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 4,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": 3,
+    "_scrap_steel": 3,
+    "_shelling_accuracy": 3,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 19,
+    "_torpedo_accuracy": false,
+    "_type": 32
+  },
   "Late Model Bow Torpedo Mount (6 tubes)": {
     "_aa": false,
     "_armor": false,
@@ -10956,6 +11184,37 @@
     "_torpedo": 15,
     "_torpedo_accuracy": false,
     "_type": 32
+  },
+  "Late Model Submarine Radar & Passive Radiolocator": {
+    "_aa": false,
+    "_armor": 1,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 13,
+    "_firepower": 2,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 42,
+    "_id": 384,
+    "_info": "",
+    "_japanese_name": "後期型潜水艦搭載電探&逆探",
+    "_los": 7,
+    "_luck": false,
+    "_name": "Late Model Submarine Radar & Passive Radiolocator",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": false,
+    "_scrap_bauxite": 19,
+    "_scrap_fuel": false,
+    "_scrap_steel": 14,
+    "_shelling_accuracy": 4,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 4,
+    "_torpedo_accuracy": false,
+    "_type": 51
   },
   "Laté 298B": {
     "_aa": 1,
@@ -10999,7 +11258,7 @@
               "Monday": true,
               "Saturday": true,
               "Sunday": true,
-              "Thursday": false,
+              "Thursday": null,
               "Tuesday": true,
               "Wednesday": true
             },
@@ -11008,7 +11267,7 @@
               "Monday": true,
               "Saturday": true,
               "Sunday": true,
-              "Thursday": false,
+              "Thursday": null,
               "Tuesday": true,
               "Wednesday": true
             }
@@ -12411,7 +12670,7 @@
             "_development_material": 10,
             "_development_material_x": 15,
             "_equipment": {
-              "Reppuu": 1
+              "Prototype Reppuu Late Model": 1
             },
             "_improvement_material": 7,
             "_improvement_material_x": 10
@@ -12691,7 +12950,7 @@
       "_bauxite": 470,
       "_fuel": 270,
       "_products": {
-        "Tenzan Model 12 A Kai (w/ Type 6 Airborne Radar Kai)": {
+        "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)": {
           "0": {
             "_development_material": 7,
             "_development_material_x": 8,
@@ -12743,7 +13002,7 @@
           }
         }
       },
-      "_steel": 0
+      "_steel": false
     },
     "_info": "初期機動部隊の航空打撃力の中核となった名艦上攻撃機、通称「九七艦攻」。旧式化した同機を強化改修、改良調整を施した機上電探空六号改及び夜間作戦装備を搭載したif改修夜間艦上攻撃機、試製三号艦攻戊型、通称「九七式艦攻改」です。国産の実用夜間攻撃機、その最初の翼をぜひ提督の艦隊に！",
     "_japanese_name": "九七式艦攻改 試製三号戊型(空六号電探改装備機)",
@@ -14077,17 +14336,26 @@
           },
           "10": {
             "_development_material": 30,
-            "_development_material_x": null,
+            "_development_material_x": 49,
             "_equipment": {
               "New Model Aerial Armament Material": 2,
               "Skilled Crew Member": 1,
               "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)": 1
             },
             "_improvement_material": 9,
-            "_improvement_material_x": null
+            "_improvement_material_x": 17
           },
           "_ships": {
-            "Gotland": {
+            "Gotland/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Gotland/Andra": {
               "Friday": true,
               "Monday": false,
               "Saturday": true,
@@ -14867,7 +15135,7 @@
             "_development_material": 12,
             "_development_material_x": 18,
             "_equipment": {
-              "Shiden Kai Ni": 2
+              "Shiden Kai 2": 2
             },
             "_improvement_material": 7,
             "_improvement_material_x": 12
@@ -15324,22 +15592,31 @@
           },
           "6": {
             "_development_material": 4,
-            "_development_material_x": null,
+            "_development_material_x": 6,
             "_equipment": {
               "Type 0 Fighter Model 21": 1
             },
             "_improvement_material": 2,
-            "_improvement_material_x": null
+            "_improvement_material_x": 4
           },
           "_ships": {
-            "Ark Royal": {
+            "Ark Royal/": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Ark Royal/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
             }
           }
         }
@@ -15820,7 +16097,7 @@
             "_development_material": 20,
             "_development_material_x": 24,
             "_equipment": {
-              "No. 22 Surface Radar": 2
+              "Type 22 Surface Radar": 2
             },
             "_improvement_material": 7,
             "_improvement_material_x": 9
@@ -16240,6 +16517,39 @@
       "_fuel": 90,
       "_products": {
         "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)": {
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 18,
+            "_equipment": {
+              "New Model Aerial Armament Material": 1,
+              "Skilled Crew Member": 1,
+              "Type 2 Reconnaissance Aircraft": 1
+            },
+            "_improvement_material": 6,
+            "_improvement_material_x": 12
+          },
+          "_ships": {
+            "Warspite/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Warspite/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            }
+          }
+        },
+        "false": {
           "0": {
             "_development_material": 4,
             "_development_material_x": 5,
@@ -16257,17 +16567,6 @@
             },
             "_improvement_material": 3,
             "_improvement_material_x": 5
-          },
-          "10": {
-            "_development_material": 12,
-            "_development_material_x": 18,
-            "_equipment": {
-              "New Model Aerial Armament Material": 1,
-              "Skilled Crew Member": 1,
-              "Type 2 Reconnaissance Aircraft": 1
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 12
           },
           "_ships": {
             "Commandant Teste/": {
@@ -16289,22 +16588,31 @@
               "Wednesday": false
             },
             "Gotland/": {
-              "Friday": true,
+              "Friday": false,
               "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": false,
               "Tuesday": true,
-              "Wednesday": false
+              "Wednesday": true
+            },
+            "Gotland/Andra": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Gotland/Kai": {
-              "Friday": true,
+              "Friday": false,
               "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": false,
               "Tuesday": true,
-              "Wednesday": false
+              "Wednesday": true
             },
             "Kamoi/": {
               "Friday": true,
@@ -16328,6 +16636,24 @@
               "Friday": true,
               "Monday": false,
               "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Warspite/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Warspite/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
               "Sunday": false,
               "Thursday": true,
               "Tuesday": false,
@@ -16428,66 +16754,66 @@
           "_ships": {
             "Commandant Teste/": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Commandant Teste/Kai": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Kamoi/": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Kamoi/Kai": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Kamoi/Kai Bo": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Warspite/": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Warspite/Kai": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -16584,12 +16910,12 @@
           "_ships": {
             "Gotland/Andra": {
               "Friday": true,
-              "Monday": null,
+              "Monday": false,
               "Saturday": true,
-              "Sunday": null,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -18057,7 +18383,7 @@
             "_development_material": 16,
             "_development_material_x": 22,
             "_equipment": {
-              "Reppuu": 1
+              "Prototype Reppuu Late Model": 1
             },
             "_improvement_material": 6,
             "_improvement_material_x": 9
@@ -18223,7 +18549,7 @@
             "_development_material": 6,
             "_development_material_x": 9,
             "_equipment": {
-              "Reppuu": 1
+              "Prototype Reppuu Late Model": 1
             },
             "_improvement_material": 5,
             "_improvement_material_x": 7
@@ -19015,7 +19341,7 @@
             "_development_material": 6,
             "_development_material_x": 9,
             "_equipment": {
-              "Reppuu": 2
+              "Prototype Reppuu Late Model": 2
             },
             "_improvement_material": 6,
             "_improvement_material_x": 7
@@ -19310,7 +19636,7 @@
       "_bauxite": 30,
       "_fuel": 10,
       "_products": {
-        "No. 13 Air Radar Kai": {
+        "Type 13 Air Radar Kai": {
           "0": {
             "_development_material": 4,
             "_development_material_x": 5,
@@ -19331,7 +19657,7 @@
             "_development_material": 10,
             "_development_material_x": 15,
             "_equipment": {
-              "No. 21 Air Radar": 1
+              "Type 21 Air Radar": 1
             },
             "_improvement_material": 5,
             "_improvement_material_x": 12
@@ -19455,7 +19781,7 @@
             "_development_material": 5,
             "_development_material_x": 7,
             "_equipment": {
-              "No. 13 Air Radar": 1
+              "Type 13 Air Radar": 1
             },
             "_improvement_material": 3,
             "_improvement_material_x": 4
@@ -19464,7 +19790,7 @@
             "_development_material": 7,
             "_development_material_x": 9,
             "_equipment": {
-              "No. 13 Air Radar": 2
+              "Type 13 Air Radar": 2
             },
             "_improvement_material": 4,
             "_improvement_material_x": 8
@@ -20212,7 +20538,7 @@
             "_development_material": 6,
             "_development_material_x": 8,
             "_equipment": {
-              "No. 21 Air Radar": 1
+              "Type 21 Air Radar": 1
             },
             "_improvement_material": 2,
             "_improvement_material_x": 3
@@ -20221,7 +20547,7 @@
             "_development_material": 10,
             "_development_material_x": 12,
             "_equipment": {
-              "No. 21 Air Radar": 2
+              "Type 21 Air Radar": 2
             },
             "_improvement_material": 4,
             "_improvement_material_x": 8
@@ -20451,7 +20777,7 @@
             "_development_material": 5,
             "_development_material_x": 8,
             "_equipment": {
-              "No. 22 Surface Radar": 1
+              "Type 22 Surface Radar": 1
             },
             "_improvement_material": 3,
             "_improvement_material_x": 4
@@ -21217,12 +21543,12 @@
       "_bauxite": 50,
       "_fuel": 10,
       "_products": {
-        "No. 32 Surface Radar Kai": {
+        "Type 32 Surface Radar Kai": {
           "0": {
             "_development_material": 6,
             "_development_material_x": 10,
             "_equipment": {
-              "No. 22 Surface Radar": 1
+              "Type 22 Surface Radar": 1
             },
             "_improvement_material": 3,
             "_improvement_material_x": 4
@@ -21231,7 +21557,7 @@
             "_development_material": 12,
             "_development_material_x": 15,
             "_equipment": {
-              "No. 22 Surface Radar": 2
+              "Type 22 Surface Radar": 2
             },
             "_improvement_material": 4,
             "_improvement_material_x": 7
@@ -21346,7 +21672,7 @@
             "_development_material": 10,
             "_development_material_x": 15,
             "_equipment": {
-              "No. 22 Surface Radar": 3
+              "Type 22 Surface Radar": 3
             },
             "_improvement_material": 5,
             "_improvement_material_x": 6
@@ -21355,7 +21681,7 @@
             "_development_material": 14,
             "_development_material_x": 18,
             "_equipment": {
-              "No. 32 Surface Radar": 1
+              "Type 32 Surface Radar": 1
             },
             "_improvement_material": 7,
             "_improvement_material_x": 10
@@ -24766,6 +25092,7 @@
     "_asw": 6,
     "_back": 4,
     "_bombing": 9,
+    "_buildable": false,
     "_evasion": false,
     "_firepower": false,
     "_flight_cost": 7,

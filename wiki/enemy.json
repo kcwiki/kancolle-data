@@ -427,6 +427,259 @@
     "_type": 11,
     "_full_name": "Abyssal Jellyfish Princess III"
   },
+  "Abyssal Kuriles Princess": {
+    "_aa": 49,
+    "_api_id": 1927,
+    "_armor": 130,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 110,
+    "_hp": 330,
+    "_id": 1927,
+    "_japanese_name": "深海千島棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Kuriles Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しんかいちしませいき",
+    "_speed": 10,
+    "_torpedo": 109,
+    "_type": 2,
+    "_full_name": "Abyssal Kuriles Princess"
+  },
+  "Abyssal Kuriles Princess Damaged": {
+    "_aa": 59,
+    "_api_id": 1930,
+    "_armor": 170,
+    "_asw": null,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 330,
+    "_id": 1930,
+    "_japanese_name": "深海千島棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Kuriles Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しんかいちしませいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": 119,
+    "_type": 2,
+    "_full_name": "Abyssal Kuriles Princess Damaged"
+  },
+  "Abyssal Kuriles Princess Damaged II": {
+    "_aa": 69,
+    "_api_id": 1931,
+    "_armor": 190,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 170,
+    "_hp": 480,
+    "_id": 1931,
+    "_japanese_name": "深海千島棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Kuriles Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しんかいちしませいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": 129,
+    "_type": 2,
+    "_full_name": "Abyssal Kuriles Princess Damaged II"
+  },
+  "Abyssal Kuriles Princess Damaged III": {
+    "_aa": 79,
+    "_api_id": 1932,
+    "_armor": 230,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 180,
+    "_hp": 590,
+    "_id": 1932,
+    "_japanese_name": "深海千島棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Kuriles Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しんかいちしませいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": 149,
+    "_type": 2,
+    "_full_name": "Abyssal Kuriles Princess Damaged III"
+  },
+  "Abyssal Kuriles Princess II": {
+    "_aa": 59,
+    "_api_id": 1928,
+    "_armor": 160,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 140,
+    "_hp": 480,
+    "_id": 1928,
+    "_japanese_name": "深海千島棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Kuriles Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しんかいちしませいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 119,
+    "_type": 2,
+    "_full_name": "Abyssal Kuriles Princess II"
+  },
+  "Abyssal Kuriles Princess III": {
+    "_aa": 69,
+    "_api_id": 1929,
+    "_armor": 200,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Surface Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 170,
+    "_hp": 590,
+    "_id": 1929,
+    "_japanese_name": "深海千島棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Kuriles Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しんかいちしませいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 139,
+    "_type": 2,
+    "_full_name": "Abyssal Kuriles Princess III"
+  },
   "Abyssal Mediterranean Princess": {
     "_aa": 70,
     "_api_id": 1877,
@@ -4508,7 +4761,7 @@
     "_los": 70,
     "_luck": 10,
     "_name": "Armored Carrier Demon",
-    "_range": 2,
+    "_range": 3,
     "_rarity": 6,
     "_reading": "そうこうくうぼき",
     "_speed": 10,
@@ -4544,7 +4797,7 @@
     "_los": 80,
     "_luck": 20,
     "_name": "Armored Carrier Princess",
-    "_range": 2,
+    "_range": 3,
     "_rarity": 6,
     "_reading": "そうこうくうぼき",
     "_speed": 10,
@@ -6251,6 +6504,266 @@
     "_type": 9,
     "_full_name": "Central Princess III"
   },
+  "Destroyer Forest Princess": {
+    "_aa": 100,
+    "_api_id": 1945,
+    "_armor": 190,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 170,
+    "_hp": 500,
+    "_id": 1945,
+    "_japanese_name": "駆逐林棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Forest Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくりんせいき",
+    "_speed": 5,
+    "_torpedo": 120,
+    "_type": 2,
+    "_full_name": "Destroyer Forest Princess"
+  },
+  "Destroyer Forest Princess Damaged": {
+    "_aa": 130,
+    "_api_id": 1948,
+    "_armor": 250,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 500,
+    "_id": 1948,
+    "_japanese_name": "駆逐林棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Forest Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくりんせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": 160,
+    "_type": 2,
+    "_full_name": "Destroyer Forest Princess Damaged"
+  },
+  "Destroyer Forest Princess Damaged II": {
+    "_aa": 150,
+    "_api_id": 1949,
+    "_armor": 300,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 220,
+    "_hp": 600,
+    "_id": 1949,
+    "_japanese_name": "駆逐林棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Forest Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくりんせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": 180,
+    "_type": 2,
+    "_full_name": "Destroyer Forest Princess Damaged II"
+  },
+  "Destroyer Forest Princess Damaged III": {
+    "_aa": 170,
+    "_api_id": 1950,
+    "_armor": 350,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 270,
+    "_hp": 700,
+    "_id": 1950,
+    "_japanese_name": "駆逐林棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Forest Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくりんせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": 200,
+    "_type": 2,
+    "_full_name": "Destroyer Forest Princess Damaged III"
+  },
+  "Destroyer Forest Princess II": {
+    "_aa": 120,
+    "_api_id": 1946,
+    "_armor": 240,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 600,
+    "_id": 1946,
+    "_japanese_name": "駆逐林棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Forest Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくりんせいき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": 140,
+    "_type": 2,
+    "_full_name": "Destroyer Forest Princess II"
+  },
+  "Destroyer Forest Princess III": {
+    "_aa": 140,
+    "_api_id": 1947,
+    "_armor": 290,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 230,
+    "_hp": 700,
+    "_id": 1947,
+    "_japanese_name": "駆逐林棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Forest Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくりんせいき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": 160,
+    "_type": 2,
+    "_full_name": "Destroyer Forest Princess III"
+  },
   "Destroyer Ha-Class": {
     "_aa": 6,
     "_api_id": 1503,
@@ -6826,6 +7339,93 @@
     "_torpedo": 123,
     "_type": 2,
     "_full_name": "Destroyer Na-Class Late Model Flagship"
+  },
+  "Destroyer Na-Class Late Model II Elite": {
+    "_aa": 86,
+    "_api_id": 1951,
+    "_armor": 69,
+    "_asw": null,
+    "_back": -8,
+    "_battle_card_reference": "/Late Model Elite",
+    "_cg_reference": "/Late Model Elite",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 79,
+    "_hp": 66,
+    "_id": 1951,
+    "_japanese_name": "駆逐ナ級後期型II elite",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Na-Class",
+    "_range": 2,
+    "_rarity": 6.5,
+    "_reading": "くちくナきゅうこうきがたツーエリート",
+    "_speed": 10,
+    "_suffix": "Late Model II Elite",
+    "_torpedo": 113,
+    "_type": 2,
+    "_full_name": "Destroyer Na-Class Late Model II Elite"
+  },
+  "Destroyer Na-Class Late Model II Flagship": {
+    "_aa": null,
+    "_air_power": 0,
+    "_api_id": 1952,
+    "_armor": null,
+    "_asw": null,
+    "_back": -9,
+    "_battle_card_reference": "/Late Model Flagship",
+    "_cg_reference": "/Late Model Flagship",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 1952,
+    "_japanese_name": "駆逐ナ級後期型II flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Na-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "くちくナきゅうこうきがたツーフラグシップ",
+    "_speed": 10,
+    "_suffix": "Late Model II Flagship",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Na-Class Late Model II Flagship"
   },
   "Destroyer Ni-Class": {
     "_aa": 8,
@@ -10064,6 +10664,266 @@
     "_torpedo": 0,
     "_type": 7,
     "_full_name": "German Escort Princess III"
+  },
+  "Gotou Islands Seabed Princess": {
+    "_aa": 0,
+    "_api_id": 1939,
+    "_armor": 13,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Submarine Electronic Armament",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 47,
+    "_hp": 470,
+    "_id": 1939,
+    "_japanese_name": "五島沖海底姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Gotou Islands Seabed Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ごとうおきかいていき",
+    "_speed": 5,
+    "_torpedo": 160,
+    "_type": 13,
+    "_full_name": "Gotou Islands Seabed Princess"
+  },
+  "Gotou Islands Seabed Princess Damaged": {
+    "_aa": 0,
+    "_api_id": 1942,
+    "_armor": 23,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Submarine Electronic Armament",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 47,
+    "_hp": 470,
+    "_id": 1942,
+    "_japanese_name": "五島沖海底姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Gotou Islands Seabed Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ごとうおきかいていき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": 200,
+    "_type": 13,
+    "_full_name": "Gotou Islands Seabed Princess Damaged"
+  },
+  "Gotou Islands Seabed Princess Damaged II": {
+    "_aa": 0,
+    "_api_id": 1943,
+    "_armor": 47,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Submarine Electronic Armament",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 47,
+    "_hp": 470,
+    "_id": 1943,
+    "_japanese_name": "五島沖海底姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Gotou Islands Seabed Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ごとうおきかいていき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": 240,
+    "_type": 13,
+    "_full_name": "Gotou Islands Seabed Princess Damaged II"
+  },
+  "Gotou Islands Seabed Princess Damaged III": {
+    "_aa": 0,
+    "_api_id": 1944,
+    "_armor": 74,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Submarine Electronic Armament",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 47,
+    "_hp": 670,
+    "_id": 1944,
+    "_japanese_name": "五島沖海底姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Gotou Islands Seabed Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ごとうおきかいていき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": 290,
+    "_type": 13,
+    "_full_name": "Gotou Islands Seabed Princess Damaged III"
+  },
+  "Gotou Islands Seabed Princess II": {
+    "_aa": 0,
+    "_api_id": 1940,
+    "_armor": 33,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Submarine Electronic Armament",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 47,
+    "_hp": 470,
+    "_id": 1940,
+    "_japanese_name": "五島沖海底姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Gotou Islands Seabed Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ごとうおきかいていき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": 200,
+    "_type": 13,
+    "_full_name": "Gotou Islands Seabed Princess II"
+  },
+  "Gotou Islands Seabed Princess III": {
+    "_aa": 0,
+    "_api_id": 1941,
+    "_armor": 47,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Submarine Electronic Armament",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 47,
+    "_hp": 670,
+    "_id": 1941,
+    "_japanese_name": "五島沖海底姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Gotou Islands Seabed Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ごとうおきかいていき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": 240,
+    "_type": 13,
+    "_full_name": "Gotou Islands Seabed Princess III"
   },
   "Harbour Princess": {
     "_aa": 150,
@@ -15162,7 +16022,7 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       },
       {
@@ -15196,11 +16056,11 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       },
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       }
     ],
@@ -15229,11 +16089,11 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       },
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       }
     ],
@@ -15262,11 +16122,11 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       },
       {
-        "equipment": "22inch Torpedo Late Model",
+        "equipment": "High-speed Abyssal Torpedo",
         "size": 0
       }
     ],
@@ -17287,8 +18147,8 @@
     "_aa": 60,
     "_api_id": 1921,
     "_armor": 50,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
@@ -17319,8 +18179,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー",
     "_speed": 0,
     "_torpedo": 88,
@@ -17331,8 +18191,8 @@
     "_aa": 70,
     "_api_id": 1924,
     "_armor": 80,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
@@ -17363,8 +18223,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー -かい",
     "_speed": 0,
     "_suffix": "- Damaged",
@@ -17376,8 +18236,8 @@
     "_aa": 80,
     "_api_id": 1925,
     "_armor": 170,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -17410,8 +18270,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー -かい",
     "_speed": 0,
     "_suffix": "- Damaged II",
@@ -17423,8 +18283,8 @@
     "_aa": 90,
     "_api_id": 1926,
     "_armor": 240,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -17457,8 +18317,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー -かい",
     "_speed": 0,
     "_suffix": "- Damaged III",
@@ -17470,8 +18330,8 @@
     "_aa": 70,
     "_api_id": 1922,
     "_armor": 130,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -17504,8 +18364,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー",
     "_speed": 0,
     "_suffix": "II",
@@ -17517,8 +18377,8 @@
     "_aa": 80,
     "_api_id": 1923,
     "_armor": 180,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -17551,14 +18411,293 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー",
     "_speed": 0,
     "_suffix": "III",
     "_torpedo": 118,
     "_type": 10,
     "_full_name": "Supply Depot Princess B III"
+  },
+  "Supply Depot Princess B Summer Landing Mode": {
+    "_aa": 60,
+    "_api_id": 1933,
+    "_armor": 30,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 48
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 100,
+    "_hp": 600,
+    "_id": 1933,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
+    "_speed": 0,
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode"
+  },
+  "Supply Depot Princess B Summer Landing Mode Damaged": {
+    "_aa": 70,
+    "_api_id": 1936,
+    "_armor": 60,
+    "_asw": null,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 64
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 160,
+    "_hp": 600,
+    "_id": 1936,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
+    "_speed": 0,
+    "_suffix": "Damaged",
+    "_torpedo": 98,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged"
+  },
+  "Supply Depot Princess B Summer Landing Mode Damaged II": {
+    "_aa": 80,
+    "_api_id": 1937,
+    "_armor": 160,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 88
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 1200,
+    "_id": 1937,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
+    "_speed": 0,
+    "_suffix": "Damaged II",
+    "_torpedo": 108,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged II"
+  },
+  "Supply Depot Princess B Summer Landing Mode Damaged III": {
+    "_aa": 90,
+    "_api_id": 1938,
+    "_armor": 230,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 98
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 240,
+    "_hp": 2400,
+    "_id": 1938,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
+    "_references": ["https://twitter.com/syoukuretin/status/1276618053283745792"],
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": 128,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged III"
+  },
+  "Supply Depot Princess B Summer Landing Mode II": {
+    "_aa": 70,
+    "_api_id": 1934,
+    "_armor": 120,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 64
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 180,
+    "_hp": 1200,
+    "_id": 1934,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": 108,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode II"
+  },
+  "Supply Depot Princess B Summer Landing Mode III": {
+    "_aa": 80,
+    "_api_id": 1935,
+    "_armor": 170,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 88
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 2400,
+    "_id": 1935,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
+    "_references": ["https://twitter.com/syoukuretin/status/1276608442191409153"],
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 128,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode III"
   },
   "Supply Depot Princess Vacation Mode": {
     "_aa": 80,

@@ -89,7 +89,7 @@
         "size": 1
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 1
       }
     ],
@@ -156,11 +156,11 @@
     "_class_number": 6,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin High-angle Gun Mount (Late Model)",
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 1
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 1
       },
       {
@@ -306,7 +306,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 2
       },
       {
@@ -1428,6 +1428,8 @@
     "_asw": 28,
     "_asw_max": 68,
     "_build_time": 24,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_class": "Yuugumo",
     "_class_number": 18,
     "_equipment": [
@@ -1576,7 +1578,7 @@
         "size": 8
       },
       {
-        "equipment": "No. Ka Observation Autogyro",
+        "equipment": "Ka Type Observation Autogyro",
         "size": 8
       },
       {
@@ -1713,7 +1715,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "Type 2 Large-sized Flying Boat",
+        "equipment": "Type 2 Large Flying Boat",
         "size": 1
       },
       {
@@ -1863,7 +1865,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       },
       {
@@ -2741,7 +2743,7 @@
     "_class_number": 9,
     "_equipment": [
       {
-        "equipment": "10cm Twin High-angle Gun Mount",
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 0
       },
       {
@@ -4644,6 +4646,7 @@
     "_type": 3,
     "_voice_actor": "Nazuka Kaori",
     "_voice_flag": 1,
+    "_wikipedia": "USS_Atlanta_(CL-51)",
     "_full_name": "Atlanta"
   },
   "Atlanta Kai": {
@@ -4658,6 +4661,8 @@
     "_asw": 12,
     "_asw_max": 32,
     "_build_time": 60,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_class": "Atlanta",
     "_class_number": 1,
     "_equipment": [
@@ -4720,6 +4725,7 @@
     "_voice_actor": "Nazuka Kaori",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
+    "_wikipedia": "USS_Atlanta_(CL-51)",
     "_buildable": false,
     "_buildable_lsc": false
   },
@@ -4880,7 +4886,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -5428,7 +5434,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 2
       },
       {
@@ -5572,11 +5578,11 @@
         "size": 12
       },
       {
-        "equipment": "Kouhyouteki",
+        "equipment": "Type A Kouhyouteki",
         "size": 6
       },
       {
-        "equipment": "Kouhyouteki",
+        "equipment": "Type A Kouhyouteki",
         "size": 6
       }
     ],
@@ -6022,11 +6028,11 @@
         "size": 12
       },
       {
-        "equipment": "Kouhyouteki",
+        "equipment": "Type A Kouhyouteki",
         "size": 6
       },
       {
-        "equipment": "Kouhyouteki",
+        "equipment": "Type A Kouhyouteki",
         "size": 6
       }
     ],
@@ -7012,7 +7018,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -7154,6 +7160,8 @@
     "_asw": 15,
     "_asw_max": 50,
     "_build_time": 60,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_class": "De Ruyter",
     "_class_number": 1,
     "_equipment": [
@@ -7454,7 +7462,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -7980,7 +7988,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       }
     ],
@@ -10071,7 +10079,7 @@
     "_class_number": 4,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -10447,7 +10455,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 4
       },
       {
@@ -10667,7 +10675,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
@@ -11187,7 +11195,7 @@
         "size": 3
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 3
       }
     ],
@@ -11272,7 +11280,7 @@
         "size": 0
       },
       {
-        "equipment": "Type Bi 40mm Twin Autocannon Mount",
+        "equipment": "Bi Type 40mm Twin Autocannon Mount",
         "size": 0
       }
     ],
@@ -11328,7 +11336,7 @@
     "_class_number": 5,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -11690,11 +11698,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       },
       {
@@ -12053,7 +12061,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       },
       {
@@ -12341,7 +12349,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       },
       {
@@ -12625,7 +12633,7 @@
     "_class_number": 17,
     "_equipment": [
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
@@ -12633,7 +12641,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       }
     ],
@@ -13055,7 +13063,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -13283,7 +13291,7 @@
         "size": 3
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 3
       },
       {
@@ -13513,11 +13521,13 @@
     "_asw": 35,
     "_asw_max": 81,
     "_build_time": 14,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_class": "Etorofu",
     "_class_number": 9,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -15494,6 +15504,144 @@
     "_buildable_lsc": true,
     "_build_time": 200
   },
+  "I-47": {
+    "_aa": 0,
+    "_aa_max": 0,
+    "_aa_mod": false,
+    "_ammo": 20,
+    "_api_id": 636,
+    "_armor": 4,
+    "_armor_max": 20,
+    "_armor_mod": false,
+    "_artist": null,
+    "_asw": 0,
+    "_asw_max": false,
+    "_availability": ["event_reward"],
+    "_build_time": 22,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Junsen Type C",
+    "_class_number": 7,
+    "_equipment": [
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": 13,
+    "_evasion_max": 39,
+    "_firepower": 2,
+    "_firepower_max": 8,
+    "_firepower_mod": false,
+    "_fuel": 10,
+    "_hp": 14,
+    "_hp_max": 19,
+    "_id": 436,
+    "_implementation_date": [2020, 6, 26],
+    "_japanese_name": "伊47",
+    "_japanese_nick": "よな",
+    "_los": 7,
+    "_los_max": 27,
+    "_luck": 47,
+    "_luck_max": 90,
+    "_luck_mod": false,
+    "_name": "I-47",
+    "_nick": "Yona",
+    "_range": 1,
+    "_rarity": 5,
+    "_reading": "い47",
+    "_remodel_from": false,
+    "_remodel_level": false,
+    "_remodel_to": "I-47/Kai",
+    "_scrap_ammo": 3,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 2,
+    "_speed": 5,
+    "_suffix": false,
+    "_torpedo": 36,
+    "_torpedo_max": 72,
+    "_torpedo_mod": 2,
+    "_true_id": false,
+    "_type": 13,
+    "_voice_actor": null,
+    "_voice_flag": 1,
+    "_full_name": "I-47"
+  },
+  "I-47 Kai": {
+    "_aa": 0,
+    "_aa_max": 0,
+    "_aa_mod": false,
+    "_ammo": 25,
+    "_api_id": 607,
+    "_armor": 5,
+    "_armor_max": 21,
+    "_armor_mod": false,
+    "_asw": 0,
+    "_asw_max": false,
+    "_build_time": 22,
+    "_class": "Junsen Type C",
+    "_class_number": 7,
+    "_equipment": [
+      {
+        "equipment": false,
+        "size": 0
+      },
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": 14,
+    "_evasion_max": 50,
+    "_firepower": 3,
+    "_firepower_max": 12,
+    "_firepower_mod": false,
+    "_fuel": 10,
+    "_hp": 18,
+    "_hp_max": 24,
+    "_id": 436,
+    "_japanese_name": "伊47改",
+    "_japanese_nick": "よな",
+    "_los": 11,
+    "_los_max": 30,
+    "_luck": 50,
+    "_luck_max": 97,
+    "_luck_mod": false,
+    "_name": "I-47",
+    "_nick": "Yona",
+    "_range": 1,
+    "_rarity": 6,
+    "_reading": "い47かい",
+    "_remodel_ammo": 290,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
+    "_remodel_from": "I-47/",
+    "_remodel_level": 50,
+    "_remodel_report": false,
+    "_remodel_steel": 170,
+    "_remodel_to": false,
+    "_scrap_ammo": 2,
+    "_scrap_baux": 2,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 2,
+    "_speed": 5,
+    "_suffix": "Kai",
+    "_torpedo": 40,
+    "_torpedo_max": 88,
+    "_torpedo_mod": 3,
+    "_true_id": 1507,
+    "_type": 13,
+    "_voice_flag": 3,
+    "_full_name": "I-47 Kai",
+    "_implementation_date": [2020, 6, 26],
+    "_voice_actor": null,
+    "_artist": null,
+    "_availability": ["event_reward"],
+    "_buildable": false,
+    "_buildable_lsc": false
+  },
   "I-504": {
     "_aa": 0,
     "_aa_max": 28,
@@ -16779,7 +16927,7 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -17005,7 +17153,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       }
     ],
@@ -17285,7 +17433,7 @@
         "size": 1
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 1
       },
       {
@@ -17356,11 +17504,11 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 0
       },
       {
@@ -17793,6 +17941,150 @@
     "_availability": ["event_drop"],
     "_wikipedia": "HMS Jervis"
   },
+  "Jingei": {
+    "_aa": 12,
+    "_aa_max": 32,
+    "_aa_mod": 1,
+    "_ammo": 10,
+    "_api_id": 634,
+    "_armor": 5,
+    "_armor_max": 28,
+    "_armor_mod": 1,
+    "_artist": null,
+    "_asw": 0,
+    "_asw_max": false,
+    "_availability": ["event_drop"],
+    "_build_time": 150,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Jingei",
+    "_class_number": 1,
+    "_equipment": [
+      {
+        "equipment": "14cm Twin Gun Mount",
+        "size": 1
+      },
+      {
+        "equipment": false,
+        "size": 1
+      }
+    ],
+    "_evasion": 13,
+    "_evasion_max": 28,
+    "_firepower": 6,
+    "_firepower_max": 32,
+    "_firepower_mod": 1,
+    "_fuel": 30,
+    "_hp": 32,
+    "_hp_max": 48,
+    "_id": 434,
+    "_implementation_date": [2020, 6, 26],
+    "_japanese_name": "迅鯨",
+    "_los": 20,
+    "_los_max": 38,
+    "_luck": 11,
+    "_luck_max": 50,
+    "_luck_mod": false,
+    "_name": "Jingei",
+    "_range": 2,
+    "_rarity": 4,
+    "_reading": "じんげい",
+    "_remodel_from": false,
+    "_remodel_level": false,
+    "_remodel_to": "Jingei/Kai",
+    "_scrap_ammo": 2,
+    "_scrap_baux": 1,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 11,
+    "_speed": 5,
+    "_suffix": false,
+    "_torpedo": 0,
+    "_torpedo_max": false,
+    "_torpedo_mod": false,
+    "_true_id": false,
+    "_type": 20,
+    "_voice_actor": null,
+    "_voice_flag": 1,
+    "_wikipedia": "Japanese submarine tender Jingei",
+    "_full_name": "Jingei"
+  },
+  "Jingei Kai": {
+    "_aa": 14,
+    "_aa_max": 34,
+    "_aa_mod": 1,
+    "_ammo": 10,
+    "_api_id": 639,
+    "_armor": 17,
+    "_armor_max": 34,
+    "_armor_mod": 2,
+    "_asw": 0,
+    "_asw_max": false,
+    "_build_time": 150,
+    "_class": "Jingei",
+    "_class_number": 1,
+    "_equipment": [
+      {
+        "equipment": "14cm Twin Gun Mount",
+        "size": 2
+      },
+      {
+        "equipment": "25mm Twin Autocannon Mount",
+        "size": 2
+      },
+      {
+        "equipment": false,
+        "size": 2
+      }
+    ],
+    "_evasion": 15,
+    "_evasion_max": 39,
+    "_firepower": 8,
+    "_firepower_max": 40,
+    "_firepower_mod": false,
+    "_fuel": 30,
+    "_hp": 38,
+    "_hp_max": 58,
+    "_id": 434,
+    "_japanese_name": "迅鯨改",
+    "_los": null,
+    "_los_max": 44,
+    "_luck": 16,
+    "_luck_max": 60,
+    "_luck_mod": false,
+    "_name": "Jingei",
+    "_range": 2,
+    "_rarity": 5,
+    "_reading": "じんげいかい",
+    "_remodel_ammo": 480,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
+    "_remodel_from": "Jingei/",
+    "_remodel_level": 45,
+    "_remodel_report": false,
+    "_remodel_steel": 500,
+    "_remodel_to": false,
+    "_scrap_ammo": 2,
+    "_scrap_baux": 1,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 12,
+    "_speed": 5,
+    "_suffix": "Kai",
+    "_torpedo": 0,
+    "_torpedo_max": false,
+    "_torpedo_mod": false,
+    "_true_id": 439,
+    "_type": 20,
+    "_voice_flag": 3,
+    "_full_name": "Jingei Kai",
+    "_implementation_date": [2020, 6, 26],
+    "_voice_actor": null,
+    "_artist": null,
+    "_availability": ["event_drop"],
+    "_wikipedia": "Japanese submarine tender Jingei",
+    "_buildable": false,
+    "_buildable_lsc": false
+  },
   "Jintsuu": {
     "_aa": 13,
     "_aa_max": 49,
@@ -17883,7 +18175,7 @@
         "size": 1
       },
       {
-        "equipment": "Type 0 Reconnaissance Seaplane",
+        "equipment": "Searchlight",
         "size": 1
       }
     ],
@@ -18324,15 +18616,15 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "Reppuu",
+        "equipment": "Prototype Reppuu Late Model",
         "size": 24
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 18
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 20
       },
       {
@@ -18761,6 +19053,140 @@
     "_buildable": true,
     "_buildable_lsc": false
   },
+  "Kaiboukan No.4": {
+    "_aa": 5,
+    "_aa_max": 19,
+    "_aa_mod": 1,
+    "_ammo": 10,
+    "_api_id": 637,
+    "_armor": 4,
+    "_armor_max": 15,
+    "_armor_mod": false,
+    "_artist": null,
+    "_asw": 30,
+    "_asw_max": 67,
+    "_availability": ["event_drop"],
+    "_build_time": 14,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Type D",
+    "_class_number": 2,
+    "_equipment": [
+      {
+        "equipment": "Type 3 Depth Charge Projector",
+        "size": 0
+      }
+    ],
+    "_evasion": 39,
+    "_evasion_max": 79,
+    "_firepower": 3,
+    "_firepower_max": 15,
+    "_firepower_mod": false,
+    "_fuel": 10,
+    "_hp": 8,
+    "_hp_max": 15,
+    "_id": 437,
+    "_implementation_date": [2020, 6, 26],
+    "_japanese_name": "第四号海防艦",
+    "_los": 2,
+    "_los_max": 11,
+    "_luck": 18,
+    "_luck_max": 76,
+    "_luck_mod": false,
+    "_name": "Kaiboukan No.4",
+    "_range": 1,
+    "_rarity": 4,
+    "_reading": "だいよんごう",
+    "_remodel_from": false,
+    "_remodel_level": false,
+    "_remodel_to": "Kaiboukan No.4/Kai",
+    "_scrap_ammo": 1,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 1,
+    "_speed": 5,
+    "_suffix": false,
+    "_torpedo": 0,
+    "_torpedo_max": false,
+    "_torpedo_mod": false,
+    "_true_id": false,
+    "_type": 1,
+    "_voice_actor": null,
+    "_voice_flag": 1,
+    "_full_name": "Kaiboukan No.4"
+  },
+  "Kaiboukan No.4 Kai": {
+    "_aa": 11,
+    "_aa_max": 40,
+    "_aa_mod": 1,
+    "_ammo": 10,
+    "_api_id": 701,
+    "_armor": 5,
+    "_armor_max": 29,
+    "_armor_mod": false,
+    "_asw": 32,
+    "_asw_max": 76,
+    "_build_time": 14,
+    "_class": "Type D",
+    "_class_number": 2,
+    "_equipment": [
+      {
+        "equipment": "12cm Single High-angle Gun Mount Model E",
+        "size": 0
+      },
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_evasion_max": 91,
+    "_firepower": 4,
+    "_firepower_max": 28,
+    "_firepower_mod": 1,
+    "_fuel": 10,
+    "_hp": 15,
+    "_hp_max": 23,
+    "_id": 437,
+    "_japanese_name": "第四号海防艦改",
+    "_los": null,
+    "_los_max": 20,
+    "_luck": 20,
+    "_luck_max": 80,
+    "_luck_mod": false,
+    "_name": "Kaiboukan No.4",
+    "_range": 1,
+    "_rarity": 5,
+    "_reading": "だいよんごうかい",
+    "_remodel_ammo": 70,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
+    "_remodel_from": "Kaiboukan No.4/",
+    "_remodel_level": 35,
+    "_remodel_report": false,
+    "_remodel_steel": 50,
+    "_remodel_to": false,
+    "_scrap_ammo": 1,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 2,
+    "_speed": 5,
+    "_suffix": "Kai",
+    "_torpedo": 0,
+    "_torpedo_max": false,
+    "_torpedo_mod": false,
+    "_true_id": 1701,
+    "_type": 1,
+    "_voice_flag": 1,
+    "_full_name": "Kaiboukan No.4 Kai",
+    "_implementation_date": [2020, 6, 26],
+    "_voice_actor": null,
+    "_artist": null,
+    "_availability": ["event_drop"],
+    "_buildable": false,
+    "_buildable_lsc": false
+  },
   "Kako": {
     "_aa": 16,
     "_aa_max": 49,
@@ -19078,7 +19504,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       }
     ],
@@ -20249,11 +20675,11 @@
     "_class_number": 9,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
@@ -20324,7 +20750,7 @@
     "_class_number": 9,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -20470,11 +20896,11 @@
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       }
     ],
@@ -20836,7 +21262,7 @@
         "size": 1
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 1
       }
     ],
@@ -21365,7 +21791,7 @@
         "size": 3
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 3
       },
       {
@@ -21878,11 +22304,11 @@
         "size": 1
       },
       {
-        "equipment": "61cm Quad (Oxygen) Torpedo Mount",
+        "equipment": "61cm Quadruple (Oxygen) Torpedo Mount",
         "size": 1
       },
       {
-        "equipment": "Type 0 Reconnaissance Seaplane",
+        "equipment": "25mm Single Autocannon Mount",
         "size": 1
       }
     ],
@@ -21949,11 +22375,11 @@
     "_class_number": 5,
     "_equipment": [
       {
-        "equipment": "61cm Quint (Oxygen) Torpedo Mount",
+        "equipment": "61cm Quintuple (Oxygen) Torpedo Mount",
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       },
       {
@@ -22168,7 +22594,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 0
       }
     ],
@@ -22302,7 +22728,7 @@
     "_class_number": 19,
     "_equipment": [
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
@@ -22310,7 +22736,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       }
     ],
@@ -22531,11 +22957,11 @@
         "size": 3
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 3
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 3
       },
       {
@@ -23001,7 +23427,7 @@
         "size": 5
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 6
       },
       {
@@ -23227,7 +23653,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -24486,6 +24912,150 @@
     "_buildable_lsc": true,
     "_build_time": 17
   },
+  "Matsu": {
+    "_aa": 20,
+    "_aa_max": 60,
+    "_aa_mod": 1,
+    "_ammo": 15,
+    "_api_id": 641,
+    "_armor": 5,
+    "_armor_max": 22,
+    "_armor_mod": false,
+    "_artist": null,
+    "_asw": 30,
+    "_asw_max": 75,
+    "_availability": ["event_reward"],
+    "_build_time": 14,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Matsu",
+    "_class_number": 1,
+    "_equipment": [
+      {
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "size": 0
+      },
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": 35,
+    "_evasion_max": 70,
+    "_firepower": 5,
+    "_firepower_max": 26,
+    "_firepower_mod": false,
+    "_fuel": 15,
+    "_hp": 14,
+    "_hp_max": 27,
+    "_id": 441,
+    "_implementation_date": [2020, 6, 26],
+    "_japanese_name": "松",
+    "_los": 10,
+    "_los_max": 25,
+    "_luck": 14,
+    "_luck_max": 58,
+    "_luck_mod": false,
+    "_name": "Matsu",
+    "_range": 1,
+    "_rarity": 5,
+    "_reading": "まつ",
+    "_remodel_from": false,
+    "_remodel_level": false,
+    "_remodel_to": "Matsu/Kai",
+    "_scrap_ammo": 1,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 4,
+    "_speed": 10,
+    "_suffix": false,
+    "_torpedo": 16,
+    "_torpedo_max": 60,
+    "_torpedo_mod": 1,
+    "_true_id": false,
+    "_type": 2,
+    "_voice_actor": null,
+    "_voice_flag": 1,
+    "_wikipedia": "Japanese_destroyer_Matsu_(1944)",
+    "_full_name": "Matsu"
+  },
+  "Matsu Kai": {
+    "_aa": 30,
+    "_aa_max": 74,
+    "_aa_mod": 2,
+    "_ammo": 15,
+    "_api_id": 702,
+    "_armor": 12,
+    "_armor_max": 55,
+    "_armor_mod": 1,
+    "_asw": 35,
+    "_asw_max": 80,
+    "_build_time": 14,
+    "_class": "Matsu",
+    "_class_number": 1,
+    "_equipment": [
+      {
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "size": 0
+      },
+      {
+        "equipment": "25mm Single Autocannon Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Type 13 Air Radar",
+        "size": 0
+      }
+    ],
+    "_evasion": 38,
+    "_evasion_max": 83,
+    "_firepower": 7,
+    "_firepower_max": 42,
+    "_firepower_mod": 1,
+    "_fuel": 15,
+    "_hp": 27,
+    "_hp_max": 45,
+    "_id": 441,
+    "_japanese_name": "松改",
+    "_los": null,
+    "_los_max": 45,
+    "_luck": 18,
+    "_luck_max": 68,
+    "_luck_mod": false,
+    "_name": "Matsu",
+    "_range": 1,
+    "_rarity": 6,
+    "_reading": "まつかい",
+    "_remodel_ammo": 180,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
+    "_remodel_from": "Matsu/",
+    "_remodel_level": 50,
+    "_remodel_report": false,
+    "_remodel_steel": 120,
+    "_remodel_to": false,
+    "_scrap_ammo": 1,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 4,
+    "_speed": 10,
+    "_suffix": "Kai",
+    "_torpedo": 16,
+    "_torpedo_max": 72,
+    "_torpedo_mod": 1,
+    "_true_id": 1702,
+    "_type": 2,
+    "_voice_flag": 3,
+    "_full_name": "Matsu Kai",
+    "_implementation_date": [2020, 6, 26],
+    "_voice_actor": null,
+    "_artist": null,
+    "_availability": ["event_reward"],
+    "_wikipedia": "Japanese_destroyer_Matsu_(1944)",
+    "_buildable": false,
+    "_buildable_lsc": false
+  },
   "Matsukaze": {
     "_aa": 5,
     "_aa_max": 25,
@@ -24865,7 +25435,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 2
       },
       {
@@ -24944,7 +25514,7 @@
         "size": 3
       },
       {
-        "equipment": "25mm Triple Autocannon Mount Concentrated Deployment",
+        "equipment": "25mm Triple Autocannon Mount (Concentrated Deployment)",
         "size": 3
       },
       {
@@ -25452,7 +26022,7 @@
         "size": 5
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 6
       },
       {
@@ -25594,7 +26164,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -25736,7 +26306,7 @@
     "_class_number": 6,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount",
+        "equipment": "12cm Single High-angle Gun Mount",
         "size": 0
       },
       {
@@ -26171,7 +26741,7 @@
         "size": 12
       },
       {
-        "equipment": "Kouhyouteki",
+        "equipment": "Type A Kouhyouteki",
         "size": 12
       },
       {
@@ -27051,7 +27621,7 @@
         "size": 7
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 7
       },
       {
@@ -27836,7 +28406,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 4
       },
       {
@@ -28947,7 +29517,7 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": "14cm Single Gun Mount",
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 1
       },
       {
@@ -29030,7 +29600,7 @@
         "size": 1
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 1
       }
     ],
@@ -29170,7 +29740,7 @@
         "size": 1
       },
       {
-        "equipment": "Type 0 Reconnaissance Seaplane",
+        "equipment": "25mm Twin Autocannon Mount",
         "size": 1
       }
     ],
@@ -29841,7 +30411,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 2
       },
       {
@@ -30261,11 +30831,11 @@
     "_class_number": 14,
     "_equipment": [
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
@@ -30637,7 +31207,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 0
       }
     ],
@@ -30844,7 +31414,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -30996,7 +31566,7 @@
         "size": 6
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 6
       },
       {
@@ -31134,7 +31704,7 @@
     "_class_number": 4,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -32498,7 +33068,7 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -33617,7 +34187,7 @@
     "_class_number": 5,
     "_equipment": [
       {
-        "equipment": "25mm Triple Autocannon Mount Concentrated Deployment",
+        "equipment": "25mm Triple Autocannon Mount (Concentrated Deployment)",
         "size": 0
       },
       {
@@ -33625,7 +34195,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       }
     ],
@@ -34191,11 +34761,11 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       },
       {
@@ -34408,7 +34978,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -35216,7 +35786,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "10cm Twin High-angle Gun Mount",
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 0
       },
       {
@@ -36651,7 +37221,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       },
       {
@@ -36880,7 +37450,7 @@
         "size": 5
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 6
       },
       {
@@ -37044,7 +37614,7 @@
         "size": 2
       },
       {
-        "equipment": "Type Bi 40mm Twin Autocannon Mount",
+        "equipment": "Bi Type 40mm Twin Autocannon Mount",
         "size": 3
       },
       {
@@ -37177,7 +37747,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "Reppuu",
+        "equipment": "Prototype Reppuu Late Model",
         "size": 30
       },
       {
@@ -37560,11 +38130,11 @@
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       }
     ],
@@ -37848,7 +38418,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "14cm Single Gun Mount",
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 1
       },
       {
@@ -38891,7 +39461,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar Kai",
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       },
       {
@@ -39258,7 +39828,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 2
       },
       {
@@ -39757,7 +40327,7 @@
     "_class_number": 7,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -40629,6 +41199,150 @@
     "_buildable_lsc": false,
     "_build_time": 20
   },
+  "Usugumo": {
+    "_aa": 10,
+    "_aa_max": 39,
+    "_aa_mod": false,
+    "_ammo": 20,
+    "_api_id": 631,
+    "_armor": 5,
+    "_armor_max": 19,
+    "_armor_mod": false,
+    "_artist": "Shibafu",
+    "_asw": 19,
+    "_asw_max": 49,
+    "_availability": ["event_reward"],
+    "_build_time": 20,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Fubuki",
+    "_class_number": 7,
+    "_equipment": [
+      {
+        "equipment": "12.7cm Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": 39,
+    "_evasion_max": 80,
+    "_firepower": 10,
+    "_firepower_max": 29,
+    "_firepower_mod": false,
+    "_fuel": 15,
+    "_hp": 15,
+    "_hp_max": 29,
+    "_id": 431,
+    "_implementation_date": [2020, 6, 26],
+    "_japanese_name": "薄雲",
+    "_los": 4,
+    "_los_max": 19,
+    "_luck": 7,
+    "_luck_max": 49,
+    "_luck_mod": false,
+    "_name": "Usugumo",
+    "_range": 1,
+    "_rarity": 4,
+    "_reading": "うすぐも",
+    "_remodel_from": false,
+    "_remodel_level": false,
+    "_remodel_to": "Usugumo/Kai",
+    "_scrap_ammo": 1,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 5,
+    "_speed": 10,
+    "_suffix": false,
+    "_torpedo": 27,
+    "_torpedo_max": 69,
+    "_torpedo_mod": 1,
+    "_true_id": false,
+    "_type": 2,
+    "_voice_actor": null,
+    "_voice_flag": 1,
+    "_wikipedia": "Japanese destroyer Usugumo (1927)",
+    "_full_name": "Usugumo"
+  },
+  "Usugumo Kai": {
+    "_aa": 14,
+    "_aa_max": 48,
+    "_aa_mod": 1,
+    "_ammo": 20,
+    "_api_id": 700,
+    "_armor": 13,
+    "_armor_max": 49,
+    "_armor_mod": 1,
+    "_asw": 22,
+    "_asw_max": 60,
+    "_build_time": 20,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Fubuki",
+    "_class_number": 7,
+    "_equipment": [
+      {
+        "equipment": "12.7cm Twin Gun Mount Model A",
+        "size": 0
+      },
+      {
+        "equipment": "61cm Triple Torpedo Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Type 95 Depth Charge",
+        "size": 0
+      }
+    ],
+    "_evasion": 44,
+    "_evasion_max": 89,
+    "_firepower": 12,
+    "_firepower_max": 49,
+    "_firepower_mod": 1,
+    "_fuel": 15,
+    "_hp": 30,
+    "_hp_max": 49,
+    "_id": 431,
+    "_japanese_name": "薄雲改",
+    "_los": 7,
+    "_los_max": 41,
+    "_luck": 9,
+    "_luck_max": 54,
+    "_luck_mod": false,
+    "_name": "Usugumo",
+    "_range": 1,
+    "_rarity": 5,
+    "_reading": "うすぐもかい",
+    "_remodel_ammo": 190,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
+    "_remodel_from": "Usugumo/",
+    "_remodel_level": 40,
+    "_remodel_report": false,
+    "_remodel_steel": 130,
+    "_remodel_to": false,
+    "_scrap_ammo": 2,
+    "_scrap_baux": false,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 10,
+    "_speed": 10,
+    "_suffix": "Kai",
+    "_torpedo": 27,
+    "_torpedo_max": 79,
+    "_torpedo_mod": 1,
+    "_true_id": 1700,
+    "_type": 2,
+    "_voice_flag": 3,
+    "_full_name": "Usugumo Kai",
+    "_implementation_date": [2020, 6, 26],
+    "_voice_actor": null,
+    "_artist": "Shibafu",
+    "_availability": ["event_reward"],
+    "_wikipedia": "Japanese destroyer Usugumo (1927)"
+  },
   "Uzuki": {
     "_aa": 7,
     "_aa_max": 29,
@@ -40717,7 +41431,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 13 Air Radar",
+        "equipment": "Type 13 Air Radar",
         "size": 0
       }
     ],
@@ -41241,7 +41955,7 @@
         "size": 2
       },
       {
-        "equipment": "No. 21 Air Radar",
+        "equipment": "Type 21 Air Radar",
         "size": 2
       },
       {
@@ -41918,7 +42632,7 @@
         "size": 7
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 7
       },
       {
@@ -42065,7 +42779,7 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": "12.7cm Single High-angle Gun Mount",
+        "equipment": "12cm Single High-angle Gun Mount",
         "size": 0
       },
       {
@@ -42349,7 +43063,7 @@
     "_class_number": 4,
     "_equipment": [
       {
-        "equipment": "14cm Single Gun Mount",
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 1
       },
       {
@@ -43058,7 +43772,7 @@
     "_class_number": 4,
     "_equipment": [
       {
-        "equipment": "12.7cm Twin Gun Mount Model B Kai Ni",
+        "equipment": "12.7cm Twin Gun Mount Model B Kai 2",
         "size": 0
       },
       {
@@ -43204,7 +43918,7 @@
         "size": 0
       },
       {
-        "equipment": "No. 22 Surface Radar",
+        "equipment": "Type 22 Surface Radar",
         "size": 0
       },
       {
