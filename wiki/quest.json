@@ -6219,7 +6219,7 @@
   "F86": {
     "detail_en": "Prepare 2500 Ammunition, 5000 Bauxite, and 1 {{EquipmentLink|New Model Aerial Armament Material}} in your inventory. Have {{ShipLink|Ise/Kai Ni}} or {{ShipLink|Hyuuga/Kai Ni}} as secretary equipped with a {{EquipmentLink|Suisei Model 12A}} in her first slot. Scrap 4 {{EquipmentLink|Suisei}}, 3 {{EquipmentLink|Type 99 Dive Bomber}}, and 2 {{EquipmentLink|Zuiun}}.<br>'''※ Equipped equipment must be unlocked.'''<br>'''※ The equipped plane will be converted to the reward listed.'''<br>'''※ The prepared resources and items will be consumed upon quest completion.'''",
     "label": "F86",
-    "note": "Requires: [[#F84|F84]], [[#C30|C30]]",
+    "note": "Requires: [[#F84|F84]], [[#C31|C31]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
