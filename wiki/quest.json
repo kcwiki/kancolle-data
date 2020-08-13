@@ -2617,7 +2617,7 @@
     "title_en": "Joint Patrols in the Southwest-Islands Waters"
   },
   "B148": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Fletcher/Kai Mod.2}} as flagship, 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom, and 3 additional ships to Worlds [[1-4]], [[2-5]], and [[3-5]]. Obtain an S-rank(?) at each boss node.",
+    "detail_en": "Sortie a fleet with {{ShipLink|Fletcher/Kai Mod.2}} as flagship, 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom, and 3 additional ships to Worlds [[1-4]], [[2-5]], and [[3-5]]. Obtain an S-rank(?) at each boss node.<br>'''{{color|red|※ {{ShipLink|Fletcher/Mk.II}} does not count as {{ShipLink|Fletcher/Kai Mod.2}} for this quest.  Do this before remodeling.}}'''",
     "label": "B148",
     "note": "Requires: [[Quests#B147|B147]], ??",
     "reward_ammo": 600,
@@ -3721,7 +3721,7 @@
     "title_en": "Expand the Offshore Aviation Forces!"
   },
   "B95": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Suzuya/Kai Ni}} as flagship and up to 5 additonal ships to Worlds [[5-1]] and [[5-3]]. Obtain an A-rank (or higher) at each boss node.<br />",
+    "detail_en": "Sortie a fleet with {{ShipLink|Suzuya/Kai Ni}} as flagship and up to 5 additonal ships to Worlds [[5-1]] and [[5-3]]. Obtain an A-rank (or higher) at each boss node.<br>'''{{color|red|※ {{ShipLink|Suzuya/Carrier Kai Ni}} does not count as {{ShipLink|Suzuya/Kai Ni}} for this quest.  Do this before remodeling.}}'''",
     "label": "B95",
     "note": "Requires: [[#B50|B50]], [[#B87|B87]], ??<br>Unlocks: [[#A76|A76]]",
     "reward_ammo": 300,

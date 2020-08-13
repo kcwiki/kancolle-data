@@ -28,8 +28,8 @@
       "21": 1,
       "23": 1,
       "24": {
-        "code": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Mikazuki Kai, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
-        "note": "Arare Kai Ni, Arashio Kai Ni, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Mikazuki Kai, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
+        "code": "Arare Kai Ni, Arashio Kai Ni, Ariake Kai, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Mikazuki Kai, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni, Verniy",
+        "note": "Arare Kai Ni, Arashio Kai Ni, Ariake Kai, Asashio Kai Ni D, Fumizuki Kai Ni, Kasumi Kai Ni, Kasumi Kai Ni B, Kawakaze Kai Ni, Kisaragi Kai Ni, Makigumo Kai Ni, Michishio Kai Ni, Mikazuki Kai, Murasame Kai Ni, Mutsuki Kai Ni, Ooshio Kai Ni, Satsuki Kai Ni, Umikaze Kai Ni and Verniy only",
         "value": 2
       },
       "27": {
@@ -796,8 +796,18 @@
     },
     "20": {
       "1": 1,
+      "2": {
+        "code": "Jingei, Jingei Kai",
+        "note": "Jingei and Jingei Kai only",
+        "value": 2
+      },
       "4": 1,
       "10": 1,
+      "11": {
+        "code": "Jingei Kai",
+        "note": "Jingei Kai only",
+        "value": 2
+      },
       "12": 1,
       "17": 1,
       "20": 1,
@@ -805,6 +815,11 @@
       "23": 1,
       "25": 1,
       "27": 1,
+      "29": {
+        "code": "Jingei Kai",
+        "note": "Jingei Kai only",
+        "value": 2
+      },
       "33": 1,
       "34": 1,
       "36": 1,

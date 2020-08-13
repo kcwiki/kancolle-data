@@ -660,6 +660,7 @@
     "_luck_max": 77,
     "_luck_mod": false,
     "_name": "Akagi",
+    "_night_aviation_personnel": true,
     "_range": 2,
     "_rarity": 8,
     "_reading": "あかぎかいにぼ",
@@ -3302,7 +3303,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": null,
+    "_voice_actor": "Tanibe Yumi",
     "_voice_flag": 1,
     "_wikipedia": "Japanese destroyer Ariake (1934)",
     "_full_name": "Ariake"
@@ -3379,7 +3380,7 @@
     "_voice_flag": 3,
     "_full_name": "Ariake Kai",
     "_implementation_date": [2020, 7, 11],
-    "_voice_actor": null,
+    "_voice_actor": "Tanibe Yumi",
     "_artist": "Kujou Ichiso",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Ariake (1934)",
@@ -7097,7 +7098,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "12cm Single Gun Mount",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -13046,7 +13047,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": null,
+    "_voice_actor": "Moriyama Yurika",
     "_voice_flag": 1,
     "_wikipedia": "USS Helena (CL-50)",
     "_full_name": "Helena"
@@ -13060,8 +13061,8 @@
     "_armor": 27,
     "_armor_max": 69,
     "_armor_mod": 2,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": 40,
     "_build_time": 70,
     "_class": "St. Louis",
     "_class_number": 2,
@@ -13083,8 +13084,8 @@
         "size": 4
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 39,
+    "_evasion_max": 75,
     "_firepower": 36,
     "_firepower_max": 78,
     "_firepower_mod": 2,
@@ -13093,8 +13094,8 @@
     "_hp_max": 67,
     "_id": 420,
     "_japanese_name": "Helena改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 24,
+    "_los_max": 76,
     "_luck": 13,
     "_luck_max": 69,
     "_luck_mod": false,
@@ -13125,7 +13126,7 @@
     "_voice_flag": 3,
     "_full_name": "Helena Kai",
     "_implementation_date": [2020, 7, 11],
-    "_voice_actor": null,
+    "_voice_actor": "Moriyama Yurika",
     "_artist": "acea4",
     "_availability": ["event_drop"],
     "_wikipedia": "USS Helena (CL-50)",
@@ -15658,7 +15659,7 @@
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
     "_remodel_development_material": false,
-    "_remodel_from": "I-19/",
+    "_remodel_from": "I-26/",
     "_remodel_level": 50,
     "_remodel_steel": 140,
     "_remodel_to": false,
@@ -15674,18 +15675,18 @@
     "_true_id": 1447,
     "_type": 14,
     "_full_name": "I-26 Kai",
-    "_implementation_date": [2013, 11, 1],
-    "_voice_actor": "Misato",
-    "_artist": "Shobon",
-    "_availability": ["drop", "event_reward"],
-    "_wikipedia": "Japanese submarine I-19",
+    "_implementation_date": [2016, 8, 12],
+    "_voice_actor": "Ogura Yui",
+    "_artist": "Kuu Ro Kuro",
+    "_availability": ["event_drop"],
+    "_wikipedia": "Japanese submarine I-26",
     "_buildable": false,
     "_buildable_lsc": false,
     "_build_time": 22
   },
   "I-400": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": 1,
     "_ammo": 15,
     "_api_id": 493,
@@ -15694,7 +15695,7 @@
     "_armor_mod": 1,
     "_artist": "Shibafu",
     "_asw": 0,
-    "_asw_max": 0,
+    "_asw_max": false,
     "_availability": ["event_drop"],
     "_build_time": 200,
     "_buildable": false,
@@ -15749,7 +15750,7 @@
   },
   "I-400 Kai": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": 1,
     "_ammo": 30,
     "_api_id": 606,
@@ -15757,7 +15758,7 @@
     "_armor_max": 24,
     "_armor_mod": 1,
     "_asw": 0,
-    "_asw_max": 0,
+    "_asw_max": false,
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
@@ -15964,7 +15965,7 @@
   },
   "I-47": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": false,
     "_ammo": 20,
     "_api_id": 636,
@@ -16028,7 +16029,7 @@
   },
   "I-47 Kai": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": false,
     "_ammo": 25,
     "_api_id": 607,
@@ -26566,7 +26567,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "12cm Single Gun Mount",
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
@@ -34375,6 +34376,7 @@
     "_luck_max": 93,
     "_luck_mod": false,
     "_name": "Saratoga",
+    "_night_aviation_personnel": true,
     "_range": 2,
     "_rarity": 7,
     "_reading": "サラトガ マークツー",
@@ -43339,11 +43341,11 @@
     "_class_number": 5,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "25mm Twin Autocannon Mount",
         "size": 0
       }
     ],
@@ -43401,15 +43403,15 @@
     "_class_number": 5,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Type 95 Depth Charge",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],

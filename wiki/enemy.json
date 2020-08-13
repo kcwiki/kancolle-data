@@ -2761,6 +2761,7 @@
   },
   "Aircraft Carrier Summer Princess II": {
     "_aa": 128,
+    "_air_power_estimation": true,
     "_api_id": 1961,
     "_armor": 149,
     "_asw": null,
@@ -2771,22 +2772,22 @@
       {
         "equipment": "Abyssal Cat Fighter Kai",
         "estimation": true,
-        "size": 45
+        "size": 56
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 45
+        "size": 48
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 44
+        "size": 48
       },
       {
         "equipment": "Abyssal Revenge Torpedo Bomber Kai",
         "estimation": true,
-        "size": 44
+        "size": 26
       }
     ],
     "_evasion": null,
@@ -2808,6 +2809,7 @@
   },
   "Aircraft Carrier Summer Princess III": {
     "_aa": 148,
+    "_air_power_estimation": true,
     "_api_id": 1962,
     "_armor": 169,
     "_asw": null,
@@ -2818,22 +2820,22 @@
       {
         "equipment": "Abyssal Cat Fighter Kai",
         "estimation": true,
-        "size": 47
+        "size": 58
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 47
+        "size": 50
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 47
+        "size": 52
       },
       {
         "equipment": "Abyssal Revenge Torpedo Bomber Kai",
         "estimation": true,
-        "size": 47
+        "size": 28
       }
     ],
     "_evasion": null,
@@ -2855,6 +2857,7 @@
   },
   "Aircraft Carrier Summer Princess IV": {
     "_aa": 168,
+    "_air_power_estimation": true,
     "_api_id": 1963,
     "_armor": 189,
     "_asw": null,
@@ -2865,22 +2868,22 @@
       {
         "equipment": "Abyssal Cat Fighter Kai",
         "estimation": true,
-        "size": null
+        "size": 60
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": null
+        "size": 52
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": null
+        "size": 56
       },
       {
         "equipment": "Abyssal Revenge Torpedo Bomber Kai",
         "estimation": true,
-        "size": null
+        "size": 30
       }
     ],
     "_evasion": null,
@@ -11951,7 +11954,7 @@
     "_aa": 68,
     "_api_id": 1953,
     "_armor": 111,
-    "_asw": null,
+    "_asw": 0,
     "_back": -4,
     "_equipment": [
       {
@@ -11996,7 +11999,7 @@
     "_aa": 78,
     "_api_id": 1954,
     "_armor": 133,
-    "_asw": null,
+    "_asw": 0,
     "_back": -4,
     "_battle_card_reference": "/Kai Summer Mode",
     "_cg_reference": "/Kai Summer Mode",
@@ -12043,7 +12046,7 @@
     "_aa": 88,
     "_api_id": 1955,
     "_armor": 211,
-    "_asw": null,
+    "_asw": 0,
     "_back": -4,
     "_battle_card_reference": "/Kai Summer Mode",
     "_cg_reference": "/Kai Summer Mode",
@@ -17276,9 +17279,10 @@
   },
   "South Pacific Aircraft Carrier Princess": {
     "_aa": 138,
+    "_air_power_estimation": true,
     "_api_id": 1971,
     "_armor": 218,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
@@ -17310,6 +17314,7 @@
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
+    "_night_aviation_personnel": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
@@ -17320,9 +17325,10 @@
   },
   "South Pacific Aircraft Carrier Princess Damaged": {
     "_aa": 158,
+    "_air_power_estimation": true,
     "_api_id": 1974,
     "_armor": 268,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
@@ -17355,6 +17361,7 @@
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
+    "_night_aviation_personnel": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
@@ -17368,7 +17375,7 @@
     "_aa": 178,
     "_api_id": 1975,
     "_armor": 328,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
@@ -17405,6 +17412,7 @@
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
+    "_night_aviation_personnel": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
@@ -17415,10 +17423,10 @@
     "_full_name": "South Pacific Aircraft Carrier Princess Damaged II"
   },
   "South Pacific Aircraft Carrier Princess Damaged III": {
-    "_aa": null,
+    "_aa": 208,
     "_api_id": 1976,
-    "_armor": null,
-    "_asw": null,
+    "_armor": 388,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
@@ -17427,40 +17435,41 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "size": 72
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 36
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": null
+        "size": 36
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 30
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 308,
+    "_hp": 888,
     "_id": 1976,
     "_japanese_name": "南太平洋空母棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
+    "_night_aviation_personnel": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
+    "_references": ["https://twitter.com/syoukuretin/status/1284362413773488129", "https://twitter.com/syoukuretin/status/1284371071584501760"],
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "South Pacific Aircraft Carrier Princess Damaged III"
   },
@@ -17468,7 +17477,7 @@
     "_aa": null,
     "_api_id": 1972,
     "_armor": null,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
@@ -17502,6 +17511,7 @@
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
+    "_night_aviation_personnel": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
@@ -17515,30 +17525,29 @@
     "_aa": 198,
     "_api_id": 1973,
     "_armor": 318,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 25
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 25
+        "size": 32
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 25
+        "size": 16
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 25
+        "size": 16
       }
     ],
     "_evasion": null,
@@ -17549,9 +17558,11 @@
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
+    "_night_aviation_personnel": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
+    "_references": ["https://twitter.com/syoukuretin/status/1284167705528897541", "https://twitter.com/syoukuretin/status/1284212776966094848"],
     "_speed": 10,
     "_suffix": "III",
     "_torpedo": 0,
@@ -18763,7 +18774,7 @@
     "_aa": 0,
     "_api_id": 1977,
     "_armor": 19,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
@@ -18802,7 +18813,7 @@
     "_aa": 0,
     "_api_id": 1978,
     "_armor": 39,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
