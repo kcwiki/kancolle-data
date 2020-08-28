@@ -15071,7 +15071,7 @@
     "_los": null,
     "_luck": null,
     "_name": "New Southern Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "なんぽうせんかんしんせいき",
     "_speed": 10,
@@ -15116,7 +15116,7 @@
     "_los": null,
     "_luck": null,
     "_name": "New Southern Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "なんぽうせんかんしんせいき-かい",
     "_speed": 10,
@@ -15166,7 +15166,7 @@
     "_los": null,
     "_luck": null,
     "_name": "New Southern Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "なんぽうせんかんしんせいき-かい",
     "_speed": 10,
@@ -15216,7 +15216,7 @@
     "_los": null,
     "_luck": null,
     "_name": "New Southern Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "なんぽうせんかんしんせいき-かい",
     "_speed": 10,
@@ -15263,7 +15263,7 @@
     "_los": null,
     "_luck": null,
     "_name": "New Southern Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "なんぽうせんかんしんせいき",
     "_speed": 10,
@@ -15310,7 +15310,7 @@
     "_los": null,
     "_luck": null,
     "_name": "New Southern Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "なんぽうせんかんしんせいき",
     "_speed": 10,
@@ -17315,7 +17315,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
     "_speed": 10,
@@ -17362,7 +17362,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
     "_speed": 10,
@@ -17373,6 +17373,7 @@
   },
   "South Pacific Aircraft Carrier Princess Damaged II": {
     "_aa": 178,
+    "_air_power_estimation": true,
     "_api_id": 1975,
     "_armor": 328,
     "_asw": 0,
@@ -17386,22 +17387,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 32
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 16
       }
     ],
     "_evasion": null,
@@ -17413,7 +17414,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
     "_speed": 10,
@@ -17463,7 +17464,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
     "_references": ["https://twitter.com/syoukuretin/status/1284362413773488129", "https://twitter.com/syoukuretin/status/1284371071584501760"],
@@ -17474,50 +17475,51 @@
     "_full_name": "South Pacific Aircraft Carrier Princess Damaged III"
   },
   "South Pacific Aircraft Carrier Princess II": {
-    "_aa": null,
+    "_aa": 158,
+    "_air_power_estimation": true,
     "_api_id": 1972,
-    "_armor": null,
+    "_armor": 288,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 23
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 23
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": null
+        "size": 22
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 22
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 248,
+    "_hp": 888,
     "_id": 1972,
     "_japanese_name": "南太平洋空母棲姫",
     "_los": null,
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "South Pacific Aircraft Carrier Princess II"
   },
@@ -17559,7 +17561,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
     "_references": ["https://twitter.com/syoukuretin/status/1284167705528897541", "https://twitter.com/syoukuretin/status/1284212776966094848"],
@@ -19643,7 +19645,7 @@
     "_aa": 60,
     "_api_id": 1933,
     "_armor": 30,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
@@ -19687,7 +19689,7 @@
     "_aa": 70,
     "_api_id": 1936,
     "_armor": 60,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_equipment": [
       {
@@ -19732,7 +19734,7 @@
     "_aa": 80,
     "_api_id": 1937,
     "_armor": 160,
-    "_asw": null,
+    "_asw": 0,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
@@ -19827,7 +19829,7 @@
     "_aa": 70,
     "_api_id": 1934,
     "_armor": 120,
-    "_asw": null,
+    "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
@@ -19900,7 +19902,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 0,
     "_firepower": 200,
     "_hp": 2400,
     "_id": 1935,

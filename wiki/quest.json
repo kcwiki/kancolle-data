@@ -2676,6 +2676,42 @@
     "title": "合同艦隊作戦任務【拡張作戦】",
     "title_en": "Coalition Fleet's Operational Mission [Extra Operation]"
   },
+  "B152": {
+    "detail_en": "Sortie a fleet with 2 [[CV|Standard Aircraft Carriers]] and up to 4 additional ships to Worlds [[2-4]], [[2-5]], and [[4-3]]. Obtain a S-rank at each boss node.",
+    "label": "B152",
+    "note": "Requires: ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 880,
+    "reward_fuel": 0,
+    "reward_other": "[[File:Medal.png|30px|link=Medal]] x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x88<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|TBF|text=true|image=30px}} ★+4 x1",
+    "reward_steel": 880,
+    "title": "【航空母艦特別任務】航空戦隊、精鋭無比！",
+    "title_en": ""
+  },
+  "B153": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Kaga/Kai Ni}}/{{ShipLink|Kaga/Kai Ni E}}/{{ShipLink|Kaga/Kai Ni Go}} as flagship, 1 other [[CV|Standard Aircraft Carrier]], and up to 4 additional ships to Worlds [[3-4]], [[4-4]], [[4-5]], and [[5-2]]. Obtain a S-rank at each boss node.",
+    "label": "B153",
+    "note": "Requires: [[Quests#B152|B152]]",
+    "reward_ammo": 2020,
+    "reward_bauxite": 0,
+    "reward_fuel": 1942,
+    "reward_other": "{{EquipmentLink|Ryuusei Kai (CarDiv 1)|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Prototype Shuusui|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Type 1 Land-based Attack Aircraft Model 22A|text=true|image=30px}} ★+2 x1<br>'''or'''<br>{{EquipmentLink|Ka Type Observation Autogyro|text=true|image=30px}} ★+3 x3",
+    "reward_steel": 0,
+    "title": "改加賀型航空母艦「加賀改二」、抜錨！",
+    "title_en": ""
+  },
+  "B154": {
+    "detail_en": "Sortie a fleet with {{ShipLink|Akagi/Kai Ni}}/{{ShipLink|Akagi/Kai Ni E}}, {{ShipLink|Kaga/Kai Ni}}/{{ShipLink|Kaga/Kai Ni E}}/{{ShipLink|Kaga/Kai Ni Go}}, and up to 4 additional ships to Worlds [[7-2]], [[5-5]], [[6-2]], and [[6-5]]. Obtain a S-rank at the boss node of [[5-5]], [[6-2]], and [[6-5]] once. Obtain a S-rank at the '''second''' boss node of [[7-2]] once.",
+    "label": "B154",
+    "note": "Requires: ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 1840,
+    "reward_fuel": 0,
+    "reward_other": "{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Type 1 Land-based Attack Aircraft Model 34|text=true|image=30px}} ★+2 x1<br>'''then choice between'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Remodel Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Ryuusei Kai (CarDiv 1/Skilled)|text=true|image=30px}} ★+2 x1",
+    "reward_steel": 1830,
+    "title": "最精鋭「第一航空戦隊」、出撃！鎧袖一触！",
+    "title_en": ""
+  },
   "B16": {
     "detail_en": "Sortie a fleet with {{ShipLink|Choukai}}, {{ShipLink|Furutaka}}, {{ShipLink|Kako}}, {{ShipLink|Aoba}}, {{ShipLink|Kinugasa}}, and {{ShipLink|Tenryuu}} to World [[2-3]]. Obtain a B-rank (or higher) at the boss node.",
     "label": "B16",
@@ -4692,6 +4728,18 @@
     "title": "小艦艇群演習強化任務",
     "title_en": ""
   },
+  "C45": {
+    "detail_en": "Use a fleet with 1 [[CV|Standard Aircraft Carrier]] as flagship, 1 other [[CV|Standard Aircraft Carrier]], 2 [[DD|Destroyers]], and up to 2 additional ships to obtain a B-rank(?) (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
+    "label": "C45",
+    "note": "Requires: ??",
+    "reward_ammo": 800,
+    "reward_bauxite": 800,
+    "reward_fuel": 0,
+    "reward_other": "[[Furniture|Furniture: \"Kaga Cape\" Wall Scroll]]<br>'''then choice between'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Skilled Crew Member|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "航空母艦演習",
+    "title_en": ""
+  },
   "C5": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
     "label": "C5",
@@ -5086,7 +5134,19 @@
     "reward_other": "'''Choice between'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''then choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x7",
     "reward_steel": 0,
     "title": "小笠原沖哨戒線の強化を実施せよ！",
-    "title_en": "Strengthen the Ogasawara Corstal Patrol Line!"
+    "title_en": "Strengthen the Ogasawara Coastal Patrol Line!"
+  },
+  "D35": {
+    "detail_en": "Complete Expeditions A1, 4, 9, and B5 once each.",
+    "label": "D35",
+    "note": "Requires: ??<br>'''Yearly Quest - Resets in August every year.'''",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 2000,
+    "reward_other": "'''Choice between'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x5<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''then choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x3<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "南西諸島方面の海上護衛を強化せよ！",
+    "title_en": ""
   },
   "D4": {
     "detail_en": "Complete 30 [[Expedition|Expeditions]] within the same week.",
@@ -6287,6 +6347,18 @@
     "reward_steel": 600,
     "title": "工廠稼働！次期作戦準備！",
     "title_en": "Arsenal Work! Preparations for the Next Operation!"
+  },
+  "F91": {
+    "detail_en": "Prepare 1840 Ammunition, 6200 Bauxite, 2 {{EquipmentLink|New Model Aerial Armament Material}}, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Kaga/Kai Ni Go}} as secretary equipped with a {{EquipmentLink|TBM-3D}} in her first slot. Scrap 2 {{EquipmentLink|TBF}}, 1 {{EquipmentLink|Ryuusei}}, and 1 {{EquipmentLink|Ryuusei Kai}}.",
+    "label": "F91",
+    "note": "Requires: ??",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "{{EquipmentLink|text=true|image=30px|TBM-3W+3S}}",
+    "reward_steel": 0,
+    "title": "新鋭対潜哨戒航空戦力の導入",
+    "title_en": ""
   },
   "G1": {
     "detail_en": "Perform a successful modernization.",
