@@ -3701,10 +3701,10 @@
     "_id": 331,
     "_improvements": {
       "_ammo": 350,
-      "_bauxite": 0,
+      "_bauxite": false,
       "_fuel": 30,
       "_products": {
-        "false": {
+        "16inch Mk.VIII Twin Gun Mount Kai": {
           "0": {
             "_development_material": 6,
             "_development_material_x": 7,
@@ -3723,13 +3723,24 @@
             "_improvement_material": 4,
             "_improvement_material_x": 7
           },
+          "10": {
+            "_development_material": 17,
+            "_development_material_x": 27,
+            "_equipment": {
+              "41cm Twin Gun Mount": 4,
+              "New Model Armament Material": 2,
+              "New Model Gun Mount Improvement Material": 2
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 13
+          },
           "_ships": {
             "Colorado/": {
               "Friday": false,
               "Monday": true,
               "Saturday": false,
               "Sunday": false,
-              "Thursday": null,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             },
@@ -3778,6 +3789,45 @@
     "_flight_range": false,
     "_icon": 3,
     "_id": 332,
+    "_improvements": {
+      "_ammo": 380,
+      "_bauxite": 160,
+      "_fuel": 40,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 8,
+            "_development_material_x": 10,
+            "_equipment": {
+              "41cm Twin Gun Mount": 3
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 6
+          },
+          "6": {
+            "_development_material": 16,
+            "_development_material_x": 18,
+            "_equipment": {
+              "41cm Twin Gun Mount": 4
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 8
+          },
+          "_ships": {
+            "Colorado/Kai": {
+              "Friday": false,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": 560
+    },
     "_info": "米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装主砲、その改良型のさらなる強化版兵装です。<br>16inch連装主砲に改良を加え、さらに近接対空兵装も充実させました。改装後の「Colorado」級戦艦で装備運用することで、特に高い砲戦能力を発揮します。",
     "_japanese_name": "16inch Mk.VIII連装砲改",
     "_los": false,
@@ -4742,7 +4792,7 @@
     "_improvements": {
       "_ammo": 90,
       "_bauxite": 150,
-      "_fuel": 0,
+      "_fuel": false,
       "_products": {
         "false": {
           "0": {
@@ -7254,7 +7304,7 @@
     "_type": 1
   },
   "5inch Single High-angle Gun Mount Battery": {
-    "_aa": 5,
+    "_aa": 6,
     "_armor": 1,
     "_asw": false,
     "_bombing": false,
@@ -9051,6 +9101,92 @@
     "_firepower": false,
     "_icon": 15,
     "_id": 92,
+    "_improvements": {
+      "_ammo": 40,
+      "_bauxite": 20,
+      "_fuel": false,
+      "_products": {
+        "QF 2-pounder Octuple Pom-pom Gun Mount": {
+          "0": {
+            "_development_material": 1,
+            "_development_material_x": 2,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 1
+          },
+          "6": {
+            "_development_material": 1,
+            "_development_material_x": 2,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "10": {
+            "_development_material": null,
+            "_development_material_x": null,
+            "_equipment": {
+              "25mm Twin Autocannon Mount": 2,
+              "New Model Armament Material": 1
+            },
+            "_improvement_material": 8,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Harusame/": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Harusame/Kai": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Ryuuhou/": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Ryuuhou/Kai": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Taigei/": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          },
+          "_stars": 1
+        }
+      },
+      "_steel": 20
+    },
     "_info": "英国ヴィッカース社より導入した対空機銃です。<br/>射撃時の音からポンポン砲とも呼ばれ、国内でライセンス生産もされました。徐々に後発の国産対空機銃に更新されていきました。",
     "_japanese_name": "毘式40mm連装機銃",
     "_los": false,
@@ -9223,7 +9359,7 @@
     "_type": 2
   },
   "Bofors 40mm Quadruple Autocannon Mount": {
-    "_aa": 10,
+    "_aa": 11,
     "_armor": 1,
     "_asw": false,
     "_bombing": false,
@@ -11351,7 +11487,7 @@
               "Monday": true,
               "Saturday": true,
               "Sunday": true,
-              "Thursday": null,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             },
@@ -11360,7 +11496,7 @@
               "Monday": true,
               "Saturday": true,
               "Sunday": true,
-              "Thursday": null,
+              "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
             }
@@ -11838,7 +11974,8 @@
             "_development_material": 16,
             "_development_material_x": 30,
             "_equipment": {
-              "Ka Type Observation Autogyro": 1
+              "Ka Type Observation Autogyro": 1,
+              "New Model Aerial Armament Material": 1
             },
             "_improvement_material": 7,
             "_improvement_material_x": 14
@@ -11846,12 +11983,12 @@
           "_ships": {
             "Hyuuga/Kai Ni": {
               "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": false,
+              "Tuesday": null,
+              "Wednesday": null
             }
           }
         }
@@ -11994,6 +12131,15 @@
             "_improvement_material_x": 5
           },
           "_ships": {
+            "Colorado/Kai": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": null,
+              "Tuesday": null,
+              "Wednesday": null
+            },
             "Houston/Kai": {
               "Friday": false,
               "Monday": false,
@@ -12015,7 +12161,7 @@
           }
         }
       },
-      "_steel": 0
+      "_steel": false
     },
     "_info": "Vought社が開発した艦載観測機です。水上機タイプの本機は、米海軍の水上艦に搭載され、Iowa級をはじめ、戦艦や巡洋艦等の目として索敵等に運用されました。",
     "_japanese_name": "OS2U",
@@ -14287,13 +14433,13 @@
           },
           "_ships": {
             "Hyuuga/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
+              "Friday": false,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
               "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
+              "Tuesday": null,
+              "Wednesday": null
             }
           }
         }
@@ -14598,7 +14744,7 @@
     "_icon": 11,
     "_id": 278,
     "_improvements": {
-      "_ammo": 0,
+      "_ammo": false,
       "_bauxite": 200,
       "_fuel": 10,
       "_products": {
@@ -17270,7 +17416,7 @@
           }
         }
       },
-      "_steel": 0
+      "_steel": false
     },
     "_info": "旧式化した「九七艦攻」の後継機として開発された、新型の艦上攻撃機「天山」。<br/>機動部隊に配備され、主に雷撃任務を担当します。<br/>急降下爆撃機の｢彗星｣などと一緒に、ぜひ空母機動部隊で運用してくださいね。",
     "_japanese_name": "天山",
@@ -24099,6 +24245,65 @@
     "_flight_range": false,
     "_icon": 5,
     "_id": 41,
+    "_improvements": {
+      "_ammo": 50,
+      "_bauxite": 20,
+      "_fuel": 30,
+      "_products": {
+        "Type C Kouhyouteki": {
+          "0": {
+            "_development_material": 3,
+            "_development_material_x": 3,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 3,
+            "_development_material_x": 6,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 4
+          },
+          "10": {
+            "_development_material": 9,
+            "_development_material_x": 18,
+            "_equipment": {
+              "Action Report": 1,
+              "New Model Armament Material": 2,
+              "true": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 8
+          },
+          "_ships": {
+            "Chiyoda/A": {
+              "Friday": false,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Nisshin/A": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": 40
+    },
     "_info": "独自開発された「特殊潜航艇」です。<br>軽巡洋艦や甲標的母艦に改装した水上機母艦、そして潜水艦が搭載して運用します。<br>二発の魚雷を装備し、敵艦に肉薄して雷撃、艦隊決戦を補助する特殊兵器です。",
     "_japanese_name": "甲標的 甲型",
     "_los": false,
@@ -24937,7 +25142,7 @@
       "_bauxite": 480,
       "_fuel": 180,
       "_products": {
-        "false": {
+        "Zuiun Model 12 (634 Air Group)": {
           "0": {
             "_development_material": 6,
             "_development_material_x": 8,
@@ -24955,6 +25160,17 @@
             },
             "_improvement_material": 6,
             "_improvement_material_x": 8
+          },
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 18,
+            "_equipment": {
+              "New Model Aerial Armament Material": 1,
+              "Skilled Crew Member": 1,
+              "Zuiun Model 12": 2
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 10
           },
           "_ships": {
             "Hyuuga/Kai": {
@@ -25048,6 +25264,15 @@
               "Thursday": false,
               "Tuesday": false,
               "Wednesday": false
+            },
+            "Hyuuga/Kai Ni": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
             }
           }
         }
@@ -25223,6 +25448,63 @@
     "_flight_range": 5,
     "_icon": 10,
     "_id": 81,
+    "_improvements": {
+      "_ammo": 190,
+      "_bauxite": 430,
+      "_fuel": 190,
+      "_products": {
+        "Zuiun (634 Air Group/Skilled)": {
+          "0": {
+            "_development_material": 6,
+            "_development_material_x": null,
+            "_equipment": false,
+            "_improvement_material": 3,
+            "_improvement_material_x": null
+          },
+          "6": {
+            "_development_material": null,
+            "_development_material_x": 10,
+            "_equipment": {
+              "Type 0 Observation Seaplane": 1
+            },
+            "_improvement_material": null,
+            "_improvement_material_x": 7
+          },
+          "10": {
+            "_development_material": 18,
+            "_development_material_x": null,
+            "_equipment": {
+              "New Model Aerial Armament Material": 1,
+              "Skilled Crew Member": 2,
+              "Zuiun Model 12": 2
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": null
+          },
+          "_ships": {
+            "Ise/Kai": {
+              "Friday": false,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            },
+            "Yamashiro/Kai Ni": {
+              "Friday": true,
+              "Monday": null,
+              "Saturday": null,
+              "Sunday": null,
+              "Thursday": true,
+              "Tuesday": null,
+              "Wednesday": null
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "高性能多用途水上偵察機「瑞雲」の改良型「瑞雲12型」。<br/>同機によって編成された「伊勢」型航空戦艦などでの艦隊運用を担う六三四航空隊所属の「瑞雲12型」飛行隊です。",
     "_japanese_name": "瑞雲12型(六三四空)",
     "_localized_name": "Auspicious Clouds Model 12 (634 Air Group)",

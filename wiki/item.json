@@ -526,6 +526,16 @@
     "_reading": null,
     "_type": 0
   },
+  "New Model Armament Material": {
+    "_category": 0,
+    "_description": "新型兵装の開発及び実戦配備に必要な技術図面と資材です。※装備改修等で使用することで、各種新型兵装の開発及び実戦配備が可能となります。",
+    "_id": 94,
+    "_item": true,
+    "_japanese_name": "新型兵装資材",
+    "_name": "New Model Armament Material",
+    "_reading": null,
+    "_type": 0
+  },
   "New Model Gun Mount Improvement Material": {
     "_category": 0,
     "_description": "新型砲熕兵装を開発、戦力化するために必要な技術図面です。※任務や装備改修で使用可能。※新型大口径主砲等の開発には　複数の同資材が必要です。",
