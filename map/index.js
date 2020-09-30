@@ -48,7 +48,7 @@ const regularMaps = [
   ...range(41, 45 + 1),
   ...range(51, 55 + 1),
   ...range(61, 65 + 1),
-  ...range(71, 72 + 1),
+  ...range(71, 73 + 1),
 ]
 
 const battleRanks = ['S', 'A', 'B', 'C', 'D', 'E']
