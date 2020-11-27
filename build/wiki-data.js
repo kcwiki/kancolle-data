@@ -49,22 +49,21 @@ const getLuaDataInCategory = async category => {
 
 const main = async () => {
   const data = fromPairs(
-    await map(toPairs(categories), async ([categoryName, category]) => {
-      const data = await getLuaDataInCategory(category)
-      /*
-        const titles = (await bot.getPagesInCategoryAsync(category)).filter(e => e.title.startsWith('Module:')).map(e => e.title)
-        const modules = await map(
-          titles,
-          async title => [title.replace('Module:', '').replace(/Data\/.+?\//, ''), parse(await bot.getArticleAsync(title))],
-          { concurrency },
-        )
-        */
-      return [categoryName, fromPairs(data)]
-    }),
+    await map(toPairs(categories), async ([categoryName, category]) => [categoryName, fromPairs(await getLuaDataInCategory(category))]),
   )
   data.quest = keyBy(flatten(values(data.quest)), 'label')
   const dataSorted = sortKeys(data, { deep: true })
   await map(toPairs(dataSorted), ([categoryName, data]) => outputJson(`${__dirname}/../wiki/${categoryName}.json`, data, { spaces: 2 }))
+
+  // seasonal data
+
+  const seasonal = {}
+  forEach(dataSorted.ship, (shipData, ship) => {
+    if (shipData.seasonals) {
+      seasonal[ship] = shipData.seasonals
+    }
+  })
+  await outputJson(`${__dirname}/../wiki/seasonal.json`, seasonal, { spaces: 2 })
 
   // flat ships
 

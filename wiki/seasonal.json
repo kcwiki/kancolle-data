@@ -1,0 +1,2580 @@
+{
+  "Abukuma": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    }
+  ],
+  "Agano": [
+    {
+      "_season": "Setsubun 2019",
+      "_suffix": "Setsubun"
+    }
+  ],
+  "Akagi": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    },
+    {
+      "_season": "New Year 2020",
+      "_suffix": "New Year"
+    }
+  ],
+  "Akashi": [
+    {
+      "_season": "New Year 2015",
+      "_season_suffix": false,
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "New Year 2015",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai New Year"
+    },
+    {
+      "_season": "Mid-Summer 2015",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "White Day 2016",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Gyudon"
+    },
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Christmas 2016",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Christmas"
+    },
+    {
+      "_season": "Setsubun 2017",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Setsubun 2017",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Setsubun"
+    },
+    {
+      "_season": "Summer 2017",
+      "_suffix": "Tekkotsu Bancho"
+    },
+    {
+      "_season": "Summer 2017",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Tekkotsu Bancho"
+    },
+    {
+      "_season": "Spring 2020",
+      "_suffix": "Outing"
+    },
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Yukata"
+    },
+    ["New Year's", "/New Year"],
+    ["Kai New Year's", "/Kai New Year"],
+    ["Kai White Day", "/Kai Gyudon"],
+    ["Xmas", "/Christmas"],
+    ["Kai Xmas", "/Kai Christmas"]
+  ],
+  "Akebono": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_extension": "jpg",
+      "_season": "End of Year 2014",
+      "_suffix": "End of Year"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Early Summer 2015",
+      "_suffix": "Summer"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2015",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "End of Year 2015",
+      "_suffix": "End of Year 2015"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Valentines 2016",
+      "_suffix": "Valentine"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_damaged_reference": "/Summer",
+      "_cg_damaged_reference": "/Summer",
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer 2016"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival 2018"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Kai Spring Bouquet"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Celebration"
+    },
+    ["Year End 2014", "/End of Year"],
+    ["Year End 2015", "/End of Year 2015"],
+    ["Year End", "/End of Year 2015"],
+    ["Udon", "/Oyakodon"],
+    ["Kai Spring", "/Kai Spring Bouquet"]
+  ],
+  "Akigumo": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    },
+    {
+      "_season": "Late Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Crunch Time"
+    },
+    {
+      "_season": "End of Year 2017",
+      "_suffix": "Super Crunch Time"
+    },
+    {
+      "_season": "New Year 2018",
+      "_suffix": "Ending Celebration"
+    },
+    {
+      "_cg_damaged_reference": "/Crunch Time",
+      "_season": "Christmas 2018",
+      "_suffix": "Crunch Time 2018"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Super Crunch Time 2018"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Super Duper Crunch Time"
+    },
+    {
+      "_season": "New Year 2019",
+      "_suffix": "Ending Celebration 2018"
+    },
+    ["Katsudon", "/Oyakodon"],
+    ["Christmas", "/Crunch Time"],
+    ["End of Year", "/Super Crunch Time"],
+    ["New Year", "/Ending Celebration"],
+    ["Christmas 2018", "/Super Crunch Time 2018"]
+  ],
+  "Akishimo": [
+    {
+      "_season": "Valentines 2020",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Akitsu Maru": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Akitsushima": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_extension": "jpg",
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "New Year 2017",
+      "_suffix": "New Year 2017"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    },
+    ["New Year 2016", "/New Year"]
+  ],
+  "Akizuki": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Amagi": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_cg": false,
+      "_season_suffix": "Old Kai Damaged CG",
+      "_suffix": "Old Kai CG"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Shopping"
+    }
+  ],
+  "Amagiri": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Spring Bouquet"
+    },
+    {
+      "_season": "Setsubun 2019",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Rainy Season 2019",
+      "_suffix": "Rainy"
+    },
+    ["Spring", "/Spring Bouquet"]
+  ],
+  "Arare": [
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Arashio": [
+    {
+      "_season": "New Year 2019",
+      "_suffix": "New Year"
+    }
+  ],
+  "Ariake": [
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Summer"
+    }
+  ],
+  "Asagumo": [
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Eve Of Battle",
+      "_suffix": "Surigao Strait Assault"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Autumn-Winter Uniform"
+    },
+    ["Xmas", "/Christmas"],
+    ["Fall Uniform 2018", "/Autumn-Winter Uniform"]
+  ],
+  "Asashimo": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Happi"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Setsubun 2018",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    ["Fall", "/Happi"],
+    ["Akimatsuri Happi", "/Happi"]
+  ],
+  "Asashio": [
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Halloween"
+    },
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Kai Ni Halloween"
+    },
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Kai Ni D Halloween"
+    }
+  ],
+  "Ayanami": [
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Yukata"
+    }
+  ],
+  "Chikuma": [
+    {
+      "_season": "Christmas 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Christmas"
+    },
+    ["Kai Ni Xmas", "/Kai Ni Christmas"]
+  ],
+  "Chitose": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Chiyoda": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Colorado": [
+    {
+      "_cg_damaged": false,
+      "_suffix": "Special"
+    },
+    {
+      "_cg_damaged": false,
+      "_suffix": "Kai Special"
+    }
+  ],
+  "Commandant Teste": [
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Setsubun 2017",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Valentines 2017",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Hinamatsuri 2017",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Summer 2017",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Zuiun"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "De Ruyter": [
+    {
+      "_season": "Christmas 2019",
+      "_suffix": "Christmas"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Christmas 2019",
+      "_suffix": "Christmas 2"
+    },
+    {
+      "_season": "Setsubun 2020",
+      "_suffix": "Setsubun"
+    }
+  ],
+  "Etorofu": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Rainy Season 2018",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Ice Festival"
+    },
+    {
+      "_season": "Summer 2019",
+      "_suffix": "Kai Ice Festival"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Setsubun 2019",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_suffix": "Zuiun"
+    },
+    {
+      "_season": "Christmas 2019",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Kai Spring Bouquet"
+    },
+    ["Kai Spring", "/Kai Spring Bouquet"]
+  ],
+  "Fletcher": [
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Mod.2 Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Mk.II Summer"
+    }
+  ],
+  "Fubuki": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Happi"
+    },
+    {
+      "_season": "Fall 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Happi"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Outing"
+    },
+    ["Fall", "/Happi"],
+    ["Akimatsuri Happi", "/Happi"],
+    ["Kai Ni Fall", "/Kai Ni Happi"],
+    ["Kai Ni Akimatsuri Happi", "/Kai Ni Happi"]
+  ],
+  "Fujinami": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Late Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Rainy Season 2018",
+      "_suffix": "Rainy"
+    }
+  ],
+  "Fukae": [
+    {
+      "_season": "Rainy Season 2018",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Valentines 2020",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Furutaka": [
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Valentines 2019",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Fusou": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Happi"
+    },
+    {
+      "_season": "Rainy Season 2017",
+      "_suffix": "Rainy"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Rainy Season 2017",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Rainy"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Zuiun"
+    },
+    ["Mackerel Pike Festival", "/Happi"],
+    ["Rainy 2017", "/Rainy"],
+    ["Kai Ni Rainy 2017", "/Kai Ni Rainy"]
+  ],
+  "Gambier Bay": [
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Spring Bouquet"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Ice Festival"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Rainy Season 2019",
+      "_suffix": "Rainy"
+    },
+    ["Spring", "/Spring Bouquet"]
+  ],
+  "Gotland": [
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Hinamatsuri 2020",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Andra Summer"
+    }
+  ],
+  "Grecale": [
+    {
+      "_season": "Halloween 2019",
+      "_suffix": "Halloween"
+    },
+    {
+      "_season": "Valentines 2020",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    }
+  ],
+  "Hamakaze": [
+    {
+      "_season": "Valentines 2015",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Hamanami": [
+    {
+      "_season": "Rainy Season 2018",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Haruna": [
+    {
+      "_season": "Mid-Summer 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Summer"
+    },
+    {
+      "_season": "Spring 2017",
+      "_suffix": "Shopping"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    }
+  ],
+  "Harusame": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2015",
+      "_suffix": "Fall"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Valentines 2016",
+      "_suffix": "Valentine"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Third Anniversary",
+      "_suffix": "Kai Spring Bouquet"
+    },
+    ["Kai Spring", "/Kai Spring Bouquet"]
+  ],
+  "Hatsukaze": [
+    {
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "Hatsuzuki": [
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Hayanami": [
+    {
+      "_season": "Valentines 2019",
+      "_suffix": "Omnomnom"
+    },
+    {
+      "_season": "Rainy Season 2019",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Valentines 2020",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Hayashimo": [
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Valentines 2020",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Hayasui": [
+    {
+      "_season": "Summer 2017",
+      "_suffix": "Zuiun"
+    }
+  ],
+  "Hibiki": [
+    {
+      "_name": "Verniy",
+      "_season": "Sanma 2017",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Hiei": [
+    {
+      "_season": "New Year 2020",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni New Year"
+    }
+  ],
+  "Hirato": [
+    {
+      "_season": "Hinamatsuri 2020",
+      "_suffix": "Shopping"
+    }
+  ],
+  "Houshou": [
+    {
+      "_season": "New Year 2017",
+      "_suffix": "New Year"
+    }
+  ],
+  "Houston": [
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Summer"
+    }
+  ],
+  "Hyuuga": [
+    {
+      "_suffix": "Kai Zuiun Festival"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Winter 2018 Event"
+    }
+  ],
+  "I-401": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer"
+    }
+  ],
+  "I-47": [
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Naval Base Eel Festival"
+    }
+  ],
+  "I-8": [
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Ikazuchi": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Inazuma": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Intrepid": [
+    {
+      "_card_extension": "jpg",
+      "_cg_damaged": false,
+      "_suffix": "Previous Kai CG"
+    }
+  ],
+  "Iowa": [
+    {
+      "_season": "New Year 2017",
+      "_suffix": "New Year"
+    }
+  ],
+  "Ise": [
+    {
+      "_suffix": "Kai Zuiun Festival"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Winter 2018 Event"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Kai Zuiun 2018"
+    }
+  ],
+  "Isokaze": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Fall 2015",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Mackerel Pike Festival"
+    }
+  ],
+  "Isonami": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Big Sight"
+    }
+  ],
+  "Isuzu": [
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    }
+  ],
+  "Italia": {
+    "Xmas": "Italia/Christmas"
+  },
+  "Jingei": [
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Yukata"
+    }
+  ],
+  "Jintsuu": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Kai Ni Yukata"
+    },
+    ["Kai Ni Fall", "/Kai Ni Yukata"]
+  ],
+  "Johnston": [
+    {
+      "_season": "Summer 2019",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2019",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Spring Bouquet"
+    },
+    ["Spring", "/Spring Bouquet"]
+  ],
+  "Kaga": [
+    {
+      "_season": "New Year 2019",
+      "_suffix": "New Year"
+    }
+  ],
+  "Kamikaze": [
+    {
+      "_season": "Valentines 2018",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Kamoi": [
+    {
+      "_season": "Rainy 2017",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Rainy 2017",
+      "_suffix": "Kai Rainy"
+    },
+    {
+      "_season": "Rainy 2017",
+      "_suffix": "Kai Bo Rainy"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Kai Yukata"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Kai Bo Yukata"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    },
+    ["Rainy 2017", "/Rainy"],
+    ["Kai Rainy 2017", "/Kai Rainy"],
+    ["Kai Bo Rainy 2017", "/Kai Bo Rainy"]
+  ],
+  "Kashima": [
+    {
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Valentines 2016",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Sanma 2017",
+      "_suffix": "Shopping"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "Kasumi": [
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Kai Ni Summer"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Kai Ni B Summer"
+    }
+  ],
+  "Katori": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    }
+  ],
+  "Kawakaze": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas"
+    },
+    ["Fall", "/Yukata"],
+    ["Xmas", "/Christmas"]
+  ],
+  "Kazagumo": [
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Setsubun 2017",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "End of Year 2017",
+      "_suffix": "Booth Girl"
+    },
+    {
+      "_season": "New Year 2020",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni Summer"
+    },
+    ["End of Year", "/Booth Girl"]
+  ],
+  "Kinu": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    }
+  ],
+  "Kinugasa": [
+    {
+      "_season": "Valentines 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Valentine"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Christmas"
+    }
+  ],
+  "Kisaragi": [
+    {
+      "_season": "Valentines 2015",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Setsubun 2018",
+      "_suffix": "Setsubun"
+    }
+  ],
+  "Kishinami": [
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Kiyoshimo": [
+    {
+      "_season": "Setsubun 2016",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Kongou": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Shopping"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Kai Ni Shopping"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Kai Ni C Spring Bouquet"
+    },
+    ["Kai Ni C Spring", "/Kai Ni C Spring Bouquet"]
+  ],
+  "Kuma": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Valentines 2018",
+      "_suffix": "Valentine"
+    },
+    ["Fall", "/Yukata"],
+    ["Xmas", "/Christmas"]
+  ],
+  "Kumano": [
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Carrier Kai Ni Winter 2018 Event"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "Libeccio": [
+    {
+      "_season": "Halloween 2015",
+      "_suffix": "Halloween"
+    },
+    {
+      "_season": "Mid-Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Littorio": [
+    {
+      "_season": "Mid-Summer 2015",
+      "_suffix": "Summer"
+    },
+    {
+      "_name": "Italia",
+      "_season": "Mid-Summer 2015",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas"
+    },
+    {
+      "_name": "Italia",
+      "_season": "Christmas 2015",
+      "_season_suffix": "Italia",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Valentines 2019",
+      "_suffix": "Valentine"
+    },
+    {
+      "_name": "Italia",
+      "_season": "Valentines 2019",
+      "_season_suffix": "Italia",
+      "_suffix": "Valentine"
+    },
+    ["Xmas", "/Christmas"],
+    ["Kai Xmas", "Italia/Christmas"],
+    ["Kai Christmas", "Italia/Christmas"]
+  ],
+  "Maestrale": [
+    {
+      "_nsfw_damaged": true,
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Summer"
+    }
+  ],
+  "Maikaze": [
+    {
+      "_season": "Valentines 2019",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Makigumo": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni Summer"
+    }
+  ],
+  "Maruyu": [
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "Matsuwa": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Ice Festival"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    },
+    {
+      "_suffix": "Cherry Blossom"
+    },
+    {
+      "_season": "Setsubun 2020",
+      "_suffix": "Setsubun"
+    }
+  ],
+  "Michishio": [
+    {
+      "_season": "Fall 2017 Event",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Fall 2017 Event"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Mikuma": [
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer 2017"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Outing"
+    }
+  ],
+  "Mikura": [
+    {
+      "_season": "Hinamatsuri 2020",
+      "_suffix": "Shopping"
+    }
+  ],
+  "Minazuki": [
+    {
+      "_season": "Valentines 2017",
+      "_suffix": "Valentine"
+    }
+  ],
+  "Minegumo": [
+    {
+      "_season": "Setsubun 2019",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Hinamatsuri 2020",
+      "_suffix": "Hinamatsuri"
+    }
+  ],
+  "Miyuki": [
+    {
+      "_season": "Christmas 2019",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Mizuho": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Setsubun 2016",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Valentines 2016",
+      "_suffix": "Valentine"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "White Day 2016",
+      "_suffix": "Gyudon"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Third Anniversary",
+      "_suffix": "Spring Bouquet"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Hinamatsuri 2017",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2017",
+      "_suffix": "Halloween"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Summer 2018"
+    },
+    {
+      "_season": "Late Fall 2018",
+      "_suffix": "Late Fall"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Valentines 2019",
+      "_suffix": "Valentine 2019"
+    },
+    ["Fall", "/Yukata"],
+    ["White Day", "/Gyudon"],
+    ["Spring", "/Spring Bouquet"],
+    ["Xmas", "/Christmas"]
+  ],
+  "Mogami": [
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Eve Of Battle",
+      "_suffix": "Surigao Strait Assault"
+    },
+    ["Surigao Strait", "/Surigao Strait Assault"]
+  ],
+  "Murakumo": [
+    {
+      "_cg_damaged": false,
+      "_season": "Valentines 2015",
+      "_suffix": "Valentine"
+    },
+    {
+      "_cg_damaged": false,
+      "_cg_reference": "/Valentine",
+      "_season": "Valentines 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Valentine"
+    }
+  ],
+  "Murasame": [
+    {
+      "_season": "Rainy Season 2015",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Rainy"
+    },
+    {
+      "_season": "Early Summer 2015",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Spring 2018",
+      "_suffix": "Outing"
+    },
+    {
+      "_season": "Spring 2018",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Outing"
+    },
+    {
+      "_season": "Early Summer 2019",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Summer"
+    }
+  ],
+  "Musashi": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Winter 2018 Event"
+    }
+  ],
+  "Mutsu": [
+    {
+      "_cg_damaged": false,
+      "_suffix": "Kai Ni Special"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Mutsuki": [
+    {
+      "_season": ["Valentines 2015", ["Valentines 2016", "2016"], ["Valentines 2017", "2017"]],
+      "_suffix": "Valentine"
+    }
+  ],
+  "Naganami": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_extension": "jpg",
+      "_season": "Third Anniversary",
+      "_suffix": "Spring Bouquet"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Yukata"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_extension": "jpg",
+      "_season": "Fourth Anniversary",
+      "_suffix": "Spring Bouquet 2017"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Fried Rice"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Spring Bouquet 2018"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Kai Ni Spring Bouquet 2018"
+    },
+    {
+      "_suffix": "Kai Ni Summer Uniform"
+    },
+    {
+      "_season": "Sixth Anniversary",
+      "_suffix": "Spring Bouquet 2019"
+    },
+    {
+      "_season": "Sixth Anniversary",
+      "_suffix": "Kai Ni Spring Bouquet 2019"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Spring Bouquet 2020"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Kai Ni Spring Bouquet 2020"
+    },
+    ["Spring", "/Spring Bouquet"],
+    ["Spring 2016", "/Spring Bouquet"],
+    ["Spring Bouquet 2016", "/Spring Bouquet"],
+    ["Fall", "/Yukata"],
+    ["Spring 2017", "/Spring Bouquet 2017"],
+    ["Spring 2018", "/Spring Bouquet 2018"],
+    ["Kai Ni Spring 2018", "/Kai Ni Spring Bouquet 2018"],
+    ["Kai Ni Summer Casual", "/Kai Ni Summer Uniform"],
+    ["Spring 2019", "/Spring Bouquet 2019"],
+    ["Kai Ni Spring 2019", "/Kai Ni Spring Bouquet 2019"],
+    ["Spring 2020", "/Spring Bouquet 2020"],
+    ["Kai Ni Spring 2020", "/Kai Ni Spring Bouquet 2020"]
+  ],
+  "Nagara": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Nagato": [
+    {
+      "_cg_damaged": false,
+      "_suffix": "Kai Ni Touch"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    }
+  ],
+  "Nagatsuki": [
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Naka": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2014",
+      "_suffix": "Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2014",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Christmas"
+    },
+    ["Xmas", "/Christmas"],
+    ["Kai Ni Xmas", "/Kai Ni Christmas"]
+  ],
+  "Natori": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Nelson": [
+    {
+      "_cg_damaged": false,
+      "_season": "Early Fall 2018 Event",
+      "_suffix": "Touch"
+    },
+    {
+      "_cg_damaged": false,
+      "_season": "Early Fall 2018 Event",
+      "_suffix": "Kai Touch"
+    }
+  ],
+  "Nenohi": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    }
+  ],
+  "Noshiro": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Nowaki": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Oboro": [
+    {
+      "_season": "Early Summer 2015",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer 2016"
+    },
+    {
+      "_season": "Early Summer 2016",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Summer 2016"
+    },
+    {
+      "_season": "Valentines 2017",
+      "_suffix": "Valentine"
+    },
+    {
+      "_suffix": "Sasebo"
+    },
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Kai Spring Bouquet"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Celebration"
+    },
+    ["Fall", "/Yukata"],
+    ["Kai Spring", "/Kai Spring Bouquet"]
+  ],
+  "Okinami": [
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni Summer"
+    }
+  ],
+  "Ooi": [
+    {
+      "_season": "Rainy Season 2019",
+      "_suffix": "Rainy"
+    }
+  ],
+  "Ooshio": [
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Fall 2018",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Mackerel Pike Festival"
+    }
+  ],
+  "Ooyodo": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "New Year 2015",
+      "_suffix": "New Year"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "New Year 2015",
+      "_suffix": "Kai New Year"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2015",
+      "_suffix": "Kai Yukata"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2015",
+      "_suffix": "Kai Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "White Day 2016",
+      "_suffix": "Kai Gyudon"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Mid-Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Mid-Summer 2016",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Summer 2017",
+      "_suffix": "Kai Do-Dodonpa"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Winter 2018 Event"
+    },
+    ["New Year's", "/New Year"],
+    ["Kai New Year's", "/Kai New Year"],
+    ["Kai Fall", "/Kai Yukata"],
+    ["Xmas", "/Christmas"],
+    ["Kai Xmas", "/Kai Christmas"],
+    ["Kai White Day", "/Kai Gyudon"],
+    ["Kai Summer 2017", "/Kai Do-Dodonpa"]
+  ],
+  "Oyashio": [
+    {
+      "_season": "Christmas 2019",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Pola": [
+    {
+      "_season": "Fall 2016",
+      "_season_suffix": "Wine/Shopping",
+      "_suffix": "Shopping"
+    },
+    ["Wine", "/Shopping"]
+  ],
+  "Richelieu": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "New Year 2018",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Late Fall 2018",
+      "_suffix": "Cream Puffs"
+    },
+    {
+      "_season": "Valentines 2019",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Hinamatsuri 2020",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Summer"
+    }
+  ],
+  "Roma": [
+    {
+      "_season": "Halloween 2015",
+      "_suffix": "Halloween"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    }
+  ],
+  "Ryuujou": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2014",
+      "_suffix": "Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2014",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "White Day 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Gyudon"
+    },
+    ["Xmas", "/Christmas"],
+    ["Kai Ni Xmas", "/Kai Ni Christmas"],
+    ["Kai Ni White Day", "/Kai Ni Gyudon"]
+  ],
+  "Sado": [
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Setsubun 2018",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Zuiun"
+    },
+    {
+      "_season": "Rainy Season 2019",
+      "_suffix": "Rainy"
+    }
+  ],
+  "Sagiri": [
+    {
+      "_season": "Sanma 2017",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "Late Fall 2017",
+      "_suffix": "Late Fall Casual"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Rainy Season 2018",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Setsubun 2019",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Valentines 2019",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Yukata"
+    }
+  ],
+  "Sakawa": [
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Samuel B. Roberts": [
+    {
+      "_season": "Early Summer 2019",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Early Summer 2019",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "New Year 2020",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "New Year 2020",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai New Year"
+    }
+  ],
+  "Sazanami": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_extension": "jpg",
+      "_season": "Christmas 2014",
+      "_suffix": "Christmas 2014"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Early Summer 2015",
+      "_suffix": "Summer"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_card_extension": "jpg",
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas 2015"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas 2016"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2016",
+      "_suffix": "Kai Christmas 2016"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Rainy Season 2017",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Celebration"
+    },
+    ["Christmas", "/Christmas 2014"],
+    ["Kai Christmas", "/Kai Christmas 2016"],
+    ["Xmas 2014", "/Christmas 2014"],
+    ["Xmas 2015", "/Christmas 2015"],
+    ["Xmas 2016", "/Christmas 2016"],
+    ["Kai Xmas 2016", "/Kai Christmas 2016"],
+    ["Xmas", "/Christmas 2014"],
+    ["Kai Xmas", "/Kai Christmas 2016"],
+    ["Rainy 2017", "/Rainy"]
+  ],
+  "Sendai": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    }
+  ],
+  "Shigure": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Christmas 2014",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Christmas"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Valentines 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Valentine"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Mid-Summer 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Summer"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "White Day 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Gyudon"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Kai Ni Mackerel Pike Festival"
+    },
+    {
+      "_season": "Fall 2017 Event",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Fall 2017 Event"
+    },
+    ["Kai Ni Xmas", "/Kai Ni Christmas"],
+    ["Kai Ni White Day", "/Kai Ni Gyudon"]
+  ],
+  "Shikinami": [
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Yukata"
+    }
+  ],
+  "Shimakaze": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Shiranui": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "Late Fall 2018",
+      "_suffix": "Kai Ni Autumn Casual"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Shiratsuyu": [
+    {
+      "_season": "Early Summer 2015",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai Summer"
+    },
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Mobile"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    },
+    {
+      "_season": "Late Fall 2018",
+      "_suffix": "Kai Ni Autumn Casual"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni Summer"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Shouhou": [
+    {
+      "_season": "Rainy Season 2015",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Sanma 2018",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Shoukaku": [
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Christmas"
+    }
+  ],
+  "Souryuu": [
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Autumn Casual"
+    }
+  ],
+  "South Dakota": [
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Kai Yukata"
+    }
+  ],
+  "Suzutsuki": [
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Kai Summer"
+    }
+  ],
+  "Suzuya": [
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Carrier Kai Ni Winter 2018 Event"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "Taigei": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_name": "Ryuuhou",
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_name": "Ryuuhou",
+      "_season": "Fall 2016",
+      "_season_suffix": "Ryuuhou",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Takanami": [
+    {
+      "_season": "Rainy Season 2015",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Valentines 2017",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Summer"
+    }
+  ],
+  "Tama": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Sanma 2016",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Tanikaze": [
+    {
+      "_season": "Christmas 2015",
+      "_suffix": "Christmas"
+    },
+    ["Xmas", "/Christmas"]
+  ],
+  "Tatsuta": [
+    {
+      "_season": "Mid-Summer 2015",
+      "_suffix": "Summer"
+    }
+  ],
+  "Tenryuu": [
+    {
+      "_season": "Mid-Summer 2015",
+      "_suffix": "Summer"
+    }
+  ],
+  "Tone": [
+    {
+      "_season": "Christmas 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Christmas"
+    },
+    ["Kai Ni Xmas", "/Kai Ni Christmas"]
+  ],
+  "Tsushima": [
+    {
+      "_season": "End of Year 2017",
+      "_suffix": "End of Year"
+    },
+    {
+      "_season": "New Year 2018",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Zuiun"
+    },
+    {
+      "_season": "Late Fall 2018",
+      "_suffix": "Late Fall Casual"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Fall 2019",
+      "_suffix": "Happi"
+    }
+  ],
+  "U-511": [
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer"
+    },
+    {
+      "_name": "Ro-500",
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer"
+    }
+  ],
+  "Umikaze": [
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Shopping"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Kai Ni Spring Bouquet"
+    },
+    ["Kai Ni Spring", "/Kai Ni Spring Bouquet"]
+  ],
+  "Urakaze": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Yukata"
+    },
+    ["Fall", "/Yukata"]
+  ],
+  "Uranami": [
+    {
+      "_season": "Setsubun 2017",
+      "_suffix": "Setsubun"
+    },
+    {
+      "_season": "Sanma 2017",
+      "_suffix": "Naval Review"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Ushio": [
+    {
+      "_season": "Early Summer 2015",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Early Summer 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Summer"
+    },
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_season": "Fall 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Mackerel Pike Festival"
+    },
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "New Year 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni New Year"
+    },
+    {
+      "_season": "Hinamatsuri 2017",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Hinamatsuri 2017",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Hinamatsuri"
+    },
+    {
+      "_season": "Valentines 2018",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Fall 2018",
+      "_suffix": "Mackerel Pike Festival 2018"
+    },
+    {
+      "_season": "Seventh Anniversary",
+      "_suffix": "Celebration"
+    }
+  ],
+  "Uzuki": [
+    {
+      "_season": "Valentines 2016",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Sanma 2017",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    ["Happi", "/Mackerel Pike Festival"]
+  ],
+  "Warspite": [
+    {
+      "_season": "New Year 2018",
+      "_suffix": "New Year"
+    }
+  ],
+  "Yahagi": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    }
+  ],
+  "Yamagumo": [
+    {
+      "_season": "Christmas 2016",
+      "_suffix": "Christmas"
+    },
+    {
+      "_season": "Eve Of Battle",
+      "_suffix": "Surigao Strait Assault"
+    },
+    {
+      "_season": "Christmas 2017",
+      "_suffix": "Autumn-Winter Uniform"
+    },
+    ["Xmas", "/Christmas"],
+    ["Fall Uniform 2018", "/Autumn-Winter Uniform"]
+  ],
+  "Yamakaze": [
+    {
+      "_season": "New Year 2017",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Hinamatsuri 2017",
+      "_suffix": "Hinamatsuri"
+    },
+    {
+      "_season": "Summer 2018",
+      "_suffix": "Summer"
+    }
+  ],
+  "Yamashiro": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Oyakodon"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Zuiun"
+    },
+    ["Shopping", "/Oyakodon"]
+  ],
+  "Yamato": [
+    {
+      "_season": "Early Summer 2016",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "New Year 2018",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Winter 2018 Event"
+    },
+    {
+      "_season": "Fifth Anniversary",
+      "_suffix": "Cleaning"
+    }
+  ],
+  "Yashiro": [
+    {
+      "_season": "Fall 2020",
+      "_suffix": "Yukata"
+    }
+  ],
+  "Yayoi": [
+    {
+      "_season": "Valentines 2016",
+      "_suffix": "Valentine"
+    },
+    {
+      "_season": "Spring 2018",
+      "_suffix": "Outing"
+    }
+  ],
+  "Yukikaze": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Winter 2018 Event"
+    },
+    {
+      "_season": "Early Summer 2019",
+      "_suffix": "Summer"
+    },
+    {
+      "_season": "Summer 2019",
+      "_suffix": "Kai Summer"
+    }
+  ],
+  "Yura": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Yukata"
+    },
+    {
+      "_season": "Fall 2017",
+      "_suffix": "Kai Ni Yukata"
+    },
+    ["Fall", "/Yukata"],
+    ["Kai Ni Fall", "/Kai Ni Yukata"]
+  ],
+  "Yuubari": [
+    {
+      "_season": "Rainy Season 2016",
+      "_suffix": "Rainy"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni Toku Summer"
+    },
+    {
+      "_season": "Summer 2020",
+      "_suffix": "Kai Ni D Summer"
+    }
+  ],
+  "Yuudachi": [
+    {
+      "_season": "New Year 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni New Year"
+    },
+    {
+      "_season": "Mid-Summer 2015",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Summer"
+    },
+    {
+      "_season": "Rainy Season 2016",
+      "_season_suffix": "Kai Ni",
+      "_suffix": "Kai Ni Rainy"
+    },
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Kai Ni Oyakodon"
+    },
+    {
+      "_season": "Halloween 2019",
+      "_suffix": "Halloween"
+    },
+    {
+      "_season": "Halloween 2019",
+      "_suffix": "Kai Ni Halloween"
+    },
+    ["Kai Ni New Year's", "/Kai Ni New Year"],
+    ["Kai Ni Udon", "/Kai Ni Oyakodon"]
+  ],
+  "Yuugumo": [
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Third Anniversary",
+      "_suffix": "Spring Bouquet"
+    },
+    {
+      "_card_damaged_extension": "jpg",
+      "_season": "Fall 2016",
+      "_suffix": "Mackerel Pike Festival"
+    },
+    {
+      "_show_battle_card": true,
+      "_suffix": "Kai Ni Summer Uniform"
+    },
+    {
+      "_season": "Spring 2019",
+      "_suffix": "Outing"
+    },
+    {
+      "_season": "Sixth Anniversary",
+      "_suffix": "Kai Ni Spring Bouquet"
+    },
+    ["Spring", "/Spring Bouquet"],
+    ["Happi", "/Mackerel Pike Festival"],
+    ["Kai Ni Spring", "/Kai Ni Spring Bouquet"]
+  ],
+  "Z1": [
+    {
+      "_season": "Fall 2015",
+      "_suffix": "Oktoberfest"
+    },
+    {
+      "_season": "Mid-Summer 2017",
+      "_suffix": "Summer"
+    }
+  ],
+  "Z3": [
+    {
+      "_season": "Mid-Summer 2016",
+      "_suffix": "Summer"
+    }
+  ],
+  "Zara": [
+    {
+      "_season": "Fall 2016",
+      "_suffix": "Mackerel Pike Festival"
+    }
+  ],
+  "Zuihou": [
+    {
+      "_season": "New Year 2016",
+      "_suffix": "New Year"
+    },
+    {
+      "_season": "New Year 2016",
+      "_season_suffix": "Kai",
+      "_suffix": "Kai New Year"
+    }
+  ],
+  "Zuikaku": [
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni Winter 2018 Event"
+    },
+    {
+      "_season": "Eve Of Battle 2018",
+      "_suffix": "Kai Ni A Winter 2018 Event"
+    },
+    {
+      "_season": "Christmas 2018",
+      "_suffix": "Christmas"
+    }
+  ]
+}
