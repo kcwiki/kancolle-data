@@ -1,42 +1,67 @@
-const { map, promisifyAll } = require('bluebird')
+const { map } = require('bluebird')
 const { outputJson } = require('fs-extra')
-const { forEach, fromPairs, toPairs, values, flatten, keyBy } = require('lodash')
-const MW = require('nodemw')
+const fetch = require('node-fetch')
+const { _, forEach, fromPairs, toPairs, values, flatten, keyBy } = require('lodash')
 const sortKeys = require('sort-keys')
 const { parse } = require('lua-json')
 
-const concurrency = +process.env.concurrency || 50
-
 const categories = {
-  ship: 'Player ship modules',
-  enemy: 'Enemy ship modules',
-  boss: 'Enemy boss ship modules',
-  equipment: 'Equipment modules',
-  enemyEquipment: 'Enemy equipment modules',
-  item: 'Item modules',
-  misc: 'Misc data modules',
-  quest: 'Quest modules',
+  ship: 'Ship',
+  enemy: 'Enemy',
+  equipment: 'Equipment',
+  enemyEquipment: 'EnemyEquipment',
+  item: 'Item',
+  quest: 'Quest',
+}
+
+// const getLuaData = async title => parse(await (await fetch(`https://kancolle.fandom.com/wiki/${title}?action=raw`)).text())
+
+const getLuaDataInCategory = async category => {
+  const pages = []
+  const loop = async cont => {
+    const params = {
+      action: 'query',
+      format: 'json',
+      generator: 'allpages',
+      gaplimit: 50,
+      gapnamespace: 828, // Module
+      gapfilterredir: 'nonredirects',
+      gapprefix: `Data/${category}/`,
+      prop: 'revisions',
+      rvprop: 'content',
+    }
+    if (cont) {
+      params.gapcontinue = cont
+    }
+    const url = `https://kancolle.fandom.com/api.php?${_(params)
+      .toPairs()
+      .map(([k, v]) => `${k}=${v}`)
+      .join('&')}`
+    const data = await (await fetch(url)).json()
+    const morePages = values(data.query.pages)
+      .filter(e => !e.title.includes('Vita:') && !e.title.includes('Mist:'))
+      .map(e => [e.title.replace('Module:', '').replace(/Data\/.+?\//, ''), parse(e.revisions[0]['*'])])
+    morePages.forEach(e => pages.push(e))
+    return data.continue ? loop(data.continue.gapcontinue) : pages
+  }
+  return loop()
 }
 
 const main = async () => {
-  const bot = promisifyAll(new MW({ protocol: 'https', server: 'kancolle.fandom.com', concurrency }))
   const data = fromPairs(
-    await map(
-      toPairs(categories),
-      async ([categoryName, category]) => {
+    await map(toPairs(categories), async ([categoryName, category]) => {
+      const data = await getLuaDataInCategory(category)
+      /*
         const titles = (await bot.getPagesInCategoryAsync(category)).filter(e => e.title.startsWith('Module:')).map(e => e.title)
         const modules = await map(
           titles,
           async title => [title.replace('Module:', '').replace(/Data\/.+?\//, ''), parse(await bot.getArticleAsync(title))],
           { concurrency },
         )
-        return [categoryName, fromPairs(modules)]
-      },
-      { concurrency: 1 },
-    ),
+        */
+      return [categoryName, fromPairs(data)]
+    }),
   )
-  data.enemy = { ...data.enemy, ...data.boss }
-  delete data.boss
   data.quest = keyBy(flatten(values(data.quest)), 'label')
   const dataSorted = sortKeys(data, { deep: true })
   await map(toPairs(dataSorted), ([categoryName, data]) => outputJson(`${__dirname}/../wiki/${categoryName}.json`, data, { spaces: 2 }))
