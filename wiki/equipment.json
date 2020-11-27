@@ -367,11 +367,95 @@
     "_asw": false,
     "_back": 1,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 2,
     "_icon": 1,
     "_id": 78,
+    "_improvements": {
+      "_ammo": 20,
+      "_bauxite": 10,
+      "_fuel": 10,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 3,
+            "_development_material_x": 3,
+            "_equipment": {
+              "12.7cm Twin Gun Mount": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "_ships": {
+            "Z1/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Z1/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Z1/Zwei": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Z3/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Z3/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Z3/Zwei": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": 70
+    },
     "_info": "Z1型駆逐艦に搭載された、かの国の駆逐艦主砲です。<br/>単装砲ではありますが、対艦・対地射撃では優れた火砲です。<br/>本兵装は残念ながら対空戦闘には不向きです。",
     "_japanese_name": "12.7cm単装砲",
     "_los": false,
@@ -1661,25 +1745,83 @@
     "_torpedo_accuracy": false,
     "_type": 21
   },
-  "120mm Twin Gun Mount": {
+  "120mm/50 Twin Gun Mount": {
     "_aa": 2,
     "_armor": false,
+    "_asset_name": "120mm 50 Twin Gun Mount",
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 3,
     "_icon": 1,
     "_id": 147,
+    "_improvements": {
+      "_ammo": 60,
+      "_bauxite": 10,
+      "_fuel": 10,
+      "_products": {
+        "120mm/50 Twin Gun Mount mod.1936": {
+          "0": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "12.7cm Twin Gun Mount Model A": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 5,
+            "_development_material_x": 7,
+            "_equipment": {
+              "12.7cm Twin Gun Mount": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "10": {
+            "_development_material": 6,
+            "_development_material_x": 8,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Libeccio/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Libeccio/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": 80
+    },
     "_info": "パスタの国が生んだ連装の小艦艇用主砲兵装です。<br>口径は同クラスの日本海軍の主力駆逐艦の主砲より小さいものの、優れた機構と高いポテンシャルをもった新型小口径火砲です。",
-    "_japanese_name": "120mm連装砲",
+    "_japanese_name": "120mm/50 連装砲",
     "_los": false,
     "_luck": false,
-    "_name": "120mm Twin Gun Mount",
+    "_name": "120mm/50 Twin Gun Mount",
     "_page": false,
     "_range": false,
     "_rarity": 2,
-    "_reading": "120ミリれんそうほう",
+    "_reading": null,
     "_scrap_ammo": 1,
     "_scrap_bauxite": false,
     "_scrap_fuel": false,
@@ -1689,8 +1831,71 @@
     "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,
-    "_type": 1,
-    "_upgradable": false
+    "_type": 1
+  },
+  "120mm/50 Twin Gun Mount Kai A.mod.1937": {
+    "_aa": 4,
+    "_armor": false,
+    "_asset_name": "120mm 50 Twin Gun Mount Kai A.mod.1937",
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 3,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 1,
+    "_id": 394,
+    "_info": "パスタの国が生んだ連装の小艦艇用主砲兵装です。口径は同クラスの日本海軍の主力駆逐艦の主砲より小さいものの、優れた機構と高いポテンシャルをもった新型小口径火砲。本兵装は、別のメーカーで製造されたその改良後期型で、長く生き延びた駆逐艦「Grecale」にも装備されました。",
+    "_japanese_name": "120mm/50 連装砲改 A.mod.1937",
+    "_los": false,
+    "_luck": false,
+    "_name": "120mm/50 Twin Gun Mount Kai A.mod.1937",
+    "_range": 1,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": false,
+    "_scrap_fuel": false,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 3,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
+  },
+  "120mm/50 Twin Gun Mount mod.1936": {
+    "_aa": 3,
+    "_armor": false,
+    "_asset_name": "120mm 50 Twin Gun Mount mod.1936",
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 3,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 1,
+    "_id": 393,
+    "_info": "パスタの国が生んだ連装の小艦艇用主砲兵装です。口径は同クラスの日本海軍の主力駆逐艦の主砲より小さいものの、優れた機構と高いポテンシャルをもった新型小口径火砲。本砲は、その改良後期型です。",
+    "_japanese_name": "120mm/50 連装砲 mod.1936",
+    "_los": false,
+    "_luck": false,
+    "_name": "120mm/50 Twin Gun Mount mod.1936",
+    "_range": 1,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": false,
+    "_scrap_fuel": false,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
   },
   "12cm 30-tube Rocket Launcher": {
     "_aa": 8,
@@ -3816,12 +4021,12 @@
           "_ships": {
             "Colorado/Kai": {
               "Friday": false,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             }
           }
         }
@@ -5087,6 +5292,72 @@
     "_flight_range": false,
     "_icon": 3,
     "_id": 231,
+    "_improvements": {
+      "_ammo": 230,
+      "_bauxite": false,
+      "_fuel": 20,
+      "_products": {
+        "30.5cm Triple Gun Mount Kai": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "35.6cm Twin Gun Mount": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 7,
+            "_development_material_x": 8,
+            "_equipment": {
+              "41cm Twin Gun Mount": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "10": {
+            "_development_material": 9,
+            "_development_material_x": 10,
+            "_equipment": {
+              "35.6cm Twin Gun Mount": 3
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 7
+          },
+          "_ships": {
+            "Gangut/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Gangut/Dva": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Oktyabrskaya Revolyutsiya/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 330
+    },
     "_info": "北の国の戦艦主砲です。<br>戦艦の主砲としては、超弩級戦艦の時代にはスケール的に時代遅れの感もありましたが、三連装主砲として当時新鋭の弩級戦艦に装備されました。",
     "_japanese_name": "30.5cm三連装砲",
     "_los": false,
@@ -5119,6 +5390,63 @@
     "_flight_range": false,
     "_icon": 3,
     "_id": 232,
+    "_improvements": {
+      "_ammo": 300,
+      "_bauxite": false,
+      "_fuel": 20,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 7,
+            "_development_material_x": 8,
+            "_equipment": {
+              "35.6cm Twin Gun Mount": 2
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 4
+          },
+          "6": {
+            "_development_material": 9,
+            "_development_material_x": 10,
+            "_equipment": {
+              "46cm Triple Gun Mount": 1
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Gangut/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Gangut/Dva": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Oktyabrskaya Revolyutsiya/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          }
+        }
+      },
+      "_steel": 390
+    },
     "_info": "北の国の戦艦主砲です。<br>戦艦の主砲としては、超弩級戦艦の時代にはスケール的に時代遅れの感もありましたが、三連装主砲として当時新鋭の弩級戦艦に装備されました。本兵装は同砲を改修した、近代化改装した北の国の戦艦のための改良型装備です。",
     "_japanese_name": "30.5cm三連装砲改",
     "_los": false,
@@ -6453,6 +6781,15 @@
               "Saturday": false,
               "Sunday": true,
               "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Mutsu/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
               "Tuesday": false,
               "Wednesday": false
             },
@@ -8069,6 +8406,37 @@
     "_torpedo_accuracy": false,
     "_type": 5
   },
+  "6inch Mk.XXIII Triple Gun Mount": {
+    "_aa": 2,
+    "_armor": 1,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": 7,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 2,
+    "_id": 399,
+    "_info": "紅茶の国で開発された、ロンドン海軍軍縮条約下で建造された、大型軽巡洋艦用主砲です。軍縮条約下で総排水量制限を回避するために、重巡クラスの大型軽巡用に6inchの三連装主砲として構成された主砲兵装です。多くの軽巡を配備した紅茶の国、そのTown級軽巡などに装備運用されました。",
+    "_japanese_name": "6inch Mk.XXIII三連装砲",
+    "_los": false,
+    "_luck": false,
+    "_name": "6inch Mk.XXIII Triple Gun Mount",
+    "_range": 2,
+    "_rarity": 2,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": false,
+    "_scrap_steel": 4,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 2
+  },
   "6inch Triple Rapid Fire Gun Mount Mk.16": {
     "_aa": 2,
     "_armor": 1,
@@ -8844,6 +9212,15 @@
               "Tuesday": false,
               "Wednesday": true
             },
+            "Mutsu/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
             "Nagato/": {
               "Friday": true,
               "Monday": false,
@@ -9157,60 +9534,60 @@
             "_improvement_material_x": 2
           },
           "10": {
-            "_development_material": null,
-            "_development_material_x": null,
+            "_development_material": 4,
+            "_development_material_x": 8,
             "_equipment": {
               "25mm Twin Autocannon Mount": 2,
               "New Model Armament Material": 1
             },
-            "_improvement_material": 8,
+            "_improvement_material": 3,
             "_improvement_material_x": 6
           },
           "_ships": {
             "Harusame/": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Harusame/Kai": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Ryuuhou/": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Ryuuhou/Kai": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Taigei/": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             }
           },
           "_stars": 1
@@ -10731,7 +11108,7 @@
     "_armor": false,
     "_asw": 2,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 1,
     "_firepower": 1,
     "_flight_cost": 5,
@@ -11481,7 +11858,7 @@
     "_armor": false,
     "_asw": 2,
     "_bombing": 5,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 1,
     "_firepower": 2,
     "_flight_cost": 7,
@@ -11587,6 +11964,68 @@
     "_torpedo": 2,
     "_torpedo_accuracy": false,
     "_type": 15
+  },
+  "Locally Modified 10cm Twin High-angle Gun Mount": {
+    "_aa": 8,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 2,
+    "_firepower": 2,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 16,
+    "_id": 398,
+    "_info": "画期的な長砲身半自動装填砲を動力砲塔に備えた「長10cm」と呼ばれた新型の防空用高角砲。秋月型防空駆逐艦の主兵装としても運用された同砲を戦いの後に活用、海を渡った奇跡の駆逐艦の後部主砲として装備運用されます。現地で同砲用に製作された独自の砲塔に装備して運用されました。",
+    "_japanese_name": "現地改装10cm連装高角砲",
+    "_los": false,
+    "_luck": false,
+    "_name": "Locally Modified 10cm Twin High-angle Gun Mount",
+    "_range": 1,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": false,
+    "_scrap_fuel": false,
+    "_scrap_steel": 3,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
+  },
+  "Locally Modified 12.7cm Twin High-angle Gun Mount": {
+    "_aa": 6,
+    "_armor": 1,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 3,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 16,
+    "_id": 397,
+    "_info": "比較的簡易な構造で経済性も高く、実用的な対空高角砲として量産された両用砲。海を渡った奇跡の駆逐艦、その再武装時に前部主砲として装備運用されました。日本海軍の残した防衛兵装を、接収艦再武装時に現地で艦載用に改装した独自兵装です。",
+    "_japanese_name": "現地改装12.7cm連装高角砲",
+    "_los": false,
+    "_luck": false,
+    "_name": "Locally Modified 12.7cm Twin High-angle Gun Mount",
+    "_range": 1,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": false,
+    "_scrap_fuel": false,
+    "_scrap_steel": 3,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
   },
   "M4A1 DD": {
     "_aa": false,
@@ -12014,12 +12453,12 @@
           "_ships": {
             "Hyuuga/Kai Ni": {
               "Friday": false,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": false,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": false
             }
           }
         }
@@ -12164,12 +12603,12 @@
           "_ships": {
             "Colorado/Kai": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
-              "Thursday": null,
-              "Tuesday": null,
-              "Wednesday": null
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
             },
             "Houston/Kai": {
               "Friday": false,
@@ -12449,6 +12888,15 @@
               "Tuesday": true,
               "Wednesday": true
             },
+            "Hiei/Kai Ni C": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
             "Kongou/Kai Ni": {
               "Friday": false,
               "Monday": false,
@@ -12547,6 +12995,15 @@
               "Thursday": false,
               "Tuesday": true,
               "Wednesday": true
+            },
+            "Mutsu/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
             },
             "Nagato/Kai": {
               "Friday": false,
@@ -12956,13 +13413,13 @@
           },
           "_ships": {
             "Shoukaku/Kai Ni A": {
-              "Friday": true,
+              "Friday": false,
               "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Zuikaku/Kai Ni A": {
               "Friday": false,
@@ -13514,6 +13971,65 @@
     "_flight_range": 3,
     "_icon": 7,
     "_id": 316,
+    "_improvements": {
+      "_ammo": 220,
+      "_bauxite": 380,
+      "_fuel": 170,
+      "_products": {
+        "Re.2005 Kai": {
+          "0": {
+            "_development_material": 7,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Suisei": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "6": {
+            "_development_material": 8,
+            "_development_material_x": 10,
+            "_equipment": {
+              "Suisei Model 12A": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 7
+          },
+          "10": {
+            "_development_material": 30,
+            "_development_material_x": 50,
+            "_equipment": {
+              "New Model Aerial Armament Material": 3,
+              "Skilled Crew Member": 1,
+              "Spitfire Mk.V": 1
+            },
+            "_improvement_material": 9,
+            "_improvement_material_x": 17
+          },
+          "_ships": {
+            "Aquila/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Aquila/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "パスタの国で開発/配備された液冷エンジン装備の戦闘機、<br>その戦闘爆撃機タイプです。<br>比較的大きな打撃力を持ち、爆弾投下後は制空戦闘で活躍……することもできるかも。艦爆と艦戦の中間的な機体です。あの空母にぜひ載せてあげたいですね！",
     "_japanese_name": "Re.2001 CB改",
     "_los": false,
@@ -14465,12 +14981,12 @@
           "_ships": {
             "Hyuuga/Kai Ni": {
               "Friday": false,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": false,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -14666,6 +15182,37 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 10
+  },
+  "SB2U": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 7,
+    "_id": 199,
+    "_japanese_name": "SB2U",
+    "_los": false,
+    "_luck": false,
+    "_name": "SB2U",
+    "_page": false,
+    "_range": false,
+    "_rarity": 3,
+    "_reading": false,
+    "_scrap_ammo": false,
+    "_scrap_bauxite": false,
+    "_scrap_fuel": false,
+    "_scrap_steel": false,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 7
   },
   "SBD": {
     "_aa": 2,
@@ -15429,6 +15976,24 @@
               "Tuesday": true,
               "Wednesday": true
             },
+            "Akagi/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Akagi/Kai Ni E": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
             "Kaga/": {
               "Friday": false,
               "Monday": true,
@@ -15439,6 +16004,33 @@
               "Wednesday": true
             },
             "Kaga/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni E": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni Go": {
               "Friday": false,
               "Monday": true,
               "Saturday": false,
@@ -15541,6 +16133,68 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_wikipedia": "Kyushu J7W"
+  },
+  "Shinzan": {
+    "_aa": 1,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": 17,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 20,
+    "_flight_range": 10,
+    "_icon": 49,
+    "_id": 395,
+    "_info": "大きな航続距離を持つ、四発の大型爆撃機です。当時の陸上攻撃機としてはかなり大規模な機体で、あのB-29に迫るかなりの大型機です。米国の大型旅客機を参考に開発されましたが、運動性が悪く、発動機や機体各部も不具合続きで信頼性と実用性に欠け、不採用となりました。",
+    "_japanese_name": "深山",
+    "_los": false,
+    "_luck": false,
+    "_name": "Shinzan",
+    "_range": false,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 18,
+    "_scrap_bauxite": 23,
+    "_scrap_fuel": 12,
+    "_scrap_steel": false,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 16,
+    "_torpedo_accuracy": false,
+    "_type": 53
+  },
+  "Shinzan Kai": {
+    "_aa": 2,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": 19,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 21,
+    "_flight_range": 11,
+    "_icon": 49,
+    "_id": 396,
+    "_info": "大きな航続距離を持つ、試作四発大型爆撃機「深山」、その改良型です。米国の大型旅客機を参考に開発された試作大型爆撃機「深山」の発動機を換装、機体も改修しましたが、各部に問題が残り、結局爆撃機として戦力化されることはありませんでした。続く新型大型機「連山」に、その系譜を継承されていきます。",
+    "_japanese_name": "深山改",
+    "_los": false,
+    "_luck": false,
+    "_name": "Shinzan Kai",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 18,
+    "_scrap_bauxite": 24,
+    "_scrap_fuel": 13,
+    "_scrap_steel": false,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 17,
+    "_torpedo_accuracy": false,
+    "_type": 53
   },
   "Ship Repair Facility": {
     "_aa": false,
@@ -16033,7 +16687,7 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 1,
     "_firepower": 1,
     "_flight_cost": 5,
@@ -16200,6 +16854,64 @@
     "_flight_range": 5,
     "_icon": 44,
     "_id": 251,
+    "_improvements": {
+      "_ammo": 160,
+      "_bauxite": 380,
+      "_fuel": 120,
+      "_products": {
+        "Seafire Mk.III Kai": {
+          "0": {
+            "_development_material": 6,
+            "_development_material_x": 7,
+            "_equipment": {
+              "Spitfire Mk.I": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 4
+          },
+          "6": {
+            "_development_material": 8,
+            "_development_material_x": 10,
+            "_equipment": {
+              "Spitfire Mk.I": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "10": {
+            "_development_material": 12,
+            "_development_material_x": 24,
+            "_equipment": {
+              "Fulmar": 2,
+              "New Model Aerial Armament Material": 1
+            },
+            "_improvement_material": 7,
+            "_improvement_material_x": 9
+          },
+          "_ships": {
+            "Ark Royal/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Nelson/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "紅茶の国を代表する主力戦闘機、「Spitfire」。<br>バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の性能向上量産型です。様々な性能向上型が生まれ、やがて艦上戦闘機型の「Seafire」も誕生します。",
     "_japanese_name": "Spitfire Mk.V",
     "_los": false,
@@ -16429,6 +17141,100 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 24,
+    "_improvements": {
+      "_ammo": 120,
+      "_bauxite": 280,
+      "_fuel": 120,
+      "_products": {
+        "Suisei Model 12A": {
+          "0": {
+            "_development_material": 7,
+            "_development_material_x": 8,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 8,
+            "_development_material_x": 9,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 5
+          },
+          "10": {
+            "_development_material": 8,
+            "_development_material_x": 9,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 7
+          },
+          "_ships": {
+            "Shoukaku/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Shoukaku/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Shoukaku/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Shoukaku/Kai Ni A": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Taihou/": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Taihou/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          },
+          "_stars": 4
+        }
+      },
+      "_steel": false
+    },
     "_info": "「九九艦爆」の後継として開発された高速性能を誇る艦上爆撃機「彗星」。<br/>液冷発動機を装備。当時の一般的な戦闘機より速く、護衛の零戦すら振り切れる高速性とも言われます。<br/>整備の難しい機体ですが、高速艦爆としての完成度は高く、ぜひ機動部隊の中核として運用してくださいね。",
     "_japanese_name": "彗星",
     "_localized_name": "Comet",
@@ -16684,7 +17490,7 @@
     "_armor": false,
     "_asw": 4,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 2,
     "_flight_cost": 3,
@@ -17417,11 +18223,47 @@
             "_improvement_material_x": 7
           },
           "_ships": {
+            "Shoukaku/": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Shoukaku/Kai": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Shoukaku/Kai Ni": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
             "Shoukaku/Kai Ni A": {
               "Friday": false,
               "Monday": false,
               "Saturday": false,
               "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Taihou/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
@@ -17433,6 +18275,33 @@
               "Sunday": true,
               "Thursday": true,
               "Tuesday": true,
+              "Wednesday": true
+            },
+            "Zuikaku/": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Zuikaku/Kai": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Zuikaku/Kai Ni": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
               "Wednesday": true
             },
             "Zuikaku/Kai Ni A": {
@@ -17922,6 +18791,24 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Akagi/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Akagi/Kai Ni E": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kaga/": {
               "Friday": false,
               "Monday": true,
@@ -17932,6 +18819,33 @@
               "Wednesday": false
             },
             "Kaga/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kaga/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kaga/Kai Ni E": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kaga/Kai Ni Go": {
               "Friday": false,
               "Monday": true,
               "Saturday": false,
@@ -18030,6 +18944,24 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Akagi/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Akagi/Kai Ni E": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kaga/": {
               "Friday": false,
               "Monday": true,
@@ -18040,6 +18972,33 @@
               "Wednesday": false
             },
             "Kaga/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kaga/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kaga/Kai Ni E": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Kaga/Kai Ni Go": {
               "Friday": false,
               "Monday": true,
               "Saturday": false,
@@ -18138,6 +19097,24 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Akagi/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Akagi/Kai Ni E": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kaga/": {
               "Friday": false,
               "Monday": false,
@@ -18148,6 +19125,33 @@
               "Wednesday": true
             },
             "Kaga/Kai": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni E": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni Go": {
               "Friday": false,
               "Monday": false,
               "Saturday": false,
@@ -18246,6 +19250,24 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Akagi/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Akagi/Kai Ni E": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kaga/": {
               "Friday": false,
               "Monday": false,
@@ -18256,6 +19278,33 @@
               "Wednesday": true
             },
             "Kaga/Kai": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni E": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kaga/Kai Ni Go": {
               "Friday": false,
               "Monday": false,
               "Saturday": false,
@@ -18308,7 +19357,7 @@
       "_bauxite": 280,
       "_fuel": 120,
       "_products": {
-        "false": {
+        "Type 0 Fighter Model 62 (Fighter-bomber)": {
           "0": {
             "_development_material": 3,
             "_development_material_x": 5,
@@ -18323,6 +19372,15 @@
             "_development_material_x": 8,
             "_equipment": {
               "true": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "10": {
+            "_development_material": 5,
+            "_development_material_x": 8,
+            "_equipment": {
+              "Type 99 Dive Bomber": 2
             },
             "_improvement_material": 3,
             "_improvement_material_x": 5
@@ -18401,7 +19459,7 @@
               "Wednesday": true
             }
           },
-          "_stars": null
+          "_stars": 4
         }
       },
       "_steel": false
@@ -19306,6 +20364,15 @@
               "Wednesday": false
             },
             "Kongou/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Kongou/Kai Ni C": {
               "Friday": true,
               "Monday": false,
               "Saturday": true,
@@ -21688,6 +22755,24 @@
             "_improvement_material_x": 10
           },
           "_ships": {
+            "Haruna/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Haruna/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Haruna/Kai Ni": {
               "Friday": true,
               "Monday": false,
@@ -21696,6 +22781,24 @@
               "Thursday": true,
               "Tuesday": false,
               "Wednesday": false
+            },
+            "Hiei/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Hiei/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": true
             },
             "Hiei/Kai Ni": {
               "Friday": true,
@@ -21706,6 +22809,33 @@
               "Tuesday": false,
               "Wednesday": true
             },
+            "Hiei/Kai Ni C": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kirishima/": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Kirishima/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kirishima/Kai Ni": {
               "Friday": false,
               "Monday": true,
@@ -21715,7 +22845,34 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Kongou/": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kongou/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
             "Kongou/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kongou/Kai Ni C": {
               "Friday": false,
               "Monday": true,
               "Saturday": false,
@@ -21787,7 +22944,25 @@
             "_improvement_material_x": 8
           },
           "_ships": {
+            "Hiei/Kai Ni C": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kongou/Kai Ni": {
+              "Friday": false,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": true
+            },
+            "Kongou/Kai Ni C": {
               "Friday": false,
               "Monday": false,
               "Saturday": true,
@@ -22686,6 +23861,15 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Hiei/Kai Ni C": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kirishima/": {
               "Friday": true,
               "Monday": true,
@@ -23438,6 +24622,15 @@
               "Tuesday": false,
               "Wednesday": false
             },
+            "Hiei/Kai Ni C": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
             "Kirishima/": {
               "Friday": true,
               "Monday": false,
@@ -24176,7 +25369,133 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 23,
-    "_improvements": false,
+    "_improvements": {
+      "_ammo": 190,
+      "_bauxite": 290,
+      "_fuel": 190,
+      "_products": {
+        "Type 99 Dive Bomber Model 22": {
+          "0": {
+            "_development_material": 3,
+            "_development_material_x": 3,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 3,
+            "_development_material_x": 5,
+            "_equipment": {
+              "true": 2
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 4
+          },
+          "10": {
+            "_development_material": 4,
+            "_development_material_x": 7,
+            "_equipment": false,
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "_ships": {
+            "Hiryuu/": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Hiryuu/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Hiryuu/Kai Ni": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Souryuu/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Souryuu/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Souryuu/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuihou/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Zuihou/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Zuihou/Kai Ni": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            },
+            "Zuihou/Kai Ni B": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": true,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場しました。<br/>「九九艦爆」と呼ばれ、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担います。<br/>固定脚の低速機であるため、より高性能な高速艦爆「彗星」にその座を譲っていきました。",
     "_japanese_name": "九九式艦爆",
     "_los": false,
@@ -24211,6 +25530,56 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 99,
+    "_improvements": {
+      "_ammo": 300,
+      "_bauxite": 390,
+      "_fuel": 300,
+      "_products": {
+        "Suisei (Egusa Squadron)": {
+          "0": {
+            "_development_material": 6,
+            "_development_material_x": 7,
+            "_equipment": {
+              "Type 99 Dive Bomber": 2
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 5
+          },
+          "6": {
+            "_development_material": 7,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Type 99 Dive Bomber Model 22": 1
+            },
+            "_improvement_material": 5,
+            "_improvement_material_x": 7
+          },
+          "10": {
+            "_development_material": 16,
+            "_development_material_x": 28,
+            "_equipment": {
+              "New Model Aerial Armament Material": 3,
+              "Skilled Crew Member": 2,
+              "Suisei": 6
+            },
+            "_improvement_material": 10,
+            "_improvement_material_x": 20
+          },
+          "_ships": {
+            "Souryuu/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
     "_info": "緒戦の空母機動部隊の打撃力の中核を担う「九九艦爆」。<br/>やや設計の古い固定脚低速機ですが稼働率や信頼性は高く、特に高い練度を誇る江草隊長の率いる艦爆隊の急降下爆撃は、驚異的な命中率を誇ります。",
     "_japanese_name": "九九式艦爆(江草隊)",
     "_los": 3,
@@ -24264,6 +25633,255 @@
     "_type": 7,
     "_wikipedia": "Aichi D3A"
   },
+  "Type 99 Dive Bomber Model 22": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": 3,
+    "_bombing": 6,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 4,
+    "_flight_range": 3,
+    "_icon": 7,
+    "_id": 391,
+    "_improvements": {
+      "_ammo": 190,
+      "_bauxite": 300,
+      "_fuel": 200,
+      "_products": {
+        "Type 99 Dive Bomber Model 22 (Skilled)": {
+          "0": {
+            "_development_material": 4,
+            "_development_material_x": 5,
+            "_equipment": {
+              "Type 99 Dive Bomber": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "Type 99 Dive Bomber": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 5
+          },
+          "10": {
+            "_development_material": 5,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Skilled Crew Member": 1,
+              "Type 99 Dive Bomber (Skilled)": 1
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Shoukaku/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Shoukaku/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Shoukaku/Kai Ni": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Shoukaku/Kai Ni A": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuihou/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuihou/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuihou/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuihou/Kai Ni B": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
+    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場した「九九艦爆」。固定脚の低速機ではありましたが、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担いました。後期改良機の二二型ではエンジンを換装、主に速度などの性能向上を図りました。大戦後半期に投入された新鋭機と比べると、残念ながらその旧式化は否めません。",
+    "_japanese_name": "九九式艦爆二二型",
+    "_los": 2,
+    "_luck": false,
+    "_name": "Type 99 Dive Bomber Model 22",
+    "_range": false,
+    "_rarity": 2,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 7
+  },
+  "Type 99 Dive Bomber Model 22 (Skilled)": {
+    "_aa": 1,
+    "_armor": false,
+    "_asw": 4,
+    "_bombing": 8,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 4,
+    "_flight_range": 3,
+    "_icon": 7,
+    "_id": 392,
+    "_improvements": {
+      "_ammo": 290,
+      "_bauxite": 330,
+      "_fuel": 290,
+      "_products": {
+        "false": {
+          "0": {
+            "_development_material": 5,
+            "_development_material_x": 6,
+            "_equipment": {
+              "Type 99 Dive Bomber": 2
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 3
+          },
+          "6": {
+            "_development_material": 6,
+            "_development_material_x": 7,
+            "_equipment": {
+              "Zuiun": 2
+            },
+            "_improvement_material": 4,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Zuihou/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuikaku/": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuikaku/Kai": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuikaku/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            },
+            "Zuikaku/Kai Ni A": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": false,
+              "Thursday": false,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          }
+        }
+      },
+      "_steel": false
+    },
+    "_info": "",
+    "_japanese_name": "九九式艦爆二二型(熟練)",
+    "_los": 3,
+    "_luck": false,
+    "_name": "Type 99 Dive Bomber Model 22 (Skilled)",
+    "_range": false,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 3,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 7
+  },
   "Type A Kouhyouteki": {
     "_aa": false,
     "_armor": false,
@@ -24314,21 +25932,21 @@
           "_ships": {
             "Chiyoda/A": {
               "Friday": false,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Nisshin/A": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": true,
+              "Sunday": true,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": true
             }
           }
         }
@@ -25298,12 +26916,12 @@
             },
             "Hyuuga/Kai Ni": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": true
             }
           }
         }
@@ -25487,49 +27105,51 @@
         "Zuiun (634 Air Group/Skilled)": {
           "0": {
             "_development_material": 6,
-            "_development_material_x": null,
-            "_equipment": false,
+            "_development_material_x": 8,
+            "_equipment": {
+              "Zuiun": 1
+            },
             "_improvement_material": 3,
-            "_improvement_material_x": null
+            "_improvement_material_x": 4
           },
           "6": {
-            "_development_material": null,
+            "_development_material": 8,
             "_development_material_x": 10,
             "_equipment": {
               "Type 0 Observation Seaplane": 1
             },
-            "_improvement_material": null,
+            "_improvement_material": 6,
             "_improvement_material_x": 7
           },
           "10": {
             "_development_material": 18,
-            "_development_material_x": null,
+            "_development_material_x": 28,
             "_equipment": {
               "New Model Aerial Armament Material": 1,
               "Skilled Crew Member": 2,
               "Zuiun Model 12": 2
             },
             "_improvement_material": 7,
-            "_improvement_material_x": null
+            "_improvement_material_x": 11
           },
           "_ships": {
             "Ise/Kai": {
               "Friday": false,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": true,
+              "Wednesday": true
             },
             "Yamashiro/Kai Ni": {
               "Friday": true,
-              "Monday": null,
-              "Saturday": null,
-              "Sunday": null,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
               "Thursday": true,
-              "Tuesday": null,
-              "Wednesday": null
+              "Tuesday": false,
+              "Wednesday": true
             }
           }
         }

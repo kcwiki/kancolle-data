@@ -25,6 +25,19 @@
     "title": "【春の期間限定任務】下駄履きメカジキの改修",
     "title_en": "Limited-Time Spring Mission: Swordfish Floatplane's Remodel"
   },
+  "2010LQ1": {
+    "detail_en": "Organize a fleet consisting of {{ShipLink|Nowaki}} as flagship, and {{ShipLink|Maikaze}} as the 2nd ship, and 3 XX and score an S rank twice at the boss nodes of [[1-4]], [[1-6]], [[2-2]], and [[3-1]].",
+    "label": "2010LQ1",
+    "letter": "B",
+    "note": "Requires: [[Quests#F18|F18]](?), ??",
+    "reward_ammo": 270,
+    "reward_bauxite": 270,
+    "reward_fuel": 1270,
+    "reward_other": "'''Choice between'''<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x3<br>'''or'''<br>{{EquipmentLink|Medal|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Type 2 12cm Mortar Kai|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Reinforcement Expansion|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1",
+    "reward_steel": 270,
+    "title": "【秋限定】野分の大冒険！",
+    "title_en": "Limited-Time Autumn Mission: Nowaki's Great Adventure"
+  },
   "20WiB1": {
     "detail_en": "Sortie a fleet with 3 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]] and up to 3 additional ships to Worlds [[1-2]], [[1-3]], [[1-5]], [[1-6]], and [[2-1]]. Obtain a S-rank at the boss node of [[1-2]], [[1-3]], [[1-5]], and [[2-1]] once. Reach the anchor node N of [[1-6]] once.",
     "label": "20WiB1",
@@ -166,7 +179,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Ne Type Engine|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "【桃の節句任務】菱餅改修：序",
-    "title_en": "The Doll Festival Mission: Hissimochi Improvement - Beggining"
+    "title_en": "The Doll Festival Mission: Hishimochi Improvement - Beggining"
   },
   "20WiG5": {
     "detail_en": "Prepare 15 Hishimochi, 8800 Steel, and 8800 Bauxite in your inventory. Successfully modernize 4 [[BB|Battleships]] onto an {{ShipLink|Okinami}} twice.<br>'''※ The prepared resources and items will be consumed.'''",
@@ -179,7 +192,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Remodel Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Technology Aircraft Blueprint|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "【桃の節句任務】菱餅改修：破",
-    "title_en": "The Doll Festival Mission: Hissimochi Improvement - Midpoint"
+    "title_en": "The Doll Festival Mission: Hishimochi Improvement - Midpoint"
   },
   "20WiG6": {
     "detail_en": "Prepare 6 Hishimochi, 100 [[File:Development material.png|30px|link=Construction]], 3000 Steel, and 3000 Bauxite in your inventory. Successfully modernize 3 [[CVL|Light Aircraft Carriers]] onto a [[CVL|Light Aircraft Carrier]] twice.<br>'''※ The prepared resources and items will be consumed.'''",
@@ -192,7 +205,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|New Technology Aircraft Blueprint|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Rocket Development Material|text=true|image=30px}} x1<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x6<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x3<br>'''or'''<br>[[File:Food supply ship irako.png|30px|link=Fatigue]][[Fatigue#Food_Supply_Ship_.22Irako.22|\"Irako\"]] x3",
     "reward_steel": 0,
     "title": "【桃の節句任務】菱餅改修：週",
-    "title_en": "The Doll Festival Mission: Hissimochi Improvement - Weekly Repetition"
+    "title_en": "The Doll Festival Mission: Hishimochi Improvement - Weekly Repetition"
   },
   "20WiG7": {
     "detail_en": "Prepare 17 Hishimochi, 300 [[File:Development material.png|30px|link=Construction]], 15000 Steel, and 15000 Bauxite in your inventory. Successfully modernize 5 [[CV|Standard Aircraft Carriers]] onto a [[CV|Standard Aircraft Carrier]] twice.<br>'''※ The prepared resources and items will be consumed.'''",
@@ -205,7 +218,7 @@
     "reward_other": "'''Choice between'''<br>{{EquipmentLink|Prototype Flight Deck Catapult|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Ne Type Engine|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Night Operation Aviation Personnel + Skilled Deckhands|text=true|image=30px}} x1",
     "reward_steel": 0,
     "title": "【桃の節句任務】菱餅改修：果",
-    "title_en": "The Doll Festival Mission: Hissimochi Improvement - Final"
+    "title_en": "The Doll Festival Mission: Hishimochi Improvement - Final"
   },
   "5A01": {
     "detail_en": "Scrap 5 [[List_of_Main_Guns_by_stats#Small_Guns|small guns]] and 5 [[List_of_Main_Guns_by_stats#Medium_Guns|medium guns]].",
@@ -1866,7 +1879,7 @@
     "detail_en": "Have [[Kagerou Kai Ni]], [[Shiranui Kai Ni]], [[Kuroshio Kai Ni]], and 3 level 70 or above [[Ship_Class#Kagerou-class|Kagerou]]/[[Ship_Class#Yuugumo-class|Yuugumo]] class Destroyers in your fleet.<br>'''{{color|red|※ On completion plays {{Audio|file=Quest A88 achieved.ogg}}}}'''",
     "id": null,
     "label": "A88",
-    "note": "Requires: [[Quests#B109|B109]], [[Quests#F3|F3]], ??<br>Unlocks: [[Quests#C21|C21]]",
+    "note": "Requires: [[Quests#B109|B109]], ??<br>Unlocks: [[Quests#C21|C21]]",
     "requires": null,
     "reward_ammo": 150,
     "reward_bauxite": 0,
@@ -1965,6 +1978,24 @@
     "reward_steel": 800,
     "title": "精鋭無比「第一戦隊」抜錨準備！",
     "title_en": "Unrivaled \"1st Squadron\", Ready to Set Sail!",
+    "type": null,
+    "unlocks": null
+  },
+  "A93": {
+    "category": null,
+    "detail": null,
+    "detail_en": "Have '''ONLY''' [[Yuugumo Kai Ni]], [[Makigumo Kai Ni]], [[Kazagumo Kai Ni]] and [[Akigumo Kai Ni]] in your fleet.",
+    "id": null,
+    "label": "A93",
+    "note": "Requires: [[Quests#B126|B126]], ??<br>Unlocks: [[Quests#B157|B157]], [[Quests#C50|C50]]",
+    "requires": null,
+    "reward_ammo": 100,
+    "reward_bauxite": 100,
+    "reward_fuel": 100,
+    "reward_other": "[[12.7cm Twin Gun Mount Model D Kai 2]] ★+2 x1<br>'''then choice between'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x6<br>'''or'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1",
+    "reward_steel": 100,
+    "title": "主力オブ主力、精強「十駆」出撃準備ヨシ！",
+    "title_en": "Main Force of the Main Force, Powerful \"DesDiv 10\", ready to sortie!",
     "type": null,
     "unlocks": null
   },
@@ -2155,7 +2186,7 @@
     "reward_ammo": 400,
     "reward_bauxite": 400,
     "reward_fuel": 400,
-    "reward_other": "'''Choice between'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model C Kai 2|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Type 22 Surface Radar|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model B Kai 2|text=true|image=30px}} x2<br>'''then choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Drum Canister (Transport Use)|text=Drum Canister|image=30px}} x3<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4",
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model C Kai 2|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Type 22 Surface Radar|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|12.7cm Twin Gun Mount Model B Kai 2|text=true|image=30px}} x2<br>'''then choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Drum Canister (Transport Use)|text=true|image=30px}} x3<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4",
     "reward_steel": 0,
     "title": "精鋭「四水戦」、南方海域に展開せよ！",
     "title_en": "Elite 4th Torpedo Squadron, Sortie to the Southern Ocean Area!"
@@ -2191,7 +2222,7 @@
     "reward_ammo": 480,
     "reward_bauxite": 0,
     "reward_fuel": 480,
-    "reward_other": "'''Choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|image=30px}}[[New Model Gun Mount Improvement Material]] x1<br>'''then choice between'''<br>{{EquipmentLink|Action Report|image=30px}}[[Action Report]] x1<br>'''or'''<br>[[File:Medal.png|30px|link=Medal]] x1",
+    "reward_other": "'''Choice between'''<br>[[File:Furniture fairy.png|30px|link=Furniture]][[Furniture|Furniture Fairy]] x1<br>'''or'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x1<br>'''then choice between'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x1<br>'''or'''<br>[[File:Medal.png|30px|link=Medal]] x1",
     "reward_steel": 0,
     "title": "精鋭駆逐隊、獅子奮迅！",
     "title_en": "Elite Destroyer Squadron, Go Furious!"
@@ -2203,7 +2234,7 @@
     "reward_ammo": 0,
     "reward_bauxite": 480,
     "reward_fuel": 0,
-    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|image=30px}}[[Daihatsu Landing Craft]] x1<br/>'''or''' <br>{{EquipmentLink|10cm Twin High-angle Gun Mount Kai + Additional Machine Guns|image=30px}}[[10cm Twin High-angle Gun Mount Kai + Additional Machine Guns]] x1<br/>'''or''' <br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x5",
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Daihatsu Landing Craft|text=true|image=30px}} x1<br/>'''or''' <br>{{EquipmentLink|10cm Twin High-angle Gun Mount Kai + Additional Machine Guns|text=true|image=30px}} x1<br/>'''or''' <br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x5",
     "reward_steel": 480,
     "title": "「十八駆」、北方海域キス島へ！",
     "title_en": "\"DesDiv 18\", To Kis Island In the Northern Sea!"
@@ -2331,7 +2362,7 @@
   "B126": {
     "detail_en": "Sortie a fleet with {{ShipLink|Yuugumo Kai Ni}}, {{ShipLink|Makigumo Kai Ni}}, and 4 additional ships to Worlds [[5-3]], [[5-4]], and [[5-5]]. Obtain a S-rank at each boss node.",
     "label": "B126",
-    "note": "Requires: [[Quests#A91|A91]], [[Quests#Bd1|Bd1]], ??",
+    "note": "Requires: [[Quests#A91|A91]], [[Quests#Bd1|Bd1]], ??<br />Unlocks: [[Quests#A93|A93]]",
     "reward_ammo": 500,
     "reward_bauxite": 1000,
     "reward_fuel": 500,
@@ -2379,7 +2410,7 @@
   "B13": {
     "detail_en": "Sortie a fleet with {{ShipLink|Takao}}, {{ShipLink|Atago}}, {{ShipLink|Maya}}, {{ShipLink|Choukai}}, and 2 additional ships to World [[2-2]]. Obtain a B-rank (or higher) at the boss node.",
     "label": "B13",
-    "note": "Requires: [[Quests#A21|A21]]<br />Unlocks: [[Quests#B122|B122]]",
+    "note": "Requires: [[Quests#A21|A21]]<br />Unlocks: [[Quests#B155|B155]](?), [[Quests#B122|B122]]",
     "reward_ammo": 100,
     "reward_bauxite": 100,
     "reward_fuel": 150,
@@ -2451,7 +2482,7 @@
   "B135": {
     "detail_en": "Sortie a fleet with 1 [[CL|Light Cruiser]], 3 [[DD|Destroyers]]/[[DE|Coastal Defense Ships]], and up to 2 additional ships to Worlds [[1-2]], [[1-3]], [[2-1]], and [[2-2]]. Obtain a S-rank at each boss node.",
     "label": "B135",
-    "note": "Requires: ??<br />Unlocks: [[Quests#B136|B136]], [[Quests#B147|B147]](?)",
+    "note": "Requires: ??<br />Unlocks: [[Quests#B136|B136]], [[Quests#B147|B147]](?), [[Quests#B156|B156]](?)",
     "reward_ammo": 300,
     "reward_bauxite": 0,
     "reward_fuel": 300,
@@ -2569,7 +2600,7 @@
     "title_en": "\"5th Carrier Division\", Roaming Far and Wide!"
   },
   "B144": {
-    "detail_en": "Sortie a fleet with {{ShipLink|Hiei/Kai Ni C}}, 1 other {{ShipLink|Kongou|Haruna|Kirishima|link_class=Kongou|text=Kongou-class ship}}, 1 [[CL|Light Cruiser]], 1 [[DD|Destroyer]], and up to 2 additional ships to Worlds [[5-1]], [[5-2]], [[5-3]], [[5-4]], and [[5-5]]. Obtain a S-rank(?) at each boss node.",
+    "detail_en": "Sortie a fleet with {{ShipLink|Hiei/Kai Ni C}}, 1 other {{ShipLink|Kongou|Haruna|Kirishima|text=Kongou-class ship|link_class=Kongou}}, 1 [[CL|Light Cruiser]], 1 [[DD|Destroyer]], and up to 2 additional ships to Worlds [[5-1]], [[5-2]], [[5-3]], [[5-4]], and [[5-5]]. Obtain a S-rank(?) at each boss node.",
     "label": "B144",
     "note": "Requires: [[Quests#B133|B133]], ??",
     "reward_ammo": 2020,
@@ -2715,7 +2746,7 @@
   "B155": {
     "detail_en": "Sortie {{ShipLink|Haguro}} as flagship and up to 4 additional ships to [[7-3]]. A-Rank+ the '''first''' boss node 4 times.",
     "label": "B155",
-    "note": "Requires: ??<br />Unlocks: [[Quests#By5|By5]]",
+    "note": "Requires: [[Quests#B13|B13]](?), ??<br />Unlocks: [[Quests#B157|B157]], [[Quests#By5|By5]]",
     "reward_ammo": 2020,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -2723,6 +2754,42 @@
     "reward_steel": 1945,
     "title": "重巡「羽黒」、出撃！ペナン沖海戦",
     "title_en": "Heavy Cruiser \"Haguro\", Sortie! Battle of the Malacca Strait"
+  },
+  "B156": {
+    "detail_en": "Organize a fleet consisting of {{ShipLink|Taigei/}} or {{ShipLink|Jingei/}} as flagship along with 2 SS/SSV and 3 XX and score an S rank at the boss nodes of [[1-2]], [[1-3]], [[2-1]], and [[2-3]].",
+    "label": "B156",
+    "note": "Requires: [[Quests#B135|B135]](?), ??",
+    "reward_ammo": 513,
+    "reward_bauxite": 0,
+    "reward_fuel": 513,
+    "reward_other": "[[Furniture|Furniture: 『「鯨」の掛け軸』]]<br>'''then choice between'''<br>{{EquipmentLink|New Model Armament Material|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Late Model Bow Torpedo Mount (6 tubes)|text=true|image=30px}} ★+2 x1<br>'''or'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x1",
+    "reward_steel": 513,
+    "title": "静かな海を護る「鯨」、動き出す！",
+    "title_en": "And thus the whale stirs to protect the calm sea!"
+  },
+  "B157": {
+    "detail_en": "Organize a fleet consisting of {{ShipLink|Yuugumo Kai Ni/}}, {{ShipLink|Makigumo Kai Ni/}}, {{ShipLink|Kazagumo Kai Ni/}}, and {{ShipLink|Akigumo Kai Ni/}} and 2 XX and score an S rank(?) at the boss nodes of [[1-4]], [[2-2]], [[3-2]], [[4-1]], and [[7-3]](Second Boss).",
+    "label": "B157",
+    "note": "Requires: [[Quests#A93|A93]], [[Quests#B155|B155]], ??",
+    "reward_ammo": 800,
+    "reward_bauxite": 400,
+    "reward_fuel": 800,
+    "reward_other": "{{EquipmentLink|61cm Quadruple (Oxygen) Torpedo Mount Late Model|text=true|image=30px}} ★+5 x1<br>'''then choice between'''<br>[[File:Development material.png|30px|link=Construction]] x10<br>'''or'''<br>{{EquipmentLink|Action Report|text=true|image=30px}} x1<br>'''or'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x5",
+    "reward_steel": 400,
+    "title": "主力オブ主力、縦横無尽ッ！",
+    "title_en": "Main Force of the Main Force, go wild!"
+  },
+  "B158": {
+    "detail_en": "Organize a fleet consisting of {{ShipLink|Shiratsuyu/Kai Ni}}, and {{ShipLink|Shigure/Kai Ni}}, and 4 XX and score an S rank at the boss nodes of [[1-5]], [[2-5]], [[7-1]], [[5-5]], and [[6-3]].",
+    "label": "B158",
+    "note": "Requires: [[Quests#Bd3|Bd3]], [[Quests#B121|B121]], ??",
+    "reward_ammo": 270,
+    "reward_bauxite": 270,
+    "reward_fuel": 1270,
+    "reward_other": "[[Furniture|Furniture: 『焼き芋と読書の時間』]]<br>'''then choice between'''<br>{{EquipmentLink|Underway Replenishment|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|Emergency Repair Goddess|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Canned Saury|text=true|image=30px}} x2",
+    "reward_steel": 270,
+    "title": "精鋭「二七駆」、回避運動は気をつけて！",
+    "title_en": "Elite \"DesDiv 27\", be careful during evasive maneuvers!"
   },
   "B16": {
     "detail_en": "Sortie a fleet with {{ShipLink|Choukai}}, {{ShipLink|Furutaka}}, {{ShipLink|Kako}}, {{ShipLink|Aoba}}, {{ShipLink|Kinugasa}}, and {{ShipLink|Tenryuu}} to World [[2-3]]. Obtain a B-rank (or higher) at the boss node.",
@@ -3255,7 +3322,7 @@
   "B56": {
     "detail_en": "Sortie a fleet with 2 [[CVL|Light Aircraft Carriers]]/[[CV|Standard Aircraft Carriers]]/[[CVB|Armored Aircraft Carriers]], 2 [[BBV|Aviation Battleships]]/[[CAV|Aviation Cruisers]], and 2 [[DD|Destroyers]] to World [[3-3]]. Obtain a S-rank at the boss node.",
     "label": "B56",
-    "note": "Requires: [[Quests#A64|A64]]<br>Unlocks: [[Quests#A65|A65]], [[Quests#F37|F37]]",
+    "note": "Requires: [[Quests#A64|A64]]<br>Unlocks: [[Quests#A65|A65]], [[Quests#F37|F37]], [[Quests#F45|F45]](?)",
     "reward_ammo": 400,
     "reward_bauxite": 400,
     "reward_fuel": 0,
@@ -3339,7 +3406,7 @@
   "B62": {
     "detail_en": "Sortie a fleet to World [[6-3]]. Obtain a B-rank (or higher) at the boss node.",
     "label": "B62",
-    "note": "Requires: [[Quests#Bw9|Bw9]], [[Quests#D19|D19]]<br />Unlocks: [[Quests#B80|B80]], [[Quests#F145|F145]](?), [[Quests#F43|F43]]",
+    "note": "Requires: [[Quests#Bw9|Bw9]], [[Quests#D19|D19]]<br />Unlocks: [[Quests#B80|B80]], [[Quests#B145|B145]](?), [[Quests#F43|F43]]",
     "reward_ammo": 600,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -3855,7 +3922,7 @@
   "Bd3": {
     "detail_en": "Complete 10 battles against enemy fleets.<br>'''※ You can obtain any rank in a battle for it to count toward this quest.'''",
     "label": "Bd3",
-    "note": "Requires: [[Quests#Bd2|Bd2]] <br />Unlocks: [[Quests#C25|C25]]",
+    "note": "Requires: [[Quests#Bd2|Bd2]] <br />Unlocks: [[Quests#C25|C25]], [[Quests#B158|B158]]",
     "reward_ammo": 150,
     "reward_bauxite": 100,
     "reward_fuel": 150,
@@ -4433,7 +4500,7 @@
     "title_en": "A-Class Destroyer's Strength Maintenance Plan"
   },
   "C16": {
-    "detail_en": "Use your first fleet with at least 2 [[CL|Light Cruisers]] and up to 4 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times. Afterwards, equip the flagship of the first fleet with 2 {{EquipmentLink|Combat Ration|text=Combat Rations}}.<br>",
+    "detail_en": "Use your first fleet with at least 2 [[CL|Light Cruisers]] and up to 4 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times. Afterwards, equip the flagship of the first fleet with 2 {{EquipmentLink|Combat Ration}}s.<br>",
     "label": "C16",
     "note": "Requires: [[Quests#F16|F16]](?), [[Quests#F68|F68]]<br> '''Monthly Quest'''",
     "reward_ammo": 0,
@@ -4499,7 +4566,7 @@
   "C21": {
     "detail_en": "Use a fleet with at least 4 level 70 or above [[Ship_Class#Kagerou-class|Kagerou]]/[[Ship_Class#Yuugumo-class|Yuugumo]] class Destroyers and up to 2 additional ships to obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
     "label": "C21",
-    "note": "Requires: [[Quests#A88|A88]], [[Quests#C15|C15]]<br />Unlocks: [[Quests#B117|B117]], [[Quests#C23|C23]]",
+    "note": "Requires: [[Quests#A88|A88]], [[Quests#C15|C15]]<br />Unlocks: [[Quests#B117|B117]], [[Quests#C23|C23]], [[Quests#C50|C50]](?)",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 400,
@@ -4759,7 +4826,7 @@
   "C46": {
     "detail_en": "Use a fleet with 1 [[CV|Standard Aircraft Carrier]] as flagship, 1 other [[CV|Standard Aircraft Carrier]], 2 [[DD|Destroyers]], and up to 2 additional ships to obtain a B-rank(?) (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
     "label": "C46",
-    "note": "Requires: [[Quests#C34|C34]](?), ??<br />Unlocks: [[Quests#F91|F91]]",
+    "note": "Requires: [[Quests#C34|C34]](?), ??<br />Unlocks: [[Quests#F91|F91]], [[Quests#C49|C49]](?)",
     "reward_ammo": 800,
     "reward_bauxite": 800,
     "reward_fuel": 0,
@@ -4784,6 +4851,18 @@
     "title": "「第十方面艦隊」演習！",
     "title_en": "\"10th Area Fleet\" Exercises"
   },
+  "C49": {
+    "detail_en": "Organize a fleet which 4 of the ships include British born ships such as {{ShipLink|Warspite/}}, {{ShipLink|Kongou/}}, {{ShipLink|Ark Royal/}}, {{ShipLink|Nelson/}} or {{ShipLink|Jervis|Janus|text=J-class DDs|link_class=J}} and score 4 PVP A rank victories or higher in the same day.",
+    "label": "C49",
+    "note": "Requires: [[Quests#C46|C46]](?), ??<br>'''Yearly Quest - Resets in October every year.'''",
+    "reward_ammo": 600,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "'''Choice between'''<br>{{EquipmentLink|Swordfish|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|Fulmar|text=true|image=30px}} x1<br>'''or'''<br>[[File:Development material.png|30px|link=Construction]] x4<br>'''then choice between'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x5",
+    "reward_steel": 600,
+    "title": "演習ティータイム！",
+    "title_en": "Tea Time Exercises"
+  },
   "C5": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 3 times within the same day.",
     "label": "C5",
@@ -4795,6 +4874,18 @@
     "reward_steel": 300,
     "title": "艦隊の練度向上に努めよ！",
     "title_en": "Strive to Increase the Level of the Fleet's Training!"
+  },
+  "C50": {
+    "detail_en": "Organize a fleet which 4 of the ships include {{ShipLink|Yuugumo/Kai Ni}}, {{ShipLink|Makigumo/Kai Ni}}, {{ShipLink|Kazagumo/Kai Ni}}, and {{ShipLink|Akigumo/Kai Ni}} and score 4 PVP S- rank victories in the same day.",
+    "label": "C50",
+    "note": "Requires: [[Quests#A93|A93]], [[Quests#C21|C21]](?), ??<br>'''Yearly Quest - Resets in October every year.'''",
+    "reward_ammo": 250,
+    "reward_bauxite": 250,
+    "reward_fuel": 250,
+    "reward_other": "'''Choice between'''<br>[[File:Development material.png|30px|link=Construction]] x6<br>'''or'''<br>[[File:Instant repair 2.png|30px|link=Tutorial:_FAQ#What_are_buckets.3F]] x6<br>'''then choice between'''<br>{{EquipmentLink|Medal|text=true|image=30px}} x1<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x1<br>'''or'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1",
+    "reward_steel": 250,
+    "title": "最精鋭！主力オブ主力、演習開始！",
+    "title_en": "The cream of the crop! Main Force of the Main Force, commence exercises!"
   },
   "C6": {
     "detail_en": "Obtain a B-rank (or higher) in [[Exercises (PvP)|Exercises]] 4 times within the same day.",
@@ -5339,7 +5430,7 @@
   "F1": {
     "detail_en": "Craft a ship.",
     "label": "F1",
-    "note": "",
+    "note": "Unlocks: [[Quests#F2|F2]]",
     "reward_ammo": 50,
     "reward_bauxite": 50,
     "reward_fuel": 50,
@@ -5363,7 +5454,7 @@
   "F11": {
     "detail_en": "Scrap equipment 3 times.",
     "label": "F11",
-    "note": "",
+    "note": "Requires: [[Quests#A5|A5]]<br>Unlocks: [[Quests#F53|F53]], [[Quests#F68|F68]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5375,7 +5466,7 @@
   "F12": {
     "detail_en": "Scrap equipment 24 times within a week.<br>",
     "label": "F12",
-    "note": "Requires: [[Quests#Bw5|Bw5]]<br>'''Weekly Quest'''",
+    "note": "Requires: [[Quests#Bw5|Bw5]]<br>Unlocks: [[Quests#C9|C9]]<br>'''Weekly Quest'''",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5397,7 +5488,7 @@
     "title_en": "Model Conversion: [[Type 97 Torpedo Bomber (Tomonaga Squadron)]]"
   },
   "F14": {
-    "detail_en": "Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] as secretary equipped with a {{EquipmentLink|Type 99 Dive Bomber (Egusa Squadron)}}. Scrap 2 {{EquipmentLink|Suisei}}.<br>",
+    "detail_en": "Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] as secretary equipped with a {{EquipmentLink|Type 99 Dive Bomber (Egusa Squadron)}}. Scrap 2 {{EquipmentLink|Suisei}}.<br>'''※It is highly recommended to improve the {{EquipmentLink|Type 99 Dive Bomber (Egusa Squadron)}} to [[File:Max_Star.png]] first. <font color=\"red\">The {{EquipmentLink|Suisei (Egusa Squadron)}} cannot be improved via [[Akashi's Improvement Arsenal]] afterwards.</font>'''",
     "label": "F14",
     "note": "Requires: [[Quests#B25|B25]]",
     "reward_ammo": 0,
@@ -5423,7 +5514,7 @@
   "F16": {
     "detail_en": "Scrap equipment 10 times.",
     "label": "F16",
-    "note": "Requires: [[Quests#F8|F8]]",
+    "note": "Requires: [[Quests#F8|F8]]<br>Unlocks: [[Quests#C16|C16]](?), [[Quests#D24|D24]](?), [[Quests#F60|F60]](?)",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 100,
@@ -5435,7 +5526,7 @@
   "F17": {
     "detail_en": "Improve 1 piece of equipment.",
     "label": "F17",
-    "note": "Requires: [[Quests#A45|A45]]<br>Unlocks: [[Quests#F18|F18]]",
+    "note": "Requires: [[Quests#A45|A45]]<br>Unlocks: [[Quests#F18|F18]], [[Quests#F54|F54]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5483,7 +5574,7 @@
   "F20": {
     "detail_en": "Have {{ShipLink|Shoukaku}} or {{ShipLink|Akagi}} as secretary. Scrap 3 {{EquipmentLink|Type 97 Torpedo Bomber}}.",
     "label": "F20",
-    "note": "Requires: [[Quests#B50|B50]]",
+    "note": "Requires: [[Quests#B50|B50]]<br>Unlocks: [[Quests#F88|F88]](?)",
     "reward_ammo": 0,
     "reward_bauxite": 50,
     "reward_fuel": 0,
@@ -5495,7 +5586,7 @@
   "F21": {
     "detail_en": "Scrap equipment 7 times.",
     "label": "F21",
-    "note": "Requires: [[Quests#D19|D19]] <br>Unlocks: [[Quests#A59|A59]], [[Quests#B62|B62]]",
+    "note": "Requires: [[Quests#D19|D19]]<br>Unlocks: [[Quests#A59|A59]], [[Quests#F26|F26]](?)",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5505,7 +5596,7 @@
     "title_en": "Preparation of the Prototype Equipment"
   },
   "F22": {
-    "detail_en": "Prepare a {{EquipmentLink|Skilled Crew Member|text=true}} in your inventory. Have {{ShipLink|Houshou}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Type 0 Fighter Model 21}}. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}} and 1 {{EquipmentLink|Type 96 Fighter}}.<br>",
+    "detail_en": "Prepare a {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Houshou}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Type 0 Fighter Model 21}}. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}} and 1 {{EquipmentLink|Type 96 Fighter}}.<br>",
     "label": "F22",
     "note": "Requires: [[Quests#A19|A19]], [[Quests#Bm6|Bm6]]<br>Unlocks: [[Quests#F24|F24]], [[Quests#F28|F28]]<br>'''Monthly Quest'''",
     "reward_ammo": 0,
@@ -5555,7 +5646,7 @@
   "F26": {
     "detail_en": "Have {{ShipLink|Zuikaku}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Type 0 Fighter Model 52 (Skilled)}}. Scrap 1 {{EquipmentLink|Zero Fighter Model 52C (601 Air Group)}}.<br>",
     "label": "F26",
-    "note": "Requires: [[Quests#B53|B53]], [[Quests#F24|F24]]<br>Unlocks: [[Quests#F27|F27]]",
+    "note": "Requires: [[Quests#B53|B53]], [[Quests#F21|F21]](?), [[Quests#F24|F24]]<br>Unlocks: [[Quests#F27|F27]]",
     "reward_ammo": 0,
     "reward_bauxite": 50,
     "reward_fuel": 0,
@@ -5579,7 +5670,7 @@
   "F28": {
     "detail_en": "Have {{ShipLink|Zuikaku}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Type 0 Fighter Model 21 (Skilled)}}. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}}.<br>",
     "label": "F28",
-    "note": "Requires: [[Quests#A61|A61]], [[Quests#F22|F22]](?), ??<br>Unlocks: [[Quests#F29|F29]]",
+    "note": "Requires: [[Quests#A61|A61]], [[Quests#F22|F22]]<br>Unlocks: [[Quests#F29|F29]]",
     "reward_ammo": 0,
     "reward_bauxite": 50,
     "reward_fuel": 0,
@@ -5603,7 +5694,7 @@
   "F3": {
     "detail_en": "Dismantle a ship.",
     "label": "F3",
-    "note": "Requires: [[Quests#F2|F2]]<br>Unlocks: [[Quests#F4|F4]]",
+    "note": "Requires: [[Quests#F2|F2]]<br>Unlocks: [[Quests#F4|F4]], [[Quests#F73|F73]], ??",
     "reward_ammo": 60,
     "reward_bauxite": 60,
     "reward_fuel": 60,
@@ -5615,7 +5706,7 @@
   "F30": {
     "detail_en": "Have {{ShipLink|Zuikaku}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Zero Fighter Model 52A (w&#47; Iwamoto Flight)}}. Scrap 2 {{EquipmentLink|Saiun}}.<br>",
     "label": "F30",
-    "note": "Requires: [[Quests#A62|A62]], ??",
+    "note": "Requires: [[Quests#A62|A62]]",
     "reward_ammo": 0,
     "reward_bauxite": 50,
     "reward_fuel": 0,
@@ -5627,7 +5718,7 @@
   "F31": {
     "detail_en": "Scrap 9 pieces of equipment.",
     "label": "F31",
-    "note": "Requires: [[Quests#Bd2|Bd2]]",
+    "note": "Requires: [[Quests#Bd2|Bd2]]<br>Unlocks: [[Quests#B64|B64]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5639,7 +5730,7 @@
   "F32": {
     "detail_en": "Scrap 5 pieces of equipment.",
     "label": "F32",
-    "note": "Requires: [[Quests#Bw2|Bw2]]<br>Unlocks: [[Quests#C9|C9]]",
+    "note": "Requires: [[Quests#A13|A13]], [[Quests#Bw2|Bw2]]<br>Unlocks: [[Quests#C9|C9]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5663,7 +5754,7 @@
   "F34": {
     "detail_en": "Scrap 6 [[List of Anti-Air Guns by stats|Anti-Air guns]].",
     "label": "F34",
-    "note": "Requires: [[Quests#F18|F18]]<br>'''Weekly Quest'''",
+    "note": "Requires: [[Quests#F18|F18]]<br>Unlocks: [[Quests#F36|F36]], [[Quests#F62|F62]]<br>'''Weekly Quest'''",
     "reward_ammo": 100,
     "reward_bauxite": 200,
     "reward_fuel": 0,
@@ -5699,7 +5790,7 @@
   "F37": {
     "detail_en": "Prepare 2 {{EquipmentLink|7.7mm Machine Gun}} & 2 {{EquipmentLink|Type 96 Fighter}} in your inventory. Scrap 2 {{EquipmentLink|Drum Canister (Transport Use)}}.<br>",
     "label": "F37",
-    "note": "Requires: [[Quests#B56|B56]] <br>Unlocks: [[Quests#F38|F38]], [[Quests#F81|F81]]",
+    "note": "Requires: [[Quests#B56|B56]]<br>Unlocks: [[Quests#F38|F38]], [[Quests#F81|F81]]",
     "reward_ammo": 0,
     "reward_bauxite": 200,
     "reward_fuel": 200,
@@ -5723,7 +5814,7 @@
   "F39": {
     "detail_en": "Prepare 1 {{EquipmentLink|Type 96 Land-based Attack Aircraft}} and 2 {{EquipmentLink|Type 97 Torpedo Bomber}} in your inventory. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}}.<br>",
     "label": "F39",
-    "note": "Requires: [[Quests#D9|D9]](?), ??<br>'''Quarterly Quest'''",
+    "note": "Requires: [[Quests#D9|D9]], [[Quests#F38|F38]]<br>Unlocks: [[Quests#F40|F40]]<br>'''Quarterly Quest'''",
     "reward_ammo": 250,
     "reward_bauxite": 0,
     "reward_fuel": 250,
@@ -5735,7 +5826,7 @@
   "F4": {
     "detail_en": "Scrap a piece of equipment.",
     "label": "F4",
-    "note": "Requires: [[Quests#F3|F3]]<br>Unlocks: [[Quests#F82|F82]](?), [[Quests#F83|F83]](?)",
+    "note": "Requires: [[Quests#F3|F3]]<br>Unlocks: [[Quests#F42|F42]], [[Quests#F48|F48]](?), [[Quests#F71|F71]], [[Quests#F82|F82]](?), [[Quests#F83|F83]](?)",
     "reward_ammo": 80,
     "reward_bauxite": 80,
     "reward_fuel": 80,
@@ -5747,7 +5838,7 @@
   "F40": {
     "detail_en": "Prepare 1 {{EquipmentLink|Type 1 Land-based Attack Aircraft}} & 2 {{EquipmentLink|Tenzan}} in your inventory.<br>",
     "label": "F40",
-    "note": "Requires: [[Quests#C10|C10]](?), [[Quests#F39|F39]]",
+    "note": "Requires: [[Quests#C10|C10]]<span class=\"advanced-tooltip\">(??)<div class=\"tooltip-contents\">Verification required. C10/C11/C12/C24 // Seasonal quest based on time of year???</div></span><span style=\"color:#f00;\"><sup>?</sup></span>, [[Quests#F39|F39]]",
     "reward_ammo": 0,
     "reward_bauxite": 300,
     "reward_fuel": 0,
@@ -5771,7 +5862,7 @@
   "F42": {
     "detail_en": "Prepare 5000 Furniture Coins, 2 {{EquipmentLink|25mm Twin Autocannon Mount}}, and 2 {{EquipmentLink|25mm Triple Autocannon Mount}} in your inventory. Scrap 1 {{EquipmentLink|25mm Single Autocannon Mount}}.<br>",
     "label": "F42",
-    "note": "Requires: [[Quests#C4|C4]], ??<br>Unlocks: [[Quests#F44|F44]]",
+    "note": "Requires: [[Quests#A15|A15]], [[Quests#C4|C4]], [[Quests#F4|F4]], ??<br>Unlocks: [[Quests#F44|F44]]",
     "reward_ammo": 0,
     "reward_bauxite": 100,
     "reward_fuel": 0,
@@ -5807,7 +5898,7 @@
   "F45": {
     "detail_en": "Prepare 1 {{EquipmentLink|Type 1 Land-based Attack Aircraft}} and 2 {{EquipmentLink|Saiun}} in your inventory. Scrap 2 {{EquipmentLink|Type 0 Reconnaissance Seaplane}}.<br>",
     "label": "F45",
-    "note": "Requires: [[Quests#A62|A62]], [[Quests#F43|F43]], ??<br>Unlocks: [[Quests#F46|F46]], [[Quests#F47|F47]]",
+    "note": "Requires: [[Quests#A62|A62]], [[Quests#B56|B56]](?), [[Quests#F43|F43]]<br>Unlocks: [[Quests#F46|F46]], [[Quests#F47|F47]]",
     "reward_ammo": 0,
     "reward_bauxite": 100,
     "reward_fuel": 0,
@@ -5831,7 +5922,7 @@
   "F47": {
     "detail_en": "Prepare 8000 Steel, 2 {{EquipmentLink|Prototype Reppuu Late Model}}, and 2 {{EquipmentLink|Ryuusei}} in your inventory. Scrap 3 {{EquipmentLink|Type 0 Fighter Model 52}}.<br>",
     "label": "F47",
-    "note": "Requires: [[Quests#D21|D21]], [[Quests#F45|F45]], ??",
+    "note": "Requires: [[Quests#D21|D21]], [[Quests#F45|F45]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5843,7 +5934,7 @@
   "F48": {
     "detail_en": "Prepare 5000 Furniture Coins, 2 {{EquipmentLink|7.7mm Machine Gun}}, and 2 {{EquipmentLink|Type 96 Fighter}} in your inventory. Scrap 2 {{EquipmentLink|12.7cm Twin Gun Mount}}.<br>",
     "label": "F48",
-    "note": "Requires:[[Quests#C2|C2]], [[Quests#F44|F44]], ??",
+    "note": "Requires:[[Quests#F4|F4]](?), [[Quests#F44|F44]], ??",
     "reward_ammo": 0,
     "reward_bauxite": 100,
     "reward_fuel": 0,
@@ -5867,7 +5958,7 @@
   "F5": {
     "detail_en": "Craft a piece of equipment.<br>'''※ Failures are OK'''",
     "label": "F5",
-    "note": "Requires: [[Quests#F2|F2]]<br>Unlocks: [[Quests#F6|F6]], [[Quests#F72|F72]], [[Quests#F84|F84]], [[Quests#F89|F89]]<br>'''Daily Quest'''",
+    "note": "Requires: [[Quests#F2|F2]]<br>Unlocks: [[Quests#B140|B140]], [[Quests#F6|F6]], [[Quests#F71|F71]], [[Quests#F72|F72]], [[Quests#F84|F84]], [[Quests#F89|F89]]<br>'''Daily Quest'''",
     "reward_ammo": 40,
     "reward_bauxite": 40,
     "reward_fuel": 40,
@@ -5879,7 +5970,7 @@
   "F50": {
     "detail_en": "Prepare 3 {{EquipmentLink|61cm Quadruple (Oxygen) Torpedo Mount}}, 3 {{EquipmentLink|Type 93 Passive Sonar}}, and 120 [[File:Development material.png|30px|link=Construction]] in your inventory. Scrap 4 {{EquipmentLink|61cm Triple Torpedo Mount}}.<br>",
     "label": "F50",
-    "note": "Requires: [[Quests#B91|B91]], [[Quests#Bm1|Bm1]](?), [[Quests#F18|F18]]",
+    "note": "Requires: [[Quests#B91|B91]], [[Quests#F18|F18]]",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5889,7 +5980,7 @@
     "title_en": "Enhance Submarine Armaments"
   },
   "F51": {
-    "detail_en": "Prepare 1 {{EquipmentLink|Skilled Crew Member|text=true}} in your inventory. Have any secretary ship equipped with a {{EquipmentLink|Type 2 Seaplane Fighter Kai}} that is both [[File:Aircraft_Proficiency_Gold_Chevron.png]] and '''★max''' in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}} and 2 {{EquipmentLink|Zuiun}}.<br>",
+    "detail_en": "Prepare 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have any secretary ship equipped with a {{EquipmentLink|Type 2 Seaplane Fighter Kai}} that is both [[File:Aircraft_Proficiency_Gold_Chevron.png]] and '''★max''' in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}} and 2 {{EquipmentLink|Zuiun}}.<br>",
     "label": "F51",
     "note": "Requires: [[Quests#B88|B88]], [[Quests#F7|F7]]<br>Unlocks: [[Quests#F52|F52]]",
     "reward_ammo": 0,
@@ -5901,7 +5992,7 @@
     "title_en": "Organize the New Elite Seaplane Group"
   },
   "F52": {
-    "detail_en": "Prepare 1 {{EquipmentLink|Skilled Crew Member|text=true}} in your inventory. Have any secretary ship equipped with a {{EquipmentLink|Type 2 Seaplane Fighter Kai}} that is both [[File:Aircraft_Proficiency_Gold_Chevron.png]] and '''★max''' in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}} and 2 {{EquipmentLink|Zuiun}}.<br>",
+    "detail_en": "Prepare 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have any secretary ship equipped with a {{EquipmentLink|Type 2 Seaplane Fighter Kai}} that is both [[File:Aircraft_Proficiency_Gold_Chevron.png]] and '''★max''' in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}} and 2 {{EquipmentLink|Zuiun}}.<br>",
     "label": "F52",
     "note": "Requires: [[Quests#B94|B94]], [[Quests#F51|F51]]",
     "reward_ammo": 0,
@@ -5913,9 +6004,9 @@
     "title_en": "Expand the New Elite Seaplane Group"
   },
   "F53": {
-    "detail_en": "Prepare 6000 Steel in your inventory. Scrap 10 [[List_of_Secondary_Guns_by_stats|secondary guns]].<br>",
+    "detail_en": "Prepare 6000 Steel in your inventory. Scrap 10 [[List_of_Secondary_Guns_by_stats|secondary guns]].",
     "label": "F53",
-    "note": "Requires: [[Quests#F7|F7]](?)",
+    "note": "Requires: [[Quests#F7|F7]](?), [[Quests#F11|F11]]<br>Unlocks: [[Quests#F54|F54]], [[Quests#F56|F56]",
     "reward_ammo": 400,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5925,9 +6016,9 @@
     "title_en": "Reinforcement of New Model Cannon Improvement, Start!"
   },
   "F54": {
-    "detail_en": "Prepare 12000 Steel in your inventory. Scrap 10 [[List_of_Main_Guns_by_stats#Medium_Guns|medium guns]].<br>",
+    "detail_en": "Prepare 12000 Steel in your inventory. Scrap 10 [[List_of_Main_Guns_by_stats#Medium_Guns|medium guns]].",
     "label": "F54",
-    "note": "Requires: [[Quests#F18|F18]](?), [[Quests#F53|F53]] <br>Unlocks: [[Quests#D23|D23]]",
+    "note": "Requires: [[Quests#F17|F17]], [[Quests#F53|F53]]<br>Unlocks: [[Quests#D23|D23]]",
     "reward_ammo": 500,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5939,7 +6030,7 @@
   "F55": {
     "detail_en": "Prepare 18000 Steel in your inventory. Scrap 10 [[List_of_Main_Guns_by_stats#Heavy_Guns|heavy guns]].<br>",
     "label": "F55",
-    "note": "Requires: [[Quests#D23|D23]](?)<br>'''Quarterly Quest'''",
+    "note": "Requires: [[Quests#D23|D23]]<br>'''Quarterly Quest'''",
     "reward_ammo": 600,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5951,7 +6042,7 @@
   "F56": {
     "detail_en": "Prepare 8000 Ammunition and 8000 Steel in your inventory. Scrap 10 [[List_of_Radars_by_stats|radars]].<br>",
     "label": "F56",
-    "note": "Requires: [[Quests#F53|F53]](?) <br> Unlocks: [[Quests#F57|F57]], [[Quests#F74|F74]]",
+    "note": "Requires: [[Quests#F53|F53]]<br> Unlocks: [[Quests#F57|F57]], [[Quests#F74|F74]]",
     "reward_ammo": 0,
     "reward_bauxite": 300,
     "reward_fuel": 0,
@@ -5963,7 +6054,7 @@
   "F57": {
     "detail_en": "Prepare 12000 Fuel in your inventory. Scrap 16 [[List_of_Main_Guns_by_stats#Light_Guns|light guns]].<br>",
     "label": "F57",
-    "note": "Requires: [[Quests#F56|F56]], ??<br> Unlocks: [[Quests#F59|F59]]",
+    "note": "Requires: [[Quests#F56|F56]]<br> Unlocks: [[Quests#F59|F59]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -5973,9 +6064,9 @@
     "title_en": "Cooperation with the Consumer Industry"
   },
   "F58": {
-    "detail_en": "Prepare 2 {{EquipmentLink|Type 99 Dive Bomber}}, 2 {{EquipmentLink|Zuiun}} and 1 {{EquipmentLink|Skilled Crew Member|text=true}} in your inventory. Have {{ShipLink|Hyuuga/Kai}} as secretary equipped with a '''★max '''{{EquipmentLink|Zuiun (634 Air Group)}} in her '''''fourth slot'''''. Scrap 2 {{EquipmentLink|Drum Canister (Transport Use)}}. <br>",
+    "detail_en": "Prepare 2 {{EquipmentLink|Type 99 Dive Bomber}}, 2 {{EquipmentLink|Zuiun}} and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Hyuuga/Kai}} as secretary equipped with a '''★max '''{{EquipmentLink|Zuiun (634 Air Group)}} in her '''''fourth slot'''''. Scrap 2 {{EquipmentLink|Drum Canister (Transport Use)}}. <br>",
     "label": "F58",
-    "note": "Requires: [[Quests#B102|B102]], ??",
+    "note": "Requires: [[Quests#F7|F7]], [[Quests#B102|B102]], ??",
     "reward_ammo": 0,
     "reward_bauxite": 100,
     "reward_fuel": 0,
@@ -5987,7 +6078,7 @@
   "F59": {
     "detail_en": "Prepare 15000 Steel in your inventory. Scrap 10 [[List of Anti-Air Guns by stats|anti-air guns]].<br>",
     "label": "F59",
-    "note": "<br>Requires: [[Quests#F57|F57]], ??",
+    "note": "Requires: [[Quests#F57|F57]]",
     "reward_ammo": 0,
     "reward_bauxite": 300,
     "reward_fuel": 0,
@@ -5999,7 +6090,7 @@
   "F6": {
     "detail_en": "Craft a ship.",
     "label": "F6",
-    "note": "Requires: [[Quests#F5|F5]]<br>Unlocks: [[Quests#F7|F7]]<br>'''Daily Quest'''",
+    "note": "Requires: [[Quests#F5|F5]]<br>Unlocks: [[Quests#B131|B131]], [[Quests#F7|F7]]<br>'''Daily Quest'''",
     "reward_ammo": 50,
     "reward_bauxite": 50,
     "reward_fuel": 50,
@@ -6011,7 +6102,7 @@
   "F60": {
     "detail_en": "Prepare 800 Fuel, 150 Bauxite, and 2 {{EquipmentLink|Combat Ration}} in your inventory.<br>",
     "label": "F60",
-    "note": "<br>Requires: ??",
+    "note": "Requires: [[Quests#F16|F16]](?), ??",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6023,7 +6114,7 @@
   "F61": {
     "detail_en": "Prepare 5000 Bauxite, 30 [[File:Development material.png|30px|link=Construction]], 6 [[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]], and 1 {{EquipmentLink|New Model Aerial Armament Material}} in your inventory. Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] and '''★max''' {{EquipmentLink|F6F-3}} in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 13 Air Radar}} and 2 {{EquipmentLink|Type 22 Surface Radar}}.<br>",
     "label": "F61",
-    "note": "Requires: [[Quests#A80|A80]], [[Quests#F8|F8]]",
+    "note": "Requires: [[Quests#A80|A80]], [[Quests#F8|F8]]<br>Unlocks: [[Quests#F62|F62]], [[Quests#F63|F63]]",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6033,9 +6124,9 @@
     "title_en": "Nighttime Carrier-based Fighter Development"
   },
   "F62": {
-    "detail_en": "Prepare 5000 Ammunition, 8000 Bauxite, 40 [[File:Development material.png|30px|link=Construction]], 10 [[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]], 1 {{EquipmentLink|Skilled Crew Member|text=true}} and 1 {{EquipmentLink|New Model Aerial Armament Material}} in your inventory. Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] secretary ship equip a {{EquipmentLink|TBF}} in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 13 Air Radar}} and 2 {{EquipmentLink|Type 22 Surface Radar}}.<br>'''{{color|red|※ Any [[File:Improve star.png|Akashi's Improvement Arsenal]] on the {{EquipmentLink|TBF}} are lost during conversion}}'''",
+    "detail_en": "Prepare 5000 Ammunition, 8000 Bauxite, 40 [[File:Development material.png|30px|link=Construction]], 10 [[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]], 1 {{EquipmentLink|Skilled Crew Member}} and 1 {{EquipmentLink|New Model Aerial Armament Material}} in your inventory. Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] secretary ship equip a {{EquipmentLink|TBF}} in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 13 Air Radar}} and 2 {{EquipmentLink|Type 22 Surface Radar}}.<br>'''{{color|red|※ Any [[File:Improve star.png|Akashi's Improvement Arsenal]] on the {{EquipmentLink|TBF}} are lost during conversion}}'''",
     "label": "F62",
-    "note": "Requires: [[Quests#F34|F34]], [[Quests#F61|F61]], ??",
+    "note": "Requires: [[Quests#F34|F34]], [[Quests#F61|F61]]",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 100,
@@ -6047,7 +6138,7 @@
   "F63": {
     "detail_en": "Prepare 6000 Bauxite, 40 [[File:Development material.png|30px|link=Construction]], 8 [[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]], and 1 {{EquipmentLink|New Model Aerial Armament Material}} in your inventory. Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] and '''★max''' {{EquipmentLink|F6F-5}} in her '''first slot'''. Scrap 2 {{EquipmentLink|Type 13 Air Radar}} and 2 {{EquipmentLink|Type 22 Surface Radar}}.<br>",
     "label": "F63",
-    "note": "Requires: [[Quests#B105|B105]], [[Quests#F61|F61]], ??",
+    "note": "Requires: [[Quests#B105|B105]], [[Quests#F61|F61]]",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6059,7 +6150,7 @@
   "F64": {
     "detail_en": "Prepare 2000 Steel, 10 [[File:Development material.png|30px|link=Construction]], and 2 {{EquipmentLink|Action Report}} in your inventory. Have any ship as secretary equipped with a {{EquipmentLink|Fleet Command Facility}} in her '''first slot'''.  Scrap 3 [[List_of_Radars_by_stats|radars]].<br>",
     "label": "F64",
-    "note": "",
+    "note": "Requires: ??",
     "reward_ammo": 300,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6071,7 +6162,7 @@
   "F65": {
     "detail_en": "Scrap 4 [[List_of_Main_Guns_by_stats#Light_Guns|light guns]].",
     "label": "F65",
-    "note": "Requires: [[Quests#F7|F7]](?)<br>Unlocks: [[Quests#F80|F80]]<br>'''Daily Quest'''",
+    "note": "Requires: [[Quests#F7|F7]]<br>Unlocks: [[Quests#A83|A83]], [[Quests#B111|B111]], [[Quests#C15|C15]], [[Quests#F66|F66]], [[Quests#F80|F80]]<br>'''Daily Quest'''",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6083,7 +6174,7 @@
   "F66": {
     "detail_en": "Prepare 300 Steel in your inventory. Scrap 3 [[List_of_Anti-Air_Guns_by_stats|anti-air guns]].<br>",
     "label": "F66",
-    "note": "Requires: [[Quests#F65|F65]], ?? <br> Unlocks: [[Quests#F67|F67]], [[Quests#F92|F92]](?)<br>'''Daily Quest'''",
+    "note": "Requires: [[Quests#F65|F65]]<br>Unlocks: [[Quests#B124|B124]], [[Quests#B128|B128]], [[Quests#F67|F67]], [[Quests#F68|F68]], [[Quests#F69|F69]], [[Quests#F79|F79]], [[Quests#F92|F92]](?)<br>'''Daily Quest'''",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6095,7 +6186,7 @@
   "F67": {
     "detail_en": "Prepare 800 Bauxite in your inventory. Scrap 6 [[List_of_Fighters_by_stats|fighters]] and 4 [[List_of_Anti-Air_Guns_by_stats|anti-air guns]].<br>",
     "label": "F67",
-    "note": "Requires: [[Quests#F66|F66]], ?? <br> Unlocks: [[Quests#C16|C16]] <br>'''Quarterly Quest'''",
+    "note": "Requires: [[Quests#F66|F66]]<br>'''Quarterly Quest'''",
     "reward_ammo": 0,
     "reward_bauxite": 0,
     "reward_fuel": 200,
@@ -6107,7 +6198,7 @@
   "F68": {
     "detail_en": "Prepare 2400 Steel in your inventory. Scrap 3 [[List_of_Main_Guns_by_stats#Medium_Guns|medium guns]], 3 [[List_of_Secondary_Guns_by_stats|secondary guns]], and 1 {{EquipmentLink|Drum Canister (Transport Use)}}.<br>",
     "label": "F68",
-    "note": "Requires: [[Quests#F66|F66]], ??<br> Unlocks: [[Quests#C16|C16]] <br>'''Weekly Quest'''",
+    "note": "Requires: [[Quests#F11|F11]], [[Quests#F66|F66]]<br>Unlocks: [[Quests#C16|C16]]<br>'''Weekly Quest'''",
     "reward_ammo": 200,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6119,7 +6210,7 @@
   "F69": {
     "detail_en": "Prepare 3600 Steel in your inventory. Scrap 4 [[List_of_Main_Guns_by_stats#Heavy_Guns|heavy guns]], 2 [[List of Seaplanes by stats|reconnaissance seaplanes]] and 3 [[List of Torpedoes by stats|torpedoes]].<br>",
     "label": "F69",
-    "note": "Requires: [[Quests#F66|F66]](?)<br> '''Weekly Quest'''",
+    "note": "Requires: [[Quests#F66|F66]]<br> '''Weekly Quest'''",
     "reward_ammo": 500,
     "reward_bauxite": 150,
     "reward_fuel": 0,
@@ -6131,7 +6222,7 @@
   "F7": {
     "detail_en": "Craft 3 pieces of equipment within the same day.<br>'''※ Failures are OK'''",
     "label": "F7",
-    "note": "Requires: [[Quests#F6|F6]]<br>Unlocks: [[Quests#F8|F8]], [[Quests#F51|F51]], [[Quests#F78|F78]](?), [[Quests#F90|F90]]<br>'''Daily Quest'''",
+    "note": "Requires: [[Quests#F6|F6]]<br>Unlocks: [[Quests#F8|F8]], [[Quests#F51|F51]], [[Quests#F53|F53]](?), [[Quests#F58|F58]], [[Quests#F65|F65]], [[Quests#F78|F78]](?), [[Quests#F90|F90]]<br>'''Daily Quest'''",
     "reward_ammo": 100,
     "reward_bauxite": 100,
     "reward_fuel": 100,
@@ -6143,7 +6234,7 @@
   "F70": {
     "detail_en": "Prepare 4000 Bauxite in your inventory. Have a [[CV|Standard Aircraft Carrier]], [[CVL|Light Aircraft Carrier]], or an [[CVB|Armored Aircraft Carrier]] secretary equipped with 2 {{EquipmentLink|Type 0 Fighter Model 52}} on her '''''first and second slot'''''. Scrap 5 {{EquipmentLink|Type 0 Fighter Model 21}} and 3 {{EquipmentLink|Type 96 Fighter}}.<br>'''※ Any [[File:Improve star.png|Akashi's Improvement Arsenal]] on the {{EquipmentLink|Type 0 Fighter Model 52}} are lost during conversion'''",
     "label": "F70",
-    "note": "Requires: ??<br>'''Quarterly Quest'''",
+    "note": "Requires: [[Quests#Bd2|Bd2]], ???<br>'''Quarterly Quest'''",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6155,7 +6246,7 @@
   "F71": {
     "detail_en": "Prepare 900 Bauxite in your inventory. Scrap 6 [[List_of_Main_Guns_by_stats#Medium_Guns|medium guns]] and 3 [[List_of_Secondary_Guns_by_stats|secondary guns]].<br>",
     "label": "F71",
-    "note": " Requires: ??, <br> Unlocks: [[Quests#F72|F72]] ",
+    "note": " Requires: [[Quests#F4|F4]], [[Quests#F5|F5]], ??<br> Unlocks: [[Quests#F72|F72]]",
     "reward_ammo": 100,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6167,7 +6258,7 @@
   "F72": {
     "detail_en": "Prepare 1500 Bauxite in your inventory. Scrap 4 [[List_of_Anti-Air_Guns_by_stats|anti-air guns]] and 4 [[List_of_Radars_by_stats|radars]].<br>",
     "label": "F72",
-    "note": "Requires: [[Quests#F5|F5]], [[Quests#F71|F71]]<br>Unlocks: [[Quests#F84|F84]](??), [[Quests#A86|A86]]<br>'''Quarterly Quest'''",
+    "note": "Requires: [[Quests#F5|F5]], [[Quests#F71|F71]]<br>Unlocks: [[Quests#A86|A86]], [[Quests#B115|B115]], [[Quests#F77|F77]], [[Quests#F84|F84]](??), [[Quests#F89|F89]](??)<br>'''Quarterly Quest'''",
     "reward_ammo": 200,
     "reward_bauxite": 0,
     "reward_fuel": 0,
@@ -6201,7 +6292,7 @@
     "title_en": "Research of New and Improved Main Battery for Aviation Battleships"
   },
   "F75": {
-    "detail_en": "Prepare 3000 Bauxite, 30 [[File:Development material.png|30px|link=Construction]], 1 {{EquipmentLink|New Model Aerial Armament Material}}, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Ise/Kai Ni}} as secretary ship with a {{EquipmentLink|Suisei Model 22 (634 Air Group)}} equipped in her '''''third slot'''''. Scrap 3 {{EquipmentLink|Type 99 Dive Bomber|}} and 3 {{EquipmentLink|Suisei}}.<br>",
+    "detail_en": "Prepare 3000 Bauxite, 30 [[File:Development material.png|30px|link=Construction]], 1 {{EquipmentLink|New Model Aerial Armament Material}}, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Ise/Kai Ni}} as secretary ship with a {{EquipmentLink|Suisei Model 22 (634 Air Group)}} equipped in her '''''third slot'''''. Scrap 3 {{EquipmentLink|Type 99 Dive Bomber}} and 3 {{EquipmentLink|Suisei}}.<br>",
     "label": "F75",
     "note": "Requires: [[Quests#B119|B119]]",
     "reward_ammo": 634,
@@ -6225,7 +6316,7 @@
     "title_en": "Wartime Renovation of Destroyer Main Guns"
   },
   "F77": {
-    "detail_en": "Prepare 900 Steel, 30 [[File:Development material.png|30px|link=Construction]], and 1 {{EquipmentLink|New Model Gun Mount Improvement Material|text=true}} in your inventory. Have a [[Ship_Class#Fubuki-class|Fubuki-class]] secretary ship with a '''★max''' {{EquipmentLink|12.7cm Twin Gun Mount Model A Kai 2}} equipped in her '''first slot'''. Scrap 4 {{EquipmentLink|10cm Twin High-angle Gun Mount}} and 1 {{EquipmentLink|Type 94 Anti-Aircraft Fire Director}}.<br>",
+    "detail_en": "Prepare 900 Steel, 30 [[File:Development material.png|30px|link=Construction]], and 1 {{EquipmentLink|New Model Gun Mount Improvement Material}} in your inventory. Have a [[Ship_Class#Fubuki-class|Fubuki-class]] secretary ship with a '''★max''' {{EquipmentLink|12.7cm Twin Gun Mount Model A Kai 2}} equipped in her '''first slot'''. Scrap 4 {{EquipmentLink|10cm Twin High-angle Gun Mount}} and 1 {{EquipmentLink|Type 94 Anti-Aircraft Fire Director}}.<br>",
     "label": "F77",
     "note": "Requires: [[Quests#F72|F72]], [[Quests#F76|F76]], ??<br>'''Quarterly Quest'''",
     "reward_ammo": 200,
@@ -6237,7 +6328,7 @@
     "title_en": "Mass Wartime Production of the Type A Dual-Purpose Gun"
   },
   "F78": {
-    "detail_en": "Prepare 1200 Steel, 50 [[File:Development material.png|30px|link=Construction]],  and 1 {{EquipmentLink|New Model Gun Mount Improvement Material|text=true}} in your inventory. Have {{ShipLink|Shigure Kai Ni}} or {{ShipLink|Yuudachi Kai Ni}} as secretary ship with a '''★max''' {{EquipmentLink|12.7cm Twin Gun Mount Model B Kai 2}} equipped in her '''first slot'''. Scrap 5 {{EquipmentLink|10cm Twin High-angle Gun Mount}} and 1 {{EquipmentLink|Type 94 Anti-Aircraft Fire Director}}.",
+    "detail_en": "Prepare 1200 Steel, 50 [[File:Development material.png|30px|link=Construction]],  and 1 {{EquipmentLink|New Model Gun Mount Improvement Material}} in your inventory. Have {{ShipLink|Shigure Kai Ni}} or {{ShipLink|Yuudachi Kai Ni}} as secretary ship with a '''★max''' {{EquipmentLink|12.7cm Twin Gun Mount Model B Kai 2}} equipped in her '''first slot'''. Scrap 5 {{EquipmentLink|10cm Twin High-angle Gun Mount}} and 1 {{EquipmentLink|Type 94 Anti-Aircraft Fire Director}}.",
     "label": "F78",
     "note": "Requires: [[Quests#F7|F7]](?), [[Quests#F76|F76]]",
     "reward_ammo": 220,
@@ -6249,7 +6340,7 @@
     "title_en": "Destroyer Main Battery Wartime Modification (II)"
   },
   "F79": {
-    "detail_en": "Prepare 1800 Bauxite and 1 {{EquipmentLink|Skilled Crew Member|text=true}} in your inventory. Scrap 3 [[List_of_Fighters_by_stats|fighters]], 3 [[List_of_Dive_Bombers_by_stats|dive bombers]], 3 [[List_of_Torpedo_Bombers_by_stats|torpedo bombers]], and 3 [[List_of_Seaplanes_by_stats|reconnaissance seaplanes]].<br>",
+    "detail_en": "Prepare 1800 Bauxite and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Scrap 3 [[List_of_Fighters_by_stats|fighters]], 3 [[List_of_Dive_Bombers_by_stats|dive bombers]], 3 [[List_of_Torpedo_Bombers_by_stats|torpedo bombers]], and 3 [[List_of_Seaplanes_by_stats|reconnaissance seaplanes]].<br>",
     "label": "F79",
     "note": "Requires: [[Quests#F66|F66]]<br>'''Quarterly Quest'''",
     "reward_ammo": 100,
@@ -6263,7 +6354,7 @@
   "F8": {
     "detail_en": "Craft 3 ships within the same day.",
     "label": "F8",
-    "note": "Requires: [[Quests#F7|F7]]<br>Unlocks: [[Quests#F9|F9]], [[Quests#F16|F16]], [[Quests#F18|F18]]<br>'''Daily Quest'''",
+    "note": "Requires: [[Quests#F7|F7]]<br>Unlocks: [[Quests#F9|F9]], [[Quests#F16|F16]], [[Quests#F18|F18]], [[Quests#F61|F61]]<br>'''Daily Quest'''",
     "reward_ammo": 200,
     "reward_bauxite": 100,
     "reward_fuel": 200,
@@ -6369,7 +6460,7 @@
     "title_en": "Formation of a Top-class \"Zuiun\" Squadron"
   },
   "F88": {
-    "detail_en": "Prepare 2800 Ammunition, 9000 Bauxite, and 2 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Akagi/Kai Ni}} or {{ShipLink|Akagi/Kai Ni E}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Ryuusei Kai (CarDiv 1)}} in her first slot. Scrap 4 {{EquipmentLink|Ryuusei Kai}}, 1 {{EquipmentLink|Saiun}}, and 2 {{EquipmentLink|Type 97 Torpedo Bomber}}.",
+    "detail_en": "Prepare 2800 Ammunition, 9000 Bauxite, and 2 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Akagi/Kai Ni}} or {{ShipLink|Akagi/Kai Ni E}} as secretary equipped with a [[File:Aircraft_Proficiency_Gold_Chevron.png]] {{EquipmentLink|Ryuusei Kai (CarDiv 1)}} in her first slot. Scrap 4 {{EquipmentLink|Ryuusei Kai}}, 1 {{EquipmentLink|Saiun}}, and 2 {{EquipmentLink|Type 97 Torpedo Bomber}}.<br>'''※ Equipped equipment must be unlocked.'''<br>'''※ The equipped plane will be converted to the reward listed.'''<br>'''※ The prepared resources and items will be consumed upon quest completion.'''",
     "label": "F88",
     "note": "Requires: [[Quests#B137|B137]], [[Quests#F20|F20]](?), ??",
     "reward_ammo": 0,
@@ -6417,7 +6508,7 @@
     "title_en": "Arsenal Work! Preparations for the Next Operation!"
   },
   "F91": {
-    "detail_en": "Prepare 1840 Ammunition, 6200 Bauxite, 2 {{EquipmentLink|New Model Aerial Armament Material}}, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Kaga/Kai Ni Go}} as secretary equipped with a {{EquipmentLink|TBM-3D}} in her first slot. Scrap 2 {{EquipmentLink|TBF}}, 1 {{EquipmentLink|Ryuusei}}, and 1 {{EquipmentLink|Ryuusei Kai}}.",
+    "detail_en": "Prepare 1840 Ammunition, 6200 Bauxite, 2 {{EquipmentLink|New Model Aerial Armament Material}}, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Kaga/Kai Ni Go}} as secretary equipped with a {{EquipmentLink|TBM-3D}} in her first slot. Scrap 2 {{EquipmentLink|TBF}}, 1 {{EquipmentLink|Ryuusei}}, and 1 {{EquipmentLink|Ryuusei Kai}}.<br>'''※ Equipped equipment must be unlocked.'''<br>'''※ The equipped plane will be converted to the reward listed.'''<br>'''※ The prepared resources and items will be consumed upon quest completion.'''",
     "label": "F91",
     "note": "Requires: [[Quests#B154|B154]], [[Quests#C46|C46]], ??",
     "reward_ammo": 0,
@@ -6439,6 +6530,18 @@
     "reward_steel": 0,
     "title": "新型兵装開発整備の強化",
     "title_en": "Improving Development and Maintenance of New Armaments"
+  },
+  "F93": {
+    "detail_en": "Prepare 1500 Ammo, 1500 Bauxite, and 1 {{EquipmentLink|Skilled Crew Member}} in your inventory. Have {{ShipLink|Ark Royal/}} as secretary equipped with a ''★max''' {{EquipmentLink|Swordfish}} in her first slot. Scrap 1 {{EquipmentLink|Swordfish}} and 2 {{EquipmentLink|Fulmar}}.<br>'''※ Equipped equipment must be unlocked.'''<br>'''※ The equipped plane will be converted to the reward listed.'''<br>'''※ The prepared resources and items will be consumed upon quest completion.'''",
+    "label": "F93",
+    "note": "Requires: [[Quests#F18|F18]](?), ??<br>'''Yearly Quest - Resets in September every year.'''",
+    "reward_ammo": 0,
+    "reward_bauxite": 0,
+    "reward_fuel": 0,
+    "reward_other": "{{EquipmentLink|Swordfish Mk.II (Skilled)|text=true|image=30px}} x1",
+    "reward_steel": 0,
+    "title": "精鋭複葉機飛行隊の編成",
+    "title_en": "Formation of a splendid biplane squadron"
   },
   "G1": {
     "detail_en": "Perform a successful modernization.",

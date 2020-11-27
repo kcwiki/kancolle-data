@@ -317,7 +317,7 @@
     "_evasion": 42,
     "_evasion_max": 80,
     "_firepower": 28,
-    "_firepower_max": 67,
+    "_firepower_max": 68,
     "_firepower_mod": 2,
     "_fuel": 30,
     "_hp": 45,
@@ -1329,7 +1329,7 @@
     "_remodel_from": "Akigumo/",
     "_remodel_level": 30,
     "_remodel_steel": 110,
-    "_remodel_to": false,
+    "_remodel_to": "Akigumo/Kai Ni",
     "_scrap_ammo": 2,
     "_scrap_baux": false,
     "_scrap_fuel": 1,
@@ -1350,6 +1350,85 @@
     "_buildable": true,
     "_buildable_lsc": false,
     "_build_time": 24
+  },
+  "Akigumo Kai Ni": {
+    "_aa": 18,
+    "_aa_max": 64,
+    "_aa_mod": 1,
+    "_ammo": 20,
+    "_api_id": 648,
+    "_armor": 15,
+    "_armor_max": 53,
+    "_armor_mod": 1,
+    "_asw": 28,
+    "_asw_max": 75,
+    "_build_time": 24,
+    "_class": "Kagerou",
+    "_class_number": 19,
+    "_equipment": [
+      {
+        "equipment": "12.7cm Twin Gun Mount Model C Kai 2",
+        "size": 0,
+        "stars": 7
+      },
+      {
+        "equipment": "61cm Quadruple (Oxygen) Torpedo Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Type 2 Depth Charge",
+        "size": 0,
+        "stars": 7
+      }
+    ],
+    "_evasion": 47,
+    "_evasion_max": 91,
+    "_firepower": 18,
+    "_firepower_max": 65,
+    "_firepower_mod": 2,
+    "_fuel": 15,
+    "_hp": 33,
+    "_hp_max": 56,
+    "_id": 448,
+    "_implementation_date": [2020, 10, 16],
+    "_japanese_name": "秋雲改二",
+    "_los": 10,
+    "_los_max": 42,
+    "_luck": 18,
+    "_luck_max": 76,
+    "_luck_mod": false,
+    "_name": "Akigumo",
+    "_range": 1,
+    "_rarity": 7,
+    "_reading": "あきぐもかいに",
+    "_remodel_ammo": 450,
+    "_remodel_blueprint": true,
+    "_remodel_catapult": false,
+    "_remodel_development_material": 20,
+    "_remodel_from": "Akigumo/Kai",
+    "_remodel_level": 74,
+    "_remodel_report": true,
+    "_remodel_steel": 390,
+    "_remodel_to": false,
+    "_scrap_ammo": 2,
+    "_scrap_baux": 1,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 10,
+    "_speed": 10,
+    "_suffix": "Kai Ni",
+    "_torpedo": 30,
+    "_torpedo_max": 91,
+    "_torpedo_mod": 2,
+    "_true_id": false,
+    "_type": 2,
+    "_voice_flag": 3,
+    "_full_name": "Akigumo Kai Ni",
+    "_voice_actor": "Taketatsu Ayana",
+    "_artist": "Fujikawa",
+    "_availability": ["drop"],
+    "_wikipedia": "Japanese destroyer Akigumo",
+    "_buildable": true,
+    "_buildable_lsc": false
   },
   "Akishimo": {
     "_aa": 8,
@@ -3403,7 +3482,7 @@
     "_availability": ["event_reward"],
     "_build_time": 250,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Ark Royal",
     "_class_number": 1,
     "_equipment": [
@@ -3543,7 +3622,7 @@
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Ark Royal (91)",
     "_buildable": false,
-    "_buildable_lsc": false
+    "_buildable_lsc": true
   },
   "Asagumo": {
     "_aa": 9,
@@ -3972,7 +4051,7 @@
   },
   "Asashimo Kai Ni": {
     "_aa": 18,
-    "_aa_max": 70,
+    "_aa_max": 72,
     "_aa_mod": 1,
     "_ammo": 20,
     "_api_id": 578,
@@ -4014,7 +4093,7 @@
     "_los": 10,
     "_los_max": 43,
     "_luck": 28,
-    "_luck_max": 84,
+    "_luck_max": 86,
     "_luck_mod": false,
     "_name": "Asashimo",
     "_range": 1,
@@ -7225,6 +7304,85 @@
     "_availability": ["event_drop"],
     "_wikipedia": "Hiburi-class escort ship"
   },
+  "Dan Yang": {
+    "_aa": 40,
+    "_aa_max": 88,
+    "_aa_mod": 3,
+    "_ammo": 20,
+    "_api_id": 651,
+    "_armor": 16,
+    "_armor_max": 60,
+    "_armor_mod": 2,
+    "_asw": 26,
+    "_asw_max": 60,
+    "_build_time": 24,
+    "_class": "Kagerou",
+    "_class_number": 8,
+    "_equipment": [
+      {
+        "equipment": "Locally Modified 12.7cm Twin High-angle Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": "Locally Modified 10cm Twin High-angle Gun Mount",
+        "size": 0
+      },
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": 65,
+    "_evasion_max": 97,
+    "_firepower": 18,
+    "_firepower_max": 68,
+    "_firepower_mod": 2,
+    "_fuel": 15,
+    "_hp": 35,
+    "_hp_max": 55,
+    "_id": 451,
+    "_implementation_date": [2020, 11, 13],
+    "_japanese_name": "丹陽",
+    "_los": 15,
+    "_los_max": 50,
+    "_luck": 60,
+    "_luck_max": 100,
+    "_luck_mod": false,
+    "_name": "Dan Yang",
+    "_nick": "Tan Yang",
+    "_page": "Yukikaze",
+    "_range": 1,
+    "_rarity": 7,
+    "_reading": "ㄉㄢ　ㄧㄤˊ",
+    "_remodel_ammo": 490,
+    "_remodel_armament": 2,
+    "_remodel_blueprint": true,
+    "_remodel_catapult": false,
+    "_remodel_development_material": 50,
+    "_remodel_from": "Yukikaze/Kai",
+    "_remodel_level": 71,
+    "_remodel_report": false,
+    "_remodel_steel": 470,
+    "_remodel_to": "Yukikaze/Kai Ni",
+    "_scrap_ammo": 3,
+    "_scrap_baux": 1,
+    "_scrap_fuel": 1,
+    "_scrap_steel": 10,
+    "_speed": 10,
+    "_torpedo": 0,
+    "_torpedo_max": 56,
+    "_torpedo_mod": false,
+    "_true_id": false,
+    "_type": 2,
+    "_voice_flag": 1,
+    "_full_name": "Dan Yang",
+    "_voice_actor": "Fujita Saki",
+    "_artist": "Shizuma Yoshinori",
+    "_availability": ["drop"],
+    "_wikipedia": "Japanese destroyer Yukikaze (1939)",
+    "_buildable": true,
+    "_buildable_lsc": false
+  },
   "De Ruyter": {
     "_aa": 20,
     "_aa_max": 70,
@@ -10021,7 +10179,7 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
@@ -10083,11 +10241,11 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
@@ -10755,7 +10913,7 @@
     "_evasion": 50,
     "_evasion_max": 89,
     "_firepower": 10,
-    "_firepower_max": 58,
+    "_firepower_max": 60,
     "_firepower_mod": 1,
     "_fuel": 15,
     "_hp": 33,
@@ -10764,7 +10922,7 @@
     "_implementation_date": [2018, 3, 23],
     "_japanese_name": "浜風乙改",
     "_los": 9,
-    "_los_max": 44,
+    "_los_max": 46,
     "_luck": 20,
     "_luck_max": 88,
     "_luck_mod": false,
@@ -14342,7 +14500,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 11,
-    "_voice_actor": null,
+    "_voice_actor": "Ai Fairouz",
     "_voice_flag": 1,
     "_wikipedia": "USS Hornet (CV-8)",
     "_full_name": "Hornet"
@@ -14425,7 +14583,7 @@
     "_voice_flag": 1,
     "_full_name": "Hornet Kai",
     "_implementation_date": [2020, 7, 11],
-    "_voice_actor": null,
+    "_voice_actor": "Ai Fairouz",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "USS Hornet (CV-8)",
@@ -17545,7 +17703,7 @@
     "_evasion": 52,
     "_evasion_max": 90,
     "_firepower": 10,
-    "_firepower_max": 61,
+    "_firepower_max": 63,
     "_firepower_mod": 1,
     "_fuel": 15,
     "_hp": 34,
@@ -17579,7 +17737,7 @@
     "_speed": 10,
     "_suffix": "B Kai",
     "_torpedo": 24,
-    "_torpedo_max": 82,
+    "_torpedo_max": 84,
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
@@ -24681,7 +24839,7 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
@@ -24743,11 +24901,11 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
@@ -25033,7 +25191,7 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
@@ -25095,11 +25253,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
-        "equipment": "120mm Twin Gun Mount",
+        "equipment": "120mm/50 Twin Gun Mount",
         "size": 0
       },
       {
@@ -31154,7 +31312,7 @@
     "_evasion": 42,
     "_evasion_max": 80,
     "_firepower": 28,
-    "_firepower_max": 68,
+    "_firepower_max": 70,
     "_firepower_mod": 2,
     "_fuel": 30,
     "_hp": 45,
@@ -34103,7 +34261,7 @@
     "_evasion": 41,
     "_evasion_max": 80,
     "_firepower": 27,
-    "_firepower_max": 65,
+    "_firepower_max": 67,
     "_firepower_mod": 2,
     "_fuel": 30,
     "_hp": 46,
@@ -35509,7 +35667,7 @@
     "_evasion": 62,
     "_evasion_max": 93,
     "_firepower": 13,
-    "_firepower_max": 60,
+    "_firepower_max": 61,
     "_firepower_mod": 2,
     "_fuel": 15,
     "_hp": 31,
@@ -35541,7 +35699,7 @@
     "_speed": 10,
     "_suffix": "Kai Ni",
     "_torpedo": 28,
-    "_torpedo_max": 86,
+    "_torpedo_max": 87,
     "_torpedo_mod": 2,
     "_true_id": false,
     "_type": 2,
@@ -36127,7 +36285,7 @@
   },
   "Shinshuu Maru Kai": {
     "_aa": 12,
-    "_aa_max": 44,
+    "_aa_max": 46,
     "_aa_mod": 1,
     "_ammo": 20,
     "_api_id": 626,
@@ -36160,7 +36318,7 @@
     "_evasion": 14,
     "_evasion_max": 48,
     "_firepower": 6,
-    "_firepower_max": 35,
+    "_firepower_max": 36,
     "_firepower_mod": 1,
     "_fuel": 40,
     "_hp": 39,
@@ -37790,7 +37948,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 8,
-    "_voice_actor": null,
+    "_voice_actor": "Matsuoka Misato",
     "_voice_flag": 1,
     "_wikipedia": "USS South Dakota (BB-57)",
     "_full_name": "South Dakota"
@@ -37869,7 +38027,7 @@
     "_voice_flag": 3,
     "_full_name": "South Dakota Kai",
     "_implementation_date": [2020, 7, 11],
-    "_voice_actor": null,
+    "_voice_actor": "Matsuoka Misato",
     "_artist": "zeco",
     "_availability": ["event_reward"],
     "_wikipedia": "USS South Dakota (BB-57)",
@@ -42607,7 +42765,7 @@
     "_availability": ["event_reward"],
     "_build_time": 280,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Queen Elizabeth",
     "_class_number": 2,
     "_equipment": [
@@ -42753,7 +42911,7 @@
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Warspite (03)",
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_build_time": 280
   },
   "Yahagi": {
@@ -42857,7 +43015,7 @@
     "_evasion": 43,
     "_evasion_max": 84,
     "_firepower": 28,
-    "_firepower_max": 70,
+    "_firepower_max": 72,
     "_firepower_mod": 2,
     "_fuel": 30,
     "_hp": 47,
@@ -43650,7 +43808,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 1,
-    "_voice_actor": null,
+    "_voice_actor": "Matsuoka Misato",
     "_voice_flag": 1,
     "_full_name": "Yashiro"
   },
@@ -43724,7 +43882,7 @@
     "_voice_flag": 1,
     "_full_name": "Yashiro Kai",
     "_implementation_date": [2020, 7, 11],
-    "_voice_actor": null,
+    "_voice_actor": "Matsuoka Misato",
     "_artist": "acea4",
     "_availability": ["event_drop"],
     "_buildable": false,
@@ -43992,7 +44150,7 @@
     "_remodel_from": "Yukikaze/",
     "_remodel_level": 20,
     "_remodel_steel": 100,
-    "_remodel_to": false,
+    "_remodel_to": "Dan Yang/",
     "_scrap_ammo": 2,
     "_scrap_baux": false,
     "_scrap_fuel": 1,
@@ -44013,6 +44171,86 @@
     "_buildable": true,
     "_buildable_lsc": false,
     "_build_time": 24
+  },
+  "Yukikaze Kai Ni": {
+    "_aa": 32,
+    "_aa_max": 85,
+    "_aa_mod": 3,
+    "_ammo": 25,
+    "_api_id": 656,
+    "_armor": 16,
+    "_armor_max": 60,
+    "_armor_mod": 2,
+    "_asw": 28,
+    "_asw_max": 74,
+    "_build_time": 24,
+    "_class": "Kagerou",
+    "_class_number": 8,
+    "_equipment": [
+      {
+        "equipment": "10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director",
+        "size": 0,
+        "stars": 4
+      },
+      {
+        "equipment": "12.7cm Single High-angle Gun Mount Kai 2",
+        "size": 0,
+        "stars": 4
+      },
+      {
+        "equipment": false,
+        "size": 0
+      }
+    ],
+    "_evasion": 66,
+    "_evasion_max": 100,
+    "_firepower": 17,
+    "_firepower_max": 66,
+    "_firepower_mod": 2,
+    "_fuel": 15,
+    "_hp": 35,
+    "_hp_max": 55,
+    "_id": 456,
+    "_japanese_name": "雪風改二",
+    "_los": 14,
+    "_los_max": 48,
+    "_luck": 63,
+    "_luck_max": 120,
+    "_luck_mod": false,
+    "_name": "Yukikaze",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "ゆきかぜかいに",
+    "_remodel_ammo": 880,
+    "_remodel_blueprint": 2,
+    "_remodel_catapult": false,
+    "_remodel_construction_material": 30,
+    "_remodel_development_material": 60,
+    "_remodel_from": "Dan Yang/",
+    "_remodel_level": 88,
+    "_remodel_report": true,
+    "_remodel_steel": 780,
+    "_remodel_to": false,
+    "_scrap_ammo": 4,
+    "_scrap_baux": 2,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 10,
+    "_speed": 10,
+    "_suffix": "Kai Ni",
+    "_torpedo": 32,
+    "_torpedo_max": 90,
+    "_torpedo_mod": 2,
+    "_true_id": false,
+    "_type": 2,
+    "_voice_flag": 1,
+    "_full_name": "Yukikaze Kai Ni",
+    "_implementation_date": [2020, 11, 13],
+    "_voice_actor": "Fujita Saki",
+    "_artist": "Shizuma Yoshinori",
+    "_availability": ["drop"],
+    "_wikipedia": "Japanese destroyer Yukikaze (1939)",
+    "_buildable": true,
+    "_buildable_lsc": false
   },
   "Yura": {
     "_aa": 13,
