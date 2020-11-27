@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.201126.0",
+  "version": "0.201126.1",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -14,6 +14,7 @@
   "main": "index.js",
   "files": [
     "api",
+    "asset",
     "map",
     "tl",
     "wiki",

@@ -116,6 +116,27 @@ api : object
   getEquipment : function
   getEquipmentType : function
   getItem : function
+asset : object
+  key : function
+  create : function
+  ship : function
+  shipBanner : function
+  shipCard : function
+  shipFull : function
+  shipFull2 : function
+  shipFull0 : function
+  shipBannerDamaged : function
+  shipCardDamaged : function
+  shipFullDamaged : function
+  shipFull2Damaged : function
+  shipFull0Damaged : function
+  shipVoice : function
+  equipment : function
+  equipmentCard : function
+  equipmentFull : function
+  equipmentItem : function
+  equipmentCharacter : function
+  bgm : function
 map : object
   edges : object
   diffs : object
