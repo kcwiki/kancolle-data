@@ -1,4 +1,4 @@
-const { transform, upperFirst } = require('lodash')
+const { _, transform, upperFirst } = require('lodash')
 
 const api = require('../api')
 
@@ -35,3 +35,8 @@ module.exports = Object.assign(module.exports, {
     }
   }),
 })
+
+module.exports.shipBaseNames = _(api.api_mst_ship)
+  .filter(e => e.api_id <= 1500 && e.api_name && !api.shipPrevIds[e.api_id])
+  .map(e => module.exports.tlShipFromId(e.api_id))
+  .value()

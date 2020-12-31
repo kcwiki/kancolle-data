@@ -1,4 +1,4 @@
-const { every } = require('lodash')
+const { _, every } = require('lodash')
 
 const api = require('./api_start2.json')
 
@@ -14,6 +14,12 @@ const getEquipmentType = get('api_mst_slotitem_equiptype')
 
 const getItem = get('api_mst_useitem')
 
+const shipPrevIds = _(api.api_mst_ship)
+  .filter(e => +e.api_aftershipid)
+  .groupBy('api_aftershipid')
+  .mapValues((es, e1) => (es.length === 1 ? es[0].api_id : es.filter(e2 => api.api_mst_ship[e1].api_aftershipid !== e2.api_id)[0].api_id))
+  .value()
+
 module.exports = {
   ...api,
   getShip,
@@ -21,4 +27,5 @@ module.exports = {
   getEquipment,
   getEquipmentType,
   getItem,
+  shipPrevIds,
 }

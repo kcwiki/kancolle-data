@@ -1,4 +1,273 @@
 {
+  "Abyssal Bamboo Princess": {
+    "_aa": 90,
+    "_api_id": 1988,
+    "_armor": 195,
+    "_asw": null,
+    "_back": -11,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 177,
+    "_hp": 880,
+    "_id": 1988,
+    "_japanese_name": "深海竹棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Bamboo Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちくせいき",
+    "_speed": 10,
+    "_torpedo": 200,
+    "_type": 2,
+    "_full_name": "Abyssal Bamboo Princess"
+  },
+  "Abyssal Bamboo Princess Damaged": {
+    "_aa": 120,
+    "_api_id": 1991,
+    "_armor": 245,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 207,
+    "_hp": 880,
+    "_id": 1991,
+    "_japanese_name": "深海竹棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Bamboo Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちくせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": 220,
+    "_type": 2,
+    "_full_name": "Abyssal Bamboo Princess Damaged"
+  },
+  "Abyssal Bamboo Princess Damaged II": {
+    "_aa": 140,
+    "_api_id": 1992,
+    "_armor": 305,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 237,
+    "_hp": 880,
+    "_id": 1992,
+    "_japanese_name": "深海竹棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Bamboo Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちくせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": 250,
+    "_type": 2,
+    "_full_name": "Abyssal Bamboo Princess Damaged II"
+  },
+  "Abyssal Bamboo Princess Damaged III": {
+    "_aa": 160,
+    "_api_id": 1993,
+    "_armor": 365,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 277,
+    "_hp": 880,
+    "_id": 1993,
+    "_japanese_name": "深海竹棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Bamboo Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちくせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": 290,
+    "_type": 2,
+    "_full_name": "Abyssal Bamboo Princess Damaged III"
+  },
+  "Abyssal Bamboo Princess II": {
+    "_aa": 110,
+    "_api_id": 1989,
+    "_armor": 255,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 207,
+    "_hp": 880,
+    "_id": 1989,
+    "_japanese_name": "深海竹棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Bamboo Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちくせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 230,
+    "_type": 2,
+    "_full_name": "Abyssal Bamboo Princess II"
+  },
+  "Abyssal Bamboo Princess III": {
+    "_aa": 130,
+    "_api_id": 1990,
+    "_armor": 305,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin High-angle Gun Mount Kai Ni",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 237,
+    "_hp": 880,
+    "_id": 1990,
+    "_japanese_name": "深海竹棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Bamboo Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいちくせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 260,
+    "_type": 2,
+    "_full_name": "Abyssal Bamboo Princess III"
+  },
   "Abyssal Crane Princess": {
     "_aa": 88,
     "_air_power_estimation": true,
@@ -6732,6 +7001,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Destroyer Forest Princess",
+    "_opening_asw": true,
     "_range": 1,
     "_rarity": 8,
     "_reading": "くちくりんせいき",
@@ -6773,6 +7043,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Destroyer Forest Princess",
+    "_opening_asw": null,
     "_range": 1,
     "_rarity": 8,
     "_reading": "くちくりんせいき-かい",
@@ -6819,6 +7090,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Destroyer Forest Princess",
+    "_opening_asw": null,
     "_range": 1,
     "_rarity": 8,
     "_reading": "くちくりんせいき-かい",
@@ -6865,6 +7137,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Destroyer Forest Princess",
+    "_opening_asw": null,
     "_range": 1,
     "_rarity": 8,
     "_reading": "くちくりんせいき-かい",
@@ -6908,6 +7181,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Destroyer Forest Princess",
+    "_opening_asw": true,
     "_range": 1,
     "_rarity": 8,
     "_reading": "くちくりんせいき",
@@ -6951,6 +7225,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Destroyer Forest Princess",
+    "_opening_asw": true,
     "_range": 1,
     "_rarity": 8,
     "_reading": "くちくりんせいき",
@@ -11987,7 +12262,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Heavy Cruiser Ne-Class",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんネきゅうかい なつモード",
     "_speed": 10,
@@ -12034,7 +12309,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Heavy Cruiser Ne-Class",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんネきゅうかい なつモード",
     "_speed": 10,
@@ -12081,7 +12356,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Heavy Cruiser Ne-Class",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんネきゅうかい なつモード",
     "_speed": 10,
@@ -15035,6 +15310,290 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Midway Princess II"
+  },
+  "New Battleship Princess": {
+    "_aa": 115,
+    "_api_id": 1979,
+    "_armor": 180,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 300,
+    "_hp": 980,
+    "_id": 1979,
+    "_japanese_name": "戦艦新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Battleship Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "せんかんしんせいき",
+    "_speed": 10,
+    "_torpedo": 0,
+    "_type": 8,
+    "_full_name": "New Battleship Princess"
+  },
+  "New Battleship Princess Damaged": {
+    "_aa": 135,
+    "_api_id": 1982,
+    "_armor": 230,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 320,
+    "_hp": 980,
+    "_id": 1982,
+    "_japanese_name": "戦艦新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Battleship Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "せんかんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": 0,
+    "_type": 8,
+    "_full_name": "New Battleship Princess Damaged"
+  },
+  "New Battleship Princess Damaged II": {
+    "_aa": 145,
+    "_api_id": 1983,
+    "_armor": 290,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 340,
+    "_hp": 980,
+    "_id": 1983,
+    "_japanese_name": "戦艦新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Battleship Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "せんかんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": 0,
+    "_type": 8,
+    "_full_name": "New Battleship Princess Damaged II"
+  },
+  "New Battleship Princess Damaged III": {
+    "_aa": 185,
+    "_api_id": 1984,
+    "_armor": 350,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 360,
+    "_hp": 980,
+    "_id": 1984,
+    "_japanese_name": "戦艦新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Battleship Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "せんかんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": 0,
+    "_type": 8,
+    "_full_name": "New Battleship Princess Damaged III"
+  },
+  "New Battleship Princess II": {
+    "_aa": 125,
+    "_api_id": 1980,
+    "_armor": 240,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 310,
+    "_hp": 980,
+    "_id": 1980,
+    "_japanese_name": "戦艦新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Battleship Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "せんかんしんせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 0,
+    "_type": 8,
+    "_full_name": "New Battleship Princess II"
+  },
+  "New Battleship Princess III": {
+    "_aa": 155,
+    "_api_id": 1981,
+    "_armor": 280,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "estimation": false,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": false,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 330,
+    "_hp": 980,
+    "_id": 1981,
+    "_japanese_name": "戦艦新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Battleship Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "せんかんしんせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 0,
+    "_type": 8,
+    "_full_name": "New Battleship Princess III"
   },
   "New Southern Battleship Princess": {
     "_aa": 115,
@@ -18437,6 +18996,123 @@
     "_type": 13,
     "_full_name": "Submarine Princess III"
   },
+  "Submarine Princess Kai B Flagship": {
+    "_aa": 0,
+    "_api_id": 1985,
+    "_armor": 19,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai Flagship",
+    "_cg_reference": "/Kai Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 59,
+    "_hp": 109,
+    "_id": 1985,
+    "_japanese_name": "潜水棲姫改II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかいツー",
+    "_speed": 5,
+    "_suffix": "Kai B Flagship",
+    "_torpedo": 159,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai B Flagship"
+  },
+  "Submarine Princess Kai B Flagship II": {
+    "_aa": 0,
+    "_api_id": 1986,
+    "_armor": 39,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai Flagship",
+    "_cg_reference": "/Kai Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 79,
+    "_hp": 190,
+    "_id": 1986,
+    "_japanese_name": "潜水棲姫改II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかいツー",
+    "_speed": 5,
+    "_suffix": "Kai B Flagship II",
+    "_torpedo": 179,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai B Flagship II"
+  },
+  "Submarine Princess Kai B Flagship III": {
+    "_aa": 0,
+    "_api_id": 1987,
+    "_armor": 79,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai Flagship",
+    "_cg_reference": "/Kai Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 99,
+    "_hp": 390,
+    "_id": 1987,
+    "_japanese_name": "潜水棲姫改II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "せんすいせいきかいツー",
+    "_speed": 5,
+    "_suffix": "Kai B Flagship III",
+    "_torpedo": 199,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai B Flagship III"
+  },
   "Submarine Princess Kai Flagship": {
     "_aa": 0,
     "_api_id": 1915,
@@ -19678,7 +20354,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー かきじょうりくモード",
     "_speed": 0,
@@ -19722,7 +20398,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
     "_speed": 0,
@@ -19769,7 +20445,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
     "_speed": 0,
@@ -19864,7 +20540,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー かきじょうりくモード",
     "_speed": 0,

@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.201126.1",
+  "version": "0.210101.0",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -37,16 +37,15 @@
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "bluebird": "^3.7.2",
-    "eslint": "^7.14.0",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-prettier": "^3.1.4",
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.0",
     "fs-extra": "^9.0.1",
     "lua-json": "^1.0.0",
-    "nodemw": "^0.13.0",
-    "prettier": "^2.2.0",
+    "prettier": "^2.2.1",
     "quicktype": "^15.0.258",
-    "sort-keys": "^4.1.0",
-    "tape": "^5.0.1"
+    "sort-keys": "^4.2.0",
+    "tape": "^5.1.0"
   },
   "eslintConfig": {
     "env": {

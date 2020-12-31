@@ -25,6 +25,7 @@ const formations = {
 // api_event_id, api_event_kind, api_color_no
 const nodeTypes = {
   '2-0-2': 'Resource',
+  '2-0-8': 'Resource',
   '3-0-3': 'Storm',
   '4-1-4': 'Normal',
   '4-2-11': 'Night',
@@ -38,6 +39,7 @@ const nodeTypes = {
   '6-6-4': 'Empty',
   '6-2-4': 'Select',
   '9-0-6': 'Landing',
+  '9-0-8': 'Landing',
   '10-0-14': 'Repair',
 }
 
