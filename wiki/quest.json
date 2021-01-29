@@ -5812,7 +5812,7 @@
     "title_en": "Expansion of Land-based Air Groups"
   },
   "F39": {
-    "detail_en": "Prepare 1 {{EquipmentLink|Type 96 Land-based Attack Aircraft}} and 2 {{EquipmentLink|Type 97 Torpedo Bomber}} in your inventory. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}}.<br>",
+    "detail_en": "Prepare 1 {{EquipmentLink|Type 96 Land-based Attack Aircraft}} and 2 {{EquipmentLink|Type 97 Torpedo Bomber}} in your inventory. Scrap 2 {{EquipmentLink|Type 0 Fighter Model 21}}.<br>'''{{color|red|※ Any [[File:Improve star.png|Akashi's Improvement Arsenal]] on the {{EquipmentLink|Type 96 Land-based Attack Aircraft}} are lost during conversion}}'''",
     "label": "F39",
     "note": "Requires: [[Quests#D9|D9]], [[Quests#F38|F38]]<br>Unlocks: [[Quests#F40|F40]]<br>'''Quarterly Quest'''",
     "reward_ammo": 250,
