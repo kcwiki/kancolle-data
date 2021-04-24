@@ -6006,7 +6006,7 @@
   "F53": {
     "detail_en": "Prepare 6000 Steel in your inventory. Scrap 10 [[List_of_Secondary_Guns_by_stats|secondary guns]].",
     "label": "F53",
-    "note": "Requires: [[Quests#F7|F7]](?), [[Quests#F11|F11]]<br>Unlocks: [[Quests#F54|F54]], [[Quests#F56|F56]",
+    "note": "Requires: [[Quests#F7|F7]](?), [[Quests#F11|F11]]<br>Unlocks: [[Quests#F54|F54]], [[Quests#F56|F56]]",
     "reward_ammo": 400,
     "reward_bauxite": 0,
     "reward_fuel": 0,
