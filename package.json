@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.210423.0",
+  "version": "0.210430.0",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -23,9 +23,9 @@
   "bin": {},
   "scripts": {
     "fetch-api": "kancolle-browser --save-api-and-exit /tmp/api_start2",
-    "build-api": "node build/api && yarn run quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts && yarn format",
-    "build-external": "sh build/external.sh && yarn format",
-    "build-wiki-data": "node build/wiki-data.js && yarn format",
+    "build-api": "node build/api && yarn run quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
+    "build-external": "sh build/external.sh",
+    "build-wiki-data": "node build/wiki-data.js",
     "format": "prettier --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
     "lint": "eslint --fix .",
     "test": "yarn format && yarn lint && tape test",
@@ -38,13 +38,13 @@
     "babel-eslint": "^10.1.0",
     "bluebird": "^3.7.2",
     "eslint": "^7.25.0",
-    "eslint-config-prettier": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "fs-extra": "^9.1.0",
     "lua-json": "^1.0.0",
     "prettier": "^2.2.1",
     "quicktype": "^15.0.260",
-    "sort-keys": "^5.0.0",
+    "sort-keys": "^4.2.0",
     "tape": "^5.2.2"
   },
   "eslintConfig": {
