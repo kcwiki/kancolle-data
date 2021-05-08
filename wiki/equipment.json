@@ -10560,6 +10560,37 @@
     "_type": 30,
     "_wikipedia": "Drum (container)"
   },
+  "Elite Torpedo Squadron Command Facility": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 28,
+    "_id": 413,
+    "_info": "洋上最前線において水雷戦隊を指揮する戦隊司令部です。司令部施設を開設できる艦に設営可能です。戦闘能力が高まると共に、同司令部を旗艦に設営した水雷戦隊は、水雷戦隊編成で行動している際に、戦闘で大きな損害を受けた僚艦を単艦で戦場から離脱させる水雷戦隊「単艦退避」も実施可能です。",
+    "_japanese_name": "精鋭水雷戦隊 司令部",
+    "_los": 1,
+    "_luck": false,
+    "_name": "Elite Torpedo Squadron Command Facility",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 1,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 3,
+    "_torpedo_accuracy": false,
+    "_type": 34
+  },
   "Emergency Repair Goddess": {
     "_aa": false,
     "_armor": false,
@@ -13029,7 +13060,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [7, 32, 15, 17, 0]
+    "_types": [
+      7,
+      32,
+      15,
+      17,
+      0
+    ]
   },
   "Prototype 35.6cm Triple Gun Mount": {
     "_aa": 5,
@@ -14173,7 +14210,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 18],
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      18
+    ],
     "_wikipedia": "Mitsubishi J2M"
   },
   "Re.2001 CB Kai": {
@@ -15228,7 +15271,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 44, 25, 21, 0]
+    "_types": [
+      3,
+      44,
+      25,
+      21,
+      0
+    ]
   },
   "S-51J Kai": {
     "_aa": false,
@@ -15299,7 +15348,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 44, 25, 21, 0]
+    "_types": [
+      3,
+      44,
+      25,
+      21,
+      0
+    ]
   },
   "S9 Osprey": {
     "_aa": 1,
@@ -15637,6 +15692,37 @@
     "_upgradable": false,
     "_wikipedia": "20.3 cm SK C/34 naval gun"
   },
+  "SO3C Seamew Kai": {
+    "_aa": 1,
+    "_armor": false,
+    "_asw": 2,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 5,
+    "_flight_range": 4,
+    "_icon": 10,
+    "_id": 415,
+    "_info": "傑出した性能はないものの大戦初期から米海軍で広く運用された傑作艦載水上偵察機SOCの後継機として開発されたSO3C、Seamew。開発は難航し、期待された性能は発揮されませんでしたが、本改修機は同機を改良改修、米巡洋艦で高い運用性を誇るSOCif後継機としてロールアウトします！",
+    "_japanese_name": "SO3C Seamew改",
+    "_los": 7,
+    "_luck": false,
+    "_name": "SO3C Seamew Kai",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 3,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 3,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 10
+  },
   "SOC Seagull": {
     "_aa": false,
     "_armor": false,
@@ -15649,7 +15735,7 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 414,
-    "_info": "",
+    "_info": "大戦初期から米海軍で運用された艦載水上偵察機です。複葉機タイプの本機は、突出した性能はありませんが取り回しの良さと後継機が難航したことで、主に米海軍の巡洋艦級の中型艦を中心に艦隊の目として索敵等で広範囲に運用されました。※本機は改修により、米巡洋艦での運用性がより向上します。",
     "_japanese_name": "SOC Seagull",
     "_los": 4,
     "_luck": false,
@@ -16090,7 +16176,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 12]
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      12
+    ]
   },
   "Shiden Kai 2": {
     "_aa": 9,
@@ -16310,7 +16402,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 12]
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      12
+    ]
   },
   "Shiden Model 21 Shiden Kai": {
     "_aa": 9,
@@ -16342,7 +16440,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 12],
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      12
+    ],
     "_wikipedia": "Kawanishi N1K"
   },
   "Shinden Kai": {
@@ -17118,7 +17222,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 44, 29],
+    "_types": [
+      22,
+      39,
+      48,
+      44,
+      29
+    ],
     "_wikipedia": "Supermarine Spitfire (late Merlin-powered variants)"
   },
   "Spitfire Mk.V": {
@@ -18986,7 +19096,7 @@
     "_flight_range": false,
     "_icon": 32,
     "_id": 412,
-    "_info": "",
+    "_info": "水雷戦隊、特にその主力である駆逐艦の熟練見張員です。その鍛え抜かれた肉眼視力による偵察力・索敵力は状況によっては大きな威力を発揮し、敵艦隊のレーダー兵装が充実するまでは、夜戦などで水雷戦隊の脅威の戦闘力を支えます。※状況によって専用の夜戦雷撃、鼠輸送時反撃も可能です！",
     "_japanese_name": "水雷戦隊 熟練見張員",
     "_los": 2,
     "_luck": false,
@@ -22855,7 +22965,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [7, 32, 15, 17, 0]
+    "_types": [
+      7,
+      32,
+      15,
+      17,
+      0
+    ]
   },
   "Type 3 Fighter Hien": {
     "_aa": 8,

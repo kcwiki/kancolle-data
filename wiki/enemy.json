@@ -2538,7 +2538,10 @@
     "_armor": 138,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["hell_kai_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_kai_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_display_suffix": "II (Strong)",
@@ -2623,7 +2626,10 @@
     "_armor": 150,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["hell_kai_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_kai_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -2668,7 +2674,10 @@
     "_armor": 180,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["hell_kai_r1", "revenge_night_r2"],
+    "_battle_card_layers": [
+      "hell_kai_r1",
+      "revenge_night_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -2716,7 +2725,10 @@
     "_armor": 220,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["cat_night_r1", "revenge_night_r2"],
+    "_battle_card_layers": [
+      "cat_night_r1",
+      "revenge_night_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -2893,6 +2905,51 @@
     "_type": 11,
     "_full_name": "Aircraft Carrier Princess Kai III"
   },
+  "Aircraft Carrier Princess Kai IV": {
+    "_aa": null,
+    "_api_id": 1997,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 1997,
+    "_japanese_name": "空母棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Kai IV",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Aircraft Carrier Princess Kai IV"
+  },
   "Aircraft Carrier Summer Demon": {
     "_aa": 120,
     "_api_id": 1751,
@@ -2976,7 +3033,9 @@
     "_range": 3,
     "_rarity": 8,
     "_reading": "くうぼなつき",
-    "_references": ["https://twitter.com/Croshadow_/status/1040956045273686016"],
+    "_references": [
+      "https://twitter.com/Croshadow_/status/1040956045273686016"
+    ],
     "_speed": 10,
     "_torpedo": 0,
     "_type": 11,
@@ -3022,7 +3081,10 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "くうぼなつきツー",
-    "_references": ["https://twitter.com/syoukuretin/status/1282503439767883776", "https://twitter.com/syoukuretin/status/1282569310473383941"],
+    "_references": [
+      "https://twitter.com/syoukuretin/status/1282503439767883776",
+      "https://twitter.com/syoukuretin/status/1282569310473383941"
+    ],
     "_speed": 10,
     "_suffix": "B",
     "_torpedo": 0,
@@ -3303,7 +3365,9 @@
     "_armor": 160,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["hell_r"],
+    "_battle_card_layers": [
+      "hell_r"
+    ],
     "_equipment": [
       {
         "equipment": "Abyssal Cat Fighter Kai",
@@ -3345,7 +3409,10 @@
     "_armor": 175,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["hell_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/II",
     "_cg_reference": "/II",
     "_equipment": [
@@ -3389,7 +3456,10 @@
     "_armor": 190,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["hell_kai_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_kai_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/II",
     "_cg_reference": "/II",
     "_equipment": [
@@ -3433,7 +3503,10 @@
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_layers": ["fortress_ace_r1", "fortress_r2"],
+    "_battle_card_layers": [
+      "fortress_ace_r1",
+      "fortress_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3481,7 +3554,9 @@
     "_armor": 140,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_r"],
+    "_battle_card_layers": [
+      "liberation_r"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3525,7 +3600,10 @@
     "_armor": 140,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3569,7 +3647,10 @@
     "_armor": 140,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_ace_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3617,7 +3698,9 @@
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_layers": ["fortress_r"],
+    "_battle_card_layers": [
+      "fortress_r"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3657,7 +3740,10 @@
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_layers": ["fortress_ace_r1", "fortress_ace_r2"],
+    "_battle_card_layers": [
+      "fortress_ace_r1",
+      "fortress_ace_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3706,7 +3792,9 @@
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_layers": ["fortress_heavy_r"],
+    "_battle_card_layers": [
+      "fortress_heavy_r"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3750,7 +3838,10 @@
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_layers": ["fortress_heavy_ace_r1", "fortress_heavy_r2"],
+    "_battle_card_layers": [
+      "fortress_heavy_ace_r1",
+      "fortress_heavy_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -3799,7 +3890,10 @@
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_layers": ["fortress_heavy_ace_r1", "fortress_heavy_ace_r2"],
+    "_battle_card_layers": [
+      "fortress_heavy_ace_r1",
+      "fortress_heavy_ace_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -12016,7 +12110,9 @@
     "_armor": 112,
     "_asw": 0,
     "_back": -3,
-    "_battle_card_layers": ["attack_hawk_r"],
+    "_battle_card_layers": [
+      "attack_hawk_r"
+    ],
     "_equipment": [
       {
         "equipment": "8inch Triple Gun Mount",
@@ -12763,6 +12859,52 @@
     "_type": 5,
     "_full_name": "Heavy Cruiser Ri-Class"
   },
+  "Heavy Cruiser Ri-Class B Flagship": {
+    "_aa": 48,
+    "_api_id": 1999,
+    "_armor": 72,
+    "_asw": 0,
+    "_back": -3,
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 78,
+    "_hp": 80,
+    "_id": 1999,
+    "_japanese_name": "重巡リ級IIflagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Heavy Cruiser Ri-Class",
+    "_range": 2,
+    "_rarity": 7,
+    "_reading": "じゅうじゅんリきゅうツーフラグシップ",
+    "_speed": 10,
+    "_suffix": "B Flagship",
+    "_torpedo": 67,
+    "_type": 5,
+    "_full_name": "Heavy Cruiser Ri-Class B Flagship"
+  },
   "Heavy Cruiser Ri-Class Elite": {
     "_aa": 30,
     "_api_id": 1522,
@@ -13069,7 +13211,10 @@
     "_armor": 155,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["hell_r1", "revenge_r2"],
+    "_battle_card_layers": [
+      "hell_r1",
+      "revenge_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -13113,7 +13258,10 @@
     "_armor": 170,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["hell_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -13157,7 +13305,10 @@
     "_armor": 185,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["revenge_kai_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "revenge_kai_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -13201,7 +13352,10 @@
     "_armor": 190,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_r2"
+    ],
     "_equipment": [
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
@@ -13247,7 +13401,10 @@
     "_armor": 190,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "cat_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "cat_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -13340,7 +13497,9 @@
     "_armor": 190,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["cat_r"],
+    "_battle_card_layers": [
+      "cat_r"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -13506,7 +13665,9 @@
     "_armor": 35,
     "_asw": 0,
     "_back": -2,
-    "_battle_card_layers": ["cat_r"],
+    "_battle_card_layers": [
+      "cat_r"
+    ],
     "_battle_card_reference": "/Elite",
     "_cg_reference": "/Elite",
     "_equipment": [
@@ -13547,7 +13708,10 @@
     "_armor": 35,
     "_asw": 0,
     "_back": -2,
-    "_battle_card_layers": ["cat_r1", "attack_hawk_r2"],
+    "_battle_card_layers": [
+      "cat_r1",
+      "attack_hawk_r2"
+    ],
     "_battle_card_reference": "/Elite",
     "_cg_reference": "/Elite",
     "_equipment": [
@@ -13591,7 +13755,9 @@
     "_armor": 35,
     "_asw": 0,
     "_back": -2,
-    "_battle_card_layers": ["revenge_night_r"],
+    "_battle_card_layers": [
+      "revenge_night_r"
+    ],
     "_battle_card_reference": "/Elite",
     "_cg_reference": "/Elite",
     "_equipment": [
@@ -13677,7 +13843,9 @@
     "_armor": 70,
     "_asw": 0,
     "_back": -3,
-    "_battle_card_layers": ["cat_r"],
+    "_battle_card_layers": [
+      "cat_r"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -13722,7 +13890,9 @@
     "_armor": 70,
     "_asw": 0,
     "_back": -3,
-    "_battle_card_layers": ["hell_cat_kai_r"],
+    "_battle_card_layers": [
+      "hell_cat_kai_r"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -13770,7 +13940,9 @@
     "_armor": 73,
     "_asw": null,
     "_back": -5,
-    "_battle_card_layers": ["attack_hawk_r"],
+    "_battle_card_layers": [
+      "attack_hawk_r"
+    ],
     "_battle_card_reference": "/Elite",
     "_equipment": [
       {
@@ -13818,7 +13990,10 @@
     "_armor": 73,
     "_asw": null,
     "_back": -5,
-    "_battle_card_layers": ["attack_hawk_r1", "cat_r2"],
+    "_battle_card_layers": [
+      "attack_hawk_r1",
+      "cat_r2"
+    ],
     "_battle_card_reference": "/Elite",
     "_cg_reference": "/Elite",
     "_equipment": [
@@ -13867,7 +14042,10 @@
     "_armor": 73,
     "_asw": null,
     "_back": -5,
-    "_battle_card_layers": ["cat_night_r1", "revenge_night_r2"],
+    "_battle_card_layers": [
+      "cat_night_r1",
+      "revenge_night_r2"
+    ],
     "_battle_card_reference": "/Elite",
     "_cg_reference": "/Elite",
     "_equipment": [
@@ -13916,7 +14094,9 @@
     "_armor": 93,
     "_asw": null,
     "_back": -6,
-    "_battle_card_layers": ["attack_hawk_r"],
+    "_battle_card_layers": [
+      "attack_hawk_r"
+    ],
     "_battle_card_reference": "/Flagship",
     "_equipment": [
       {
@@ -13963,7 +14143,10 @@
     "_armor": 93,
     "_asw": null,
     "_back": -6,
-    "_battle_card_layers": ["attack_hawk_r1", "hell_cat_kai_r2"],
+    "_battle_card_layers": [
+      "attack_hawk_r1",
+      "hell_cat_kai_r2"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -14011,7 +14194,10 @@
     "_armor": 93,
     "_asw": null,
     "_back": -6,
-    "_battle_card_layers": ["hell_kai_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_kai_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -14059,7 +14245,10 @@
     "_armor": 93,
     "_asw": null,
     "_back": -6,
-    "_battle_card_layers": ["cat_night_r1", "attack_hawk_r2"],
+    "_battle_card_layers": [
+      "cat_night_r1",
+      "attack_hawk_r2"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -14991,6 +15180,287 @@
     "_torpedo": 98,
     "_type": 3,
     "_full_name": "Light Cruiser Tsu-Class Flagship"
+  },
+  "Lunga Point Heavy Cruiser Princess": {
+    "_aa": 67,
+    "_air_power": 0,
+    "_api_id": 2000,
+    "_armor": 167,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 167,
+    "_hp": 670,
+    "_id": 2000,
+    "_japanese_name": "ルンガ沖重巡棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Lunga Point Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ルンガおきじゅうじゅんせいき",
+    "_speed": 10,
+    "_torpedo": 117,
+    "_type": 8,
+    "_full_name": "Lunga Point Heavy Cruiser Princess"
+  },
+  "Lunga Point Heavy Cruiser Princess Damaged": {
+    "_aa": 67,
+    "_air_power": 0,
+    "_api_id": 2003,
+    "_armor": 222,
+    "_asw": 0,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 217,
+    "_hp": 670,
+    "_id": 2003,
+    "_japanese_name": "ルンガ沖重巡棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Lunga Point Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ルンガおきじゅうじゅんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": 137,
+    "_type": 8,
+    "_full_name": "Lunga Point Heavy Cruiser Princess Damaged"
+  },
+  "Lunga Point Heavy Cruiser Princess Damaged II": {
+    "_aa": 77,
+    "_air_power": 0,
+    "_api_id": 2004,
+    "_armor": 267,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 247,
+    "_hp": 770,
+    "_id": 2004,
+    "_japanese_name": "ルンガ沖重巡棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Lunga Point Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ルンガおきじゅうじゅんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": 167,
+    "_type": 8,
+    "_full_name": "Lunga Point Heavy Cruiser Princess Damaged II"
+  },
+  "Lunga Point Heavy Cruiser Princess Damaged III": {
+    "_aa": 87,
+    "_api_id": 2005,
+    "_armor": 367,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 287,
+    "_hp": 870,
+    "_id": 2005,
+    "_japanese_name": "ルンガ沖重巡棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Lunga Point Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ルンガおきじゅうじゅんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": 197,
+    "_type": 8,
+    "_full_name": "Lunga Point Heavy Cruiser Princess Damaged III"
+  },
+  "Lunga Point Heavy Cruiser Princess II": {
+    "_aa": 77,
+    "_air_power": 0,
+    "_api_id": 2001,
+    "_armor": 227,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 207,
+    "_hp": 770,
+    "_id": 2001,
+    "_japanese_name": "ルンガ沖重巡棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Lunga Point Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ルンガおきじゅうじゅんせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 137,
+    "_type": 8,
+    "_full_name": "Lunga Point Heavy Cruiser Princess II"
+  },
+  "Lunga Point Heavy Cruiser Princess III": {
+    "_aa": 87,
+    "_air_power": 0,
+    "_api_id": 2002,
+    "_armor": 267,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 267,
+    "_hp": 870,
+    "_id": 2002,
+    "_japanese_name": "ルンガ沖重巡棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Lunga Point Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ルンガおきじゅうじゅんせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 167,
+    "_type": 8,
+    "_full_name": "Lunga Point Heavy Cruiser Princess III"
   },
   "Lycoris Princess": {
     "_aa": 120,
@@ -17605,7 +18075,9 @@
     "_armor": 175,
     "_asw": 98,
     "_back": -11,
-    "_battle_card_layers": ["attack_seaplane_kai_r"],
+    "_battle_card_layers": [
+      "attack_seaplane_kai_r"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -17649,7 +18121,9 @@
     "_armor": 195,
     "_asw": 98,
     "_back": -11,
-    "_battle_card_layers": ["attack_seaplane_kai_r"],
+    "_battle_card_layers": [
+      "attack_seaplane_kai_r"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -18027,7 +18501,10 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
-    "_references": ["https://twitter.com/syoukuretin/status/1284362413773488129", "https://twitter.com/syoukuretin/status/1284371071584501760"],
+    "_references": [
+      "https://twitter.com/syoukuretin/status/1284362413773488129",
+      "https://twitter.com/syoukuretin/status/1284371071584501760"
+    ],
     "_speed": 10,
     "_suffix": "Damaged III",
     "_torpedo": 0,
@@ -18124,7 +18601,10 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
-    "_references": ["https://twitter.com/syoukuretin/status/1284167705528897541", "https://twitter.com/syoukuretin/status/1284212776966094848"],
+    "_references": [
+      "https://twitter.com/syoukuretin/status/1284167705528897541",
+      "https://twitter.com/syoukuretin/status/1284212776966094848"
+    ],
     "_speed": 10,
     "_suffix": "III",
     "_torpedo": 0,
@@ -18370,7 +18850,9 @@
     "_armor": 80,
     "_asw": 0,
     "_back": -3,
-    "_battle_card_layers": ["hell"],
+    "_battle_card_layers": [
+      "hell"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -18415,7 +18897,10 @@
     "_armor": 80,
     "_asw": 0,
     "_back": -3,
-    "_battle_card_layers": ["hell_l1", "revenge_kai_l2"],
+    "_battle_card_layers": [
+      "hell_l1",
+      "revenge_kai_l2"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -18460,7 +18945,10 @@
     "_armor": 80,
     "_asw": 0,
     "_back": -3,
-    "_battle_card_layers": ["hell_kai_l1", "revenge_kai_l2"],
+    "_battle_card_layers": [
+      "hell_kai_l1",
+      "revenge_kai_l2"
+    ],
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -18546,7 +19034,9 @@
     "_armor": 120,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": ["hell_r"],
+    "_battle_card_layers": [
+      "hell_r"
+    ],
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -18591,7 +19081,10 @@
     "_armor": 120,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": ["hell_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -18636,7 +19129,10 @@
     "_armor": 120,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": ["hell_kai_r1", "revenge_kai_r2"],
+    "_battle_card_layers": [
+      "hell_kai_r1",
+      "revenge_kai_r2"
+    ],
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -18681,7 +19177,10 @@
     "_armor": 120,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": ["hell_cat_kai_r1", "liberation_r2"],
+    "_battle_card_layers": [
+      "hell_cat_kai_r1",
+      "liberation_r2"
+    ],
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -18728,7 +19227,10 @@
     "_armor": 120,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": ["hell_cat_kai_r1", "liberation_ace_r2"],
+    "_battle_card_layers": [
+      "hell_cat_kai_r1",
+      "liberation_ace_r2"
+    ],
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -19022,13 +19524,13 @@
     "_firepower": 59,
     "_hp": 109,
     "_id": 1985,
-    "_japanese_name": "潜水棲姫改II",
+    "_japanese_name": "潜水棲姫改IIflagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかいツー",
+    "_reading": "せんすいせいきかいツーフラックシップ",
     "_speed": 5,
     "_suffix": "Kai B Flagship",
     "_torpedo": 159,
@@ -19061,13 +19563,13 @@
     "_firepower": 79,
     "_hp": 190,
     "_id": 1986,
-    "_japanese_name": "潜水棲姫改II",
+    "_japanese_name": "潜水棲姫改IIflagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかいツー",
+    "_reading": "せんすいせいきかいツーフラックシップ",
     "_speed": 5,
     "_suffix": "Kai B Flagship II",
     "_torpedo": 179,
@@ -19100,18 +19602,57 @@
     "_firepower": 99,
     "_hp": 390,
     "_id": 1987,
-    "_japanese_name": "潜水棲姫改II",
+    "_japanese_name": "潜水棲姫改IIflagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかいツー",
+    "_reading": "せんすいせいきかいツーフラックシップ",
     "_speed": 5,
     "_suffix": "Kai B Flagship III",
     "_torpedo": 199,
     "_type": 13,
     "_full_name": "Submarine Princess Kai B Flagship III"
+  },
+  "Submarine Princess Kai B Flagship IV": {
+    "_aa": 0,
+    "_api_id": 1996,
+    "_armor": 19,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_reference": "/Kai Flagship",
+    "_cg_reference": "/Kai Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 39,
+    "_hp": 79,
+    "_id": 1996,
+    "_japanese_name": "潜水棲姫改IIflagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "せんすいせいきかいツーフラックシップ",
+    "_speed": 5,
+    "_suffix": "Kai B Flagship IV",
+    "_torpedo": 139,
+    "_type": 13,
+    "_full_name": "Submarine Princess Kai B Flagship IV"
   },
   "Submarine Princess Kai Flagship": {
     "_aa": 0,
@@ -19137,13 +19678,13 @@
     "_firepower": 55,
     "_hp": 290,
     "_id": 1915,
-    "_japanese_name": "潜水棲姫改",
+    "_japanese_name": "潜水棲姫改flagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかい",
+    "_reading": "せんすいせいきかいフラッグシップ",
     "_speed": 5,
     "_suffix": "Kai Flagship",
     "_torpedo": 155,
@@ -19174,13 +19715,13 @@
     "_firepower": 68,
     "_hp": 290,
     "_id": 1918,
-    "_japanese_name": "潜水棲姫改-壊",
+    "_japanese_name": "潜水棲姫改-壊flagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかい-かい",
+    "_reading": "せんすいせいきかい-かいフラッグシップ",
     "_speed": 5,
     "_suffix": "Kai Flagship - Damaged",
     "_torpedo": 169,
@@ -19213,13 +19754,13 @@
     "_firepower": 78,
     "_hp": 390,
     "_id": 1919,
-    "_japanese_name": "潜水棲姫改-壊",
+    "_japanese_name": "潜水棲姫改-壊flagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかい-かい",
+    "_reading": "せんすいせいきかい-かいフラッグシップ",
     "_speed": 5,
     "_suffix": "Kai Flagship - Damaged II",
     "_torpedo": 209,
@@ -19252,13 +19793,13 @@
     "_firepower": 98,
     "_hp": 490,
     "_id": 1920,
-    "_japanese_name": "潜水棲姫改-壊",
+    "_japanese_name": "潜水棲姫改-壊flagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかい-かい",
+    "_reading": "せんすいせいきかい-かいフラッグシップ",
     "_speed": 5,
     "_suffix": "Kai Flagship - Damaged III",
     "_torpedo": 239,
@@ -19291,13 +19832,13 @@
     "_firepower": 75,
     "_hp": 390,
     "_id": 1916,
-    "_japanese_name": "潜水棲姫改",
+    "_japanese_name": "潜水棲姫改flagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかい",
+    "_reading": "せんすいせいきかいフラッグシップ",
     "_speed": 5,
     "_suffix": "Kai Flagship II",
     "_torpedo": 175,
@@ -19330,13 +19871,13 @@
     "_firepower": 95,
     "_hp": 490,
     "_id": 1917,
-    "_japanese_name": "潜水棲姫改",
+    "_japanese_name": "潜水棲姫改flagship",
     "_los": null,
     "_luck": null,
     "_name": "Submarine Princess",
     "_range": null,
     "_rarity": 8,
-    "_reading": "せんすいせいきかい",
+    "_reading": "せんすいせいきかいフラッグシップ",
     "_speed": 5,
     "_suffix": "Kai Flagship III",
     "_torpedo": 195,
@@ -19845,7 +20386,10 @@
     "_armor": 160,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_r2"
+    ],
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -19894,7 +20438,10 @@
     "_armor": 190,
     "_asw": 0,
     "_back": -12,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_ace_r2"
+    ],
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -19943,7 +20490,10 @@
     "_armor": 130,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -19992,7 +20542,10 @@
     "_armor": 160,
     "_asw": 0,
     "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_layers": [
+      "liberation_ace_r1",
+      "liberation_ace_r2"
+    ],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -20222,6 +20775,54 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess B Damaged III"
   },
+  "Supply Depot Princess B Damaged IV": {
+    "_aa": 60,
+    "_air_power_estimation": true,
+    "_api_id": 1995,
+    "_armor": 44,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 10
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 10
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 10
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 10
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 110,
+    "_hp": 480,
+    "_id": 1995,
+    "_japanese_name": "集積地棲姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged IV",
+    "_torpedo": 78,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Damaged IV"
+  },
   "Supply Depot Princess B II": {
     "_aa": 70,
     "_air_power_estimation": true,
@@ -20317,6 +20918,54 @@
     "_torpedo": 118,
     "_type": 10,
     "_full_name": "Supply Depot Princess B III"
+  },
+  "Supply Depot Princess B IV": {
+    "_aa": 50,
+    "_air_power_estimation": true,
+    "_api_id": 1994,
+    "_armor": 30,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 60,
+    "_hp": 480,
+    "_id": 1994,
+    "_japanese_name": "集積地棲姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "IV",
+    "_torpedo": 78,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B IV"
   },
   "Supply Depot Princess B Summer Landing Mode": {
     "_aa": 60,
@@ -20495,7 +21144,9 @@
     "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
-    "_references": ["https://twitter.com/syoukuretin/status/1276618053283745792"],
+    "_references": [
+      "https://twitter.com/syoukuretin/status/1276618053283745792"
+    ],
     "_speed": 0,
     "_suffix": "Damaged III",
     "_torpedo": 128,
@@ -20590,7 +21241,9 @@
     "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー かきじょうりくモード",
-    "_references": ["https://twitter.com/syoukuretin/status/1276608442191409153"],
+    "_references": [
+      "https://twitter.com/syoukuretin/status/1276608442191409153"
+    ],
     "_speed": 0,
     "_suffix": "III",
     "_torpedo": 128,
