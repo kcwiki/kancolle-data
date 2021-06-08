@@ -1593,7 +1593,7 @@
     "detail_en": "Have [[Kinu]], [[Aoba]], [[Kitakami]], and [[Ooi]] in your fleet.",
     "id": null,
     "label": "A73",
-    "note": "Requires: [[Quests#B55|B55]](?)<br>Unlocks: [[Quests#B84|B84]]",
+    "note": "Requires: [[Quests#B55|B55]]<br>Unlocks: [[Quests#B84|B84]]",
     "requires": null,
     "reward_ammo": 200,
     "reward_bauxite": 0,

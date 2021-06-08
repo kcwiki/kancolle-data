@@ -77,26 +77,11 @@
       "_season": "Fall 2020",
       "_suffix": "Yukata"
     },
-    [
-      "New Year's",
-      "/New Year"
-    ],
-    [
-      "Kai New Year's",
-      "/Kai New Year"
-    ],
-    [
-      "Kai White Day",
-      "/Kai Gyudon"
-    ],
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Kai Xmas",
-      "/Kai Christmas"
-    ]
+    ["New Year's", "/New Year"],
+    ["Kai New Year's", "/Kai New Year"],
+    ["Kai White Day", "/Kai Gyudon"],
+    ["Xmas", "/Christmas"],
+    ["Kai Xmas", "/Kai Christmas"]
   ],
   "Akebono": [
     {
@@ -154,26 +139,11 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Celebration"
     },
-    [
-      "Year End 2014",
-      "/End of Year"
-    ],
-    [
-      "Year End 2015",
-      "/End of Year 2015"
-    ],
-    [
-      "Year End",
-      "/End of Year 2015"
-    ],
-    [
-      "Udon",
-      "/Oyakodon"
-    ],
-    [
-      "Kai Spring",
-      "/Kai Spring Bouquet"
-    ]
+    ["Year End 2014", "/End of Year"],
+    ["Year End 2015", "/End of Year 2015"],
+    ["Year End", "/End of Year 2015"],
+    ["Udon", "/Oyakodon"],
+    ["Kai Spring", "/Kai Spring Bouquet"]
   ],
   "Akigumo": [
     {
@@ -213,26 +183,11 @@
       "_season": "New Year 2019",
       "_suffix": "Ending Celebration 2018"
     },
-    [
-      "Katsudon",
-      "/Oyakodon"
-    ],
-    [
-      "Christmas",
-      "/Crunch Time"
-    ],
-    [
-      "End of Year",
-      "/Super Crunch Time"
-    ],
-    [
-      "New Year",
-      "/Ending Celebration"
-    ],
-    [
-      "Christmas 2018",
-      "/Super Crunch Time 2018"
-    ]
+    ["Katsudon", "/Oyakodon"],
+    ["Christmas", "/Crunch Time"],
+    ["End of Year", "/Super Crunch Time"],
+    ["New Year", "/Ending Celebration"],
+    ["Christmas 2018", "/Super Crunch Time 2018"]
   ],
   "Akishimo": [
     {
@@ -267,20 +222,14 @@
       "_season": "Summer 2020",
       "_suffix": "Summer"
     },
-    [
-      "New Year 2016",
-      "/New Year"
-    ]
+    ["New Year 2016", "/New Year"]
   ],
   "Akizuki": [
     {
       "_season": "Fall 2016",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Amagi": [
     {
@@ -317,10 +266,7 @@
       "_season": "Rainy Season 2019",
       "_suffix": "Rainy"
     },
-    [
-      "Spring",
-      "/Spring Bouquet"
-    ]
+    ["Spring", "/Spring Bouquet"]
   ],
   "Arare": [
     {
@@ -353,14 +299,8 @@
       "_season": "Christmas 2017",
       "_suffix": "Autumn-Winter Uniform"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Fall Uniform 2018",
-      "/Autumn-Winter Uniform"
-    ]
+    ["Xmas", "/Christmas"],
+    ["Fall Uniform 2018", "/Autumn-Winter Uniform"]
   ],
   "Asashimo": [
     {
@@ -379,14 +319,8 @@
       "_season": "Sanma 2018",
       "_suffix": "Mackerel Pike Festival"
     },
-    [
-      "Fall",
-      "/Happi"
-    ],
-    [
-      "Akimatsuri Happi",
-      "/Happi"
-    ]
+    ["Fall", "/Happi"],
+    ["Akimatsuri Happi", "/Happi"]
   ],
   "Asashio": [
     {
@@ -414,10 +348,7 @@
       "_season_suffix": "Kai Ni",
       "_suffix": "Kai Ni Christmas"
     },
-    [
-      "Kai Ni Xmas",
-      "/Kai Ni Christmas"
-    ]
+    ["Kai Ni Xmas", "/Kai Ni Christmas"]
   ],
   "Chitose": [
     {
@@ -428,10 +359,7 @@
       "_season": "Rainy Season 2016",
       "_suffix": "Rainy"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Chiyoda": [
     {
@@ -442,10 +370,7 @@
       "_season": "Rainy Season 2016",
       "_suffix": "Rainy"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Colorado": [
     {
@@ -486,10 +411,7 @@
       "_season": "Sanma 2018",
       "_suffix": "Mackerel Pike Festival"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "De Ruyter": [
     {
@@ -543,10 +465,7 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Kai Spring Bouquet"
     },
-    [
-      "Kai Spring",
-      "/Kai Spring Bouquet"
-    ]
+    ["Kai Spring", "/Kai Spring Bouquet"]
   ],
   "Fletcher": [
     {
@@ -580,22 +499,10 @@
       "_season": "Spring 2019",
       "_suffix": "Outing"
     },
-    [
-      "Fall",
-      "/Happi"
-    ],
-    [
-      "Akimatsuri Happi",
-      "/Happi"
-    ],
-    [
-      "Kai Ni Fall",
-      "/Kai Ni Happi"
-    ],
-    [
-      "Kai Ni Akimatsuri Happi",
-      "/Kai Ni Happi"
-    ]
+    ["Fall", "/Happi"],
+    ["Akimatsuri Happi", "/Happi"],
+    ["Kai Ni Fall", "/Kai Ni Happi"],
+    ["Kai Ni Akimatsuri Happi", "/Kai Ni Happi"]
   ],
   "Fujinami": [
     {
@@ -676,18 +583,9 @@
       "_season": "Mid-Summer 2017",
       "_suffix": "Zuiun"
     },
-    [
-      "Mackerel Pike Festival",
-      "/Happi"
-    ],
-    [
-      "Rainy 2017",
-      "/Rainy"
-    ],
-    [
-      "Kai Ni Rainy 2017",
-      "/Kai Ni Rainy"
-    ]
+    ["Mackerel Pike Festival", "/Happi"],
+    ["Rainy 2017", "/Rainy"],
+    ["Kai Ni Rainy 2017", "/Kai Ni Rainy"]
   ],
   "Gambier Bay": [
     {
@@ -706,10 +604,7 @@
       "_season": "Rainy Season 2019",
       "_suffix": "Rainy"
     },
-    [
-      "Spring",
-      "/Spring Bouquet"
-    ]
+    ["Spring", "/Spring Bouquet"]
   ],
   "Gotland": [
     {
@@ -756,10 +651,7 @@
       "_season": "Fall 2015",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Hamanami": [
     {
@@ -802,20 +694,14 @@
       "_season": "Third Anniversary",
       "_suffix": "Kai Spring Bouquet"
     },
-    [
-      "Kai Spring",
-      "/Kai Spring Bouquet"
-    ]
+    ["Kai Spring", "/Kai Spring Bouquet"]
   ],
   "Hatsukaze": [
     {
       "_season": "Christmas 2015",
       "_suffix": "Christmas"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "Hatsuzuki": [
     {
@@ -933,20 +819,14 @@
       "_season": "Fall 2015",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Inazuma": [
     {
       "_season": "Fall 2015",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Intrepid": [
     {
@@ -1011,10 +891,7 @@
       "_season": "Fall 2015",
       "_suffix": "Kai Ni Yukata"
     },
-    [
-      "Kai Ni Fall",
-      "/Kai Ni Yukata"
-    ]
+    ["Kai Ni Fall", "/Kai Ni Yukata"]
   ],
   "Johnston": [
     {
@@ -1029,10 +906,7 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Spring Bouquet"
     },
-    [
-      "Spring",
-      "/Spring Bouquet"
-    ]
+    ["Spring", "/Spring Bouquet"]
   ],
   "Kaga": [
     {
@@ -1075,18 +949,9 @@
       "_season": "Christmas 2017",
       "_suffix": "Christmas"
     },
-    [
-      "Rainy 2017",
-      "/Rainy"
-    ],
-    [
-      "Kai Rainy 2017",
-      "/Kai Rainy"
-    ],
-    [
-      "Kai Bo Rainy 2017",
-      "/Kai Bo Rainy"
-    ]
+    ["Rainy 2017", "/Rainy"],
+    ["Kai Rainy 2017", "/Kai Rainy"],
+    ["Kai Bo Rainy 2017", "/Kai Bo Rainy"]
   ],
   "Kashima": [
     {
@@ -1101,10 +966,7 @@
       "_season": "Sanma 2017",
       "_suffix": "Shopping"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "Kasumi": [
     {
@@ -1131,14 +993,8 @@
       "_season": "Christmas 2015",
       "_suffix": "Christmas"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ],
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Fall", "/Yukata"],
+    ["Xmas", "/Christmas"]
   ],
   "Kazagumo": [
     {
@@ -1161,10 +1017,7 @@
       "_season": "Summer 2020",
       "_suffix": "Kai Ni Summer"
     },
-    [
-      "End of Year",
-      "/Booth Girl"
-    ]
+    ["End of Year", "/Booth Girl"]
   ],
   "Kinu": [
     {
@@ -1239,10 +1092,7 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Kai Ni C Spring Bouquet"
     },
-    [
-      "Kai Ni C Spring",
-      "/Kai Ni C Spring Bouquet"
-    ]
+    ["Kai Ni C Spring", "/Kai Ni C Spring Bouquet"]
   ],
   "Kuma": [
     {
@@ -1257,14 +1107,8 @@
       "_season": "Valentines 2018",
       "_suffix": "Valentine"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ],
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Fall", "/Yukata"],
+    ["Xmas", "/Christmas"]
   ],
   "Kumano": [
     {
@@ -1279,10 +1123,7 @@
       "_season": "Eve Of Battle 2018",
       "_suffix": "Carrier Kai Ni Winter 2018 Event"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "Libeccio": [
     {
@@ -1332,18 +1173,9 @@
       "_season_suffix": "Italia",
       "_suffix": "Valentine"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Kai Xmas",
-      "Italia/Christmas"
-    ],
-    [
-      "Kai Christmas",
-      "Italia/Christmas"
-    ]
+    ["Xmas", "/Christmas"],
+    ["Kai Xmas", "Italia/Christmas"],
+    ["Kai Christmas", "Italia/Christmas"]
   ],
   "Maestrale": [
     {
@@ -1385,10 +1217,7 @@
       "_season": "Christmas 2016",
       "_suffix": "Christmas"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "Matsuwa": [
     {
@@ -1538,22 +1367,10 @@
       "_season": "Valentines 2019",
       "_suffix": "Valentine 2019"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ],
-    [
-      "White Day",
-      "/Gyudon"
-    ],
-    [
-      "Spring",
-      "/Spring Bouquet"
-    ],
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Fall", "/Yukata"],
+    ["White Day", "/Gyudon"],
+    ["Spring", "/Spring Bouquet"],
+    ["Xmas", "/Christmas"]
   ],
   "Mogami": [
     {
@@ -1568,10 +1385,7 @@
       "_season": "Eve Of Battle",
       "_suffix": "Surigao Strait Assault"
     },
-    [
-      "Surigao Strait",
-      "/Surigao Strait Assault"
-    ]
+    ["Surigao Strait", "/Surigao Strait Assault"]
   ],
   "Murakumo": [
     {
@@ -1636,24 +1450,11 @@
       "_season": "Fall 2016",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Mutsuki": [
     {
-      "_season": [
-        "Valentines 2015",
-        [
-          "Valentines 2016",
-          "2016"
-        ],
-        [
-          "Valentines 2017",
-          "2017"
-        ]
-      ],
+      "_season": ["Valentines 2015", ["Valentines 2016", "2016"], ["Valentines 2017", "2017"]],
       "_suffix": "Valentine"
     }
   ],
@@ -1715,64 +1516,25 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Kai Ni Spring Bouquet 2020"
     },
-    [
-      "Spring",
-      "/Spring Bouquet"
-    ],
-    [
-      "Spring 2016",
-      "/Spring Bouquet"
-    ],
-    [
-      "Spring Bouquet 2016",
-      "/Spring Bouquet"
-    ],
-    [
-      "Fall",
-      "/Yukata"
-    ],
-    [
-      "Spring 2017",
-      "/Spring Bouquet 2017"
-    ],
-    [
-      "Spring 2018",
-      "/Spring Bouquet 2018"
-    ],
-    [
-      "Kai Ni Spring 2018",
-      "/Kai Ni Spring Bouquet 2018"
-    ],
-    [
-      "Kai Ni Summer Casual",
-      "/Kai Ni Summer Uniform"
-    ],
-    [
-      "Spring 2019",
-      "/Spring Bouquet 2019"
-    ],
-    [
-      "Kai Ni Spring 2019",
-      "/Kai Ni Spring Bouquet 2019"
-    ],
-    [
-      "Spring 2020",
-      "/Spring Bouquet 2020"
-    ],
-    [
-      "Kai Ni Spring 2020",
-      "/Kai Ni Spring Bouquet 2020"
-    ]
+    ["Spring", "/Spring Bouquet"],
+    ["Spring 2016", "/Spring Bouquet"],
+    ["Spring Bouquet 2016", "/Spring Bouquet"],
+    ["Fall", "/Yukata"],
+    ["Spring 2017", "/Spring Bouquet 2017"],
+    ["Spring 2018", "/Spring Bouquet 2018"],
+    ["Kai Ni Spring 2018", "/Kai Ni Spring Bouquet 2018"],
+    ["Kai Ni Summer Casual", "/Kai Ni Summer Uniform"],
+    ["Spring 2019", "/Spring Bouquet 2019"],
+    ["Kai Ni Spring 2019", "/Kai Ni Spring Bouquet 2019"],
+    ["Spring 2020", "/Spring Bouquet 2020"],
+    ["Kai Ni Spring 2020", "/Kai Ni Spring Bouquet 2020"]
   ],
   "Nagara": [
     {
       "_season": "Fall 2015",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Nagato": [
     {
@@ -1806,24 +1568,15 @@
       "_season_suffix": "Kai Ni",
       "_suffix": "Kai Ni Christmas"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Kai Ni Xmas",
-      "/Kai Ni Christmas"
-    ]
+    ["Xmas", "/Christmas"],
+    ["Kai Ni Xmas", "/Kai Ni Christmas"]
   ],
   "Natori": [
     {
       "_season": "Fall 2015",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Nelson": [
     {
@@ -1892,14 +1645,8 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Celebration"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ],
-    [
-      "Kai Spring",
-      "/Kai Spring Bouquet"
-    ]
+    ["Fall", "/Yukata"],
+    ["Kai Spring", "/Kai Spring Bouquet"]
   ],
   "Okinami": [
     {
@@ -1990,34 +1737,13 @@
       "_season": "Eve Of Battle 2018",
       "_suffix": "Kai Winter 2018 Event"
     },
-    [
-      "New Year's",
-      "/New Year"
-    ],
-    [
-      "Kai New Year's",
-      "/Kai New Year"
-    ],
-    [
-      "Kai Fall",
-      "/Kai Yukata"
-    ],
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Kai Xmas",
-      "/Kai Christmas"
-    ],
-    [
-      "Kai White Day",
-      "/Kai Gyudon"
-    ],
-    [
-      "Kai Summer 2017",
-      "/Kai Do-Dodonpa"
-    ]
+    ["New Year's", "/New Year"],
+    ["Kai New Year's", "/Kai New Year"],
+    ["Kai Fall", "/Kai Yukata"],
+    ["Xmas", "/Christmas"],
+    ["Kai Xmas", "/Kai Christmas"],
+    ["Kai White Day", "/Kai Gyudon"],
+    ["Kai Summer 2017", "/Kai Do-Dodonpa"]
   ],
   "Oyashio": [
     {
@@ -2031,10 +1757,7 @@
       "_season_suffix": "Wine/Shopping",
       "_suffix": "Shopping"
     },
-    [
-      "Wine",
-      "/Shopping"
-    ]
+    ["Wine", "/Shopping"]
   ],
   "Richelieu": [
     {
@@ -2090,18 +1813,9 @@
       "_season_suffix": "Kai Ni",
       "_suffix": "Kai Ni Gyudon"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Kai Ni Xmas",
-      "/Kai Ni Christmas"
-    ],
-    [
-      "Kai Ni White Day",
-      "/Kai Ni Gyudon"
-    ]
+    ["Xmas", "/Christmas"],
+    ["Kai Ni Xmas", "/Kai Ni Christmas"],
+    ["Kai Ni White Day", "/Kai Ni Gyudon"]
   ],
   "Sado": [
     {
@@ -2226,42 +1940,15 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Celebration"
     },
-    [
-      "Christmas",
-      "/Christmas 2014"
-    ],
-    [
-      "Kai Christmas",
-      "/Kai Christmas 2016"
-    ],
-    [
-      "Xmas 2014",
-      "/Christmas 2014"
-    ],
-    [
-      "Xmas 2015",
-      "/Christmas 2015"
-    ],
-    [
-      "Xmas 2016",
-      "/Christmas 2016"
-    ],
-    [
-      "Kai Xmas 2016",
-      "/Kai Christmas 2016"
-    ],
-    [
-      "Xmas",
-      "/Christmas 2014"
-    ],
-    [
-      "Kai Xmas",
-      "/Kai Christmas 2016"
-    ],
-    [
-      "Rainy 2017",
-      "/Rainy"
-    ]
+    ["Christmas", "/Christmas 2014"],
+    ["Kai Christmas", "/Kai Christmas 2016"],
+    ["Xmas 2014", "/Christmas 2014"],
+    ["Xmas 2015", "/Christmas 2015"],
+    ["Xmas 2016", "/Christmas 2016"],
+    ["Kai Xmas 2016", "/Kai Christmas 2016"],
+    ["Xmas", "/Christmas 2014"],
+    ["Kai Xmas", "/Kai Christmas 2016"],
+    ["Rainy 2017", "/Rainy"]
   ],
   "Sendai": [
     {
@@ -2304,14 +1991,8 @@
       "_season_suffix": "Kai Ni",
       "_suffix": "Kai Ni Fall 2017 Event"
     },
-    [
-      "Kai Ni Xmas",
-      "/Kai Ni Christmas"
-    ],
-    [
-      "Kai Ni White Day",
-      "/Kai Ni Gyudon"
-    ]
+    ["Kai Ni Xmas", "/Kai Ni Christmas"],
+    ["Kai Ni White Day", "/Kai Ni Gyudon"]
   ],
   "Shikinami": [
     {
@@ -2365,10 +2046,7 @@
       "_season": "Summer 2020",
       "_suffix": "Kai Ni Summer"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Shouhou": [
     {
@@ -2425,10 +2103,7 @@
       "_season": "Eve Of Battle 2018",
       "_suffix": "Carrier Kai Ni Winter 2018 Event"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "Taigei": [
     {
@@ -2486,20 +2161,14 @@
       "_season": "Eve Of Battle 2018",
       "_suffix": "Kai Ni Winter 2018 Event"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Tanikaze": [
     {
       "_season": "Christmas 2015",
       "_suffix": "Christmas"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ]
+    ["Xmas", "/Christmas"]
   ],
   "Tatsuta": [
     {
@@ -2519,10 +2188,7 @@
       "_season_suffix": "Kai Ni",
       "_suffix": "Kai Ni Christmas"
     },
-    [
-      "Kai Ni Xmas",
-      "/Kai Ni Christmas"
-    ]
+    ["Kai Ni Xmas", "/Kai Ni Christmas"]
   ],
   "Tsushima": [
     {
@@ -2574,20 +2240,14 @@
       "_season": "Seventh Anniversary",
       "_suffix": "Kai Ni Spring Bouquet"
     },
-    [
-      "Kai Ni Spring",
-      "/Kai Ni Spring Bouquet"
-    ]
+    ["Kai Ni Spring", "/Kai Ni Spring Bouquet"]
   ],
   "Urakaze": [
     {
       "_season": "Fall 2015",
       "_suffix": "Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ]
+    ["Fall", "/Yukata"]
   ],
   "Uranami": [
     {
@@ -2662,10 +2322,7 @@
       "_season": "Sanma 2017",
       "_suffix": "Mackerel Pike Festival"
     },
-    [
-      "Happi",
-      "/Mackerel Pike Festival"
-    ]
+    ["Happi", "/Mackerel Pike Festival"]
   ],
   "Warspite": [
     {
@@ -2692,14 +2349,8 @@
       "_season": "Christmas 2017",
       "_suffix": "Autumn-Winter Uniform"
     },
-    [
-      "Xmas",
-      "/Christmas"
-    ],
-    [
-      "Fall Uniform 2018",
-      "/Autumn-Winter Uniform"
-    ]
+    ["Xmas", "/Christmas"],
+    ["Fall Uniform 2018", "/Autumn-Winter Uniform"]
   ],
   "Yamakaze": [
     {
@@ -2732,10 +2383,7 @@
       "_season": "Mid-Summer 2017",
       "_suffix": "Zuiun"
     },
-    [
-      "Shopping",
-      "/Oyakodon"
-    ]
+    ["Shopping", "/Oyakodon"]
   ],
   "Yamato": [
     {
@@ -2798,14 +2446,8 @@
       "_season": "Fall 2017",
       "_suffix": "Kai Ni Yukata"
     },
-    [
-      "Fall",
-      "/Yukata"
-    ],
-    [
-      "Kai Ni Fall",
-      "/Kai Ni Yukata"
-    ]
+    ["Fall", "/Yukata"],
+    ["Kai Ni Fall", "/Kai Ni Yukata"]
   ],
   "Yuubari": [
     {
@@ -2853,14 +2495,8 @@
       "_season": "Halloween 2019",
       "_suffix": "Kai Ni Halloween"
     },
-    [
-      "Kai Ni New Year's",
-      "/Kai Ni New Year"
-    ],
-    [
-      "Kai Ni Udon",
-      "/Kai Ni Oyakodon"
-    ]
+    ["Kai Ni New Year's", "/Kai Ni New Year"],
+    ["Kai Ni Udon", "/Kai Ni Oyakodon"]
   ],
   "Yuugumo": [
     {
@@ -2890,18 +2526,9 @@
       "_season": "Sixth Anniversary",
       "_suffix": "Kai Ni Spring Bouquet"
     },
-    [
-      "Spring",
-      "/Spring Bouquet"
-    ],
-    [
-      "Happi",
-      "/Mackerel Pike Festival"
-    ],
-    [
-      "Kai Ni Spring",
-      "/Kai Ni Spring Bouquet"
-    ]
+    ["Spring", "/Spring Bouquet"],
+    ["Happi", "/Mackerel Pike Festival"],
+    ["Kai Ni Spring", "/Kai Ni Spring Bouquet"]
   ],
   "Z1": [
     {

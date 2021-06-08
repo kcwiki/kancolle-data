@@ -3199,7 +3199,7 @@
     "_flight_range": false,
     "_icon": 2,
     "_id": 407,
-    "_info": "",
+    "_info": "阿賀野型軽巡シリーズの主兵装として開発された両用砲の性能向上改良型です。対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能、改良によりさらに運用性が向上しました。特に阿賀野型に最適化された、最新鋭if中口径主砲兵装です。",
     "_japanese_name": "15.2cm連装砲改二",
     "_los": false,
     "_luck": false,
@@ -7444,7 +7444,7 @@
     "_flight_range": false,
     "_icon": 5,
     "_id": 400,
-    "_info": "",
+    "_info": "北の国の艦艇用魚雷装備、その改良型です。北の国から来た艦艇にはもちろん、信頼できるあのコにもぜひ装備させてあげたいですね。хорошо!",
     "_japanese_name": "533mm 三連装魚雷(53-39型)",
     "_los": false,
     "_luck": false,
@@ -8511,7 +8511,7 @@
     "_flight_range": false,
     "_icon": 2,
     "_id": 386,
-    "_info": "",
+    "_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、これを三連装砲塔にまとめた軽巡主砲兵装です。米国の大型軽巡に搭載され、Brooklyn級や、次級のSt. Louis級、その後のCleveland級でも装備運用されました。",
     "_japanese_name": "6inch三連装速射砲 Mk.16",
     "_los": false,
     "_luck": false,
@@ -8542,7 +8542,7 @@
     "_flight_range": false,
     "_icon": 2,
     "_id": 387,
-    "_info": "",
+    "_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、これを三連装砲塔にまとめた軽巡主砲兵装です。米国の大型軽巡に搭載され、Brooklyn級や、次級のSt. Louis級、その後のCleveland級でも装備運用されました。本兵装はその改修強化型です。",
     "_japanese_name": "6inch三連装速射砲 Mk.16 mod.2",
     "_los": false,
     "_luck": false,
@@ -9538,7 +9538,7 @@
     "_flight_range": false,
     "_icon": 29,
     "_id": 402,
-    "_info": "",
+    "_info": "凍るような寒さの寒冷地で、空母の艦載機運用を支障なく行うための装備と、その航空機発着艦のための訓練を重ねた甲板要員です。",
     "_japanese_name": "寒冷地装備&甲板要員",
     "_los": false,
     "_luck": false,
@@ -10447,7 +10447,7 @@
     "_flight_range": 4,
     "_icon": 37,
     "_id": 401,
-    "_info": "",
+    "_info": "かの科学の国で開発され、数多く量産・運用された双発爆撃機です。大戦後期の列強の爆撃機と比べると、強力な機体ではありませんが、代表的な機体の一つです。機上レーダーを搭載した、夜間戦闘型も開発、運用されました。",
     "_japanese_name": "Do 17 Z-2",
     "_los": 2,
     "_luck": false,
@@ -10509,7 +10509,7 @@
     "_flight_range": 4,
     "_icon": 37,
     "_id": 406,
-    "_info": "",
+    "_info": "かの科学の国で開発され、数多く量産・運用された双発爆撃機Do 17、その改良後継機Do 217の後期型です。高出力エンジン採用による充実の爆弾搭載量、さらに大型戦艦に一撃で大ダメージを与える脅威の対艦誘導徹甲弾、Fritz-Xを運用可能な本機は、対戦艦攻撃に有効です。(※対艦誘導弾の火力は、雷装に表示されます)",
     "_japanese_name": "Do 217 K-2+Fritz-X",
     "_los": 3,
     "_luck": false,
@@ -11271,7 +11271,7 @@
     "_flight_range": 3,
     "_icon": 10,
     "_id": 371,
-    "_info": "",
+    "_info": "紅茶の国で開発/運用されたOspreyの後継たる艦艇運用を前提とした水上偵察機です。複葉でありながら剛性の高い機体で、大戦中期まで巡洋艦以上の艦艇に搭載され、航空索敵や弾着観測などで活躍しました。本機は、そのif改良輸出型です。",
     "_japanese_name": "Fairey Seafox改",
     "_los": 6,
     "_luck": false,
@@ -11588,7 +11588,7 @@
     "_flight_range": 7,
     "_icon": 37,
     "_id": 388,
-    "_info": "",
+    "_info": "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された陸上発進の攻撃機です。優れた機体設計により、高い性能を秘めていました。戦力化された時期が遅かったことや複雑な構造に問題もあった新鋭機「銀河」。本部隊は、同機で編成され、鵬部隊とも呼ばれた精鋭江草隊長率いる飛行隊です。",
     "_japanese_name": "銀河(江草隊)",
     "_los": 4,
     "_luck": false,
@@ -12021,7 +12021,7 @@
     "_flight_range": false,
     "_icon": 5,
     "_id": 383,
-    "_info": "",
+    "_info": "後期生産型の伊号潜水艦艦首に装備する潜水艦専用兵装の改良後期型です。水上艦艇に搭載するものよりやや直径の小さい長射程高威力を誇る必殺の潜水艦搭載酸素魚雷。その無気泡発射管改良後期型を潜水艦の艦首に8門集中した本兵装は、圧倒的な雷撃攻撃力を潜水艦に付与します。",
     "_japanese_name": "後期型53cm艦首魚雷(8門)",
     "_los": false,
     "_luck": false,
@@ -13060,13 +13060,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [
-      7,
-      32,
-      15,
-      17,
-      0
-    ]
+    "_types": [7, 32, 15, 17, 0]
   },
   "Prototype 35.6cm Triple Gun Mount": {
     "_aa": 5,
@@ -14210,13 +14204,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [
-      22,
-      39,
-      48,
-      38,
-      18
-    ],
+    "_types": [22, 39, 48, 38, 18],
     "_wikipedia": "Mitsubishi J2M"
   },
   "Re.2001 CB Kai": {
@@ -15271,13 +15259,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [
-      3,
-      44,
-      25,
-      21,
-      0
-    ]
+    "_types": [3, 44, 25, 21, 0]
   },
   "S-51J Kai": {
     "_aa": false,
@@ -15348,13 +15330,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [
-      3,
-      44,
-      25,
-      21,
-      0
-    ]
+    "_types": [3, 44, 25, 21, 0]
   },
   "S9 Osprey": {
     "_aa": 1,
@@ -15518,6 +15494,37 @@
     "_torpedo_accuracy": false,
     "_type": 7,
     "_wikipedia": "Douglas SBD Dauntless"
+  },
+  "SBD-5": {
+    "_aa": 2,
+    "_armor": false,
+    "_asw": 4,
+    "_bombing": 7,
+    "_buildable": false,
+    "_evasion": 3,
+    "_firepower": 1,
+    "_flight_cost": 5,
+    "_flight_range": 4,
+    "_icon": 7,
+    "_id": 419,
+    "_info": "シンプルかつ頑丈な作りの傑作急降下爆撃機の改良型です。大戦初期の機体でありつつも、新型SB2Cヘルダイバーが広く実戦配備されるまで長く機動部隊の第一線で運用されました。ドーントレスの愛称で呼ばれ、練度の高いパイロットであればある程度の対空戦闘すら可能な名艦爆。本機はエンジンなどを強化換装したその改良後期型です。",
+    "_japanese_name": "SBD-5",
+    "_los": 3,
+    "_luck": false,
+    "_name": "SBD-5",
+    "_range": false,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 3,
+    "_scrap_bauxite": 3,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 7
   },
   "SG Radar (Initial Model)": {
     "_aa": 3,
@@ -16176,13 +16183,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [
-      22,
-      39,
-      48,
-      38,
-      12
-    ]
+    "_types": [22, 39, 48, 38, 12]
   },
   "Shiden Kai 2": {
     "_aa": 9,
@@ -16402,13 +16403,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [
-      22,
-      39,
-      48,
-      38,
-      12
-    ]
+    "_types": [22, 39, 48, 38, 12]
   },
   "Shiden Model 21 Shiden Kai": {
     "_aa": 9,
@@ -16440,13 +16435,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [
-      22,
-      39,
-      48,
-      38,
-      12
-    ],
+    "_types": [22, 39, 48, 38, 12],
     "_wikipedia": "Kawanishi N1K"
   },
   "Shinden Kai": {
@@ -17222,13 +17211,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [
-      22,
-      39,
-      48,
-      44,
-      29
-    ],
+    "_types": [22, 39, 48, 44, 29],
     "_wikipedia": "Supermarine Spitfire (late Merlin-powered variants)"
   },
   "Spitfire Mk.V": {
@@ -19453,6 +19436,68 @@
     "_torpedo_accuracy": false,
     "_type": 6
   },
+  "Type 0 Fighter Model 21 (Tainan Air Group)": {
+    "_aa": 11,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 3,
+    "_firepower": false,
+    "_flight_cost": 4,
+    "_flight_range": 7,
+    "_icon": 38,
+    "_id": 416,
+    "_info": "圧倒的な練度を誇る、基地航空隊の戦闘機部隊「台南空」。数々のエースを輩出した熟練戦闘機搭乗員による零戦隊です。初期型ではありますが、航続距離が長く現場に愛された零式艦戦21型を駆り、制空戦闘や防空、攻撃隊掩護に活躍しました。",
+    "_japanese_name": "零式艦戦21型(台南空)",
+    "_los": 1,
+    "_luck": false,
+    "_name": "Type 0 Fighter Model 21 (Tainan Air Group)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 48
+  },
+  "Type 0 Fighter Model 22 (251 Air Group)": {
+    "_aa": 12,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 3,
+    "_firepower": false,
+    "_flight_cost": 4,
+    "_flight_range": 7,
+    "_icon": 38,
+    "_id": 418,
+    "_info": null,
+    "_japanese_name": "零式艦戦22型(251空)",
+    "_los": 1,
+    "_luck": false,
+    "_name": "Type 0 Fighter Model 22 (251 Air Group)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 3,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 48
+  },
   "Type 0 Fighter Model 32": {
     "_aa": 5,
     "_armor": false,
@@ -19758,6 +19803,37 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6
+  },
+  "Type 0 Fighter Model 32 (Tainan Air Group)": {
+    "_aa": 12,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 4,
+    "_firepower": false,
+    "_flight_cost": 4,
+    "_flight_range": 5,
+    "_icon": 38,
+    "_id": 417,
+    "_info": "圧倒的な練度を誇る、基地航空隊の戦闘機部隊「台南空」。数々のエースを輩出した熟練戦闘機搭乗員による零戦隊、より運動性の高い32型に機種転換しました。零式艦戦21型より航続距離が劣り、ソロモンの空では苦戦しましたが、高い格闘性能で制空戦闘や防空戦などで前線を支えます。",
+    "_japanese_name": "零式艦戦32型(台南空)",
+    "_los": 1,
+    "_luck": false,
+    "_name": "Type 0 Fighter Model 32 (Tainan Air Group)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 1,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 48
   },
   "Type 0 Fighter Model 52": {
     "_aa": 6,
@@ -21047,6 +21123,7 @@
       },
       "_steel": 10
     },
+    "_info": "最も量産された陸軍主力戦闘機、一式戦「隼」、その改良二型です。零式艦戦とよく似た機体ですが、防弾性にも留意したその機体はやや旧式ながら各戦線で戦いの最後まで奮戦を続けました。",
     "_japanese_name": "一式戦 隼II型",
     "_los": false,
     "_luck": false,
@@ -22965,13 +23042,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [
-      7,
-      32,
-      15,
-      17,
-      0
-    ]
+    "_types": [7, 32, 15, 17, 0]
   },
   "Type 3 Fighter Hien": {
     "_aa": 8,
@@ -23818,7 +23889,7 @@
     "_flight_range": false,
     "_icon": 31,
     "_id": 349,
-    "_info": "",
+    "_info": "地対地ロケット兵装として、日本陸軍によって開発された試製四式噴進砲。圧倒的な火力を集中的に投射して、敵の地上戦力や陣地を破壊制圧する目的で整備され、防御戦にも実際に投入されました。本兵装は、同地対地噴進砲を大量に艦載、集中運用して敵地上兵力を叩く強力な艦艇用対地if装備です。対地火力大ですが、被弾に弱く誘爆の危険もあります。",
     "_japanese_name": "四式20cm対地噴進砲 集中配備",
     "_los": false,
     "_luck": false,
@@ -23913,7 +23984,7 @@
     "_flight_range": 5,
     "_icon": 37,
     "_id": 404,
-    "_info": "",
+    "_info": "陸軍で開発された新鋭双発爆撃機キ67 四式重爆撃機「飛龍」です。爆弾搭載量は大きくないものの、軽快な運動性を誇り、機外懸架ではありますが魚雷装備も可能。決戦機として配備され、日本機としては充実の防御火力と防弾装備、各電波装備を持つ本機と熟練搭乗員による精鋭「飛龍」飛行戦隊です。",
     "_japanese_name": "四式重爆 飛龍(熟練)",
     "_los": 5,
     "_luck": false,
@@ -26413,7 +26484,7 @@
       },
       "_steel": false
     },
-    "_info": "",
+    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場した「九九艦爆」。固定脚の低速機ではありましたが、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担いました。後期改良機の二二型ではエンジンを換装、主に速度などの性能向上を図ります。既に旧式であることは否めませんが、本艦爆隊は、熟練搭乗員で構成された精鋭九九艦爆隊です。",
     "_japanese_name": "九九式艦爆二二型(熟練)",
     "_los": 3,
     "_luck": false,
