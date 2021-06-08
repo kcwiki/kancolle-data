@@ -116,6 +116,7 @@ api : object
   getEquipment : function
   getEquipmentType : function
   getItem : function
+  shipPrevIds : object
 asset : object
   key : function
   create : function
@@ -172,6 +173,7 @@ tl : function
   tlEquipmentTypeFromId : function
   tlItem : function
   tlItemFromId : function
+  shipBaseNames : array
 wiki : object
   enemy : object
   enemyEquipment : object
@@ -222,6 +224,7 @@ Generate game API with [kancolle-browser](https://github.com/kcwiki/kancolle-bro
 
 ```sh
 yarn global add @kancolle/browser # one time
+yarn global add quicktype # one time
 yarn fetch-api # to open the browser and save to /tmp/api_start2
 yarn build-api
 ```
@@ -232,10 +235,10 @@ Generate translations and map data from Wikia (via Poi) and KC3Kai sources:
 yarn build-external
 ```
 
-Update Wikia data:
+Update from Wikia data:
 
 ```sh
-yarn build-wiki-data
+yarn build-from-wiki
 ```
 
 Update dependencies:

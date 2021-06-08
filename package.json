@@ -15,37 +15,41 @@
   "files": [
     "api",
     "asset",
+    "build",
     "map",
     "tl",
+    "v2",
     "wiki",
     "index.js"
   ],
   "bin": {},
   "scripts": {
     "fetch-api": "kancolle-browser --save-api-and-exit /tmp/api_start2",
-    "build-api": "node build/api && yarn run quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
+    "build-api": "node build/api && quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
     "build-external": "sh build/external.sh",
-    "build-wiki-data": "node build/wiki-data.js",
+    "build-from-wiki": "node build/wiki-pull.js",
+    "deploy-wiki": "node build/wiki-push.js",
     "format": "prettier --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
     "lint": "eslint --fix .",
-    "test": "yarn format && yarn lint && tape test",
+    "test": "yarn format && yarn lint && node test",
     "up": "yarn upgrade --latest"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "bluebird": "^3.7.2",
+    "fs-extra": "^10.0.0",
+    "gm": "^1.23.1",
+    "lodash": "^4.17.21",
+    "lua-json": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "sort-keys": "^4.2.0"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "bluebird": "^3.7.2",
-    "eslint": "^7.28.0",
+    "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "fs-extra": "^10.0.0",
-    "lua-json": "^1.0.0",
-    "prettier": "^2.3.1",
-    "quicktype": "^15.0.260",
-    "sort-keys": "^4.2.0",
-    "tape": "^5.2.2"
+    "kuroshiro": "^1.2.0",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
+    "prettier": "^2.3.0"
   },
   "eslintConfig": {
     "env": {
@@ -56,7 +60,38 @@
       "eslint:recommended",
       "plugin:prettier/recommended"
     ],
-    "parser": "babel-eslint"
+    "parserOptions": {
+      "ecmaVersion": 2021
+    },
+    "plugins": [
+      "prettier"
+    ],
+    "rules": {
+      "complexity": [
+        "error",
+        6
+      ],
+      "max-depth": [
+        "error",
+        2
+      ],
+      "max-lines-per-function": [
+        "error",
+        80
+      ],
+      "max-nested-callbacks": [
+        "error",
+        3
+      ],
+      "max-params": [
+        "error",
+        3
+      ],
+      "max-statements": [
+        "error",
+        20
+      ]
+    }
   },
   "prettier": {
     "arrowParens": "avoid",

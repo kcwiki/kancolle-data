@@ -1,0 +1,562 @@
+{
+  "Action Report": {
+    "_name": "Action Report",
+    "_reading": "せんとうしょうほう (sentōshōhō)",
+    "_description": "This document can be used to provide valuable feedback based on combat training for future tactics and equipment modifications among other things. ※ Upgrading the fleet headquarters requires multiple action reports.",
+    "_category": 0,
+    "_id": 78,
+    "_japanese_description": "本資料の活用により、貴重な戦訓を今後の戦術や装備改修などにフィードバック可能です。※艦隊司令部の更新には、複数の戦闘詳報が必要です。",
+    "_japanese_name": "戦闘詳報",
+    "_type": 0
+  },
+  "Ammo": {
+    "_name": "Ammo",
+    "_reading": "だんやく (dan'yaku)",
+    "_description": "",
+    "_category": 17,
+    "_id": 32,
+    "_japanese_description": "",
+    "_japanese_name": "弾薬",
+    "_type": 6
+  },
+  "Bauxite": {
+    "_name": "Bauxite",
+    "_reading": "bōkisaito",
+    "_description": "",
+    "_category": 19,
+    "_id": 34,
+    "_japanese_description": "",
+    "_japanese_name": "ボーキサイト",
+    "_type": 6
+  },
+  "Canned Saury": {
+    "_name": "Canned Saury",
+    "_reading": "さんまのかんづめ (sammanokanzume)",
+    "_description": "This is canned seasonal Saury, \"Kabayaki\". Can be eaten on its own, of course, but tastes even better with onigiri and the like! (Consumed on use)",
+    "_category": 0,
+    "_id": 69,
+    "_japanese_description": "旬の秋刀魚「蒲焼」缶詰です。単品はもちろん、おにぎり等と一緒に食すとより美味しい！(発動すると消滅します)",
+    "_japanese_name": "秋刀魚の缶詰",
+    "_type": 0
+  },
+  "Combat Ration": {
+    "_name": "Combat Ration",
+    "_reading": "せんとうりょうしょく (sentōryōshoku)",
+    "_description": "When you're hungry... you gotta get something! Equip a shipgirl with a combat ration and fill up her belly before the decisive battle! (Consumed on use)",
+    "_category": 0,
+    "_id": 66,
+    "_japanese_description": "腹が減ってはなんとやら……！この戦闘糧食を装備して、合戦前にしっかりと腹ごしらえを！(発動すると消滅します)",
+    "_japanese_name": "戦闘糧食",
+    "_type": 0
+  },
+  "Combat Ration (Special Onigiri)": {
+    "_name": "Combat Ration (Special Onigiri)",
+    "_reading": "せんとうりょうしょく(とくべつなおにぎり) (sentōryōshoku(tokubetsunaonigiri))",
+    "_description": "When you're hungry... you gotta get something! This is a new type of high nutritional value combat food that is full of love and deliciousness. (Consumed on use)",
+    "_category": 0,
+    "_id": 76,
+    "_japanese_description": "腹が減ってはなんとやら……！愛情たっぷり美味しさバッチリの高栄養価新型戦闘糧食です。(発動消費すると消滅します)",
+    "_japanese_name": "戦闘糧食(特別なおにぎり)",
+    "_type": 0
+  },
+  "Construction Corps": {
+    "_name": "Construction Corps",
+    "_reading": "せつえいたい (setsueitai)",
+    "_description": "Required for setting up airfields and other facilities. ※ Can be used to expand the number of air base units. ※ Can have up to 10 in total.",
+    "_category": 0,
+    "_id": 73,
+    "_japanese_description": "飛行場などの設営に必要です。※基地航空隊の拡張も可能※最大計10個まで保有可能",
+    "_japanese_name": "設営隊",
+    "_type": 0
+  },
+  "Decoration Material": {
+    "_name": "Decoration Material",
+    "_reading": "おかざりざいりょう (okazarizairyō)",
+    "_description": "Materials for decorations ensuring the safety of fleet girls and admirals in the New Year, prepared by a certain food supply shipgirl. You can craft fleet safety decorations using 32 pieces.",
+    "_category": 0,
+    "_id": 72,
+    "_japanese_description": "ある給糧艦が、新年の艦隊艦娘と提督の安全を祈って準備するお飾りの材料。３２個消費して艦隊安全お飾りを制作可能。",
+    "_japanese_name": "お飾り材料",
+    "_type": 4
+  },
+  "Development Material": {
+    "_name": "Development Material",
+    "_reading": "かいはつしざい (kaihatsushizai)",
+    "_description": "Materials used for ship construction and equipment development.",
+    "_category": 3,
+    "_id": 3,
+    "_japanese_description": "建造・開発を行うのに使用する資材。",
+    "_japanese_name": "開発資材",
+    "_type": 3
+  },
+  "Dock Opening Key": {
+    "_name": "Dock Opening Key",
+    "_reading": "ドックかいほうキー (dokkukaihōkī)",
+    "_description": "A key that can open a repair dock or a construction dock. In addition, it can also add an additional fleet preset slot.",
+    "_category": 0,
+    "_id": 49,
+    "_japanese_description": "入渠ドックまたは工廠ドックを１つ開放できるキー。さらに、艦隊編成記録枠を１つ拡張することも可能です。",
+    "_japanese_name": "ドック開放キー",
+    "_type": 0
+  },
+  "Emergency Repair Goddess": {
+    "_name": "Emergency Repair Goddess",
+    "_reading": "おうきゅうしゅうりめがみ (ōkyūshūrimegami)",
+    "_description": "The Emergency Repair Personnel has powered up! Fully restores sortie capability when the ship using it is sunk.",
+    "_category": 0,
+    "_id": 51,
+    "_japanese_description": "応急修理要員がパワーアップ！撃沈回避時に出撃能力が全回復。",
+    "_japanese_name": "応急修理女神",
+    "_type": 0
+  },
+  "Emergency Repair Material": {
+    "_name": "Emergency Repair Material",
+    "_reading": "きんきゅうしゅうりしざい (kinkyūshūrishizai)",
+    "_description": "These are the materials needed to perform emergency repairs by an anchorage using ships such as repair ships. ※ Consumed when performing emergency anchorage repair.",
+    "_category": 0,
+    "_id": 91,
+    "_japanese_description": "工作艦などの艦で緊急泊地修理を実施時に必要な資材です。※緊急泊地修理を実施する際、一つ消費します。",
+    "_japanese_name": "緊急修理資材",
+    "_type": 0
+  },
+  "Emergency Repair Personnel": {
+    "_name": "Emergency Repair Personnel",
+    "_reading": "おうきゅうしゅうりよういん (ōkyūshūriyōin)",
+    "_description": "To equip in one of a ship's slot. The equipped ship can avoid being sunk only once.",
+    "_category": 0,
+    "_id": 50,
+    "_japanese_description": "艦のスロットに装備する。装備した艦は1度だけ撃沈を回避できる。",
+    "_japanese_name": "応急修理要員",
+    "_type": 0
+  },
+  "First Class Medal": {
+    "_name": "First Class Medal",
+    "_reading": "こうしゅくんしょう (kōshukunshō)",
+    "_description": "This is a certificate of victory given only to admirals who have conquered a difficult operation with their elite shipgirls. That, is the \"First Class Medal\". It can also be exchanged for materials.",
+    "_category": 0,
+    "_id": 61,
+    "_japanese_description": "難易度の高い作戦を、精鋭の艦娘たちと共に攻略した提督のみに贈られる勝利の証。それが、「甲種勲章」。資材等に交換することも可能です。",
+    "_japanese_name": "甲種勲章",
+    "_type": 4
+  },
+  "Food Supply Ship Irako": {
+    "_name": "Food Supply Ship Irako",
+    "_reading": "きゅうかてかん「いらこ」 (kyūkatekan\"irako\")",
+    "_description": "A new type of food supply ship that boosts the morale of shipgirls. Can be used in the \"Fleet\" menu.",
+    "_category": 0,
+    "_id": 59,
+    "_japanese_description": "艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。",
+    "_japanese_name": "給糧艦「伊良湖」",
+    "_type": 0
+  },
+  "Food Supply Ship Mamiya": {
+    "_name": "Food Supply Ship Mamiya",
+    "_reading": "きゅうかてかん「まみや」 (kyūkatekan\"mamiya\")",
+    "_description": "A food supply ship that recovers the entire fleet from fatigue. Can be used in the \"Fleet\" menu.",
+    "_category": 0,
+    "_id": 54,
+    "_japanese_description": "艦隊全体の疲労度を回復する給糧艦。編成で使用可能。",
+    "_japanese_name": "給糧艦「間宮」",
+    "_type": 0
+  },
+  "Fuel": {
+    "_name": "Fuel",
+    "_reading": "ねんりょう (nenryō)",
+    "_description": "",
+    "_category": 16,
+    "_id": 31,
+    "_japanese_description": "",
+    "_japanese_name": "燃料",
+    "_type": 6
+  },
+  "Furniture Box (Large)": {
+    "_name": "Furniture Box (Large)",
+    "_reading": "かぐばこ（だい） (kagubako(dai))",
+    "_description": "When you open it, a large amount of furniture coins will be revealed within.",
+    "_category": 6,
+    "_id": 12,
+    "_japanese_description": "開けると、中から大量の家具コインが出現する。",
+    "_japanese_name": "家具箱（大）",
+    "_type": 4
+  },
+  "Furniture Box (Medium)": {
+    "_name": "Furniture Box (Medium)",
+    "_reading": "かぐばこ（なか） (kagubako(naka))",
+    "_description": "When you open it, a medium amount of furniture coins will be revealed within.",
+    "_category": 6,
+    "_id": 11,
+    "_japanese_description": "開けると、中から中量の家具コインが出現する。",
+    "_japanese_name": "家具箱（中）",
+    "_type": 4
+  },
+  "Furniture Box (Small)": {
+    "_name": "Furniture Box (Small)",
+    "_reading": "かぐばこ（しょう） (kagubako(shō))",
+    "_description": "When you open it, a small amount of furniture coins will be revealed within.",
+    "_category": 6,
+    "_id": 10,
+    "_japanese_description": "開けると、中から少量の家具コインが出現する。",
+    "_japanese_name": "家具箱（小）",
+    "_type": 4
+  },
+  "Furniture Coin": {
+    "_name": "Furniture Coin",
+    "_reading": "かぐコイン (kagukoin)",
+    "_description": "",
+    "_category": 21,
+    "_id": 44,
+    "_japanese_description": "",
+    "_japanese_name": "家具コイン",
+    "_type": 6
+  },
+  "Furniture Fairy": {
+    "_name": "Furniture Fairy",
+    "_reading": "とくちゅうかぐしょくにん (tokuchūkagushokunin)",
+    "_description": "A craftsman who makes custom-made furniture. Used in the Furniture Shop.",
+    "_category": 0,
+    "_id": 52,
+    "_japanese_description": "特注家具を製作する職人さん。家具屋さんで使用する。",
+    "_japanese_name": "特注家具職人",
+    "_type": 0
+  },
+  "Headquarters Personnel": {
+    "_name": "Headquarters Personnel",
+    "_reading": "しれいぶよういん (shireibuyōin)",
+    "_description": "This is a headquarters personnel that increases the number of quests you can accept simultaneously. When used, you will be able to undertake one more quest at a time.",
+    "_category": 0,
+    "_id": 63,
+    "_japanese_description": "「任務」同時受託可能数を拡張することができる司令部要員です。使用すると、同時受託可能任務数が＋１拡張されます。",
+    "_japanese_name": "司令部要員",
+    "_type": 4
+  },
+  "Hishimochi": {
+    "_name": "Hishimochi",
+    "_reading": "ひしもち (hishimochi)",
+    "_description": "These delicious \"Hishimochi\" (water chestnuts) can only be found during Hinamatsuri. The desired contents can be selected upon usage.",
+    "_category": 0,
+    "_id": 62,
+    "_japanese_description": "桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。",
+    "_japanese_name": "菱餅",
+    "_type": 4
+  },
+  "Homeport Expansion": {
+    "_name": "Homeport Expansion",
+    "_reading": "ぼこうかくちょう (bokōkakuchō)",
+    "_description": "Maximum number of ships +10 (max 490). Maximum number of items +40 (max 2110).",
+    "_category": 0,
+    "_id": 53,
+    "_japanese_description": "最大保有艦娘数＋10(最大490)。最大保有アイテム数＋40(最大2110)。",
+    "_japanese_name": "母港拡張",
+    "_type": 0
+  },
+  "Houshou Dinner Ticket": {
+    "_name": "Houshou Dinner Ticket",
+    "_reading": "おおとりしょうさんのゆうしょくけん (ōtorishōsannoyūshokuken)",
+    "_description": "Please go through the curtains and walk into Houshou's small restaurant, you're welcomed inside. You can exchange this ticket for a heartfelt item. ※ Will disappear after a certain period of time.",
+    "_category": 0,
+    "_id": 89,
+    "_japanese_description": "あの暖簾をくぐって鳳翔さんの小料理屋へどうぞ。心尽くしアイテムと交換できます。※一定期間後、消滅します。",
+    "_japanese_name": "鳳翔さんの夕食券",
+    "_type": 4
+  },
+  "Improvement Material": {
+    "_name": "Improvement Material",
+    "_reading": "かいしゅうしざい (kaishūshizai)",
+    "_description": "Used in the \"Improvement Arsenal\" to improve equipment.",
+    "_category": 4,
+    "_id": 4,
+    "_japanese_description": "装備を改修する為の資材、「改修工廠」で使用します。",
+    "_japanese_name": "改修資材",
+    "_type": 3
+  },
+  "Instant Construction Material": {
+    "_name": "Instant Construction Material",
+    "_reading": "こうそくけんぞうざい (kōsokukenzōzai)",
+    "_description": "Reduces ship building time.",
+    "_category": 2,
+    "_id": 2,
+    "_japanese_description": "建造時間を短縮できる。",
+    "_japanese_name": "高速建造材",
+    "_type": 2
+  },
+  "Instant Repair Material": {
+    "_name": "Instant Repair Material",
+    "_reading": "こうそくしゅうふくざい (kōsokushūfukuzai)",
+    "_description": "Reduces docking time.",
+    "_category": 1,
+    "_id": 1,
+    "_japanese_description": "入渠時間を短縮できる。",
+    "_japanese_name": "高速修復材",
+    "_type": 1
+  },
+  "Marriage Ring and Documents": {
+    "_name": "Marriage Ring and Documents",
+    "_reading": "しょるいいっしき＆ゆびわ (shoruiisshiki&yubiwa)",
+    "_description": "A set of documents and a ring required for a fake marriage. Used in the \"Refit\" menu.",
+    "_category": 0,
+    "_id": 55,
+    "_japanese_description": "ケッコンカッコカリに必要な書類一式と指輪。改装で使用する。",
+    "_japanese_name": "書類一式＆指輪",
+    "_type": 0
+  },
+  "Medal": {
+    "_name": "Medal",
+    "_reading": "くんしょう (kunshō)",
+    "_description": "\"Certificate\" given to admirals who have carved victory over dawn's horizon. It can be exchanged for resources or improvement materials, or even a blueprint if you collect several.",
+    "_category": 0,
+    "_id": 57,
+    "_japanese_description": "暁の水平線に勝利を刻んだ提督に贈られる「証」。資源や改修資材、または複数集めて改装設計図と交換することも可能です。",
+    "_japanese_name": "勲章",
+    "_type": 4
+  },
+  "Ne Type Engine": {
+    "_name": "Ne Type Engine",
+    "_reading": "ネしきエンジン (neshikienjin)",
+    "_description": "A newly developed combustion jet propulsion. There are high expectations for its transformation into combat potential as a Japanese developed production-ready jet engine. (※ Can be used in quests or equipment upgrading)",
+    "_category": 0,
+    "_id": 71,
+    "_japanese_description": "新開発の燃焼噴射推進器です。日本初の実用ジェットエンジンとして戦力化が期待されます。(※任務/装備改修で使用可能)",
+    "_japanese_name": "ネ式エンジン",
+    "_type": 0
+  },
+  "New Model Aerial Armament Material": {
+    "_name": "New Model Aerial Armament Material",
+    "_reading": "しんがたこうくうへいそうしざい (shingatakōkūheisōshizai)",
+    "_description": "A technical drawing that is required for the development and utilisation of new aircraft materials. ※ Can be used in quests, equipment upgrading, etc. to build new aircraft models.",
+    "_category": 0,
+    "_id": 77,
+    "_japanese_description": "新型航空機材を開発及び戦力化に必要な技術図面と資材です。※任務や装備改修等で使用することで、今後新型機の開発が可能になります。",
+    "_japanese_name": "新型航空兵装資材",
+    "_type": 0
+  },
+  "New Model Armament Material": {
+    "_name": "New Model Armament Material",
+    "_reading": "しんがたへいそうしざい (shingataheisōshizai)",
+    "_description": "These are the technical drawings and materials necessary for the development and field deployment of new types of armaments. ※ Used in equipment upgrades, to deploy new types of armaments.",
+    "_category": 0,
+    "_id": 94,
+    "_japanese_description": "新型兵装の開発及び実戦配備に必要な技術図面と資材です。※装備改修等で使用することで、各種新型兵装の開発及び実戦配備が可能となります。",
+    "_japanese_name": "新型兵装資材",
+    "_type": 0
+  },
+  "New Model Gun Mount Improvement Material": {
+    "_name": "New Model Gun Mount Improvement Material",
+    "_reading": "しんがたほう熕へいそうしざい (shingatahō熕heisōshizai)",
+    "_description": "A technical drawing that is required for the development and utilisation of new artillery armament. ※ Can be used in quests, equipment upgrading, etc. ※ Developing new large- caliber main guns requires multiple materials.",
+    "_category": 0,
+    "_id": 75,
+    "_japanese_description": "新型砲熕兵装を開発及び戦力化に必要な技術図面と資材です。※任務や装備改修で使用可能。※新型大口径主砲等の開発には複数の同資材が必要です。",
+    "_japanese_name": "新型砲熕兵装資材",
+    "_type": 0
+  },
+  "New Model Rocket Development Material": {
+    "_name": "New Model Rocket Development Material",
+    "_reading": "しんがた噴しんそうびかいはつしざい (shingata噴shinsōbikaihatsushizai)",
+    "_description": "These are the technical drawings and materials required to develop and field the new jet propulsion equipment. ※ Can be used in quests and equipment upgrades, and to develop new jet propulsion equipment.",
+    "_category": 0,
+    "_id": 92,
+    "_japanese_description": "新型噴進装備を開発及び戦力化に必要な技術図面と資材です。※任務や装備改修等で使用することで、新型噴進装備の開発が可能になります。",
+    "_japanese_name": "新型噴進装備開発資材",
+    "_type": 0
+  },
+  "New Technology Aircraft Blueprint": {
+    "_name": "New Technology Aircraft Blueprint",
+    "_reading": "しんがたこうくうきせっけいず (shingatakōkūkisekkeizu)",
+    "_description": "These are the technical drawings required to develop and field a new type of aircraft. ※ Multiple drawings are required for development. ※ Can be used in quests and equipment upgrades.",
+    "_category": 0,
+    "_id": 74,
+    "_japanese_description": "新型航空機の開発、戦力化するために必要な技術図面です。※開発には複数図面必要です。※任務や装備改修で使用可能。",
+    "_japanese_name": "新型航空機設計図",
+    "_type": 0
+  },
+  "Nori": {
+    "_name": "Nori",
+    "_reading": "のり (nori)",
+    "_description": "Nori seaweed is a familiar marine product. It is indispensable for rice, onigiri (rice balls), and ochazuke (rice with green tea). ※ Will disappear at the end of the food event.",
+    "_category": 0,
+    "_id": 87,
+    "_japanese_description": "身近な海産物「海苔」。ご飯やおにぎり、お茶漬けのお供にも欠かせません。※食べ物イベ終了時に消滅します。",
+    "_japanese_name": "海苔",
+    "_type": 4
+  },
+  "Present Box": {
+    "_name": "Present Box",
+    "_reading": "プレゼントばこ (purezentobako)",
+    "_description": "A carefully wrapped gift box that can only be found during special occasions. The desired contents can be selected upon opening the box.",
+    "_category": 0,
+    "_id": 60,
+    "_japanese_description": "特別な時期だけ発見が可能となる丁寧に包装された「プレゼント箱」。開封時に希望の中味を選択することが可能です。",
+    "_japanese_name": "プレゼント箱",
+    "_type": 4
+  },
+  "Prototype Flight Deck Catapult": {
+    "_name": "Prototype Flight Deck Catapult",
+    "_reading": "しせいかんぱんカタパルト (shiseikampankataparuto)",
+    "_description": "This is a special aviation outfitting to remodel a full-fledged large aircraft carrier to make it more powerful. It is used for the second remodel of certain classes of aircraft carriers.",
+    "_category": 0,
+    "_id": 65,
+    "_japanese_description": "本格的な大型航空母艦を、より強力に改装するための、特殊な航空艤装です。ある型の正規空母の改二改装に使用します。",
+    "_japanese_name": "試製甲板カタパルト",
+    "_type": 0
+  },
+  "Reinforcement Expansion": {
+    "_name": "Reinforcement Expansion",
+    "_reading": "ほきょうぞうせつ (hokyōzōsetsu)",
+    "_description": "Adds a reinforcement expansion to a ship (requires Lv.30 or higher). This upgrade will add a reinforcement expansion equipment slot to the ship. (One-time use)",
+    "_category": 0,
+    "_id": 64,
+    "_japanese_description": "艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)",
+    "_japanese_name": "補強増設",
+    "_type": 0
+  },
+  "Remodel Blueprint": {
+    "_name": "Remodel Blueprint",
+    "_reading": "かいそうせっけいず (kaisōsekkeizu)",
+    "_description": "A blueprint used for special remodels of some shipgirls.",
+    "_category": 0,
+    "_id": 58,
+    "_japanese_description": "艦娘の「特別な改造」に使用する設計図。",
+    "_japanese_name": "改装設計図",
+    "_type": 0
+  },
+  "Rice": {
+    "_name": "Rice",
+    "_reading": "おこめ (okome)",
+    "_description": "This is delicious Japanese rice. Cook it up nice and fluffy, and enjoy! ※ Will disappear at the end of the food event.",
+    "_category": 0,
+    "_id": 85,
+    "_japanese_description": "美味しい日本の「お米」です。ふっくらと炊き上げて、召し上がれ！※食べ物イベ終了時に消滅します。",
+    "_japanese_name": "お米",
+    "_type": 4
+  },
+  "Sardine": {
+    "_name": "Sardine",
+    "_reading": "いわし (iwashi)",
+    "_description": "These are delicious seasonal sardines obtained by ensuring the safety of the fishing grounds and supporting sardine fishing. ※ Will disappear at the end of the Saury & Sardine Festival.",
+    "_category": 0,
+    "_id": 93,
+    "_japanese_description": "漁場の安全を確保し、鰯漁を支援することで入手した美味しい旬の「鰯」です。※秋刀魚＆鰯祭り終了時に消滅します。",
+    "_japanese_name": "鰯",
+    "_type": 4
+  },
+  "Saury": {
+    "_name": "Saury",
+    "_reading": "さんま (samma)",
+    "_description": "This is a valuable seasonal Saury obtained by ensuring the safety of the fishing grounds and supporting the Saury fishery. ※ Will disappear at the end of the Saury Festival.",
+    "_category": 0,
+    "_id": 68,
+    "_japanese_description": "漁場の安全を確保し、秋刀魚漁を支援することで入手した貴重な旬の「秋刀魚」です。※秋刀魚祭り終了時に消滅します。",
+    "_japanese_name": "秋刀魚",
+    "_type": 4
+  },
+  "Setsubun Beans": {
+    "_name": "Setsubun Beans",
+    "_reading": "せつぶんのまめ (setsubunnomame)",
+    "_description": "\"Devils out! Fortune in!\" Setsubun is an important seasonal event. Let's do our best to stay healthy and energetic by throwing beans this year!",
+    "_category": 0,
+    "_id": 90,
+    "_japanese_description": "「鬼は外！福は内！」季節の大切な行事、節分。今年も豆まきをして、健康に元気に頑張ってまいりましょう！",
+    "_japanese_name": "節分の豆",
+    "_type": 4
+  },
+  "Shou-Gou Medal": {
+    "_name": "Shou-Gou Medal",
+    "_reading": "としごうあきら (toshigōakira)",
+    "_description": "",
+    "_category": 0,
+    "_id": 84,
+    "_japanese_description": "",
+    "_japanese_name": "捷号章",
+    "_type": 0
+  },
+  "Skilled Crew Member": {
+    "_name": "Skilled Crew Member",
+    "_reading": "じゅくれんとうじょういん (jukurentōjōin)",
+    "_description": "A skilled and experienced aircrew member that is required in order to form a new elite air force. (※ Will be consumed when forming an air force)",
+    "_category": 0,
+    "_id": 70,
+    "_japanese_description": "精鋭の航空部隊を新規編成するために必要な、熟練した技術を持つ、航空機搭乗員です。(※部隊編成時に消滅します)",
+    "_japanese_name": "熟練搭乗員",
+    "_type": 0
+  },
+  "Special Chocolate": {
+    "_name": "Special Chocolate",
+    "_reading": "かんむすめからのチョコ (kanmusumekaranochoko)",
+    "_description": "Chocolates given by a shipgirl. You can click on it and get resources, or you could also just keep it.",
+    "_category": 0,
+    "_id": 56,
+    "_japanese_description": "艦娘から贈られたチョコ。クリックして資源にするのもよし、保存しておくのもよし。",
+    "_japanese_name": "艦娘からのチョコ",
+    "_type": 4
+  },
+  "Steel": {
+    "_name": "Steel",
+    "_reading": "こうざい (kōzai)",
+    "_description": "",
+    "_category": 18,
+    "_id": 33,
+    "_japanese_description": "",
+    "_japanese_name": "鋼材",
+    "_type": 6
+  },
+  "Strait Medal": {
+    "_name": "Strait Medal",
+    "_reading": "かいきょうあきら (kaikyōakira)",
+    "_description": "",
+    "_category": 0,
+    "_id": 79,
+    "_japanese_description": "",
+    "_japanese_name": "海峡章",
+    "_type": 0
+  },
+  "Submarine Supply Materials": {
+    "_name": "Submarine Supply Materials",
+    "_reading": "せんすいかんほきゅうぶっし (sensuikanhokyūbusshi)",
+    "_description": "These supplies are used by submarine fleets commanded by a submarine tender as flagship during submarine attacks. ※ Consumed during the attack.",
+    "_category": 0,
+    "_id": 95,
+    "_japanese_description": "旗艦潜水母艦によって指揮された潜水艦隊が潜水艦隊攻撃実施時に使用する補給物資です。※同攻撃実施で消費します。",
+    "_japanese_name": "潜水艦補給物資",
+    "_type": 0
+  },
+  "Tea": {
+    "_name": "Tea",
+    "_reading": "おちゃ (ocha)",
+    "_description": "Tea is calming and soothing. Fragrant Japanese tea, delicious ochazuke! ※ Will disappear at the end of the food event.",
+    "_category": 0,
+    "_id": 88,
+    "_japanese_description": "「お茶」は心を落ち着かせてくれます。香り高い日本茶、お茶漬けも美味しい！※食べ物イベ終了時に消滅します。",
+    "_japanese_name": "お茶",
+    "_type": 4
+  },
+  "Umeboshi": {
+    "_name": "Umeboshi",
+    "_reading": "うめぼし (umeboshi)",
+    "_description": "Umeboshi made by pickling plum fruits using a unique manufacturing method. Perfect for rice, onigiri (rice balls) and the such! ※ Will disappear at the end of the food event.",
+    "_category": 0,
+    "_id": 86,
+    "_japanese_description": "梅の実を独特の製法で漬けた「梅干」です。ご飯やおにぎりにもぴったりです※食べ物イベ終了時に消滅します。",
+    "_japanese_name": "梅干",
+    "_type": 4
+  },
+  "Underway Replenishment": {
+    "_name": "Underway Replenishment",
+    "_reading": "ようじょうほきゅう (yōjōhokyū)",
+    "_description": "Replenish your fleet with fuel and ammunition at sea during a combat voyage. Please support the fleet decisive battle! (Consumed on use)",
+    "_category": 0,
+    "_id": 67,
+    "_japanese_description": "戦闘航海中の洋上で燃料弾薬を艦隊補給することが可能です。艦隊決戦のサポートにどうぞ！（発動すると消滅します）",
+    "_japanese_name": "洋上補給",
+    "_type": 0
+  },
+  "Xmas Select Gift Box": {
+    "_name": "Xmas Select Gift Box",
+    "_reading": false,
+    "_description": "This is a large gift box to be given at Christmas 2021. Upon opening the box, the Admiral can choose what he prefers within the contents of the gift.",
+    "_category": 0,
+    "_id": 80,
+    "_japanese_description": "令和二年２０２０年クリスマスに贈られる大きなプレゼント箱です。開封時に、プレゼントの中身は提督が好きなものを選ぶことができます。",
+    "_japanese_name": "Xmas Select Gift Box",
+    "_type": 4
+  }
+}

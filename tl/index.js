@@ -10,6 +10,7 @@ const data = {
   shipType: require('./ship-type.json'),
   equipmentType: require('./equipment-type.json'),
   item: require('./item.json'),
+  itemDescription: require('./item-description.json'),
 }
 
 const tl = name => {

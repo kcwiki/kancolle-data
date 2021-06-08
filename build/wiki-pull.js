@@ -14,8 +14,6 @@ const categories = {
   quest: 'Quest',
 }
 
-// const getLuaData = async title => parse(await (await fetch(`https://kancolle.fandom.com/wiki/${title}?action=raw`)).text())
-
 const getLuaDataInCategory = async category => {
   const pages = []
   const loop = async cont => {
