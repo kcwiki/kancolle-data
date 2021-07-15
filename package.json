@@ -41,15 +41,15 @@
     "lodash": "^4.17.21",
     "lua-json": "^1.0.0",
     "node-fetch": "^2.6.1",
-    "sort-keys": "^4.2.0"
+    "sort-keys": "^5.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.27.0",
+    "eslint": "^7.30.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "kuroshiro": "^1.2.0",
     "kuroshiro-analyzer-kuromoji": "^1.1.0",
-    "prettier": "^2.3.0"
+    "prettier": "^2.3.2"
   },
   "eslintConfig": {
     "env": {
