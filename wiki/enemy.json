@@ -354,7 +354,7 @@
     "_rarity": 8,
     "_reading": "しんかいかくせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 128,
     "_type": 11,
     "_full_name": "Abyssal Crane Princess Damaged"
@@ -402,7 +402,7 @@
     "_rarity": 8,
     "_reading": "しんかいかくせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 128,
     "_type": 11,
     "_full_name": "Abyssal Crane Princess Damaged II"
@@ -449,7 +449,7 @@
     "_rarity": 8,
     "_reading": "しんかいかくせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 128,
     "_type": 11,
     "_full_name": "Abyssal Crane Princess Damaged III"
@@ -1039,7 +1039,7 @@
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 155,
     "_type": 3,
     "_full_name": "Abyssal Mediterranean Princess Damaged"
@@ -1086,7 +1086,7 @@
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 175,
     "_type": 3,
     "_full_name": "Abyssal Mediterranean Princess Damaged II"
@@ -1133,7 +1133,7 @@
     "_rarity": 8,
     "_reading": "しんかいちちゅうかいせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 195,
     "_type": 3,
     "_full_name": "Abyssal Mediterranean Princess Damaged III"
@@ -1316,7 +1316,7 @@
     "_rarity": 8,
     "_reading": "しんかいあまぐもき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 0,
     "_type": 2,
     "_full_name": "Abyssal Nimbus Princess Damaged"
@@ -1365,7 +1365,7 @@
     "_rarity": 8,
     "_reading": "しんかいあまぐもき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 0,
     "_type": 2,
     "_full_name": "Abyssal Nimbus Princess Damaged II"
@@ -1414,7 +1414,7 @@
     "_rarity": 8,
     "_reading": "しんかいあまぐもき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 0,
     "_type": 2,
     "_full_name": "Abyssal Nimbus Princess Damaged III"
@@ -1601,7 +1601,7 @@
     "_rarity": 8,
     "_reading": "たいへいようしんかいせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 110,
     "_type": 9,
     "_full_name": "Abyssal Pacific Princess Damaged"
@@ -1650,7 +1650,7 @@
     "_rarity": 8,
     "_reading": "たいへいようしんかいせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 130,
     "_type": 9,
     "_full_name": "Abyssal Pacific Princess Damaged II"
@@ -1699,7 +1699,7 @@
     "_rarity": 8,
     "_reading": "たいへいようしんかいせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 150,
     "_type": 9,
     "_full_name": "Abyssal Pacific Princess Damaged III"
@@ -1932,7 +1932,7 @@
     "_rarity": 8,
     "_reading": "しんかいにちせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 122,
     "_type": 16,
     "_full_name": "Abyssal Sun Princess Damaged II"
@@ -1980,7 +1980,7 @@
     "_rarity": 8,
     "_reading": "しんかいにちせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 166,
     "_type": 16,
     "_full_name": "Abyssal Sun Princess Damaged III"
@@ -2169,7 +2169,7 @@
     "_rarity": 8,
     "_reading": "しんかいふたごせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 120,
     "_type": 10,
     "_full_name": "Abyssal Twin Princesses Damaged"
@@ -2220,7 +2220,7 @@
     "_rarity": 8,
     "_reading": "しんかいふたごせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 150,
     "_type": 10,
     "_full_name": "Abyssal Twin Princesses Damaged II"
@@ -2271,7 +2271,7 @@
     "_rarity": 8,
     "_reading": "しんかいふたごせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 180,
     "_type": 10,
     "_full_name": "Abyssal Twin Princesses Damaged III"
@@ -4774,7 +4774,7 @@
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 145,
     "_type": 3,
     "_full_name": "Anti-Air Cruiser Princess Damaged"
@@ -4820,7 +4820,7 @@
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 165,
     "_type": 3,
     "_full_name": "Anti-Air Cruiser Princess Damaged II"
@@ -4866,7 +4866,7 @@
     "_rarity": 8,
     "_reading": "ぼうくうじゅんせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 195,
     "_type": 3,
     "_full_name": "Anti-Air Cruiser Princess Damaged III"
@@ -5045,7 +5045,7 @@
     "_rarity": 8,
     "_reading": "アンツィオおきせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 209,
     "_type": 2,
     "_full_name": "Anzio Princess Damaged"
@@ -5095,7 +5095,7 @@
     "_rarity": 8,
     "_reading": "アンツィオおきせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 249,
     "_type": 2,
     "_full_name": "Anzio Princess Damaged II"
@@ -5145,7 +5145,7 @@
     "_rarity": 8,
     "_reading": "アンツィオおきせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 299,
     "_type": 2,
     "_full_name": "Anzio Princess Damaged III"
@@ -5524,7 +5524,7 @@
     "_rarity": 8,
     "_reading": "バタビアおきせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 130,
     "_type": 8,
     "_full_name": "Batavia Princess Damaged"
@@ -5570,7 +5570,7 @@
     "_rarity": 8,
     "_reading": "バタビアおきせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 160,
     "_type": 8,
     "_full_name": "Batavia Princess Damaged II"
@@ -5616,7 +5616,7 @@
     "_rarity": 8,
     "_reading": "バタビアおきせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 190,
     "_type": 8,
     "_full_name": "Batavia Princess Damaged III"
@@ -6545,7 +6545,7 @@
     "_rarity": 8,
     "_reading": "せんかんすいきかい-かい",
     "_speed": 5,
-    "_suffix": "Kai - Damaged",
+    "_suffix": "Kai Damaged",
     "_torpedo": 0,
     "_type": 9,
     "_full_name": "Battleship Water Demon Kai Damaged"
@@ -6592,7 +6592,7 @@
     "_rarity": 8,
     "_reading": "せんかんすいきかい-かい",
     "_speed": 5,
-    "_suffix": "Kai - Damaged II",
+    "_suffix": "Kai Damaged II",
     "_torpedo": 0,
     "_type": 9,
     "_full_name": "Battleship Water Demon Kai Damaged II"
@@ -6639,7 +6639,7 @@
     "_rarity": 8,
     "_reading": "せんかんすいきかい-かい",
     "_speed": 5,
-    "_suffix": "Kai - Damaged III",
+    "_suffix": "Kai Damaged III",
     "_torpedo": 0,
     "_type": 9,
     "_full_name": "Battleship Water Demon Kai Damaged III"
@@ -6822,7 +6822,7 @@
     "_rarity": 8,
     "_reading": "ちゅうすうせいき-かい",
     "_speed": 0,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 120,
     "_type": 9,
     "_full_name": "Central Princess Damaged"
@@ -6870,7 +6870,7 @@
     "_rarity": 8,
     "_reading": "ちゅうすうせいき-かい",
     "_speed": 0,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 140,
     "_type": 9,
     "_full_name": "Central Princess Damaged II"
@@ -6917,7 +6917,7 @@
     "_rarity": 8,
     "_reading": "ちゅうすうせいき-かい",
     "_speed": 0,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 160,
     "_type": 9,
     "_full_name": "Central Princess Damaged III"
@@ -8839,7 +8839,7 @@
     "_rarity": 8,
     "_reading": "せんきょせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 0,
     "_type": 2,
     "_full_name": "Dock Princess Damaged"
@@ -8880,7 +8880,7 @@
     "_rarity": 8,
     "_reading": "せんきょせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 0,
     "_type": 2,
     "_full_name": "Dock Princess Damaged II"
@@ -8921,7 +8921,7 @@
     "_rarity": 8,
     "_reading": "せんきょせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 0,
     "_type": 2,
     "_full_name": "Dock Princess Damaged III"
@@ -9474,7 +9474,7 @@
     "_rarity": 8,
     "_reading": "ごえいせいすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 120,
     "_type": 7,
     "_full_name": "Escort Water Princess Damaged"
@@ -9522,7 +9522,7 @@
     "_rarity": 8,
     "_reading": "ごえいせいすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 140,
     "_type": 7,
     "_full_name": "Escort Water Princess Damaged II"
@@ -9570,7 +9570,7 @@
     "_rarity": 8,
     "_reading": "ごえいせいすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 160,
     "_type": 7,
     "_full_name": "Escort Water Princess Damaged III"
@@ -9752,7 +9752,7 @@
     "_rarity": 8,
     "_reading": "おうしゅうせいき‐かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 105,
     "_type": 10,
     "_full_name": "European Princess Damaged"
@@ -9799,7 +9799,7 @@
     "_rarity": 8,
     "_reading": "おうしゅうせいき‐かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 125,
     "_type": 10,
     "_full_name": "European Princess Damaged II"
@@ -9846,7 +9846,7 @@
     "_rarity": 8,
     "_reading": "おうしゅうせいき‐かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 155,
     "_type": 10,
     "_full_name": "European Princess Damaged III"
@@ -10028,7 +10028,7 @@
     "_rarity": 8,
     "_reading": "おうしゅうすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 110,
     "_type": 10,
     "_full_name": "European Water Princess Damaged"
@@ -10077,7 +10077,7 @@
     "_rarity": 8,
     "_reading": "おうしゅうすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 130,
     "_type": 10,
     "_full_name": "European Water Princess Damaged II"
@@ -10126,7 +10126,7 @@
     "_rarity": 8,
     "_reading": "おうしゅうすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 160,
     "_type": 10,
     "_full_name": "European Water Princess Damaged III"
@@ -10421,7 +10421,7 @@
     "_rarity": 8,
     "_reading": "せんかんふつせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "French Battleship Princess Damaged"
@@ -10468,7 +10468,7 @@
     "_rarity": 8,
     "_reading": "せんかんふつせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "French Battleship Princess Damaged II"
@@ -10515,7 +10515,7 @@
     "_rarity": 8,
     "_reading": "せんかんふつせいき-かい",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "French Battleship Princess Damaged III"
@@ -10696,7 +10696,7 @@
     "_rarity": 8,
     "_reading": "せんかんふつせいき-かい バカンスモード",
     "_speed": 10,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "French Battleship Princess Vacation Mode Damaged"
@@ -10744,7 +10744,7 @@
     "_rarity": 8,
     "_reading": "せんかんふつせいき-かい バカンスモード",
     "_speed": 10,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "French Battleship Princess Vacation Mode Damaged II"
@@ -10792,7 +10792,7 @@
     "_rarity": 8,
     "_reading": "せんかんふつせいき-かい バカンスモード",
     "_speed": 10,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "French Battleship Princess Vacation Mode Damaged III"
@@ -10980,7 +10980,7 @@
     "_rarity": 8,
     "_reading": "ごえいどくかんき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 0,
     "_type": 7,
     "_full_name": "German Escort Princess Damaged"
@@ -11030,7 +11030,7 @@
     "_rarity": 8,
     "_reading": "ごえいどくかんき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 0,
     "_type": 7,
     "_full_name": "German Escort Princess Damaged II"
@@ -11079,7 +11079,7 @@
     "_rarity": 8,
     "_reading": "ごえいどくかんき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 0,
     "_type": 7,
     "_full_name": "German Escort Princess Damaged III"
@@ -11610,7 +11610,7 @@
     "_rarity": 8,
     "_reading": "こうわんなつき-かい",
     "_speed": 0,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Summer Princess Damaged"
@@ -11657,7 +11657,7 @@
     "_rarity": 8,
     "_reading": "こうわんなつき-かい",
     "_speed": 0,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Summer Princess Damaged II"
@@ -11705,7 +11705,7 @@
     "_rarity": 8,
     "_reading": "こうわんなつき-かい",
     "_speed": 0,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Summer Princess Damaged III"
@@ -17030,7 +17030,7 @@
     "_rarity": 8,
     "_reading": "かいきょうやせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 90,
     "_type": 10,
     "_full_name": "Night Strait Princesses Damaged"
@@ -17077,7 +17077,7 @@
     "_rarity": 8,
     "_reading": "かいきょうやせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 105,
     "_type": 10,
     "_full_name": "Night Strait Princesses Damaged II"
@@ -17124,7 +17124,7 @@
     "_rarity": 8,
     "_reading": "かいきょうやせいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 120,
     "_type": 10,
     "_full_name": "Night Strait Princesses Damaged III"
@@ -17305,7 +17305,7 @@
     "_rarity": 8,
     "_reading": "ほっぽうせいまい-かい",
     "_speed": 0,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 130,
     "_type": 10,
     "_full_name": "Northern Little Sister Damaged"
@@ -17353,7 +17353,7 @@
     "_rarity": 8,
     "_reading": "ほっぽうせいまい-かい",
     "_speed": 0,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 150,
     "_type": 10,
     "_full_name": "Northern Little Sister Damaged II"
@@ -17401,7 +17401,7 @@
     "_rarity": 8,
     "_reading": "ほっぽうせいまい-かい",
     "_speed": 0,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 180,
     "_type": 10,
     "_full_name": "Northern Little Sister Damaged III"
@@ -17847,7 +17847,7 @@
     "_rarity": 8,
     "_reading": "ほっぽうすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 105,
     "_type": 10,
     "_full_name": "Northern Water Princess Damaged"
@@ -17893,7 +17893,7 @@
     "_rarity": 8,
     "_reading": "ほっぽうすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 118,
     "_type": 10,
     "_full_name": "Northern Water Princess Damaged II"
@@ -17939,7 +17939,7 @@
     "_rarity": 8,
     "_reading": "ほっぽうすいき-かい",
     "_speed": 5,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 130,
     "_type": 10,
     "_full_name": "Northern Water Princess Damaged III"
@@ -19978,7 +19978,7 @@
     "_rarity": 8,
     "_reading": "せんすいせいきかい-かいフラグシップ",
     "_speed": 5,
-    "_suffix": "Kai Flagship - Damaged",
+    "_suffix": "Kai Flagship Damaged",
     "_torpedo": 169,
     "_type": 13,
     "_full_name": "Submarine Princess Kai Flagship Damaged"
@@ -20017,7 +20017,7 @@
     "_rarity": 8,
     "_reading": "せんすいせいきかい-かいフラグシップ",
     "_speed": 5,
-    "_suffix": "Kai Flagship - Damaged II",
+    "_suffix": "Kai Flagship Damaged II",
     "_torpedo": 209,
     "_type": 13,
     "_full_name": "Submarine Princess Kai Flagship Damaged II"
@@ -20056,7 +20056,7 @@
     "_rarity": 8,
     "_reading": "せんすいせいきかい-かいフラグシップ",
     "_speed": 5,
-    "_suffix": "Kai Flagship - Damaged III",
+    "_suffix": "Kai Flagship Damaged III",
     "_torpedo": 239,
     "_type": 13,
     "_full_name": "Submarine Princess Kai Flagship Damaged III"
@@ -20589,248 +20589,6 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess"
   },
-  "Supply Depot Princess Damaged": {
-    "_aa": 70,
-    "_api_id": 1656,
-    "_armor": 130,
-    "_asw": 0,
-    "_back": -12,
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 12
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 4
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 130,
-    "_hp": 380,
-    "_id": 1656,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき-かい",
-    "_speed": 0,
-    "_suffix": "- Damaged",
-    "_torpedo": 88,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess Damaged"
-  },
-  "Supply Depot Princess Damaged II": {
-    "_aa": 80,
-    "_api_id": 1657,
-    "_armor": 160,
-    "_asw": 0,
-    "_back": -12,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
-    "_battle_card_reference": "/Damaged",
-    "_cg_reference": "/Damaged",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 8
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 160,
-    "_hp": 430,
-    "_id": 1657,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき-かい",
-    "_speed": 0,
-    "_suffix": "- Damaged II",
-    "_torpedo": 98,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess Damaged II"
-  },
-  "Supply Depot Princess Damaged III": {
-    "_aa": 90,
-    "_api_id": 1658,
-    "_armor": 190,
-    "_asw": 0,
-    "_back": -12,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
-    "_battle_card_reference": "/Damaged",
-    "_cg_reference": "/Damaged",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 32
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 32
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 8
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 190,
-    "_hp": 480,
-    "_id": 1658,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき-かい",
-    "_speed": 0,
-    "_suffix": "- Damaged III",
-    "_torpedo": 118,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess Damaged III"
-  },
-  "Supply Depot Princess II": {
-    "_aa": 70,
-    "_api_id": 1654,
-    "_armor": 130,
-    "_asw": 0,
-    "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
-    "_battle_card_reference": "/",
-    "_cg_reference": "/",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 12
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 4
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 90,
-    "_hp": 600,
-    "_id": 1654,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき",
-    "_speed": 0,
-    "_suffix": "II",
-    "_torpedo": 98,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess II"
-  },
-  "Supply Depot Princess III": {
-    "_aa": 80,
-    "_api_id": 1655,
-    "_armor": 160,
-    "_asw": 0,
-    "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
-    "_battle_card_reference": "/",
-    "_cg_reference": "/",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 8
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 130,
-    "_hp": 600,
-    "_id": 1655,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき",
-    "_speed": 0,
-    "_suffix": "III",
-    "_torpedo": 118,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess III"
-  },
   "Supply Depot Princess B": {
     "_aa": 60,
     "_air_power_estimation": true,
@@ -20917,7 +20675,7 @@
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー-かい",
     "_speed": 0,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 88,
     "_type": 10,
     "_full_name": "Supply Depot Princess B Damaged"
@@ -20965,7 +20723,7 @@
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー-かい",
     "_speed": 0,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 98,
     "_type": 10,
     "_full_name": "Supply Depot Princess B Damaged II"
@@ -21013,7 +20771,7 @@
     "_rarity": 8,
     "_reading": "しゅうせきちせいきツー-かい",
     "_speed": 0,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 118,
     "_type": 10,
     "_full_name": "Supply Depot Princess B Damaged III"
@@ -21209,6 +20967,248 @@
     "_torpedo": 78,
     "_type": 10,
     "_full_name": "Supply Depot Princess B IV"
+  },
+  "Supply Depot Princess Damaged": {
+    "_aa": 70,
+    "_api_id": 1656,
+    "_armor": 130,
+    "_asw": 0,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 380,
+    "_id": 1656,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき-かい",
+    "_speed": 0,
+    "_suffix": "Damaged",
+    "_torpedo": 88,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess Damaged"
+  },
+  "Supply Depot Princess Damaged II": {
+    "_aa": 80,
+    "_api_id": 1657,
+    "_armor": 160,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 160,
+    "_hp": 430,
+    "_id": 1657,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき-かい",
+    "_speed": 0,
+    "_suffix": "Damaged II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess Damaged II"
+  },
+  "Supply Depot Princess Damaged III": {
+    "_aa": 90,
+    "_api_id": 1658,
+    "_armor": 190,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 32
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 32
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 190,
+    "_hp": 480,
+    "_id": 1658,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき-かい",
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": 118,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess Damaged III"
+  },
+  "Supply Depot Princess II": {
+    "_aa": 70,
+    "_api_id": 1654,
+    "_armor": 130,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 90,
+    "_hp": 600,
+    "_id": 1654,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess II"
+  },
+  "Supply Depot Princess III": {
+    "_aa": 80,
+    "_api_id": 1655,
+    "_armor": 160,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 600,
+    "_id": 1655,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき",
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 118,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess III"
   },
   "Supply Depot Princess B Summer Landing Mode": {
     "_aa": 60,
@@ -21573,7 +21573,7 @@
     "_rarity": 8,
     "_reading": "しゅうせきちせいき バカンスモード-かい",
     "_speed": 0,
-    "_suffix": "- Damaged",
+    "_suffix": "Damaged",
     "_torpedo": 122,
     "_type": 9,
     "_full_name": "Supply Depot Princess Vacation Mode Damaged"
@@ -21622,7 +21622,7 @@
     "_rarity": 8,
     "_reading": "しゅうせきちせいき バカンスモード-かい",
     "_speed": 0,
-    "_suffix": "- Damaged II",
+    "_suffix": "Damaged II",
     "_torpedo": 144,
     "_type": 9,
     "_full_name": "Supply Depot Princess Vacation Mode Damaged II"
@@ -21671,7 +21671,7 @@
     "_rarity": 8,
     "_reading": "しゅうせきちせいき バカンスモード-かい",
     "_speed": 0,
-    "_suffix": "- Damaged III",
+    "_suffix": "Damaged III",
     "_torpedo": 188,
     "_type": 9,
     "_full_name": "Supply Depot Princess Vacation Mode Damaged III"
