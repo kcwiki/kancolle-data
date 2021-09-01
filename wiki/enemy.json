@@ -1232,6 +1232,284 @@
     "_type": 3,
     "_full_name": "Abyssal Mediterranean Princess III"
   },
+  "Abyssal Mediterranean Princess Vacation Mode": {
+    "_aa": 88,
+    "_api_id": 2035,
+    "_armor": 98,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 148,
+    "_hp": 700,
+    "_id": 2035,
+    "_japanese_name": "深海地中海棲姫 バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Vacation Mode",
+    "_torpedo": 108,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Vacation Mode"
+  },
+  "Abyssal Mediterranean Princess Vacation Mode Damaged": {
+    "_aa": 108,
+    "_api_id": 2038,
+    "_armor": 158,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 168,
+    "_hp": 700,
+    "_id": 2038,
+    "_japanese_name": "深海地中海棲姫 バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Vacation Mode Damaged",
+    "_torpedo": 148,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Vacation Mode Damaged"
+  },
+  "Abyssal Mediterranean Princess Vacation Mode Damaged II": {
+    "_aa": 118,
+    "_api_id": 2039,
+    "_armor": 238,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 208,
+    "_hp": 740,
+    "_id": 2039,
+    "_japanese_name": "深海地中海棲姫 バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Vacation Mode Damaged II",
+    "_torpedo": 178,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Vacation Mode Damaged II"
+  },
+  "Abyssal Mediterranean Princess Vacation Mode Damaged III": {
+    "_aa": 138,
+    "_api_id": 2040,
+    "_armor": 298,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 238,
+    "_hp": 790,
+    "_id": 2040,
+    "_japanese_name": "深海地中海棲姫 バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Vacation Mode Damaged III",
+    "_torpedo": 198,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Vacation Mode Damaged III"
+  },
+  "Abyssal Mediterranean Princess Vacation Mode II": {
+    "_aa": 98,
+    "_api_id": 2036,
+    "_armor": 198,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 188,
+    "_hp": 740,
+    "_id": 2036,
+    "_japanese_name": "深海地中海棲姫 バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Vacation Mode II",
+    "_torpedo": 118,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Vacation Mode II"
+  },
+  "Abyssal Mediterranean Princess Vacation Mode III": {
+    "_aa": 118,
+    "_api_id": 2037,
+    "_armor": 258,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 208,
+    "_hp": 790,
+    "_id": 2037,
+    "_japanese_name": "深海地中海棲姫 バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Mediterranean Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Vacation Mode III",
+    "_torpedo": 138,
+    "_type": 3,
+    "_full_name": "Abyssal Mediterranean Princess Vacation Mode III"
+  },
   "Abyssal Nimbus Princess": {
     "_aa": 77,
     "_api_id": 1846,
@@ -3888,6 +4166,100 @@
     "_torpedo": null,
     "_type": 10,
     "_full_name": "Airfield Princess XIII"
+  },
+  "Airfield Princess XIV": {
+    "_aa": 120,
+    "_api_id": 2047,
+    "_armor": 120,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Seaplane Tender Imp Aircraft",
+        "estimation": true,
+        "size": 12
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 50,
+    "_hp": 480,
+    "_id": 2047,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "XIV",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Airfield Princess XIV"
+  },
+  "Airfield Princess XV": {
+    "_aa": null,
+    "_api_id": 2048,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2048,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "XV",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XV"
   },
   "Anchorage Demon": {
     "_aa": 70,
@@ -9668,6 +10040,299 @@
     "_type": 7,
     "_full_name": "Escort Water Princess III"
   },
+  "European Armored Carrier Princess": {
+    "_aa": 150,
+    "_api_id": 2041,
+    "_armor": 234,
+    "_asw": null,
+    "_back": null,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 980,
+    "_id": 2041,
+    "_japanese_name": "欧州装甲空母棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "European Armored Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_torpedo": 0,
+    "_type": 18,
+    "_full_name": "European Armored Carrier Princess"
+  },
+  "European Armored Carrier Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2044,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2044,
+    "_japanese_name": "欧州装甲空母棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "European Armored Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 18,
+    "_full_name": "European Armored Carrier Princess Damaged"
+  },
+  "European Armored Carrier Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2045,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2045,
+    "_japanese_name": "欧州装甲空母棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "European Armored Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 18,
+    "_full_name": "European Armored Carrier Princess Damaged II"
+  },
+  "European Armored Carrier Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2046,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2046,
+    "_japanese_name": "欧州装甲空母棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "European Armored Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 18,
+    "_full_name": "European Armored Carrier Princess Damaged III"
+  },
+  "European Armored Carrier Princess II": {
+    "_aa": null,
+    "_api_id": 2042,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2042,
+    "_japanese_name": "欧州装甲空母棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "European Armored Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 18,
+    "_full_name": "European Armored Carrier Princess II"
+  },
+  "European Armored Carrier Princess III": {
+    "_aa": null,
+    "_api_id": 2043,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2043,
+    "_japanese_name": "欧州装甲空母棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "European Armored Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 18,
+    "_full_name": "European Armored Carrier Princess III"
+  },
   "European Princess": {
     "_aa": 130,
     "_api_id": 1755,
@@ -11804,6 +12469,283 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Summer Princess III"
+  },
+  "Harbour Summer Princess B": {
+    "_aa": 115,
+    "_api_id": 2023,
+    "_armor": 8,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 81
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 81
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 168,
+    "_hp": 750,
+    "_id": 2023,
+    "_japanese_name": "港湾夏姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Summer Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Harbour Summer Princess B"
+  },
+  "Harbour Summer Princess B Damaged": {
+    "_aa": 135,
+    "_api_id": 2026,
+    "_armor": 12,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 81
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 81
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 178,
+    "_hp": 750,
+    "_id": 2026,
+    "_japanese_name": "港湾夏姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Summer Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Harbour Summer Princess B Damaged"
+  },
+  "Harbour Summer Princess B Damaged II": {
+    "_aa": 165,
+    "_api_id": 2027,
+    "_armor": 210,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 81
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 198,
+    "_hp": 1050,
+    "_id": 2027,
+    "_japanese_name": "港湾夏姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Summer Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged II",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Harbour Summer Princess B Damaged II"
+  },
+  "Harbour Summer Princess B Damaged III": {
+    "_aa": 185,
+    "_api_id": 2028,
+    "_armor": 240,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 208,
+    "_hp": 1550,
+    "_id": 2028,
+    "_japanese_name": "港湾夏姫II-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Summer Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Harbour Summer Princess B Damaged III"
+  },
+  "Harbour Summer Princess B II": {
+    "_aa": 135,
+    "_api_id": 2024,
+    "_armor": 180,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 81
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 188,
+    "_hp": 1050,
+    "_id": 2024,
+    "_japanese_name": "港湾夏姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Summer Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Harbour Summer Princess B II"
+  },
+  "Harbour Summer Princess B III": {
+    "_aa": 165,
+    "_api_id": 2025,
+    "_armor": 220,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "15inch Coastal Artillery",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 1550,
+    "_id": 2025,
+    "_japanese_name": "港湾夏姫II",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Summer Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Harbour Summer Princess B III"
   },
   "Harbour Water Demon": {
     "_aa": 100,
@@ -15688,6 +16630,299 @@
     "_torpedo": 0,
     "_type": 11,
     "_full_name": "Lycoris Princess V"
+  },
+  "Mediterranean Dreadnought Water Princess": {
+    "_aa": 52,
+    "_api_id": 2029,
+    "_armor": 166,
+    "_asw": null,
+    "_back": null,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Mediterranean 12inch/46 Triple Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Mediterranean 12inch/46 Twin Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 2
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 166,
+    "_hp": 680,
+    "_id": 2029,
+    "_japanese_name": "地中海弩級水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Mediterranean Dreadnought Water Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_torpedo": 66,
+    "_type": 9,
+    "_full_name": "Mediterranean Dreadnought Water Princess"
+  },
+  "Mediterranean Dreadnought Water Princess Damaged": {
+    "_aa": 104,
+    "_api_id": 2032,
+    "_armor": 211,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Mediterranean 12.6inch/44 Triple Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Mediterranean 12.6inch/44 Twin Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 6
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 202,
+    "_hp": 680,
+    "_id": 2032,
+    "_japanese_name": "地中海弩級水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Mediterranean Dreadnought Water Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": 88,
+    "_type": 10,
+    "_full_name": "Mediterranean Dreadnought Water Princess Damaged"
+  },
+  "Mediterranean Dreadnought Water Princess Damaged II": {
+    "_aa": 114,
+    "_api_id": 2033,
+    "_armor": 255,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Mediterranean 12.6inch/44 Triple Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Mediterranean 12.6inch/44 Twin Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 12
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 212,
+    "_hp": 880,
+    "_id": 2033,
+    "_japanese_name": "地中海弩級水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Mediterranean Dreadnought Water Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Mediterranean Dreadnought Water Princess Damaged II"
+  },
+  "Mediterranean Dreadnought Water Princess Damaged III": {
+    "_aa": 134,
+    "_api_id": 2034,
+    "_armor": 344,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Mediterranean 12.6inch/44 Triple Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Mediterranean 12.6inch/44 Twin Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 36
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 222,
+    "_hp": 930,
+    "_id": 2034,
+    "_japanese_name": "地中海弩級水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Mediterranean Dreadnought Water Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": 128,
+    "_type": 10,
+    "_full_name": "Mediterranean Dreadnought Water Princess Damaged III"
+  },
+  "Mediterranean Dreadnought Water Princess II": {
+    "_aa": 62,
+    "_api_id": 2030,
+    "_armor": 211,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Mediterranean 12inch/46 Triple Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Mediterranean 12inch/46 Twin Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 3
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 188,
+    "_hp": 880,
+    "_id": 2030,
+    "_japanese_name": "地中海弩級水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Mediterranean Dreadnought Water Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": 88,
+    "_type": 9,
+    "_full_name": "Mediterranean Dreadnought Water Princess II"
+  },
+  "Mediterranean Dreadnought Water Princess III": {
+    "_aa": 82,
+    "_api_id": 2031,
+    "_armor": 255,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Mediterranean 12inch/46 Triple Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Mediterranean 12inch/46 Twin Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 211,
+    "_hp": 930,
+    "_id": 2031,
+    "_japanese_name": "地中海弩級水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Mediterranean Dreadnought Water Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": 98,
+    "_type": 9,
+    "_full_name": "Mediterranean Dreadnought Water Princess III"
   },
   "Midway Princess": {
     "_aa": 140,
@@ -21209,6 +22444,378 @@
     "_torpedo": 118,
     "_type": 10,
     "_full_name": "Supply Depot Princess III"
+  },
+  "Supply Depot Princess B Vacation Mode": {
+    "_aa": 44,
+    "_api_id": 2015,
+    "_armor": 22,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 32
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 60,
+    "_hp": 440,
+    "_id": 2015,
+    "_japanese_name": "集積地棲姫II バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode",
+    "_torpedo": 78,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Vacation Mode"
+  },
+  "Supply Depot Princess B Vacation Mode Damaged": {
+    "_aa": 66,
+    "_api_id": 2019,
+    "_armor": 44,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 110,
+    "_hp": 440,
+    "_id": 2019,
+    "_japanese_name": "集積地棲姫II バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged",
+    "_torpedo": 78,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Vacation Mode Damaged"
+  },
+  "Supply Depot Princess B Vacation Mode Damaged II": {
+    "_aa": 88,
+    "_api_id": 2020,
+    "_armor": 166,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 138,
+    "_hp": 1200,
+    "_id": 2020,
+    "_japanese_name": "集積地棲姫II バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged II",
+    "_torpedo": 122,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Vacation Mode Damaged II"
+  },
+  "Supply Depot Princess B Vacation Mode Damaged III": {
+    "_aa": 99,
+    "_api_id": 2021,
+    "_armor": 199,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 168,
+    "_hp": 3200,
+    "_id": 2021,
+    "_japanese_name": "集積地棲姫II バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged III",
+    "_torpedo": 144,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Vacation Mode Damaged III"
+  },
+  "Supply Depot Princess B Vacation Mode Damaged IV": {
+    "_aa": 111,
+    "_api_id": 2022,
+    "_armor": 222,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 198,
+    "_hp": 4800,
+    "_id": 2022,
+    "_japanese_name": "集積地棲姫II バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged IV",
+    "_torpedo": 188,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Vacation Mode Damaged IV"
+  },
+  "Supply Depot Princess B Vacation Mode II": {
+    "_aa": 66,
+    "_api_id": 2016,
+    "_armor": 133,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 64
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 118,
+    "_hp": 1200,
+    "_id": 2016,
+    "_japanese_name": "集積地棲姫II バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode II",
+    "_torpedo": 102,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Vacation Mode II"
+  },
+  "Supply Depot Princess B Vacation Mode III": {
+    "_aa": 77,
+    "_api_id": 2017,
+    "_armor": 166,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 88
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 148,
+    "_hp": 3200,
+    "_id": 2017,
+    "_japanese_name": "集積地棲姫II バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode III",
+    "_torpedo": 122,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Vacation Mode III"
+  },
+  "Supply Depot Princess B Vacation Mode IV": {
+    "_aa": 99,
+    "_api_id": 2018,
+    "_armor": 199,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 98
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 178,
+    "_hp": 4800,
+    "_id": 2018,
+    "_japanese_name": "集積地棲姫II バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Vacation Mode IV",
+    "_torpedo": 144,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Vacation Mode IV"
   },
   "Supply Depot Princess B Summer Landing Mode": {
     "_aa": 60,
