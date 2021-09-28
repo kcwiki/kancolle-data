@@ -4169,10 +4169,11 @@
   },
   "Airfield Princess XIV": {
     "_aa": 120,
+    "_air_power_estimation": true,
     "_api_id": 2047,
     "_armor": 120,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -4206,8 +4207,8 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XIV",
     "_torpedo": 0,
@@ -4215,49 +4216,50 @@
     "_full_name": "Airfield Princess XIV"
   },
   "Airfield Princess XV": {
-    "_aa": null,
+    "_aa": 120,
+    "_air_power_estimation": true,
     "_api_id": 2048,
-    "_armor": null,
+    "_armor": 120,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Seaplane Tender Imp Aircraft",
         "estimation": true,
-        "size": null
+        "size": 16
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 60,
+    "_hp": 480,
     "_id": 2048,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XV",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess XV"
   },
@@ -10051,22 +10053,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 13
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": null
+        "size": 12
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 12
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 12
       }
     ],
     "_evasion": null,
@@ -10086,9 +10088,9 @@
     "_full_name": "European Armored Carrier Princess"
   },
   "European Armored Carrier Princess Damaged": {
-    "_aa": null,
+    "_aa": 170,
     "_api_id": 2044,
-    "_armor": null,
+    "_armor": 272,
     "_asw": null,
     "_back": null,
     "_battle_card_damaged_reference": "/",
@@ -10096,29 +10098,29 @@
     "_cg_damaged_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 14
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": null
+        "size": 14
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 14
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 13
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 230,
+    "_hp": 980,
     "_id": 2044,
     "_japanese_name": "欧州装甲空母棲姫-壊",
     "_los": null,
@@ -10129,14 +10131,14 @@
     "_reading": null,
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 18,
     "_full_name": "European Armored Carrier Princess Damaged"
   },
   "European Armored Carrier Princess Damaged II": {
-    "_aa": null,
+    "_aa": 190,
     "_api_id": 2045,
-    "_armor": null,
+    "_armor": 332,
     "_asw": null,
     "_back": null,
     "_battle_card_damaged_reference": "/",
@@ -10146,29 +10148,29 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 17
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": null
+        "size": 17
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 17
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 16
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 270,
+    "_hp": 1080,
     "_id": 2045,
     "_japanese_name": "欧州装甲空母棲姫-壊",
     "_los": null,
@@ -10179,14 +10181,14 @@
     "_reading": null,
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 18,
     "_full_name": "European Armored Carrier Princess Damaged II"
   },
   "European Armored Carrier Princess Damaged III": {
-    "_aa": null,
+    "_aa": 220,
     "_api_id": 2046,
-    "_armor": null,
+    "_armor": 392,
     "_asw": null,
     "_back": null,
     "_battle_card_damaged_reference": "/",
@@ -10196,29 +10198,29 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 21
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": null
+        "size": 20
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 20
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 20
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 300,
+    "_hp": 1080,
     "_id": 2046,
     "_japanese_name": "欧州装甲空母棲姫-壊",
     "_los": null,
@@ -10229,14 +10231,14 @@
     "_reading": null,
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 18,
     "_full_name": "European Armored Carrier Princess Damaged III"
   },
   "European Armored Carrier Princess II": {
-    "_aa": null,
+    "_aa": 180,
     "_api_id": 2042,
-    "_armor": null,
+    "_armor": 284,
     "_asw": null,
     "_back": null,
     "_battle_card_damaged_reference": "/",
@@ -10246,29 +10248,29 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 14
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": null
+        "size": 14
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 14
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 13
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 240,
+    "_hp": 1080,
     "_id": 2042,
     "_japanese_name": "欧州装甲空母棲姫",
     "_los": null,
@@ -10279,14 +10281,14 @@
     "_reading": null,
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 18,
     "_full_name": "European Armored Carrier Princess II"
   },
   "European Armored Carrier Princess III": {
-    "_aa": null,
+    "_aa": 200,
     "_api_id": 2043,
-    "_armor": null,
+    "_armor": 324,
     "_asw": null,
     "_back": null,
     "_battle_card_damaged_reference": "/",
@@ -10296,29 +10298,29 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": null
+        "size": 17
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": null
+        "size": 17
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 17
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": null
+        "size": 16
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 1080,
     "_id": 2043,
     "_japanese_name": "欧州装甲空母棲姫",
     "_los": null,
@@ -10329,7 +10331,7 @@
     "_reading": null,
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 18,
     "_full_name": "European Armored Carrier Princess III"
   },
@@ -13970,7 +13972,7 @@
   "Heavy Cruiser Summer Princess II": {
     "_aa": 79,
     "_api_id": 1706,
-    "_armor": 169,
+    "_armor": 179,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
@@ -14016,7 +14018,7 @@
   "Heavy Cruiser Summer Princess III": {
     "_aa": 86,
     "_api_id": 1707,
-    "_armor": 189,
+    "_armor": 199,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",

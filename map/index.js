@@ -36,6 +36,7 @@ const nodeTypes = {
   '5-5-5': 'Boss',
   '6-0-4': 'Empty',
   '6-0-6': 'Empty',
+  '6-0-8': 'Empty',
   '6-0-14': 'Empty',
   '6-1-4': 'Empty',
   '6-6-4': 'Empty',
