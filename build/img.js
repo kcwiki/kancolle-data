@@ -50,7 +50,7 @@ map(
     each(toPairs(frames), ([frame, { frame: f }]) =>
       gm(`${dir}/${assets}.png`)
         .crop(f.w, f.h, f.x, f.y)
-        .write(`${dir}/${frame}.png`, err => err && console.error(err)),
+        .write(`${dir}/${frame.endsWith('.png') ? frame : `${frame}.png`}`, err => err && console.error(err)),
     )
   },
   { concurrency: 10 },
