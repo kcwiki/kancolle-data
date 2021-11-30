@@ -8319,6 +8319,123 @@
     "_type": 2,
     "_full_name": "Destroyer Na-Class Late Model II Flagship"
   },
+  "Destroyer Na-Class Mass-Produced Model IIe": {
+    "_aa": 63,
+    "_api_id": 2050,
+    "_armor": 61,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Late Model",
+    "_cg_reference": "/Late Model",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 69,
+    "_hp": 63,
+    "_id": 2050,
+    "_japanese_name": "駆逐ナ級IIe(量産型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Na-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model IIe",
+    "_torpedo": 104,
+    "_type": 2,
+    "_full_name": "Destroyer Na-Class Mass-Produced Model IIe"
+  },
+  "Destroyer Na-Class Mass-Produced Model IIe Elite": {
+    "_aa": 69,
+    "_api_id": 2051,
+    "_armor": 67,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Late Model Elite",
+    "_cg_reference": "/Late Model Elite",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 79,
+    "_hp": 66,
+    "_id": 2051,
+    "_japanese_name": "駆逐ナ級IIe(量産型)elite",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Na-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model IIe Elite",
+    "_torpedo": 114,
+    "_type": 2,
+    "_full_name": "Destroyer Na-Class Mass-Produced Model IIe Elite"
+  },
+  "Destroyer Na-Class Mass-Produced Model IIe Flagship": {
+    "_aa": 79,
+    "_api_id": 2052,
+    "_armor": 77,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Late Model Flagship",
+    "_cg_reference": "/Late Model Flagship",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 89,
+    "_hp": 69,
+    "_id": 2052,
+    "_japanese_name": "駆逐ナ級IIe(量産型)flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Na-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model IIe Flagship",
+    "_torpedo": 124,
+    "_type": 2,
+    "_full_name": "Destroyer Na-Class Mass-Produced Model IIe Flagship"
+  },
   "Destroyer Ni-Class": {
     "_aa": 8,
     "_api_id": 1504,
@@ -18023,6 +18140,45 @@
     "_type": 13,
     "_full_name": "New Submarine Princess Flagship IV"
   },
+  "New Submarine Princess Flagship V": {
+    "_aa": 0,
+    "_api_id": 2049,
+    "_armor": 33,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.2",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.2",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.2",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 22,
+    "_hp": 133,
+    "_id": 2049,
+    "_japanese_name": "潜水新棲姫flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Submarine Princess",
+    "_range": 1,
+    "_rarity": null,
+    "_reading": "せんすいしんせいきフラグシップ",
+    "_speed": 5,
+    "_suffix": "Flagship V",
+    "_torpedo": 102,
+    "_type": 13,
+    "_full_name": "New Submarine Princess Flagship V"
+  },
   "New Submarine Princess Vacation Mode Flagship": {
     "_aa": 0,
     "_api_id": 1805,
@@ -21375,6 +21531,264 @@
     "_torpedo": 195,
     "_type": 13,
     "_full_name": "Submarine Princess Kai Flagship III"
+  },
+  "Submarine Shark Water Demon Flagship": {
+    "_aa": 0,
+    "_api_id": 2053,
+    "_armor": 19,
+    "_asw": 0,
+    "_back": null,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 53,
+    "_hp": 277,
+    "_id": 2053,
+    "_japanese_name": "潜水鮫水鬼flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Shark Water Demon",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Flagship",
+    "_torpedo": 161,
+    "_type": 13,
+    "_full_name": "Submarine Shark Water Demon Flagship"
+  },
+  "Submarine Shark Water Demon Flagship Damaged": {
+    "_aa": 0,
+    "_api_id": 2056,
+    "_armor": 29,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 59,
+    "_hp": 277,
+    "_id": 2056,
+    "_japanese_name": "潜水鮫水鬼-壊flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Shark Water Demon",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Flagship Damaged",
+    "_torpedo": 191,
+    "_type": 13,
+    "_full_name": "Submarine Shark Water Demon Flagship Damaged"
+  },
+  "Submarine Shark Water Demon Flagship Damaged II": {
+    "_aa": 0,
+    "_api_id": 2057,
+    "_armor": 49,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/Flagship Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/Flagship Damaged",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 69,
+    "_hp": 477,
+    "_id": 2057,
+    "_japanese_name": "潜水鮫水鬼-壊flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Shark Water Demon",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Flagship Damaged II",
+    "_torpedo": 222,
+    "_type": 13,
+    "_full_name": "Submarine Shark Water Demon Flagship Damaged II"
+  },
+  "Submarine Shark Water Demon Flagship Damaged III": {
+    "_aa": 0,
+    "_api_id": 2058,
+    "_armor": 89,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/Flagship Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/Flagship Damaged",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 89,
+    "_hp": 577,
+    "_id": 2058,
+    "_japanese_name": "潜水鮫水鬼-壊flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Shark Water Demon",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Flagship Damaged III",
+    "_torpedo": 252,
+    "_type": 13,
+    "_full_name": "Submarine Shark Water Demon Flagship Damaged III"
+  },
+  "Submarine Shark Water Demon Flagship II": {
+    "_aa": 0,
+    "_api_id": 2054,
+    "_armor": 39,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/Flagship",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 63,
+    "_hp": 477,
+    "_id": 2054,
+    "_japanese_name": "潜水鮫水鬼flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Shark Water Demon",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Flagship II",
+    "_torpedo": 191,
+    "_type": 13,
+    "_full_name": "Submarine Shark Water Demon Flagship II"
+  },
+  "Submarine Shark Water Demon Flagship III": {
+    "_aa": 0,
+    "_api_id": 2055,
+    "_armor": 79,
+    "_asw": 0,
+    "_back": null,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/Flagship",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 83,
+    "_hp": 577,
+    "_id": 2055,
+    "_japanese_name": "潜水鮫水鬼flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Shark Water Demon",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Flagship III",
+    "_torpedo": 222,
+    "_type": 13,
+    "_full_name": "Submarine Shark Water Demon Flagship III"
   },
   "Submarine So-Class": {
     "_aa": 0,

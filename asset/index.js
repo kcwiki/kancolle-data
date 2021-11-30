@@ -49,6 +49,11 @@ const equipmentCharacter = equipment('item_character')
 const bgm = (id, type = 'port', server = '203.104.209.71') =>
   `http://${server}/kcs2/resources/bgm/${type}/${padStart(id, 3, '0')}_${create(id, `bgm_${type}`)}.mp3`
 
+const furnitureTypes = ['normal', 'thumbnail', 'picture', 'card', 'reward', 'movable']
+
+const furniture = (id, type = 'normal', server = '203.104.209.71') =>
+  `http://${server}/kcs2/resources/furniture/${type}/${padStart(id, 3, '0')}_${create(id, `furniture_${type}`)}.png`
+
 module.exports = {
   key,
   create,
@@ -70,4 +75,6 @@ module.exports = {
   equipmentItem,
   equipmentCharacter,
   bgm,
+  furnitureTypes,
+  furniture,
 }

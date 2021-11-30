@@ -5302,7 +5302,7 @@
     "reward_ammo": 800,
     "reward_bauxite": 0,
     "reward_fuel": 800,
-    "reward_other": "'''Choice between'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4<br>'''or'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''then choice between'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|New Model Armament Material|text=true|image=30px}} x2",
+    "reward_other": "'''Choice between'''<br>[[File:Improvement Materials.png|30px|link=Akashi's_Improvement_Arsenal]] x4<br>'''or'''<br>[[File:Food supply ship mamiya.png|30px|link=Fatigue]][[Glossary#Food_supply_ship_Mamiya|\"Mamiya\"]] x1<br>'''then choice between'''<br>{{EquipmentLink|New Model Gun Mount Improvement Material|text=true|image=30px}} x2<br>'''or'''<br>{{EquipmentLink|New Model Aerial Armament Material|text=true|image=30px}} x2",
     "reward_steel": 0,
     "title": "兵站強化遠征任務【拡張作戦】",
     "title_en": "Military Buildup Expedition Mission: \"Extra Operation\""
