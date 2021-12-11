@@ -5,6 +5,8 @@ const { _, forEach, fromPairs, toPairs, values, flatten, keyBy } = require('loda
 const sortKeys = require('sort-keys')
 const { parse } = require('lua-json')
 
+const { shipBaseNames } = require('../tl')
+
 const categories = {
   ship: 'Ship',
   enemy: 'Enemy',
@@ -93,9 +95,11 @@ const main = async () => {
     fix(data, '_artist')
     fix(data, '_availability')
     fix(data, '_wikipedia')
-    fix(data, '_buildable')
-    fix(data, '_buildable_lsc')
     fix(data, '_build_time')
+    if (!shipBaseNames.includes(data._full_name)) {
+      delete data._buildable
+      delete data._buildable_lsc
+    }
   })
 
   await outputJson(`${__dirname}/../wiki/ship.json`, ships, { spaces: 2 })

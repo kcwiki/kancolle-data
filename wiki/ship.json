@@ -137,8 +137,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Abukuma",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 75
   },
   "Abukuma Kai Ni": {
@@ -212,8 +210,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Abukuma",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 75
   },
   "Agano": {
@@ -358,8 +354,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese cruiser Agano",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 60
   },
   "Akagi": {
@@ -516,8 +510,6 @@
       "quest": ["B10"]
     },
     "_wikipedia": "Japanese aircraft carrier Akagi",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 270
   },
   "Akagi Kai Ni": {
@@ -604,9 +596,7 @@
     "_availability": {
       "quest": ["B10"]
     },
-    "_wikipedia": "Japanese aircraft carrier Akagi",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Akagi"
   },
   "Akagi Kai Ni E": {
     "_aa": 40,
@@ -700,9 +690,7 @@
     "_availability": {
       "quest": ["B10"]
     },
-    "_wikipedia": "Japanese aircraft carrier Akagi",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Akagi"
   },
   "Akashi": {
     "_aa": 10,
@@ -848,8 +836,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese repair ship Akashi",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 220
   },
   "Akatsuki": {
@@ -990,8 +976,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Akatsuki (1932)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Akatsuki Kai Ni": {
@@ -1065,8 +1049,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Akatsuki (1932)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Akebono": {
@@ -1205,8 +1187,6 @@
     "_artist": "drew",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Akebono (1930)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Akebono Kai Ni": {
@@ -1283,9 +1263,7 @@
     "_voice_actor": "Hayasaka Kozue",
     "_artist": "drew",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Akebono (1930)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Akebono (1930)"
   },
   "Akigumo": {
     "_aa": 9,
@@ -1425,8 +1403,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Akigumo",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Akigumo Kai Ni": {
@@ -1504,9 +1480,7 @@
     "_voice_actor": "Taketatsu Ayana",
     "_artist": "Fujikawa",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Akigumo",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Akigumo"
   },
   "Akishimo": {
     "_aa": 8,
@@ -1648,9 +1622,7 @@
     "_implementation_date": [2019, 12, 7],
     "_voice_actor": "Toyoguchi Megumi",
     "_artist": "Fujikawa",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Akitsu Maru": {
     "_aa": 13,
@@ -1788,8 +1760,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": [],
     "_wikipedia": "Japanese aircraft carrier Akitsu Maru",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 150
   },
   "Akitsushima": {
@@ -1929,8 +1899,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese seaplane tender Akitsushima",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 70
   },
   "Akizuki": {
@@ -2075,8 +2043,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese destroyer Akizuki",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 30
   },
   "Amagi": {
@@ -2227,8 +2193,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese aircraft carrier Amagi",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 210
   },
   "Amagiri": {
@@ -2370,9 +2334,7 @@
     "_voice_actor": "Suzuki Minori",
     "_artist": "drew",
     "_availability": ["event_drop", "drop", ["drop", [[7, 2, "M"]]]],
-    "_wikipedia": "Japanese destroyer Amagiri (1930)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Amagiri (1930)"
   },
   "Amatsukaze": {
     "_aa": 22,
@@ -2514,8 +2476,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese destroyer Amatsukaze (1939)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 30
   },
   "Aoba": {
@@ -2621,7 +2581,7 @@
       }
     ],
     "_evasion": 38,
-    "_evasion_max": 75,
+    "_evasion_max": 80,
     "_firepower": 36,
     "_firepower_max": 72,
     "_firepower_mod": 2,
@@ -2664,8 +2624,6 @@
     "_artist": "hatsuko",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Aoba",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Aquila": {
@@ -2815,8 +2773,6 @@
     "_artist": "Jiji",
     "_availability": ["event_drop"],
     "_wikipedia": "Italian aircraft carrier Aquila",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 240
   },
   "Arare": {
@@ -2957,8 +2913,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Arare (1937)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Arare Kai Ni": {
@@ -3034,9 +2988,7 @@
     "_voice_actor": "Miyakawa Wakana",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Arare (1937)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Arare (1937)"
   },
   "Arashi": {
     "_aa": 9,
@@ -3176,8 +3128,6 @@
     "_artist": "Konishi",
     "_availability": ["event_drop", "drop"],
     "_wikipedia": "Japanese destroyer Arashi",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Arashio": {
@@ -3318,8 +3268,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Arashio",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Arashio Kai Ni": {
@@ -3394,8 +3342,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Arashio",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Ariake": {
@@ -3541,9 +3487,7 @@
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Kujou Ichiso",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Ariake (1934)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Ariake (1934)"
   },
   "Ark Royal": {
     "_aa": 30,
@@ -3698,9 +3642,7 @@
     "_voice_actor": "Uchida Shuu",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
-    "_wikipedia": "HMS Ark Royal (91)",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "HMS Ark Royal (91)"
   },
   "Asagumo": {
     "_aa": 9,
@@ -3838,8 +3780,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Asagumo (1937)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Asakaze": {
@@ -3856,8 +3796,8 @@
     "_asw_max": 55,
     "_availability": ["event_drop"],
     "_build_time": 18,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Kamikaze",
     "_class_number": 2,
     "_equipment": [
@@ -3921,8 +3861,6 @@
     "_asw": 18,
     "_asw_max": 68,
     "_build_time": 18,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Kamikaze",
@@ -4123,8 +4061,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Asashimo",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Asashimo Kai Ni": {
@@ -4202,9 +4138,7 @@
     "_voice_actor": "Kayano Ai",
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese destroyer Asashimo",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Asashimo"
   },
   "Asashio": {
     "_aa": 12,
@@ -4344,8 +4278,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Asashio (1936)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Asashio Kai Ni": {
@@ -4419,8 +4351,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Asashio (1936)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Asashio Kai Ni D": {
@@ -4472,7 +4402,7 @@
     "_remodel_ammo": 390,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Asashio/Kai Ni",
     "_remodel_level": 85,
     "_remodel_steel": 360,
@@ -4480,7 +4410,7 @@
     "_remodel_to_ammo": 360,
     "_remodel_to_blueprint": false,
     "_remodel_to_catapult": false,
-    "_remodel_to_development_material": null,
+    "_remodel_to_development_material": false,
     "_remodel_to_level": 85,
     "_remodel_to_steel": 390,
     "_scrap_ammo": 2,
@@ -4500,8 +4430,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Asashio (1936)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Ashigara": {
@@ -4650,8 +4578,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Ashigara",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Ashigara Kai Ni": {
@@ -4729,8 +4655,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Ashigara",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Atago": {
@@ -4879,8 +4803,6 @@
     "_artist": "Mikoto Akemi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Atago",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 85
   },
   "Atlanta": {
@@ -5030,9 +4952,7 @@
     "_voice_actor": "Nazuka Kaori",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
-    "_wikipedia": "USS_Atlanta_(CL-51)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS_Atlanta_(CL-51)"
   },
   "Ayanami": {
     "_aa": 12,
@@ -5172,8 +5092,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ayanami (1929)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Ayanami Kai Ni": {
@@ -5247,8 +5165,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ayanami (1929)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Bismarck": {
@@ -5361,15 +5277,6 @@
     "_firepower_max": 99,
     "_firepower_mod": 4,
     "_fuel": 110,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 1,
-      "381mm": 0,
-      "41cm": -1,
-      "46cm": -1,
-      "51cm": false,
-      "Proto 46cm": -1
-    },
     "_hp": 96,
     "_hp_max": 99,
     "_id": 178,
@@ -5408,8 +5315,6 @@
     "_artist": "Shimada Humikane",
     "_availability": [],
     "_wikipedia": "German battleship Bismarck",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 300
   },
   "Bismarck Kai": {
@@ -5487,8 +5392,6 @@
     "_artist": "Shimada Humikane",
     "_availability": [],
     "_wikipedia": "German battleship Bismarck",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 300
   },
   "Bismarck Zwei": {
@@ -5566,8 +5469,6 @@
     "_artist": "Shimada Humikane",
     "_availability": [],
     "_wikipedia": "German battleship Bismarck",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 300
   },
   "Chikuma": {
@@ -5716,8 +5617,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Chikuma (1938)",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Chikuma Kai Ni": {
@@ -5763,9 +5662,9 @@
     "_implementation_date": [2014, 4, 23],
     "_japanese_name": "筑摩改二",
     "_los": 30,
-    "_los_max": 92,
+    "_los_max": 93,
     "_luck": 14,
-    "_luck_max": 68,
+    "_luck_max": 70,
     "_luck_mod": false,
     "_name": "Chikuma",
     "_range": 2,
@@ -5795,8 +5694,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Chikuma (1938)",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Chitose": {
@@ -5935,8 +5832,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chitose",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chitose Carrier": {
@@ -6010,8 +5905,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chitose",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chitose Carrier Kai": {
@@ -6091,8 +5984,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chitose",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chitose Carrier Kai Ni": {
@@ -6170,8 +6061,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chitose",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chitose Kai": {
@@ -6245,8 +6134,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chitose",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chiyoda": {
@@ -6385,8 +6272,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chiyoda",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chiyoda Carrier": {
@@ -6460,8 +6345,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chiyoda",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chiyoda Carrier Kai": {
@@ -6541,8 +6424,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chiyoda",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chiyoda Carrier Kai Ni": {
@@ -6620,8 +6501,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chiyoda",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chiyoda Kai": {
@@ -6695,8 +6574,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Chiyoda",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 140
   },
   "Chougei": {
@@ -6708,7 +6585,7 @@
     "_armor": 5,
     "_armor_max": 28,
     "_armor_mod": 1,
-    "_artist": null,
+    "_artist": "Akasaka Yuzu",
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_drop"],
@@ -6762,7 +6639,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 20,
-    "_voice_actor": null,
+    "_voice_actor": "Yamada Misuzu",
     "_voice_flag": 1,
     "_full_name": "Chougei"
   },
@@ -6836,11 +6713,9 @@
     "_voice_flag": 3,
     "_full_name": "Chougei Kai",
     "_implementation_date": [2021, 8, 20],
-    "_voice_actor": null,
-    "_artist": null,
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_voice_actor": "Yamada Misuzu",
+    "_artist": "Akasaka Yuzu",
+    "_availability": ["event_drop"]
   },
   "Choukai": {
     "_aa": 18,
@@ -6988,8 +6863,6 @@
     "_artist": "Parsley",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Chōkai",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 85
   },
   "Choukai Kai Ni": {
@@ -7067,8 +6940,6 @@
     "_artist": "Parsley",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Chōkai",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 85
   },
   "Colorado": {
@@ -7222,9 +7093,7 @@
     "_implementation_date": [2019, 5, 25],
     "_voice_actor": "Asami Haruna",
     "_artist": "Parsley",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Commandant Teste": {
     "_aa": 18,
@@ -7240,8 +7109,8 @@
     "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 140,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Commandant Teste",
     "_class_number": 1,
     "_equipment": [
@@ -7309,8 +7178,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 140,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Commandant Teste",
@@ -7450,7 +7317,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 9,
-    "_voice_actor": null,
+    "_voice_actor": "Iida Hikaru",
     "_voice_flag": 1,
     "_full_name": "Conte di Cavour"
   },
@@ -7529,11 +7396,9 @@
     "_voice_flag": 3,
     "_full_name": "Conte di Cavour Kai",
     "_implementation_date": [2021, 8, 20],
-    "_voice_actor": null,
+    "_voice_actor": "Iida Hikaru",
     "_artist": "Jiji",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Conte di Cavour Nuovo": {
     "_aa": 48,
@@ -7610,11 +7475,9 @@
     "_voice_flag": 3,
     "_full_name": "Conte di Cavour Nuovo",
     "_implementation_date": [2021, 8, 20],
-    "_voice_actor": null,
+    "_voice_actor": "Iida Hikaru",
     "_artist": "Jiji",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Daitou": {
     "_aa": 10,
@@ -7695,8 +7558,6 @@
     "_asw": 40,
     "_asw_max": 85,
     "_build_time": 9,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Hiburi",
@@ -7837,9 +7698,7 @@
     "_voice_actor": "Fujita Saki",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Yukikaze (1939)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Yukikaze (1939)"
   },
   "De Ruyter": {
     "_aa": 20,
@@ -7986,9 +7845,7 @@
     "_implementation_date": [2019, 11, 30],
     "_voice_actor": "Moriyama Yurika",
     "_artist": "Sara",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Duca degli Abruzzi": {
     "_aa": 20,
@@ -8138,9 +7995,7 @@
     "_implementation_date": [2019, 8, 30],
     "_voice_actor": "Moriyama Yurika",
     "_artist": "Jiji",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Etorofu": {
     "_aa": 7,
@@ -8220,8 +8075,6 @@
     "_asw": 37,
     "_asw_max": 79,
     "_build_time": 14,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_class": "Etorofu",
     "_class_number": 1,
     "_equipment": [
@@ -8422,9 +8275,7 @@
     "_implementation_date": [2019, 5, 25],
     "_voice_actor": "Utami Yuki",
     "_artist": "zeco",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Fletcher Kai Mod.2": {
     "_aa": 45,
@@ -8499,9 +8350,7 @@
     "_full_name": "Fletcher Kai Mod.2",
     "_voice_actor": "Utami Yuki",
     "_artist": "zeco",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Fletcher Mk.II": {
     "_aa": 50,
@@ -8583,9 +8432,7 @@
     "_implementation_date": [2020, 5, 20],
     "_voice_actor": "Utami Yuki",
     "_artist": "zeco",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Fubuki": {
     "_aa": 10,
@@ -8725,8 +8572,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Fubuki (1927)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Fubuki Kai Ni": {
@@ -8736,7 +8581,7 @@
     "_ammo": 20,
     "_api_id": 426,
     "_armor": 14,
-    "_armor_max": 50,
+    "_armor_max": 51,
     "_armor_mod": 1,
     "_asw": 26,
     "_asw_max": 68,
@@ -8769,8 +8614,8 @@
     "_japanese_name": "吹雪改二",
     "_los": 14,
     "_los_max": 54,
-    "_luck": 17,
-    "_luck_max": 77,
+    "_luck": 18,
+    "_luck_max": 79,
     "_luck_mod": false,
     "_name": "Fubuki",
     "_range": 1,
@@ -8800,8 +8645,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Fubuki (1927)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Fujinami": {
@@ -8882,8 +8725,6 @@
     "_asw": 28,
     "_asw_max": 66,
     "_build_time": 24,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Yuugumo",
@@ -9089,9 +8930,7 @@
     "_voice_actor": "Komatsu Mana",
     "_artist": "Akasaka Yuzu",
     "_availability": ["event_drop"],
-    "_wikipedia": "Etorofu-class escort ship",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Etorofu-class escort ship"
   },
   "Fumizuki": {
     "_aa": 7,
@@ -9231,8 +9070,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Fumizuki (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Fumizuki Kai Ni": {
@@ -9307,9 +9144,7 @@
     "_voice_actor": "Hidaka Rina",
     "_artist": "Yadokari",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Fumizuki (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Fumizuki (1925)"
   },
   "Furutaka": {
     "_aa": 16,
@@ -9457,8 +9292,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Furutaka",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Furutaka Kai Ni": {
@@ -9536,8 +9369,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Furutaka",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Fusou": {
@@ -9688,8 +9519,6 @@
     "_artist": "Rikka",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Fusō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 260
   },
   "Fusou Kai Ni": {
@@ -9776,8 +9605,6 @@
     "_artist": "Rikka",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Fusō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 260
   },
   "Gambier Bay": {
@@ -9859,8 +9686,6 @@
     "_asw": 30,
     "_asw_max": 68,
     "_build_time": 30,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Casablanca",
@@ -10006,9 +9831,7 @@
     "_voice_actor": "Uchida Shuu",
     "_artist": "Akira",
     "_availability": ["event_reward"],
-    "_wikipedia": "USS Gambier Bay",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS Gambier Bay"
   },
   "Gangut": {
     "_aa": 22,
@@ -10098,8 +9921,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 240,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_class": "Gangut",
     "_class_number": 1,
     "_equipment": [
@@ -10313,9 +10134,7 @@
     "_voice_actor": "Asami Haruna",
     "_artist": "Jiji",
     "_availability": ["event_reward"],
-    "_wikipedia": "Italian cruiser Giuseppe_Garibaldi (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Italian cruiser Giuseppe_Garibaldi (1936)"
   },
   "Gotland": {
     "_aa": 18,
@@ -10468,9 +10287,7 @@
     "_voice_actor": "Takao Kanon",
     "_artist": "drew",
     "_availability": ["event_drop"],
-    "_wikipedia": "HSwMS Gotland (1933)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "HSwMS Gotland (1933)"
   },
   "Gotland Kai": {
     "_aa": 66,
@@ -10549,9 +10366,7 @@
     "_voice_actor": "Takao Kanon",
     "_artist": "drew",
     "_availability": ["event_drop"],
-    "_wikipedia": "HSwMS Gotland (1933)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "HSwMS Gotland (1933)"
   },
   "Graf Zeppelin": {
     "_aa": 40,
@@ -10697,8 +10512,6 @@
     "_artist": "Shimada Humikane",
     "_availability": ["event_drop"],
     "_wikipedia": "German aircraft carrier Graf Zeppelin",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 270
   },
   "Grecale": {
@@ -10839,9 +10652,7 @@
     "_implementation_date": [2019, 8, 30],
     "_voice_actor": "Moriyama Yurika",
     "_artist": "Jiji",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Hachijou": {
     "_aa": 7,
@@ -10983,9 +10794,7 @@
     "_implementation_date": [2019, 5, 21],
     "_voice_actor": "Takao Kanon",
     "_artist": "UGUME",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Hagikaze": {
     "_aa": 9,
@@ -11125,8 +10934,6 @@
     "_artist": "Konishi",
     "_availability": ["event_reward", "drop"],
     "_wikipedia": "Japanese destroyer Hagikaze",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Haguro": {
@@ -11275,8 +11082,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Haguro",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Haguro Kai Ni": {
@@ -11355,8 +11160,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Haguro",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Hamakaze": {
@@ -11498,9 +11301,7 @@
     "_voice_actor": "Komatsu Mana",
     "_artist": "Parsley",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Hamakaze (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Hamakaze (1940)"
   },
   "Hamakaze Kai": {
     "_aa": 22,
@@ -11575,8 +11376,6 @@
     "_artist": "Parsley",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hamakaze (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Hamanami": {
@@ -11593,8 +11392,8 @@
     "_asw_max": 52,
     "_availability": ["event_drop"],
     "_build_time": 24,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Yuugumo",
     "_class_number": 13,
     "_equipment": [
@@ -11657,8 +11456,6 @@
     "_asw": 28,
     "_asw_max": 65,
     "_build_time": 24,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Yuugumo",
@@ -11862,8 +11659,6 @@
     "_artist": "Parsley",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Harukaze (1922)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Haruna": {
@@ -12012,8 +11807,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Haruna",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Haruna Kai Ni": {
@@ -12100,8 +11893,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Haruna",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Harusame": {
@@ -12240,8 +12031,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese destroyer Harusame (1935)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Hatakaze": {
@@ -12385,9 +12174,7 @@
     "_voice_actor": "Nabatame Hitomi",
     "_artist": "Parsley",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese destroyer Hatakaze (1924)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Hatakaze (1924)"
   },
   "Hatsuharu": {
     "_aa": 12,
@@ -12527,8 +12314,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hatsuharu (1933)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Hatsuharu Kai Ni": {
@@ -12602,8 +12387,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hatsuharu (1933)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Hatsukaze": {
@@ -12744,8 +12527,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hatsukaze",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Hatsushimo": {
@@ -12886,8 +12667,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hatsushimo (1933)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Hatsushimo Kai Ni": {
@@ -12961,8 +12740,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hatsushimo (1933)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Hatsuyuki": {
@@ -13103,8 +12880,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hatsuyuki (1928)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Hatsuzuki": {
@@ -13249,8 +13024,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese destroyer Hatsuzuki",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 30
   },
   "Hayanami": {
@@ -13372,7 +13145,7 @@
     "_remodel_ammo": 240,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Hayanami/",
     "_remodel_level": 35,
     "_remodel_report": false,
@@ -13395,9 +13168,7 @@
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Fujikawa",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Hayanami",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Hayanami"
   },
   "Hayashimo": {
     "_aa": 9,
@@ -13537,8 +13308,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Hayashimo",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Hayasui": {
@@ -13678,8 +13447,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese fleet oiler Hayasui",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 220
   },
   "Helena": {
@@ -13830,9 +13597,7 @@
     "_voice_actor": "Moriyama Yurika",
     "_artist": "acea4",
     "_availability": ["event_drop"],
-    "_wikipedia": "USS Helena (CL-50)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS Helena (CL-50)"
   },
   "Hibiki": {
     "_aa": 12,
@@ -13972,8 +13737,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hibiki (1932)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Hiburi": {
@@ -14055,8 +13818,6 @@
     "_asw": 40,
     "_asw_max": 83,
     "_build_time": 9,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Hiburi",
@@ -14268,8 +14029,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Hiei",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Hiei Kai Ni": {
@@ -14356,8 +14115,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Hiei",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Hiei Kai Ni C": {
@@ -14439,9 +14196,7 @@
     "_voice_actor": "Touyama Nao",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese battleship Hiei",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese battleship Hiei"
   },
   "Hirato": {
     "_aa": 7,
@@ -14583,9 +14338,7 @@
     "_implementation_date": [2019, 12, 7],
     "_voice_actor": "Moriyama Yurika",
     "_artist": "Akasaka Yuzu",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Hiryuu": {
     "_aa": 26,
@@ -14737,8 +14490,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Hiryū",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 250
   },
   "Hiryuu Kai Ni": {
@@ -14765,17 +14516,17 @@
       },
       {
         "equipment": "Type 97 Torpedo Bomber (Tomonaga Squadron)",
-        "size": 22
+        "size": 23
       },
       {
         "equipment": false,
-        "size": 3
+        "size": 4
       }
     ],
     "_evasion": 40,
     "_evasion_max": 85,
     "_firepower": 0,
-    "_firepower_max": 65,
+    "_firepower_max": 67,
     "_firepower_mod": false,
     "_fuel": 70,
     "_hp": 67,
@@ -14816,8 +14567,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Hiryū",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 250
   },
   "Hiyou": {
@@ -14968,8 +14717,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Hiyō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 180
   },
   "Honolulu": {
@@ -15119,9 +14866,7 @@
     "_implementation_date": [2021, 5, 20],
     "_voice_actor": "Yagi Yuki",
     "_artist": "UGUME",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Hornet": {
     "_aa": 32,
@@ -15279,9 +15024,7 @@
     "_voice_actor": "Ai Fairouz",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
-    "_wikipedia": "USS Hornet (CV-8)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS Hornet (CV-8)"
   },
   "Houshou": {
     "_aa": 10,
@@ -15421,8 +15164,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Hōshō",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 120
   },
   "Houston": {
@@ -15571,9 +15312,7 @@
     "_implementation_date": [2019, 11, 30],
     "_voice_actor": "Nazuka Kaori",
     "_artist": "zeco",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Hyuuga": {
     "_aa": 28,
@@ -15685,15 +15424,6 @@
     "_firepower_max": 86,
     "_firepower_mod": 4,
     "_fuel": 95,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 1,
-      "381mm": 0,
-      "41cm": 0,
-      "46cm": -1,
-      "51cm": false,
-      "Proto 46cm": 0
-    },
     "_hp": 77,
     "_hp_max": 89,
     "_id": 103,
@@ -15732,8 +15462,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Hyūga",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 270
   },
   "Hyuuga Kai Ni": {
@@ -15818,9 +15546,7 @@
     "_voice_actor": "Ootsubo Yuka",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese battleship Hyūga",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese battleship Hyūga"
   },
   "I-13": {
     "_aa": 0,
@@ -15902,8 +15628,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 200,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_class": "Junsen Type A Kai Ni",
     "_class_number": 1,
@@ -16049,8 +15773,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 200,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_class": "Junsen Type A Kai Ni",
     "_class_number": 2,
@@ -16252,8 +15974,6 @@
     "_artist": "Shobon",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese submarine I-168",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "I-19": {
@@ -16392,8 +16112,6 @@
     "_artist": "Shobon",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese submarine I-19",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "I-203": {
@@ -16526,9 +16244,7 @@
     "_implementation_date": [2021, 5, 8],
     "_voice_actor": "Yamada Yuki",
     "_artist": "Hoshi Akari",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "I-26": {
     "_aa": 0,
@@ -16666,8 +16382,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese submarine I-26",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "I-400": {
@@ -16746,8 +16460,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 200,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Sentoku",
@@ -16945,8 +16657,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese submarine I-401",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 200
   },
   "I-47": {
@@ -17085,9 +16795,7 @@
     "_implementation_date": [2020, 6, 26],
     "_voice_actor": "Fujita Saki",
     "_artist": "Hoshi Akari",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "I-504": {
     "_aa": 0,
@@ -17158,9 +16866,7 @@
     "_voice_actor": "Nabatame Hitomi",
     "_artist": "Jiji",
     "_availability": ["event_drop"],
-    "_wikipedia": "Italian submarine Luigi Torelli",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Italian submarine Luigi Torelli"
   },
   "I-58": {
     "_aa": 0,
@@ -17298,8 +17004,6 @@
     "_artist": "Shobon",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese submarine I-58 (1943)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "I-8": {
@@ -17438,8 +17142,6 @@
     "_artist": "Shobon",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese submarine I-8",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Ikazuchi": {
@@ -17580,8 +17282,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ikazuchi (1931)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Inazuma": {
@@ -17722,8 +17422,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Inazuma (1932)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Intrepid": {
@@ -17740,8 +17438,8 @@
     "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 330,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Essex",
     "_class_number": 5,
     "_equipment": [
@@ -17813,8 +17511,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 330,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_class": "Essex",
     "_class_number": 5,
     "_equipment": [
@@ -17992,15 +17688,6 @@
     "_firepower_max": 116,
     "_firepower_mod": 6,
     "_fuel": 200,
-    "_gun_fit_properties": {
-      "16inch": 0,
-      "35.6cm/38cm": null,
-      "381mm": null,
-      "41cm": -1,
-      "46cm": null,
-      "51cm": false,
-      "Proto 46cm": null
-    },
     "_hp": 92,
     "_hp_max": 103,
     "_id": 240,
@@ -18040,8 +17727,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_wikipedia": "USS Iowa (BB-61)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 500
   },
   "Ise": {
@@ -18154,15 +17839,6 @@
     "_firepower_max": 86,
     "_firepower_mod": 4,
     "_fuel": 95,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 1,
-      "381mm": 0,
-      "41cm": 0,
-      "46cm": -1,
-      "51cm": false,
-      "Proto 46cm": 0
-    },
     "_hp": 77,
     "_hp_max": 89,
     "_id": 102,
@@ -18201,8 +17877,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Ise",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 270
   },
   "Ise Kai Ni": {
@@ -18286,9 +17960,7 @@
     "_voice_actor": "Ootsubo Yuka",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese battleship Ise",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese battleship Ise"
   },
   "Ishigaki": {
     "_aa": 6,
@@ -18430,9 +18102,7 @@
     "_implementation_date": [2019, 5, 21],
     "_voice_actor": "Takao Kanon",
     "_artist": "UGUME",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Isokaze": {
     "_aa": 14,
@@ -18573,9 +18243,7 @@
     "_voice_actor": "Kawasumi Ayako",
     "_artist": "Parsley",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese destroyer Isokaze (1939)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Isokaze (1939)"
   },
   "Isokaze Kai": {
     "_aa": 24,
@@ -18648,8 +18316,6 @@
     "_artist": "Parsley",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese destroyer Isokaze (1939)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Isonami": {
@@ -18790,8 +18456,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Isonami (1927)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Isuzu": {
@@ -18932,8 +18596,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Isuzu",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Isuzu Kai Ni": {
@@ -19007,8 +18669,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Isuzu",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Italia": {
@@ -19095,8 +18755,6 @@
     "_artist": "Jiji",
     "_availability": ["event_reward"],
     "_wikipedia": "Italian battleship Littorio",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 300
   },
   "Janus": {
@@ -19240,9 +18898,7 @@
     "_implementation_date": [2019, 9, 4],
     "_voice_actor": "Ozawa Ari",
     "_artist": "Konishi",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Jervis": {
     "_aa": 22,
@@ -19323,8 +18979,6 @@
     "_asw": 55,
     "_asw_max": 92,
     "_build_time": 24,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_class": "J",
     "_class_number": 1,
     "_equipment": [
@@ -19528,9 +19182,7 @@
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Akasaka Yuzu",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese submarine tender Jingei",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese submarine tender Jingei"
   },
   "Jintsuu": {
     "_aa": 13,
@@ -19670,8 +19322,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Jintsū",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Jintsuu Kai Ni": {
@@ -19745,8 +19395,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Jintsū",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Johnston": {
@@ -19890,9 +19538,7 @@
     "_voice_actor": "Shiraki Nao",
     "_artist": "zeco",
     "_availability": ["event_drop"],
-    "_wikipedia": "USS Johnston (DD-557)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS Johnston (DD-557)"
   },
   "Junyou": {
     "_aa": 21,
@@ -20044,8 +19690,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Jun'yō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 180
   },
   "Junyou Kai Ni": {
@@ -20123,8 +19767,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Jun'yō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 180
   },
   "Kaga": {
@@ -20277,8 +19919,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Kaga",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 260
   },
   "Kaga Kai Ni": {
@@ -20363,9 +20003,7 @@
     "_voice_actor": "Iguchi Yuka",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Kaga",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Kaga"
   },
   "Kaga Kai Ni E": {
     "_aa": 36,
@@ -20449,9 +20087,7 @@
     "_voice_actor": "Iguchi Yuka",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Kaga",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Kaga"
   },
   "Kaga Kai Ni Go": {
     "_aa": 40,
@@ -20543,9 +20179,7 @@
     "_voice_actor": "Iguchi Yuka",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Kaga",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Kaga"
   },
   "Kagerou": {
     "_aa": 12,
@@ -20685,8 +20319,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kagerō (1938)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Kagerou Kai Ni": {
@@ -20762,9 +20394,7 @@
     "_voice_actor": "Fujita Saki",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Kagerō (1938)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Kagerō (1938)"
   },
   "Kaiboukan No.30": {
     "_aa": 4,
@@ -20775,7 +20405,7 @@
     "_armor": 4,
     "_armor_max": 15,
     "_armor_mod": false,
-    "_artist": null,
+    "_artist": "Hozuka",
     "_asw": 30,
     "_asw_max": 65,
     "_availability": ["event_drop"],
@@ -20825,7 +20455,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 1,
-    "_voice_actor": null,
+    "_voice_actor": "Yagi Yuki",
     "_voice_flag": 1,
     "_full_name": "Kaiboukan No.30"
   },
@@ -20895,11 +20525,9 @@
     "_voice_flag": 1,
     "_full_name": "Kaiboukan No.30 Kai",
     "_implementation_date": [2021, 8, 31],
-    "_voice_actor": null,
-    "_artist": null,
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_voice_actor": "Yagi Yuki",
+    "_artist": "Hozuka",
+    "_availability": ["event_drop"]
   },
   "Kaiboukan No.4": {
     "_aa": 5,
@@ -21033,9 +20661,7 @@
     "_implementation_date": [2020, 6, 26],
     "_voice_actor": "Fujita Saki",
     "_artist": "Hozuka",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Kako": {
     "_aa": 16,
@@ -21183,8 +20809,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kako",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kako Kai Ni": {
@@ -21262,8 +20886,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kako",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kamikaze": {
@@ -21402,8 +21024,6 @@
     "_artist": "Parsley",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese destroyer Kamikaze (1922)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Kamoi": {
@@ -21547,9 +21167,7 @@
     "_voice_actor": "Seto Asami",
     "_artist": "Akira",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese seaplane tender Kamoi",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese seaplane tender Kamoi"
   },
   "Kamoi Kai Bo": {
     "_aa": 14,
@@ -21622,9 +21240,7 @@
     "_voice_actor": "Seto Asami",
     "_artist": "Akira",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese seaplane tender Kamoi",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese seaplane tender Kamoi"
   },
   "Kashima": {
     "_aa": 15,
@@ -21773,8 +21389,6 @@
     "_artist": "Parsley",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese cruiser Kashima",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 70
   },
   "Kasuga Maru": {
@@ -21791,8 +21405,8 @@
     "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 160,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Kasuga Maru",
     "_class_number": 1,
     "_equipment": [
@@ -21981,8 +21595,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kasumi (1937)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Kasumi Kai Ni": {
@@ -22056,8 +21668,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kasumi (1937)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Kasumi Kai Ni B": {
@@ -22137,8 +21747,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kasumi (1937)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Katori": {
@@ -22287,8 +21895,6 @@
     "_artist": "Parsley",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese cruiser Katori",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 70
   },
   "Katsuragi": {
@@ -22439,8 +22045,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese aircraft carrier Katsuragi",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 210
   },
   "Kawakaze": {
@@ -22581,8 +22185,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese destroyer Kawakaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Kawakaze Kai Ni": {
@@ -22656,8 +22258,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese destroyer Kawakaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Kazagumo": {
@@ -22798,8 +22398,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Kazagumo",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Kazagumo Kai Ni": {
@@ -22876,9 +22474,7 @@
     "_voice_actor": "Kitou Akari",
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese destroyer Kazagumo",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Kazagumo"
   },
   "Kikuzuki": {
     "_aa": 7,
@@ -23018,8 +22614,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kikuzuki (1926)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Kinu": {
@@ -23160,8 +22754,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kinu",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 75
   },
   "Kinu Kai Ni": {
@@ -23235,8 +22827,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kinu",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 75
   },
   "Kinugasa": {
@@ -23385,8 +22975,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kinugasa",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kinugasa Kai Ni": {
@@ -23432,7 +23020,7 @@
     "_implementation_date": [2013, 11, 13],
     "_japanese_name": "衣笠改二",
     "_los": 13,
-    "_los_max": 54,
+    "_los_max": 58,
     "_luck": 13,
     "_luck_max": 65,
     "_luck_mod": false,
@@ -23464,8 +23052,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kinugasa",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kirishima": {
@@ -23614,8 +23200,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Kirishima",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Kirishima Kai Ni": {
@@ -23702,8 +23286,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Kirishima",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Kisaragi": {
@@ -23844,8 +23426,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kisaragi (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Kisaragi Kai Ni": {
@@ -23919,8 +23499,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kisaragi (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Kishinami": {
@@ -24042,7 +23620,7 @@
     "_remodel_ammo": 180,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Kishinami/",
     "_remodel_level": 35,
     "_remodel_report": false,
@@ -24064,9 +23642,7 @@
     "_voice_actor": "Kitou Akari",
     "_artist": "Fujikawa",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Kishinami",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Kishinami"
   },
   "Kiso": {
     "_aa": 13,
@@ -24206,8 +23782,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kiso",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kiso Kai Ni": {
@@ -24281,8 +23855,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kiso",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kitakami": {
@@ -24417,8 +23989,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kitakami",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kitakami Kai Ni": {
@@ -24492,8 +24062,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kitakami",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kiyoshimo": {
@@ -24634,8 +24202,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Kiyoshimo",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Kongou": {
@@ -24784,8 +24350,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Kongō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Kongou Kai Ni": {
@@ -24872,8 +24436,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Kongō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 240
   },
   "Kongou Kai Ni C": {
@@ -24955,9 +24517,7 @@
     "_voice_actor": "Touyama Nao",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese battleship Kongō",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese battleship Kongō"
   },
   "Kuma": {
     "_aa": 13,
@@ -25097,8 +24657,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Kuma",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Kuma Kai Ni": {
@@ -25175,9 +24733,7 @@
     "_voice_actor": "Sakura Ayane",
     "_artist": "UGUME",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese cruiser Kuma",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese cruiser Kuma"
   },
   "Kuma Kai Ni D": {
     "_aa": 35,
@@ -25261,9 +24817,7 @@
     "_voice_actor": "Sakura Ayane",
     "_artist": "UGUME",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese cruiser Kuma",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese cruiser Kuma"
   },
   "Kumano": {
     "_aa": 18,
@@ -25418,9 +24972,7 @@
     "_voice_actor": "Sarah Emi Bridcutt",
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese cruiser Kumano",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Kumano"
   },
   "Kumano Kai": {
     "_aa": 20,
@@ -25497,8 +25049,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese cruiser Kumano",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Kumano Kai Ni": {
@@ -25577,9 +25127,7 @@
     "_voice_actor": "Sarah Emi Bridcutt",
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese cruiser Kumano",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Kumano"
   },
   "Kunashiri": {
     "_aa": 6,
@@ -25595,8 +25143,8 @@
     "_asw_max": 70,
     "_availability": ["event_drop"],
     "_build_time": 14,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Shimushu",
     "_class_number": 2,
     "_equipment": [
@@ -25659,8 +25207,6 @@
     "_asw": 34,
     "_asw_max": 75,
     "_build_time": 14,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Shimushu",
@@ -25862,8 +25408,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Kuroshio",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Kuroshio Kai Ni": {
@@ -25919,7 +25463,7 @@
     "_remodel_ammo": 460,
     "_remodel_blueprint": true,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": 20,
     "_remodel_from": "Kuroshio/Kai",
     "_remodel_level": 73,
     "_remodel_report": false,
@@ -25941,9 +25485,7 @@
     "_voice_actor": "Fujita Saki",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Kuroshio",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Kuroshio"
   },
   "Libeccio": {
     "_aa": 11,
@@ -26083,8 +25625,6 @@
     "_artist": "Jiji",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Maestrale-class destroyer",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 23
   },
   "Littorio": {
@@ -26293,9 +25833,7 @@
     "_voice_actor": "Nabatame Hitomi",
     "_artist": "Jiji",
     "_availability": ["event_drop"],
-    "_wikipedia": "Italian submarine Luigi Torelli",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Italian submarine Luigi Torelli"
   },
   "Maestrale": {
     "_aa": 11,
@@ -26413,7 +25951,7 @@
     "_remodel_ammo": 190,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Maestrale/",
     "_remodel_level": 35,
     "_remodel_report": false,
@@ -26436,9 +25974,7 @@
     "_voice_actor": "Kitou Akari",
     "_artist": "Jiji",
     "_availability": ["event_reward"],
-    "_wikipedia": "Maestrale-class destroyer",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Maestrale-class destroyer"
   },
   "Maikaze": {
     "_aa": 9,
@@ -26578,8 +26114,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Maikaze",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Makigumo": {
@@ -26720,8 +26254,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Makigumo (1942)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Makigumo Kai Ni": {
@@ -26797,9 +26329,7 @@
     "_voice_actor": "Taketatsu Ayana",
     "_artist": "Fujikawa",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Makigumo (1942)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Makigumo (1942)"
   },
   "Makinami": {
     "_aa": 11,
@@ -26939,9 +26469,7 @@
     "_implementation_date": [2021, 5, 8],
     "_voice_actor": "Satou Satomi",
     "_artist": "Fujikawa",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Maruyu": {
     "_aa": 0,
@@ -26981,7 +26509,7 @@
     "_name": "Maruyu",
     "_range": 1,
     "_rarity": 5,
-    "_reading": false,
+    "_reading": "まるゆ",
     "_remodel_from": false,
     "_remodel_level": false,
     "_remodel_to": "Maruyu/Kai",
@@ -27064,8 +26592,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Type 3 submergence transport vehicle",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 17
   },
   "Matsu": {
@@ -27210,9 +26736,7 @@
     "_voice_actor": "Taketatsu Ayana",
     "_artist": "Watanabe Akio",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese_destroyer_Matsu_(1944)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese_destroyer_Matsu_(1944)"
   },
   "Matsukaze": {
     "_aa": 5,
@@ -27292,8 +26816,6 @@
     "_asw": 20,
     "_asw_max": 70,
     "_build_time": 18,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Kamikaze",
@@ -27499,9 +27021,7 @@
     "_voice_actor": "Shutou Yukina",
     "_artist": "Akasaka Yuzu",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese escort ship Matsuwa",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese escort ship Matsuwa"
   },
   "Maya": {
     "_aa": 18,
@@ -27649,8 +27169,6 @@
     "_artist": "Parsley",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Maya",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 85
   },
   "Maya Kai Ni": {
@@ -27728,8 +27246,6 @@
     "_artist": "Parsley",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Maya",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 85
   },
   "Michishio": {
@@ -27870,8 +27386,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Michishio",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Michishio Kai Ni": {
@@ -27886,8 +27400,6 @@
     "_asw": 26,
     "_asw_max": 60,
     "_build_time": 22,
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_class": "Asashio",
     "_class_number": 4,
     "_equipment": [
@@ -28088,8 +27600,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Mikazuki (1926)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Mikuma": {
@@ -28163,7 +27673,7 @@
   },
   "Mikuma Kai": {
     "_aa": 20,
-    "_aa_max": 59,
+    "_aa_max": 61,
     "_aa_mod": 3,
     "_ammo": 55,
     "_api_id": 121,
@@ -28185,17 +27695,17 @@
       },
       {
         "equipment": "Zuiun",
-        "size": 5
+        "size": 6
       },
       {
         "equipment": false,
-        "size": 8
+        "size": 9
       }
     ],
     "_evasion": 34,
     "_evasion_max": 69,
     "_firepower": 24,
-    "_firepower_max": 76,
+    "_firepower_max": 77,
     "_firepower_mod": 2,
     "_fuel": 50,
     "_hp": 50,
@@ -28203,7 +27713,7 @@
     "_id": 117,
     "_japanese_name": "三隈改",
     "_los": 22,
-    "_los_max": 59,
+    "_los_max": 61,
     "_luck": 10,
     "_luck_max": 69,
     "_luck_mod": false,
@@ -28236,8 +27746,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Mikuma",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Mikura": {
@@ -28378,9 +27886,7 @@
     "_implementation_date": [2019, 8, 30],
     "_voice_actor": "Uchida Shuu",
     "_artist": "acea4",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Minazuki": {
     "_aa": 7,
@@ -28520,8 +28026,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese destroyer Minazuki (1926)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Minegumo": {
@@ -28666,9 +28170,7 @@
     "_voice_actor": "Miyamoto Yume",
     "_artist": "Fujikawa",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese destroyer Minegumo (1937)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Minegumo (1937)"
   },
   "Miyuki": {
     "_aa": 10,
@@ -28808,8 +28310,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Miyuki",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Mizuho": {
@@ -28951,8 +28451,6 @@
     "_artist": "Akira",
     "_availability": ["event_drop", "drop"],
     "_wikipedia": "Japanese seaplane carrier Mizuho",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 140
   },
   "Mochizuki": {
@@ -29093,8 +28591,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Mochizuki",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Mogami": {
@@ -29241,8 +28737,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Mogami (1934)",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Mogami Kai Ni": {
@@ -29323,9 +28817,7 @@
     "_voice_actor": "Suzaki Aya",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese cruiser Mogami (1934)",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Mogami (1934)"
   },
   "Mogami Kai Ni Toku": {
     "_aa": 30,
@@ -29413,9 +28905,7 @@
     "_voice_actor": "Suzaki Aya",
     "_artist": "Shibafu",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese cruiser Mogami (1934)",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Mogami (1934)"
   },
   "Momo": {
     "_aa": 18,
@@ -29555,9 +29045,7 @@
     "_implementation_date": [2021, 5, 8],
     "_voice_actor": "Ishibashi Momo",
     "_artist": "Watanabe Akio",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Murakumo": {
     "_aa": 10,
@@ -29697,8 +29185,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Murakumo (1928)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Murakumo Kai Ni": {
@@ -29708,7 +29194,7 @@
     "_ammo": 20,
     "_api_id": 420,
     "_armor": 14,
-    "_armor_max": 50,
+    "_armor_max": 51,
     "_armor_mod": 1,
     "_asw": 28,
     "_asw_max": 69,
@@ -29741,8 +29227,8 @@
     "_japanese_name": "叢雲改二",
     "_los": 9,
     "_los_max": 42,
-    "_luck": 15,
-    "_luck_max": 57,
+    "_luck": 16,
+    "_luck_max": 60,
     "_luck_mod": false,
     "_name": "Murakumo",
     "_range": 1,
@@ -29772,8 +29258,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Murakumo (1928)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Murasame": {
@@ -29912,8 +29396,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Murasame (1935)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Murasame Kai Ni": {
@@ -29928,8 +29410,6 @@
     "_asw": 29,
     "_asw_max": 77,
     "_build_time": 22,
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_class": "Shiratsuyu",
     "_class_number": 3,
     "_equipment": [
@@ -30107,15 +29587,6 @@
     "_firepower_max": 139,
     "_firepower_mod": 6,
     "_fuel": 250,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 0,
-      "381mm": 0,
-      "41cm": 0,
-      "46cm": 0,
-      "51cm": 0,
-      "Proto 46cm": 0
-    },
     "_hp": 97,
     "_hp_max": 108,
     "_id": 148,
@@ -30154,8 +29625,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese battleship Musashi",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 480
   },
   "Musashi Kai Ni": {
@@ -30170,8 +29639,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 480,
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_class": "Yamato",
     "_class_number": 2,
     "_equipment": [
@@ -30356,15 +29823,6 @@
     "_firepower_max": 99,
     "_firepower_mod": 5,
     "_fuel": 100,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 0,
-      "381mm": 0,
-      "41cm": 0,
-      "46cm": -1,
-      "51cm": 0,
-      "Proto 46cm": 0
-    },
     "_hp": 90,
     "_hp_max": 98,
     "_id": 2,
@@ -30403,8 +29861,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Mutsu",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 300
   },
   "Mutsu Kai Ni": {
@@ -30484,9 +29940,7 @@
     "_voice_actor": "Sakura Ayane",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese battleship Mutsu",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese battleship Mutsu"
   },
   "Mutsuki": {
     "_aa": 7,
@@ -30626,8 +30080,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Mutsuki",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Mutsuki Kai Ni": {
@@ -30701,8 +30153,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Mutsuki",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Myoukou": {
@@ -30851,8 +30301,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Myōkō",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Myoukou Kai Ni": {
@@ -30930,8 +30378,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Myōkō",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Nachi": {
@@ -31080,8 +30526,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Nachi",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Nachi Kai Ni": {
@@ -31159,8 +30603,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Nachi",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Naganami": {
@@ -31301,8 +30743,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Naganami",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Naganami Kai Ni": {
@@ -31317,8 +30757,6 @@
     "_asw": 30,
     "_asw_max": 68,
     "_build_time": 24,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_class": "Yuugumo",
     "_class_number": 4,
     "_equipment": [
@@ -31518,8 +30956,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Nagara",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Nagato": {
@@ -31634,15 +31070,6 @@
     "_firepower_max": 99,
     "_firepower_mod": 5,
     "_fuel": 100,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 0,
-      "381mm": 0,
-      "41cm": 0,
-      "46cm": -1,
-      "51cm": 0,
-      "Proto 46cm": 0
-    },
     "_hp": 90,
     "_hp_max": 98,
     "_id": 1,
@@ -31681,8 +31108,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Nagato",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 300
   },
   "Nagato Kai Ni": {
@@ -31697,8 +31122,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 300,
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_class": "Nagato",
     "_class_number": 1,
     "_equipment": [
@@ -31903,8 +31326,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Nagatsuki (1926)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Naka": {
@@ -32045,8 +31466,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Naka",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Naka Kai Ni": {
@@ -32120,8 +31539,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Naka",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Natori": {
@@ -32260,8 +31677,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Natori",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Nelson": {
@@ -32393,7 +31808,7 @@
     "_remodel_ammo": 1700,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Nelson/",
     "_remodel_level": 50,
     "_remodel_report": false,
@@ -32416,9 +31831,7 @@
     "_voice_actor": "Nomizu Iori",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
-    "_wikipedia": "HMS Nelson (28)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "HMS Nelson (28)"
   },
   "Nenohi": {
     "_aa": 9,
@@ -32558,8 +31971,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Nenohi (1932)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Nisshin": {
@@ -32687,7 +32098,7 @@
     "_remodel_ammo": 800,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Nisshin/Kai",
     "_remodel_level": 60,
     "_remodel_report": false,
@@ -32710,9 +32121,7 @@
     "_voice_actor": "Miyamoto Yume",
     "_artist": "bob",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese seaplane carrier Nisshin",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese seaplane carrier Nisshin"
   },
   "Nisshin Kai": {
     "_aa": 22,
@@ -32766,7 +32175,7 @@
     "_remodel_ammo": 320,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": null,
+    "_remodel_development_material": false,
     "_remodel_from": "Nisshin/",
     "_remodel_level": 40,
     "_remodel_report": false,
@@ -32789,9 +32198,7 @@
     "_voice_actor": "Miyamoto Yume",
     "_artist": "bob",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese seaplane carrier Nisshin",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese seaplane carrier Nisshin"
   },
   "Northampton": {
     "_aa": 20,
@@ -32939,9 +32346,7 @@
     "_implementation_date": [2021, 5, 8],
     "_voice_actor": "Satou Satomi",
     "_artist": "zeco",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Noshiro": {
     "_aa": 17,
@@ -33085,8 +32490,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese cruiser Noshiro",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 60
   },
   "Noshiro Kai Ni": {
@@ -33167,9 +32570,7 @@
     "_voice_actor": "Yamada Yuki",
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
-    "_wikipedia": "Japanese cruiser Noshiro",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Noshiro"
   },
   "Nowaki": {
     "_aa": 12,
@@ -33309,8 +32710,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese destroyer Nowaki (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Oboro": {
@@ -33449,8 +32848,6 @@
     "_artist": "drew",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Oboro (1930)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Okinami": {
@@ -33591,8 +32988,6 @@
     "_artist": "Fujikawa",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Okinami",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Okinami Kai Ni": {
@@ -33669,9 +33064,7 @@
     "_voice_actor": "Kitou Akari",
     "_artist": "Fujikawa",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Okinami",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Okinami"
   },
   "Oktyabrskaya Revolyutsiya": {
     "_aa": 36,
@@ -33685,8 +33078,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 240,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_class": "Gangut",
     "_class_number": 1,
     "_equipment": [
@@ -33884,8 +33275,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Ōi",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Ooi Kai Ni": {
@@ -33959,8 +33348,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Ōi",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Ooshio": {
@@ -34099,8 +33486,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ōshio",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Ooshio Kai Ni": {
@@ -34174,8 +33559,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ōshio",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Ooyodo": {
@@ -34322,8 +33705,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese cruiser Ōyodo",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 80
   },
   "Oyashio": {
@@ -34464,8 +33845,6 @@
     "_artist": "Konishi",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Oyashio",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Oyashio Kai Ni": {
@@ -34477,8 +33856,8 @@
     "_armor": 14,
     "_armor_max": 54,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 30,
+    "_asw_max": 69,
     "_build_time": 24,
     "_class": "Kagerou",
     "_class_number": 4,
@@ -34498,8 +33877,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 48,
+    "_evasion_max": 90,
     "_firepower": 18,
     "_firepower_max": 68,
     "_firepower_mod": 2,
@@ -34509,8 +33888,8 @@
     "_id": 470,
     "_implementation_date": [2021, 10, 15],
     "_japanese_name": "親潮改二",
-    "_los": null,
-    "_los_max": null,
+    "_los": 9,
+    "_los_max": 42,
     "_luck": 21,
     "_luck_max": 84,
     "_luck_mod": false,
@@ -34543,9 +33922,7 @@
     "_voice_actor": "Hondo Kaede",
     "_artist": "Konishi",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Oyashio",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Oyashio"
   },
   "Perth": {
     "_aa": 24,
@@ -34689,9 +34066,7 @@
     "_implementation_date": [2019, 11, 30],
     "_voice_actor": "Uchida Shuu",
     "_artist": "Kusada Souta",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Pola": {
     "_aa": 16,
@@ -34839,8 +34214,6 @@
     "_artist": "Jiji",
     "_availability": ["event_reward"],
     "_wikipedia": "Italian cruiser Pola",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 70
   },
   "Prinz Eugen": {
@@ -34987,8 +34360,6 @@
     "_artist": "Shimada Humikane",
     "_availability": ["event_reward"],
     "_wikipedia": "German cruiser Prinz Eugen",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 200
   },
   "Richelieu": {
@@ -35144,9 +34515,7 @@
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Akira",
     "_availability": ["event_reward"],
-    "_wikipedia": "French battleship Richelieu",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "French battleship Richelieu"
   },
   "Ro-500": {
     "_aa": 0,
@@ -35218,8 +34587,6 @@
     "_artist": "Shimada Humikane",
     "_availability": ["event_reward"],
     "_wikipedia": "German submarine U-511",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Roma": {
@@ -35379,8 +34746,6 @@
     "_artist": "Jiji",
     "_availability": ["event_drop"],
     "_wikipedia": "Italian battleship Roma (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 300
   },
   "Ryuuhou": {
@@ -35454,8 +34819,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Ryūhō",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 150
   },
   "Ryuuhou Kai": {
@@ -35534,8 +34897,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Ryūhō",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 150
   },
   "Ryuuhou Kai Ni": {
@@ -35625,9 +34986,7 @@
     "_voice_actor": "Ogura Yui",
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Ryūhō",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese aircraft carrier Ryūhō"
   },
   "Ryuuhou Kai Ni E": {
     "_aa": 30,
@@ -35707,9 +35066,7 @@
     "_voice_actor": "Ogura Yui",
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Ryūhō",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese aircraft carrier Ryūhō"
   },
   "Ryuujou": {
     "_aa": 16,
@@ -35855,8 +35212,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Ryūjō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 170
   },
   "Ryuujou Kai Ni": {
@@ -35934,8 +35289,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Ryūjō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 170
   },
   "Sado": {
@@ -36016,8 +35369,6 @@
     "_asw": 37,
     "_asw_max": 79,
     "_build_time": 14,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Etorofu",
@@ -36222,9 +35573,7 @@
     "_voice_actor": "Suzuki Minori",
     "_artist": "drew",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Sagiri",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Sagiri"
   },
   "Sakawa": {
     "_aa": 17,
@@ -36297,7 +35646,7 @@
   },
   "Sakawa Kai": {
     "_aa": 19,
-    "_aa_max": 73,
+    "_aa_max": 74,
     "_aa_mod": 1,
     "_ammo": 40,
     "_api_id": 314,
@@ -36305,7 +35654,7 @@
     "_armor_max": 69,
     "_armor_mod": 2,
     "_asw": 30,
-    "_asw_max": 84,
+    "_asw_max": 85,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Agano",
@@ -36325,7 +35674,7 @@
       }
     ],
     "_evasion": 41,
-    "_evasion_max": 80,
+    "_evasion_max": 81,
     "_firepower": 27,
     "_firepower_max": 67,
     "_firepower_mod": 2,
@@ -36368,8 +35717,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese cruiser Sakawa",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Samidare": {
@@ -36510,8 +35857,6 @@
     "_artist": "Amamiya Chiharu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Samidare (1935)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Samuel B. Roberts": {
@@ -36659,9 +36004,7 @@
     "_availability": {
       "quest": ["5A05"]
     },
-    "_wikipedia": "USS Samuel B. Roberts (DE-413)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS Samuel B. Roberts (DE-413)"
   },
   "Saratoga": {
     "_aa": 36,
@@ -36750,8 +36093,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 330,
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_class": "Lexington",
     "_class_number": 2,
     "_equipment": [
@@ -36895,9 +36236,7 @@
     "_voice_actor": "Itou Shizuka",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
-    "_wikipedia": "USS Saratoga (CV-3)",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "USS Saratoga (CV-3)"
   },
   "Saratoga Mk.II Mod.2": {
     "_aa": 60,
@@ -36983,9 +36322,7 @@
     "_voice_actor": "Itou Shizuka",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
-    "_wikipedia": "USS Saratoga (CV-3)",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "USS Saratoga (CV-3)"
   },
   "Satsuki": {
     "_aa": 7,
@@ -37125,8 +36462,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Satsuki (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Satsuki Kai Ni": {
@@ -37200,8 +36535,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Satsuki (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Sazanami": {
@@ -37340,8 +36673,6 @@
     "_artist": "drew",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Sazanami (1931)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Scamp": {
@@ -37353,23 +36684,23 @@
     "_armor": 4,
     "_armor_max": 20,
     "_armor_mod": false,
-    "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
-    "_availability": null,
+    "_artist": "Shizuma Yoshinori",
+    "_asw": 0,
+    "_asw_max": false,
+    "_availability": ["event_reward"],
     "_build_time": 22,
-    "_buildable": null,
-    "_buildable_lsc": null,
-    "_class": null,
-    "_class_number": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Gato",
+    "_class_number": 66,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 17,
+    "_evasion_max": 43,
     "_firepower": 1,
     "_firepower_max": 11,
     "_firepower_mod": false,
@@ -37380,8 +36711,8 @@
     "_id": 493,
     "_implementation_date": [2021, 11, 19],
     "_japanese_name": "Scamp",
-    "_los": null,
-    "_los_max": null,
+    "_los": 11,
+    "_los_max": 41,
     "_luck": 11,
     "_luck_max": 55,
     "_luck_mod": false,
@@ -37416,23 +36747,23 @@
     "_armor": 6,
     "_armor_max": 23,
     "_armor_mod": false,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_build_time": 22,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Gato",
+    "_class_number": 66,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 18,
+    "_evasion_max": 55,
     "_firepower": 2,
     "_firepower_max": 13,
     "_firepower_mod": false,
@@ -37441,8 +36772,8 @@
     "_hp_max": 23,
     "_id": 493,
     "_japanese_name": "Scamp改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 13,
+    "_los_max": 43,
     "_luck": 17,
     "_luck_max": 72,
     "_luck_mod": false,
@@ -37451,12 +36782,12 @@
     "_rarity": 7,
     "_reading": "スキャンプかい",
     "_remodel_ammo": 200,
-    "_remodel_blueprint": null,
-    "_remodel_catapult": null,
-    "_remodel_development_material": null,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
     "_remodel_from": "Scamp/",
     "_remodel_level": 50,
-    "_remodel_report": null,
+    "_remodel_report": false,
     "_remodel_steel": 140,
     "_remodel_to": false,
     "_scrap_ammo": 2,
@@ -37474,10 +36805,8 @@
     "_full_name": "Scamp Kai",
     "_implementation_date": [2021, 11, 19],
     "_voice_actor": null,
-    "_artist": null,
-    "_availability": null,
-    "_buildable": null,
-    "_buildable_lsc": null
+    "_artist": "Shizuma Yoshinori",
+    "_availability": ["event_reward"]
   },
   "Scirocco": {
     "_aa": 11,
@@ -37542,7 +36871,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": null,
+    "_voice_actor": "Taketatsu Ayana",
     "_voice_flag": 1,
     "_full_name": "Scirocco"
   },
@@ -37618,11 +36947,9 @@
     "_voice_flag": 3,
     "_full_name": "Scirocco Kai",
     "_implementation_date": [2020, 11, 28],
-    "_voice_actor": null,
+    "_voice_actor": "Taketatsu Ayana",
     "_artist": "Jiji",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Sendai": {
     "_aa": 13,
@@ -37762,8 +37089,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Sendai",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Sendai Kai Ni": {
@@ -37837,8 +37162,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Sendai",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Sheffield": {
@@ -37908,7 +37231,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": null,
+    "_voice_actor": "Takao Kanon",
     "_voice_flag": 1,
     "_full_name": "Sheffield"
   },
@@ -37988,11 +37311,9 @@
     "_voice_flag": 3,
     "_full_name": "Sheffield Kai",
     "_implementation_date": [2020, 11, 28],
-    "_voice_actor": null,
+    "_voice_actor": "Takao Kanon",
     "_artist": "Konishi",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Shigure": {
     "_aa": 9,
@@ -38132,8 +37453,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shigure (1935)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Shigure Kai Ni": {
@@ -38207,8 +37526,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shigure (1935)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Shikinami": {
@@ -38349,8 +37666,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shikinami (1929)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Shikinami Kai Ni": {
@@ -38424,8 +37739,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shikinami (1929)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Shimakaze": {
@@ -38566,8 +37879,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shimakaze (1942)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 30
   },
   "Shimushu": {
@@ -38584,8 +37895,8 @@
     "_asw_max": 72,
     "_availability": ["event_drop"],
     "_build_time": 14,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Shimushu",
     "_class_number": 1,
     "_equipment": [
@@ -38648,8 +37959,6 @@
     "_asw": 35,
     "_asw_max": 77,
     "_build_time": 14,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Shimushu",
@@ -38858,9 +38167,7 @@
     "_implementation_date": [2019, 11, 30],
     "_voice_actor": "Toyoguchi Megumi",
     "_artist": "Parsley",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Shinyou": {
     "_aa": 14,
@@ -39009,9 +38316,7 @@
     "_voice_actor": "Takao Kanon",
     "_artist": "Shibafu",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese aircraft carrier Shin'yō",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese aircraft carrier Shin'yō"
   },
   "Shinyou Kai Ni": {
     "_aa": 27,
@@ -39090,9 +38395,7 @@
     "_voice_actor": "Takao Kanon",
     "_artist": "Shibafu",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese aircraft carrier Shin'yō",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese aircraft carrier Shin'yō"
   },
   "Shiranui": {
     "_aa": 9,
@@ -39232,8 +38535,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shiranui (1938)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Shiranui Kai Ni": {
@@ -39311,9 +38612,7 @@
     "_voice_actor": "Fujita Saki",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Shiranui (1938)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Shiranui (1938)"
   },
   "Shiratsuyu": {
     "_aa": 12,
@@ -39451,8 +38750,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shiratsuyu (1935)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Shiratsuyu Kai Ni": {
@@ -39530,9 +38827,7 @@
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Shiratsuyu (1935)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Shiratsuyu (1935)"
   },
   "Shirayuki": {
     "_aa": 10,
@@ -39672,8 +38967,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Shirayuki (1928)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Shouhou": {
@@ -39820,8 +39113,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Shōhō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 160
   },
   "Shoukaku": {
@@ -39974,8 +39265,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese aircraft carrier Shōkaku",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 360
   },
   "Shoukaku Kai Ni": {
@@ -40054,8 +39343,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese aircraft carrier Shōkaku",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 360
   },
   "Shoukaku Kai Ni A": {
@@ -40140,8 +39427,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese aircraft carrier Shōkaku",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 360
   },
   "Shounan": {
@@ -40154,26 +39439,26 @@
     "_armor_max": 17,
     "_armor_mod": false,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
-    "_availability": null,
+    "_asw": 38,
+    "_asw_max": 76,
+    "_availability": ["event_drop"],
     "_build_time": 9,
-    "_buildable": null,
-    "_buildable_lsc": null,
-    "_class": null,
-    "_class_number": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
+    "_class": "Hiburi",
+    "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "25mm Twin Autocannon Mount",
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 39,
+    "_evasion_max": 82,
     "_firepower": 4,
     "_firepower_max": 18,
     "_firepower_mod": 1,
@@ -40184,8 +39469,8 @@
     "_id": 495,
     "_implementation_date": [2021, 11, 19],
     "_japanese_name": "昭南",
-    "_los": null,
-    "_los_max": null,
+    "_los": 3,
+    "_los_max": 14,
     "_luck": 9,
     "_luck_max": 57,
     "_luck_mod": false,
@@ -40220,27 +39505,27 @@
     "_armor": 7,
     "_armor_max": 34,
     "_armor_mod": false,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 38,
+    "_asw_max": 81,
     "_build_time": 9,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Hiburi",
+    "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount Model E",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Type 93 Passive Sonar",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Type 95 Depth Charge",
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 53,
+    "_evasion_max": 88,
     "_firepower": 5,
     "_firepower_max": 37,
     "_firepower_mod": 1,
@@ -40249,8 +39534,8 @@
     "_hp_max": 29,
     "_id": 495,
     "_japanese_name": "昭南改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 6,
+    "_los_max": 28,
     "_luck": 12,
     "_luck_max": 67,
     "_luck_mod": false,
@@ -40259,12 +39544,12 @@
     "_rarity": 5,
     "_reading": "しょうなんかい",
     "_remodel_ammo": 95,
-    "_remodel_blueprint": null,
-    "_remodel_catapult": null,
-    "_remodel_development_material": null,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_development_material": false,
     "_remodel_from": "Shounan/",
     "_remodel_level": 37,
-    "_remodel_report": null,
+    "_remodel_report": false,
     "_remodel_steel": 45,
     "_remodel_to": false,
     "_scrap_ammo": 1,
@@ -40283,9 +39568,7 @@
     "_implementation_date": [2021, 11, 19],
     "_voice_actor": null,
     "_artist": null,
-    "_availability": null,
-    "_buildable": null,
-    "_buildable_lsc": null
+    "_availability": ["event_drop"]
   },
   "Souryuu": {
     "_aa": 26,
@@ -40437,8 +39720,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Sōryū",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 250
   },
   "Souryuu Kai Ni": {
@@ -40465,17 +39746,17 @@
       },
       {
         "equipment": "Type 97 Torpedo Bomber (Skilled)",
-        "size": 20
+        "size": 21
       },
       {
         "equipment": "Type 2 Reconnaissance Aircraft",
-        "size": 6
+        "size": 7
       }
     ],
     "_evasion": 36,
     "_evasion_max": 74,
     "_firepower": 0,
-    "_firepower_max": 62,
+    "_firepower_max": 63,
     "_firepower_mod": false,
     "_fuel": 70,
     "_hp": 67,
@@ -40484,7 +39765,7 @@
     "_implementation_date": [2014, 7, 18],
     "_japanese_name": "蒼龍改二",
     "_los": 55,
-    "_los_max": 90,
+    "_los_max": 93,
     "_luck": 15,
     "_luck_max": 60,
     "_luck_mod": false,
@@ -40516,8 +39797,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Sōryū",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 250
   },
   "South Dakota": {
@@ -40672,9 +39951,7 @@
     "_voice_actor": "Matsuoka Misato",
     "_artist": "zeco",
     "_availability": ["event_reward"],
-    "_wikipedia": "USS South Dakota (BB-57)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "USS South Dakota (BB-57)"
   },
   "Souya": {
     "_aa": 8,
@@ -40838,9 +40115,7 @@
     "_implementation_date": [2021, 5, 20],
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Shibafu",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Souya AGL": {
     "_aa": 0,
@@ -40913,9 +40188,7 @@
     "_implementation_date": [2021, 5, 20],
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Shibafu",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Suzukaze": {
     "_aa": 9,
@@ -41055,8 +40328,6 @@
     "_artist": "Amamiya Chiharu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Suzukaze",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Suzunami": {
@@ -41198,9 +40469,7 @@
     "_implementation_date": [2021, 5, 20],
     "_voice_actor": "Ishibashi Momo",
     "_artist": "Fujikawa",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Suzutsuki": {
     "_aa": 70,
@@ -41284,8 +40553,6 @@
     "_asw": 28,
     "_asw_max": 71,
     "_build_time": 30,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_class": "Akizuki",
     "_class_number": 3,
     "_equipment": [
@@ -41428,8 +40695,6 @@
     "_asw": 0,
     "_asw_max": 0,
     "_build_time": 90,
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_class": "Mogami",
     "_class_number": 3,
     "_equipment": [
@@ -41579,8 +40844,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese cruiser Suzuya (1934)",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Suzuya Kai Ni": {
@@ -41595,8 +40858,6 @@
     "_asw": 0,
     "_asw_max": 0,
     "_build_time": 90,
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_class": "Mogami",
     "_class_number": 3,
     "_equipment": [
@@ -41880,8 +41141,6 @@
     "_artist": "Shimada Humikane",
     "_availability": [],
     "_wikipedia": "Japanese aircraft carrier Taihō",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 400
   },
   "Taiyou": {
@@ -41955,9 +41214,7 @@
     "_voice_actor": "Shutou Yukina",
     "_artist": "Shibafu",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese aircraft carrier Taiyō",
-    "_buildable": null,
-    "_buildable_lsc": null
+    "_wikipedia": "Japanese aircraft carrier Taiyō"
   },
   "Taiyou Kai": {
     "_aa": 16,
@@ -42035,9 +41292,7 @@
     "_voice_actor": "Shutou Yukina",
     "_artist": "Shibafu",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese aircraft carrier Taiyō",
-    "_buildable": null,
-    "_buildable_lsc": null
+    "_wikipedia": "Japanese aircraft carrier Taiyō"
   },
   "Taiyou Kai Ni": {
     "_aa": 24,
@@ -42115,9 +41370,7 @@
     "_voice_actor": "Shutou Yukina",
     "_artist": "Shibafu",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese aircraft carrier Taiyō",
-    "_buildable": null,
-    "_buildable_lsc": null
+    "_wikipedia": "Japanese aircraft carrier Taiyō"
   },
   "Takanami": {
     "_aa": 9,
@@ -42255,8 +41508,6 @@
     "_artist": "Fujikawa",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Takanami (1942)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Takanami Kai Ni": {
@@ -42333,9 +41584,7 @@
     "_voice_actor": "Kuno Misaki",
     "_artist": "Fujikawa",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Takanami (1942)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Takanami (1942)"
   },
   "Takao": {
     "_aa": 18,
@@ -42483,8 +41732,6 @@
     "_artist": "Mikoto Akemi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Takao (1930)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 85
   },
   "Take": {
@@ -42627,9 +41874,7 @@
     "_implementation_date": [2020, 12, 10],
     "_voice_actor": "Taketatsu Ayana",
     "_artist": "Watanabe Akio",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Tama": {
     "_aa": 13,
@@ -42769,8 +42014,6 @@
     "_artist": "UGUME",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Tama",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Tama Kai Ni": {
@@ -42785,8 +42028,6 @@
     "_asw": 43,
     "_asw_max": 85,
     "_build_time": 60,
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_class": "Kuma",
     "_class_number": 2,
     "_equipment": [
@@ -42990,8 +42231,6 @@
     "_artist": "Parsley",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Tanikaze (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Tanikaze Kai": {
@@ -43067,8 +42306,6 @@
     "_artist": "Parsley",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Tanikaze (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Tashkent": {
@@ -43085,8 +42322,8 @@
     "_asw_max": 55,
     "_availability": ["event_drop"],
     "_build_time": 82,
-    "_buildable": null,
-    "_buildable_lsc": null,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Tashkent",
     "_class_number": 1,
     "_equipment": [
@@ -43154,8 +42391,6 @@
     "_asw": 40,
     "_asw_max": 73,
     "_build_time": 82,
-    "_buildable": null,
-    "_buildable_lsc": null,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Tashkent",
@@ -43363,8 +42598,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Tatsuta (1918)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Tatsuta Kai Ni": {
@@ -43379,8 +42612,6 @@
     "_asw": 50,
     "_asw_max": 82,
     "_build_time": 60,
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_class": "Tenryuu",
     "_class_number": 2,
     "_equipment": [
@@ -43584,8 +42815,6 @@
     "_artist": "Ayaki",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Tenryū",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Tenryuu Kai Ni": {
@@ -43662,9 +42891,7 @@
     "_voice_actor": "Iguchi Yuka",
     "_artist": "Ayaki",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese cruiser Tenryū",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese cruiser Tenryū"
   },
   "Teruzuki": {
     "_aa": 70,
@@ -43808,8 +43035,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese destroyer Teruzuki",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 30
   },
   "Tokitsukaze": {
@@ -43950,8 +43175,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese destroyer Tokitsukaze (1939)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Tone": {
@@ -44100,8 +43323,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Tone (1937)",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Tone Kai Ni": {
@@ -44147,9 +43368,9 @@
     "_implementation_date": [2014, 4, 23],
     "_japanese_name": "利根改二",
     "_los": 30,
-    "_los_max": 91,
+    "_los_max": 92,
     "_luck": 15,
-    "_luck_max": 72,
+    "_luck_max": 74,
     "_luck_mod": false,
     "_name": "Tone",
     "_range": 2,
@@ -44179,8 +43400,6 @@
     "_artist": "bob",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Tone (1937)",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 90
   },
   "Tsushima": {
@@ -44261,8 +43480,6 @@
     "_asw": 36,
     "_asw_max": 81,
     "_build_time": 14,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Etorofu",
@@ -44462,8 +43679,6 @@
     "_artist": "Shimada Humikane",
     "_availability": ["event_reward"],
     "_wikipedia": "German submarine U-511",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "UIT-25": {
@@ -44509,7 +43724,7 @@
     "_page": "Luigi Torelli",
     "_range": 1,
     "_rarity": 6,
-    "_reading": false,
+    "_reading": "ルイージ・トレッリ",
     "_remodel_ammo": 300,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
@@ -44535,9 +43750,7 @@
     "_voice_actor": "Nabatame Hitomi",
     "_artist": "Jiji",
     "_availability": ["event_drop"],
-    "_wikipedia": "Italian submarine Luigi Torelli",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Italian submarine Luigi Torelli"
   },
   "Umikaze": {
     "_aa": 10,
@@ -44678,8 +43891,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese destroyer Umikaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Umikaze Kai Ni": {
@@ -44758,9 +43969,7 @@
     "_voice_actor": "Ishigami Shizuka",
     "_artist": "Kujou Ichiso",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese destroyer Umikaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Umikaze (1936)"
   },
   "Unryuu": {
     "_aa": 28,
@@ -44910,8 +44119,6 @@
     "_artist": "Kuu Ro Kuro",
     "_availability": ["drop", "event_reward"],
     "_wikipedia": "Japanese aircraft carrier Unryū",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 210
   },
   "Urakaze": {
@@ -45053,9 +44260,7 @@
     "_voice_actor": "Komatsu Mana",
     "_artist": "Parsley",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Urakaze (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Urakaze (1940)"
   },
   "Urakaze Kai": {
     "_aa": 16,
@@ -45131,8 +44336,6 @@
     "_artist": "Parsley",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Urakaze (1940)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Uranami": {
@@ -45273,8 +44476,6 @@
     "_artist": "Shibafu",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Uranami (1928)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Ushio": {
@@ -45415,8 +44616,6 @@
     "_artist": "drew",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ushio (1930)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Ushio Kai Ni": {
@@ -45490,8 +44689,6 @@
     "_artist": "drew",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Ushio (1930)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Usugumo": {
@@ -45573,8 +44770,6 @@
     "_asw": 22,
     "_asw_max": 60,
     "_build_time": 20,
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Fubuki",
@@ -45776,8 +44971,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Uzuki (1925)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Verniy": {
@@ -45852,8 +45045,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Hibiki (1932)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Victorious": {
@@ -45865,7 +45056,7 @@
     "_armor": 38,
     "_armor_max": 80,
     "_armor_mod": 5,
-    "_artist": null,
+    "_artist": "Konishi",
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_reward"],
@@ -45925,7 +45116,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 18,
-    "_voice_actor": null,
+    "_voice_actor": "Yamada Misuzu",
     "_voice_flag": 1,
     "_full_name": "Victorious"
   },
@@ -46003,8 +45194,8 @@
     "_voice_flag": 3,
     "_full_name": "Victorious Kai",
     "_implementation_date": [2021, 8, 31],
-    "_voice_actor": null,
-    "_artist": null,
+    "_voice_actor": "Yamada Misuzu",
+    "_artist": "Konishi",
     "_availability": ["event_reward"]
   },
   "Wakaba": {
@@ -46145,8 +45336,6 @@
     "_artist": "Yadokari",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Wakaba (1934)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 20
   },
   "Warspite": {
@@ -46262,15 +45451,6 @@
     "_firepower_max": 107,
     "_firepower_mod": 4,
     "_fuel": 90,
-    "_gun_fit_properties": {
-      "16inch": -1,
-      "35.6cm/38cm": 1,
-      "381mm": 1,
-      "41cm": -1,
-      "46cm": null,
-      "51cm": false,
-      "Proto 46cm": null
-    },
     "_hp": 82,
     "_hp_max": 92,
     "_id": 239,
@@ -46309,8 +45489,6 @@
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Warspite (03)",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 280
   },
   "Washington": {
@@ -46464,9 +45642,7 @@
     "_implementation_date": [2020, 11, 28],
     "_voice_actor": "Ootsubo Yuka",
     "_artist": "zeco",
-    "_availability": ["event_reward"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_reward"]
   },
   "Yahagi": {
     "_aa": 17,
@@ -46610,8 +45786,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese cruiser Yahagi (1942)",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 60
   },
   "Yahagi Kai Ni": {
@@ -46692,9 +45866,7 @@
     "_voice_actor": "Yamada Yuki",
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese cruiser Yahagi (1942)",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Yahagi (1942)"
   },
   "Yahagi Kai Ni B": {
     "_aa": 36,
@@ -46782,9 +45954,7 @@
     "_voice_actor": "Yamada Yuki",
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
-    "_wikipedia": "Japanese cruiser Yahagi (1942)",
-    "_buildable": false,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese cruiser Yahagi (1942)"
   },
   "Yamagumo": {
     "_aa": 9,
@@ -46922,8 +46092,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Yamagumo (1937)",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Yamakaze": {
@@ -47067,9 +46235,7 @@
     "_voice_actor": "Hashimoto Chinami",
     "_artist": "Kujou Ichiso",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Yamakaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Yamakaze (1936)"
   },
   "Yamakaze Kai Ni": {
     "_aa": 17,
@@ -47112,8 +46278,8 @@
     "_japanese_name": "山風改二",
     "_los": 8,
     "_los_max": 41,
-    "_luck": 9,
-    "_luck_max": 71,
+    "_luck": 10,
+    "_luck_max": 73,
     "_luck_mod": false,
     "_name": "Yamakaze",
     "_range": 1,
@@ -47144,9 +46310,7 @@
     "_voice_actor": "Hashimoto Chinami",
     "_artist": "Kujou Ichiso",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Yamakaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Yamakaze (1936)"
   },
   "Yamakaze Kai Ni D": {
     "_aa": 16,
@@ -47188,8 +46352,8 @@
     "_japanese_name": "山風改二丁",
     "_los": 8,
     "_los_max": 41,
-    "_luck": 9,
-    "_luck_max": 71,
+    "_luck": 10,
+    "_luck_max": 73,
     "_luck_mod": false,
     "_name": "Yamakaze",
     "_range": 1,
@@ -47230,9 +46394,7 @@
     "_voice_actor": "Hashimoto Chinami",
     "_artist": "Kujou Ichiso",
     "_availability": ["event_drop"],
-    "_wikipedia": "Japanese destroyer Yamakaze (1936)",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Yamakaze (1936)"
   },
   "Yamashiro": {
     "_aa": 23,
@@ -47382,8 +46544,6 @@
     "_artist": "Rikka",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Yamashiro",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 260
   },
   "Yamashiro Kai Ni": {
@@ -47470,8 +46630,6 @@
     "_artist": "Rikka",
     "_availability": ["drop"],
     "_wikipedia": "Japanese battleship Yamashiro",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 260
   },
   "Yamato": {
@@ -47584,15 +46742,6 @@
     "_firepower_max": 142,
     "_firepower_mod": 6,
     "_fuel": 250,
-    "_gun_fit_properties": {
-      "16inch": null,
-      "35.6cm/38cm": 0,
-      "381mm": 0,
-      "41cm": 0,
-      "46cm": 0,
-      "51cm": 0,
-      "Proto 46cm": 0
-    },
     "_hp": 96,
     "_hp_max": 108,
     "_id": 136,
@@ -47631,8 +46780,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_wikipedia": "Japanese battleship Yamato",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 480
   },
   "Yashiro": {
@@ -47773,9 +46920,7 @@
     "_implementation_date": [2020, 7, 11],
     "_voice_actor": "Matsuoka Misato",
     "_artist": "acea4",
-    "_availability": ["event_drop"],
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_availability": ["event_drop"]
   },
   "Yayoi": {
     "_aa": 7,
@@ -47915,8 +47060,6 @@
     "_artist": "Kusada Souta",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Yayoi (1925)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 18
   },
   "Yukikaze": {
@@ -48057,8 +47200,6 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Yukikaze (1939)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Yukikaze Kai Ni": {
@@ -48137,9 +47278,7 @@
     "_voice_actor": "Fujita Saki",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Yukikaze (1939)",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Yukikaze (1939)"
   },
   "Yura": {
     "_aa": 13,
@@ -48279,8 +47418,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Yura",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 60
   },
   "Yura Kai Ni": {
@@ -48345,8 +47482,8 @@
     "_scrap_steel": 10,
     "_speed": 10,
     "_suffix": "Kai Ni",
-    "_torpedo": 25,
-    "_torpedo_max": 81,
+    "_torpedo": 26,
+    "_torpedo_max": 83,
     "_torpedo_mod": 2,
     "_true_id": false,
     "_type": 3,
@@ -48355,9 +47492,7 @@
     "_voice_actor": "Tanibe Yumi",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese cruiser Yura",
-    "_buildable": true,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese cruiser Yura"
   },
   "Yuubari": {
     "_aa": 10,
@@ -48505,8 +47640,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Yūbari",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 82
   },
   "Yuubari Kai Ni": {
@@ -48591,8 +47724,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Yūbari",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 82
   },
   "Yuubari Kai Ni D": {
@@ -48685,8 +47816,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Yūbari",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 82
   },
   "Yuubari Kai Ni Toku": {
@@ -48771,8 +47900,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese cruiser Yūbari",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 82
   },
   "Yuudachi": {
@@ -48913,8 +48040,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Yūdachi (1936)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Yuudachi Kai Ni": {
@@ -48988,8 +48113,6 @@
     "_artist": "Kujou Ichiso",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Yūdachi (1936)",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 22
   },
   "Yuugumo": {
@@ -49130,8 +48253,6 @@
     "_artist": "Fujikawa",
     "_availability": ["drop"],
     "_wikipedia": "Japanese destroyer Yūgumo",
-    "_buildable": false,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Yuugumo Kai Ni": {
@@ -49208,9 +48329,7 @@
     "_voice_actor": "Taketatsu Ayana",
     "_artist": "Fujikawa",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese destroyer Yūgumo",
-    "_buildable": false,
-    "_buildable_lsc": false
+    "_wikipedia": "Japanese destroyer Yūgumo"
   },
   "Z1": {
     "_aa": 12,
@@ -49360,8 +48479,6 @@
       "quest": ["D8"]
     },
     "_wikipedia": "German destroyer Z1 Leberecht Maass",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Z1 Zwei": {
@@ -49438,8 +48555,6 @@
       "quest": ["D8"]
     },
     "_wikipedia": "German destroyer Z1 Leberecht Maass",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Z3": {
@@ -49586,8 +48701,6 @@
     "_artist": "Shimada Humikane",
     "_availability": [],
     "_wikipedia": "German destroyer Z3 Max Schultz",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Z3 Zwei": {
@@ -49662,8 +48775,6 @@
     "_artist": "Shimada Humikane",
     "_availability": [],
     "_wikipedia": "German destroyer Z3 Max Schultz",
-    "_buildable": true,
-    "_buildable_lsc": false,
     "_build_time": 24
   },
   "Zara": {
@@ -49812,8 +48923,6 @@
     "_artist": "Jiji",
     "_availability": ["event_reward"],
     "_wikipedia": "Italian cruiser Zara",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 70
   },
   "Zara Kai": {
@@ -49893,8 +49002,6 @@
     "_artist": "Jiji",
     "_availability": ["event_reward"],
     "_wikipedia": "Italian cruiser Zara",
-    "_buildable": false,
-    "_buildable_lsc": true,
     "_build_time": 70
   },
   "Zuihou": {
@@ -50041,8 +49148,6 @@
     "_artist": "Konishi",
     "_availability": ["drop"],
     "_wikipedia": "Japanese aircraft carrier Zuihō",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 160
   },
   "Zuihou Kai Ni": {
@@ -50122,9 +49227,7 @@
     "_voice_actor": "Komatsu Mana",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Zuihō",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Zuihō"
   },
   "Zuihou Kai Ni B": {
     "_aa": 33,
@@ -50211,9 +49314,7 @@
     "_voice_actor": "Komatsu Mana",
     "_artist": "Konishi",
     "_availability": ["drop"],
-    "_wikipedia": "Japanese aircraft carrier Zuihō",
-    "_buildable": true,
-    "_buildable_lsc": true
+    "_wikipedia": "Japanese aircraft carrier Zuihō"
   },
   "Zuikaku": {
     "_aa": 29,
@@ -50363,8 +49464,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese aircraft carrier Zuikaku",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 360
   },
   "Zuikaku Kai Ni": {
@@ -50443,8 +49542,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese aircraft carrier Zuikaku",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 360
   },
   "Zuikaku Kai Ni A": {
@@ -50529,8 +49626,6 @@
     "_artist": "Konishi",
     "_availability": ["drop", "event_drop"],
     "_wikipedia": "Japanese aircraft carrier Zuikaku",
-    "_buildable": true,
-    "_buildable_lsc": true,
     "_build_time": 360
   }
 }
