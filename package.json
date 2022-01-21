@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.211210.1",
+  "version": "0.220122.0",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -44,12 +44,12 @@
     "sort-keys": "^4.2.0"
   },
   "devDependencies": {
-    "eslint": "^8.3.0",
+    "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "kuroshiro": "^1.2.0",
     "kuroshiro-analyzer-kuromoji": "^1.1.0",
-    "prettier": "^2.5.0"
+    "prettier": "^2.5.1"
   },
   "eslintConfig": {
     "env": {

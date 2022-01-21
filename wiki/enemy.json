@@ -11771,7 +11771,6 @@
   },
   "German Escort Princess Damaged II": {
     "_aa": 130,
-    "_air_power_estimation": true,
     "_api_id": 1825,
     "_armor": 263,
     "_asw": null,
@@ -11813,6 +11812,7 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "ごえいどくかんき-かい",
+    "_references": ["https://twitter.com/noro_006/status/1456936895695388672"],
     "_speed": 5,
     "_suffix": "Damaged II",
     "_torpedo": 0,
@@ -11862,6 +11862,7 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "ごえいどくかんき-かい",
+    "_references": ["https://twitter.com/Croshadow_/status/1038770948298563585"],
     "_speed": 5,
     "_suffix": "Damaged III",
     "_torpedo": 0,
@@ -11961,6 +11962,7 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "ごえいどくかんき",
+    "_references": ["https://twitter.com/Croshadow_/status/1038687339512455168"],
     "_speed": 5,
     "_suffix": "III",
     "_torpedo": 0,
@@ -14177,6 +14179,189 @@
     "_torpedo": 90,
     "_type": 5,
     "_full_name": "Heavy Cruiser Summer Princess III"
+  },
+  "Hi Convoy Princess": {
+    "_aa": 72,
+    "_api_id": 2059,
+    "_armor": 155,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk",
+        "estimation": true,
+        "size": 11
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 2
+      },
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk",
+        "estimation": true,
+        "size": 2
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 80,
+    "_hp": 500,
+    "_id": 2059,
+    "_japanese_name": "ヒ船団棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Hi Convoy Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "ヒせんだんせいき",
+    "_speed": 5,
+    "_torpedo": 0,
+    "_type": 7,
+    "_full_name": "Hi Convoy Princess"
+  },
+  "Hi Convoy Princess Damaged": {
+    "_aa": 86,
+    "_api_id": 2061,
+    "_armor": 195,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 15
+      },
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk",
+        "estimation": true,
+        "size": 15
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 108,
+    "_hp": 500,
+    "_id": 2061,
+    "_japanese_name": "ヒ船団棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Hi Convoy Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "ヒせんだんせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": 0,
+    "_type": 7,
+    "_full_name": "Hi Convoy Princess Damaged"
+  },
+  "Hi Convoy Princess Damaged II": {
+    "_aa": 96,
+    "_api_id": 2062,
+    "_armor": 225,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+        "estimation": true,
+        "size": 22
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 32
+      },
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 8
+      },
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 148,
+    "_hp": 500,
+    "_id": 2062,
+    "_japanese_name": "ヒ船団棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Hi Convoy Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "ヒせんだんせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": 0,
+    "_type": 7,
+    "_full_name": "Hi Convoy Princess Damaged II"
+  },
+  "Hi Convoy Princess II": {
+    "_aa": 84,
+    "_api_id": 2060,
+    "_armor": 185,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+        "estimation": true,
+        "size": 11
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 2
+      },
+      {
+        "equipment": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+        "estimation": true,
+        "size": 2
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 98,
+    "_hp": 500,
+    "_id": 2060,
+    "_japanese_name": "ヒ船団棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Hi Convoy Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": "ヒせんだんせいき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": 0,
+    "_type": 7,
+    "_full_name": "Hi Convoy Princess II"
   },
   "Isolated Island Demon": {
     "_aa": 100,
