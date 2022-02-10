@@ -1,9 +1,6 @@
 # `@kancolle/data`
 
 [![Version](https://img.shields.io/npm/v/@kancolle/data.svg)](https://www.npmjs.com/package/@kancolle/data)
-[![Build](https://img.shields.io/travis/kcwiki/kancolle-data.svg)](https://travis-ci.org/kcwiki/kancolle-data)
-[![Dependencies](https://img.shields.io/david/kcwiki/kancolle-data.svg)](https://david-dm.org/kcwiki/kancolle-data)
-[![Dev Dependencies](https://img.shields.io/david/dev/kcwiki/kancolle-data.svg)](https://david-dm.org/kcwiki/kancolle-data?type=dev)
 
 KanColle data and data functions.
 
@@ -131,6 +128,16 @@ asset : object
   shipFullDamaged : function
   shipFull2Damaged : function
   shipFull0Damaged : function
+  shipBannerDebuffed : function
+  shipCardDebuffed : function
+  shipFullDebuffed : function
+  shipFull2Debuffed : function
+  shipFull0Debuffed : function
+  shipBannerDamagedDebuffed : function
+  shipCardDamagedDebuffed : function
+  shipFullDamagedDebuffed : function
+  shipFull2DamagedDebuffed : function
+  shipFull0DamagedDebuffed : function
   shipVoice : function
   equipment : function
   equipmentCard : function
@@ -138,6 +145,8 @@ asset : object
   equipmentItem : function
   equipmentCharacter : function
   bgm : function
+  furnitureTypes : array
+  furniture : function
 map : object
   edges : object
   diffs : object
@@ -159,6 +168,7 @@ tl : function
   shipType : object
   equipmentType : object
   item : object
+  itemDescription : object
   tlShip : function
   tlShipFromId : function
   tlEquipment : function
@@ -173,6 +183,7 @@ tl : function
   tlEquipmentTypeFromId : function
   tlItem : function
   tlItemFromId : function
+  tlItemDescription : function
   shipBaseNames : array
 wiki : object
   enemy : object
@@ -216,6 +227,7 @@ tlEquipmentType : function
 tlEquipmentTypeFromId : function
 tlItem : function
 tlItemFromId : function
+tlItemDescription : function
 ```
 
 ## Updating

@@ -10,16 +10,17 @@ const create = (id, type) => (((17 * (id + 7) * cgKeys[(key(type) + id * type.le
 
 const ship =
   type =>
-  (id, damaged, server = '203.104.209.71') => {
-    const path = [
+  (id, damaged, debuffed, server = '203.104.209.71') => {
+    const part1 = [type, damaged && 'dmg'].filter(Boolean).join('_')
+    const part2 = [
       padStart(id, 4, '0'),
-      damaged && 'd',
-      create(id, `ship_${type}`),
+      debuffed && 'd',
+      create(id, `ship_${part1}`),
       (((type === 'full' || type === 'full_dmg') && api_mst_shipgraph.find(e => e.api_id === id)) || {}).api_filename,
     ]
       .filter(Boolean)
       .join('_')
-    return `http://${server}/kcs2/resources/ship/${type}/${path}.png`
+    return `http://${server}/kcs2/resources/ship/${part1}/${part2}.png`
   }
 
 const shipBanner = ship('banner')
@@ -33,6 +34,18 @@ const shipCardDamaged = id => ship('card')(id, true)
 const shipFullDamaged = id => ship('full')(id, true)
 const shipFull2Damaged = id => ship('full2')(id, true)
 const shipFull0Damaged = id => ship('character_full')(id, true)
+
+const shipBannerDebuffed = id => ship('banner')(id, false, true)
+const shipCardDebuffed = id => ship('card')(id, false, true)
+const shipFullDebuffed = id => ship('full')(id, false, true)
+const shipFull2Debuffed = id => ship('full2')(id, false, true)
+const shipFull0Debuffed = id => ship('character_full')(id, false, true)
+
+const shipBannerDamagedDebuffed = id => ship('banner')(id, true, true)
+const shipCardDamagedDebuffed = id => ship('card')(id, true, true)
+const shipFullDamagedDebuffed = id => ship('full')(id, true, true)
+const shipFull2DamagedDebuffed = id => ship('full2')(id, true, true)
+const shipFull0DamagedDebuffed = id => ship('character_full')(id, true, true)
 
 const shipVoice = (id, lineId) => (id <= 1500 && lineId <= 53 ? 100000 + ((17 * (id + 7) * voiceKeys[lineId - 1]) % 99173) : lineId)
 
@@ -68,6 +81,16 @@ module.exports = {
   shipFullDamaged,
   shipFull2Damaged,
   shipFull0Damaged,
+  shipBannerDebuffed,
+  shipCardDebuffed,
+  shipFullDebuffed,
+  shipFull2Debuffed,
+  shipFull0Debuffed,
+  shipBannerDamagedDebuffed,
+  shipCardDamagedDebuffed,
+  shipFullDamagedDebuffed,
+  shipFull2DamagedDebuffed,
+  shipFull0DamagedDebuffed,
   shipVoice,
   equipment,
   equipmentCard,
