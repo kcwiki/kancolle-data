@@ -9,7 +9,7 @@ Currently includes:
 - Game API response (`api_start2`).
 - English translations.
 - Some map data and functions.
-- Some Wikia data.
+- Some Wiki data.
 
 ## Install
 
@@ -64,7 +64,7 @@ map.getNodeLabel(445, 1) // 'A'
 // etc., see API
 ```
 
-### Wikia
+### Wiki
 
 ```js
 const { wiki } = require('@kancolle/data')
@@ -241,13 +241,13 @@ yarn fetch-api # to open the browser and save to /tmp/api_start2
 yarn build-api
 ```
 
-Generate translations and map data from Wikia (via Poi) and KC3Kai sources:
+Generate translations and map data from Wiki (via Poi) and KC3Kai sources:
 
 ```sh
 yarn build-external
 ```
 
-Update from Wikia data:
+Update from Wiki data:
 
 ```sh
 yarn build-from-wiki

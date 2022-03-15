@@ -3,7 +3,7 @@ const { range, uniq } = require('lodash')
 const edges = require('./edge.json')
 
 const diffs = {
-  0: 'Regular',
+  // 0: 'Regular',
   1: 'Casual',
   2: 'Easy',
   3: 'Medium',

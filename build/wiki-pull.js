@@ -33,7 +33,7 @@ const getLuaDataInCategory = async category => {
     if (cont) {
       params.gapcontinue = cont
     }
-    const url = `https://kancolle.fandom.com/api.php?${_(params)
+    const url = `https://en.kancollewiki.net/w/api.php?${_(params)
       .toPairs()
       .map(([k, v]) => `${k}=${v}`)
       .join('&')}`
