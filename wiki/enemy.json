@@ -4254,6 +4254,145 @@
     "_type": 10,
     "_full_name": "Airfield Princess IX"
   },
+  "Airfield Princess Patrol Aircraft Deployment": {
+    "_aa": null,
+    "_api_id": 2091,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2091,
+    "_japanese_name": "飛行場姫(哨戒機配備)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Patrol Aircraft Deployment",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess Patrol Aircraft Deployment"
+  },
+  "Airfield Princess Patrol Aircraft Deployment II": {
+    "_aa": null,
+    "_api_id": 2092,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Patrol Aircraft Deployment",
+    "_cg_reference": "/Patrol Aircraft Deployment",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2092,
+    "_japanese_name": "飛行場姫(哨戒機配備)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Patrol Aircraft Deployment II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess Patrol Aircraft Deployment II"
+  },
+  "Airfield Princess Patrol Aircraft Deployment III": {
+    "_aa": null,
+    "_api_id": 2093,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/Patrol Aircraft Deployment",
+    "_cg_reference": "/Patrol Aircraft Deployment",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2093,
+    "_japanese_name": "飛行場姫(哨戒機配備)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Patrol Aircraft Deployment III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess Patrol Aircraft Deployment III"
+  },
   "Airfield Princess V": {
     "_aa": 120,
     "_api_id": 1650,
@@ -4715,6 +4854,147 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess XV"
+  },
+  "Airfield Princess XVI": {
+    "_aa": null,
+    "_api_id": 2094,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2094,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "XVI",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XVI"
+  },
+  "Airfield Princess XVII": {
+    "_aa": null,
+    "_api_id": 2095,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2095,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "XVII",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XVII"
+  },
+  "Airfield Princess XVIII": {
+    "_aa": null,
+    "_api_id": 2096,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2096,
+    "_japanese_name": "飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "XVIII",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Princess XVIII"
   },
   "Anchorage Demon": {
     "_aa": 70,
@@ -10085,18 +10365,18 @@
     "_equipment": [
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -10127,23 +10407,23 @@
     "_equipment": [
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Air Radar Mark.III + FCS",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -10177,23 +10457,23 @@
     "_equipment": [
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Air Radar Mark.III + FCS",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -10227,23 +10507,23 @@
     "_equipment": [
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       },
       {
         "equipment": "Abyssal Air Radar Mark.III + FCS",
-        "estimation": true,
-        "size": null
+        "estimation": false,
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -20448,6 +20728,199 @@
     "_type": 10,
     "_full_name": "Northernmost Landing Princess III"
   },
+  "Outer Southern Sea Destroyer Princess": {
+    "_aa": null,
+    "_api_id": 2097,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2097,
+    "_japanese_name": "外南洋駆逐棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Outer Southern Sea Destroyer Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Outer Southern Sea Destroyer Princess"
+  },
+  "Outer Southern Sea Destroyer Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2099,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2099,
+    "_japanese_name": "外南洋駆逐棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Outer Southern Sea Destroyer Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Outer Southern Sea Destroyer Princess Damaged"
+  },
+  "Outer Southern Sea Destroyer Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2100,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2100,
+    "_japanese_name": "外南洋駆逐棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Outer Southern Sea Destroyer Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Outer Southern Sea Destroyer Princess Damaged II"
+  },
+  "Outer Southern Sea Destroyer Princess II": {
+    "_aa": null,
+    "_api_id": 2098,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2098,
+    "_japanese_name": "外南洋駆逐棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Outer Southern Sea Destroyer Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Outer Southern Sea Destroyer Princess II"
+  },
   "PT Imp Pack": {
     "_aa": 12,
     "_api_id": 1637,
@@ -23077,22 +23550,22 @@
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 20
       },
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 8
       },
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 4
       }
     ],
     "_evasion": null,
@@ -23103,7 +23576,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Super Heavy Bomber Airfield Princess",
-    "_range": null,
+    "_range": 5,
     "_rarity": null,
     "_reading": "ちょうじゅうばくひこうじょうき",
     "_speed": 0,
@@ -23123,22 +23596,22 @@
       {
         "equipment": "Abyssal Sky Super Fortress Kai",
         "estimation": true,
-        "size": null
+        "size": 24
       },
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 18
       },
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
         "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -23149,7 +23622,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Super Heavy Bomber Airfield Princess",
-    "_range": null,
+    "_range": 5,
     "_rarity": null,
     "_reading": "ちょうじゅうばくひこうじょうき",
     "_speed": 0,
@@ -23159,49 +23632,49 @@
     "_full_name": "Super Heavy Bomber Airfield Princess II"
   },
   "Super Heavy Bomber Airfield Princess III": {
-    "_aa": null,
+    "_aa": 110,
     "_api_id": 2079,
-    "_armor": null,
+    "_armor": 130,
     "_asw": null,
     "_back": null,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Sky Super Fortress Kai",
         "estimation": true,
-        "size": null
+        "size": 32
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Sky Super Fortress Kai",
         "estimation": true,
-        "size": null
+        "size": 24
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 16
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Sky Super Fortress",
         "estimation": true,
-        "size": null
+        "size": 12
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 90,
+    "_hp": 600,
     "_id": 2079,
     "_japanese_name": "超重爆飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Super Heavy Bomber Airfield Princess",
-    "_range": null,
+    "_range": 5,
     "_rarity": null,
     "_reading": "ちょうじゅうばくひこうじょうき",
     "_speed": 0,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Super Heavy Bomber Airfield Princess III"
   },
