@@ -194,6 +194,7 @@ export interface APIMstShipgraph {
 export interface APIMstShipupgrade {
   api_arms_mat_count: number
   api_aviation_mat_count: number
+  api_boiler_count?: number
   api_catapult_count: number
   api_current_ship_id: number
   api_drawing_count: number
@@ -346,6 +347,7 @@ export interface APIEquipType {
   '92': number
   '93': number
   '94': number
+  '95': number
 }
 
 export interface APIMstUseitem {
