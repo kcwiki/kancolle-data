@@ -3648,7 +3648,7 @@
     "_buildable": false,
     "_evasion": 1,
     "_firepower": 9,
-    "_flight_cost": "falsefalse",
+    "_flight_cost": false,
     "_flight_range": false,
     "_icon": 4,
     "_id": 463,
