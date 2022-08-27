@@ -1393,6 +1393,37 @@
     "_type": 1,
     "_wikipedia": "12.7 cm/50 Type 3 naval gun"
   },
+  "12.7cm Twin Gun Mount Model C Kai 3": {
+    "_aa": 2,
+    "_armor": 1,
+    "_asw": 3,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": 3,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 1,
+    "_id": 470,
+    "_info": null,
+    "_japanese_name": "12.7cm連装砲C型改三",
+    "_los": false,
+    "_luck": false,
+    "_name": "12.7cm Twin Gun Mount Model C Kai 3",
+    "_range": 1,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": false,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 1
+  },
   "12.7cm Twin Gun Mount Model D Kai 2": {
     "_aa": 4,
     "_armor": 1,
@@ -11541,6 +11572,37 @@
     "_torpedo_accuracy": false,
     "_type": 7
   },
+  "F4U-2 Night Corsair": {
+    "_aa": 9,
+    "_armor": false,
+    "_asw": 5,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 2,
+    "_firepower": 1,
+    "_flight_cost": 9,
+    "_flight_range": 6,
+    "_icon": 45,
+    "_id": 473,
+    "_info": "???",
+    "_japanese_name": "F4U-2 Night Corsair",
+    "_los": 2,
+    "_luck": false,
+    "_name": "F4U-2 Night Corsair",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 4,
+    "_scrap_bauxite": 17,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": false,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 6
+  },
   "F6F-3": {
     "_aa": 8,
     "_armor": false,
@@ -13079,6 +13141,37 @@
     "_torpedo_accuracy": false,
     "_type": 1
   },
+  "Loire 130M": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": 3,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": 9,
+    "_flight_range": 3,
+    "_icon": 50,
+    "_id": 471,
+    "_info": null,
+    "_japanese_name": "Loire 130M",
+    "_los": 3,
+    "_luck": false,
+    "_name": "Loire 130M",
+    "_range": false,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 5,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 2,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 10
+  },
   "M4A1 DD": {
     "_aa": false,
     "_armor": false,
@@ -13141,6 +13234,37 @@
     "_torpedo_accuracy": false,
     "_type": 48,
     "_wikipedia": "Messerschmitt Me 163 Komet"
+  },
+  "Mk.32 ASW Torpedo (Mk.2 Thrower)": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": 19,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 17,
+    "_id": 472,
+    "_info": null,
+    "_japanese_name": "Mk.32 対潜魚雷(Mk.2落射機)",
+    "_los": false,
+    "_luck": false,
+    "_name": "Mk.32 ASW Torpedo (Mk.2 Thrower)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 8,
+    "_scrap_bauxite": 4,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 1,
+    "_torpedo_accuracy": false,
+    "_type": 15
   },
   "New Kanhon Design Anti-torpedo Bulge (Large)": {
     "_aa": false,
@@ -13864,7 +13988,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [7, 32, 15, 17, 0]
+    "_types": [
+      7,
+      32,
+      15,
+      17,
+      0
+    ]
   },
   "Prototype 35.6cm Triple Gun Mount": {
     "_aa": 5,
@@ -14216,7 +14346,7 @@
     "_asw": false,
     "_bombing": false,
     "_buildable": false,
-    "_evasion": -2,
+    "_evasion": -10,
     "_firepower": 36,
     "_flight_cost": false,
     "_flight_range": false,
@@ -14234,7 +14364,7 @@
     "_scrap_bauxite": false,
     "_scrap_fuel": false,
     "_scrap_steel": 30,
-    "_shelling_accuracy": -10,
+    "_shelling_accuracy": -2,
     "_special": false,
     "_speed": false,
     "_torpedo": false,
@@ -15101,7 +15231,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 18],
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      18
+    ],
     "_wikipedia": "Mitsubishi J2M"
   },
   "Re.2001 CB Kai": {
@@ -16187,7 +16323,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 44, 25, 21, 0]
+    "_types": [
+      3,
+      44,
+      25,
+      21,
+      0
+    ]
   },
   "S-51J Kai": {
     "_aa": false,
@@ -16258,7 +16400,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 44, 25, 21, 0]
+    "_types": [
+      3,
+      44,
+      25,
+      21,
+      0
+    ]
   },
   "S9 Osprey": {
     "_aa": 1,
@@ -17297,7 +17445,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 12]
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      12
+    ]
   },
   "Shiden Kai (343 Air Group) 701st Fighter Squadron": {
     "_aa": 11,
@@ -17548,7 +17702,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 12]
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      12
+    ]
   },
   "Shiden Model 21 Shiden Kai": {
     "_aa": 9,
@@ -17580,7 +17740,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 38, 12],
+    "_types": [
+      22,
+      39,
+      48,
+      38,
+      12
+    ],
     "_wikipedia": "Kawanishi N1K"
   },
   "Shinden Kai": {
@@ -17940,6 +18106,37 @@
     "_type": 39,
     "_upgradable": false,
     "_wikipedia": "Crow's Nest"
+  },
+  "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)": {
+    "_aa": false,
+    "_armor": 1,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 5,
+    "_firepower": false,
+    "_flight_cost": false,
+    "_flight_range": false,
+    "_icon": 5,
+    "_id": 461,
+    "_info": null,
+    "_japanese_name": "熟練聴音員+後期型艦首魚雷(4門)",
+    "_los": false,
+    "_luck": false,
+    "_name": "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)",
+    "_range": 1,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 2,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 2,
+    "_shelling_accuracy": 5,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 13,
+    "_torpedo_accuracy": false,
+    "_type": 32
   },
   "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (6 tubes)": {
     "_aa": false,
@@ -18356,7 +18553,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 48,
-    "_types": [22, 39, 48, 44, 29],
+    "_types": [
+      22,
+      39,
+      48,
+      44,
+      29
+    ],
     "_wikipedia": "Supermarine Spitfire (late Merlin-powered variants)"
   },
   "Spitfire Mk.V": {
@@ -24497,7 +24700,13 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [7, 32, 15, 17, 0]
+    "_types": [
+      7,
+      32,
+      15,
+      17,
+      0
+    ]
   },
   "Type 3 Fighter Hien": {
     "_aa": 8,
@@ -27402,7 +27611,7 @@
     "_firepower": false,
     "_flight_cost": 8,
     "_flight_range": 6,
-    "_icon": 10,
+    "_icon": 50,
     "_id": 102,
     "_improvements": {
       "_ammo": 30,
