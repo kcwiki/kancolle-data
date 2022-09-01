@@ -259,7 +259,7 @@ Update dependencies:
 yarn up
 ```
 
-Run tests:
+Run tests and format files:
 
 ```sh
 yarn test
