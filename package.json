@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.220831.0",
+  "version": "0.220831.1",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -25,32 +25,39 @@
   "bin": {},
   "scripts": {
     "fetch-api": "kancolle-browser --save-api-and-exit /tmp/api_start2",
-    "build-api": "node build/api && quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
-    "build-external": "sh build/external.sh",
-    "build-from-wiki": "node build/wiki-pull.js",
-    "deploy-wiki": "node build/wiki-push.js",
+    "pull-api": "node build/api",
+    "pull-db": "node build/db.js",
+    "pull-external": "sh build/external.sh",
+    "pull-wiki": "node build/wiki/pull.js",
+    "push-wiki": "node build/wiki/equipment.js",
+    "type-api": "quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
+    "type-equipment": "node -e 'console.log(JSON.stringify(Object.values(require(\"./wiki/equipment.json\"))))' > /tmp/equipment.json; quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level equipment /tmp/equipment.json -o wiki/equipment.ts",
     "format": "prettier --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
     "lint": "eslint --fix .",
-    "test": "yarn format && yarn lint && node test",
-    "up": "yarn upgrade --latest"
+    "test": "yarn type-api && node build/doc && yarn format && yarn lint && node test"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
-    "fs-extra": "^10.1.0",
-    "gm": "^1.23.1",
-    "lodash": "^4.17.21",
-    "lua-json": "^1.0.0",
-    "node-fetch": "^2.6.7",
-    "sort-keys": "^4.2.0"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "dotenv": "^16.0.2",
     "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "filenamify": "^5.1.1",
+    "fs-extra": "^10.1.0",
+    "gm": "^1.23.1",
     "kuroshiro": "^1.2.0",
     "kuroshiro-analyzer-kuromoji": "^1.1.0",
-    "prettier": "^2.7.1"
+    "lua-json": "^1.0.1",
+    "node-fetch": "^2.6.7",
+    "nodemw": "^0.18.0",
+    "pg": "^8.8.0",
+    "prettier": "^2.7.1",
+    "quicktype": "^15.0.261",
+    "sort-keys": "^4.2.0",
+    "stream-bson": "^1.1.0"
   },
   "eslintConfig": {
     "env": {
@@ -70,7 +77,7 @@
     "rules": {
       "complexity": [
         "error",
-        6
+        20
       ],
       "max-depth": [
         "error",
@@ -91,7 +98,8 @@
       "max-statements": [
         "error",
         20
-      ]
+      ],
+      "no-async-promise-executor": 0
     }
   },
   "prettier": {

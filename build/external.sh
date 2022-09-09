@@ -3,8 +3,11 @@
 # translations
 
 fetch_tl() {
-  cp "../plugin-translator/i18n-source/$1/en-US.json" "tl/${2:-$1}.json"
-  # curl -s "https://raw.githubusercontent.com/poooi/plugin-translator/master/i18n-source/$1/en-US.json" > "tl/${2:-$1}.json"
+  if [ -d "../plugin-translator/" ]; then
+    cp "../plugin-translator/i18n-source/$1/en-US.json" "tl/${2:-$1}.json"
+  else
+    curl -s "https://raw.githubusercontent.com/poooi/plugin-translator/master/i18n-source/$1/en-US.json" > "tl/${2:-$1}.json"
+  fi
 }
 
 fetch_tl ship

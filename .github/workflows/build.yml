@@ -1,0 +1,34 @@
+name: Build
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: Build Target
+        default: all
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'yarn'
+      - run: yarn --frozen-lockfile
+      - run: yarn pull-api
+      - run: yarn pull-db
+        env:
+          PGUSER: ${{ secrets.PGUSER }}
+          PGPASSWORD: ${{ secrets.PGPASSWORD }}
+          PGHOST: ${{ secrets.PGHOST }}
+          PGDATABASE: ${{ secrets.PGDATABASE }}
+          PGPORT: ${{ secrets.PGPORT }}
+      # - run: yarn pull-external
+      # - run: yarn pull-wiki
+      # - run: yarn push-wiki
+      - run: node build/wiki/equipment ${{github.event.inputs.target}}
+        env:
+          WIKI_HOST: ${{ secrets.WIKI_HOST }}
+          WIKI_PATH: ${{ secrets.WIKI_PATH }}
+          BOT_USERNAME: ${{ secrets.BOT_USERNAME }}
+          BOT_PASSWORD: ${{ secrets.BOT_PASSWORD }}

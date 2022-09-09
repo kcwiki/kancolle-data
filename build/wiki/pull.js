@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const { map } = require('bluebird')
 const { outputJson } = require('fs-extra')
 const fetch = require('node-fetch')
@@ -5,7 +7,9 @@ const { _, forEach, fromPairs, toPairs, values, flatten, keyBy } = require('loda
 const sortKeys = require('sort-keys')
 const { parse } = require('lua-json')
 
-const { shipBaseNames } = require('../tl')
+const ROOT = `${__dirname}/../..`
+
+const { shipBaseNames } = require(`${ROOT}/tl`)
 
 const categories = {
   ship: 'Ship',
@@ -33,7 +37,7 @@ const getLuaDataInCategory = async category => {
     if (cont) {
       params.gapcontinue = cont
     }
-    const url = `https://en.kancollewiki.net/w/api.php?${_(params)
+    const url = `https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/${process.env.WIKI_PATH || '/w'}/api.php?${_(params)
       .toPairs()
       .map(([k, v]) => `${k}=${v}`)
       .join('&')}`
@@ -53,7 +57,7 @@ const main = async () => {
   )
   data.quest = keyBy(flatten(values(data.quest)), 'label')
   const dataSorted = sortKeys(data, { deep: true })
-  await map(toPairs(dataSorted), ([categoryName, data]) => outputJson(`${__dirname}/../wiki/${categoryName}.json`, data, { spaces: 2 }))
+  await map(toPairs(dataSorted), ([categoryName, data]) => outputJson(`${ROOT}/wiki/${categoryName}.json`, data, { spaces: 2 }))
 
   // seasonal data
 
@@ -63,7 +67,7 @@ const main = async () => {
       seasonal[ship] = shipData.seasonals
     }
   })
-  await outputJson(`${__dirname}/../wiki/seasonal.json`, seasonal, { spaces: 2 })
+  await outputJson(`${ROOT}/wiki/seasonal.json`, seasonal, { spaces: 2 })
 
   // flat ships
 
@@ -102,7 +106,7 @@ const main = async () => {
     }
   })
 
-  await outputJson(`${__dirname}/../wiki/ship.json`, ships, { spaces: 2 })
+  await outputJson(`${ROOT}/wiki/ship.json`, ships, { spaces: 2 })
 
   // flat enemies
 
@@ -118,7 +122,7 @@ const main = async () => {
     }),
   )
 
-  await outputJson(`${__dirname}/../wiki/enemy.json`, enemies, { spaces: 2 })
+  await outputJson(`${ROOT}/wiki/enemy.json`, enemies, { spaces: 2 })
 }
 
 main()

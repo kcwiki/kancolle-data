@@ -7869,7 +7869,7 @@
     "_armor": 15,
     "_armor_max": 31,
     "_armor_mod": 2,
-    "_artist": "Sara",
+    "_artist": "沙良",
     "_asw": 10,
     "_asw_max": 40,
     "_availability": ["event_drop"],
@@ -8004,7 +8004,7 @@
     "_full_name": "De Ruyter Kai",
     "_implementation_date": [2019, 11, 30],
     "_voice_actor": "Moriyama Yurika",
-    "_artist": "Sara",
+    "_artist": "沙良",
     "_availability": ["event_drop"]
   },
   "Duca degli Abruzzi": {
@@ -15462,7 +15462,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 11,
-    "_voice_actor": "Ai Fairouz",
+    "_voice_actor": "Fairouz Ai",
     "_voice_flag": 1,
     "_wikipedia": "USS Hornet (CV-8)",
     "_full_name": "Hornet"
@@ -15545,7 +15545,7 @@
     "_voice_flag": 1,
     "_full_name": "Hornet Kai",
     "_implementation_date": [2020, 7, 11],
-    "_voice_actor": "Ai Fairouz",
+    "_voice_actor": "Fairouz Ai",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "USS Hornet (CV-8)"
@@ -16088,7 +16088,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Junsen Type A Kai Ni",
+    "_class": "Type AM",
     "_class_number": 1,
     "_equipment": [
       {
@@ -16153,7 +16153,7 @@
     "_asw_max": false,
     "_build_time": 200,
     "_cg_damaged_reference": "/",
-    "_class": "Junsen Type A Kai Ni",
+    "_class": "Type AM",
     "_class_number": 1,
     "_equipment": [
       {
@@ -16233,7 +16233,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Junsen Type A Kai Ni",
+    "_class": "Type AM",
     "_class_number": 2,
     "_equipment": [
       {
@@ -16298,7 +16298,7 @@
     "_asw_max": false,
     "_build_time": 200,
     "_cg_damaged_reference": "/",
-    "_class": "Junsen Type A Kai Ni",
+    "_class": "Type AM",
     "_class_number": 2,
     "_equipment": [
       {
@@ -17057,7 +17057,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Sentoku",
+    "_class": "I-400",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17119,7 +17119,7 @@
     "_build_time": 200,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Sentoku",
+    "_class": "I-400",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17194,7 +17194,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": true,
-    "_class": "Sentoku",
+    "_class": "I-400",
     "_class_number": 2,
     "_equipment": [
       {
@@ -17255,7 +17255,7 @@
     "_asw_max": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Sentoku",
+    "_class": "I-400",
     "_class_number": 2,
     "_equipment": [
       {
@@ -26373,7 +26373,7 @@
     "_armor_mod": 2,
     "_artist": null,
     "_asw": 16,
-    "_asw_max": null,
+    "_asw_max": 52,
     "_availability": ["event_reward"],
     "_build_time": 70,
     "_buildable": false,
@@ -26394,8 +26394,8 @@
         "size": 2
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 22,
+    "_evasion_max": 43,
     "_firepower": 14,
     "_firepower_max": 32,
     "_firepower_mod": false,
@@ -26406,8 +26406,8 @@
     "_id": 525,
     "_implementation_date": [2022, 8, 26],
     "_japanese_name": "Langley",
-    "_los": null,
-    "_los_max": null,
+    "_los": 40,
+    "_los_max": 68,
     "_luck": 27,
     "_luck_max": 87,
     "_luck_mod": false,
@@ -26443,7 +26443,7 @@
     "_armor_max": 60,
     "_armor_mod": 3,
     "_asw": 18,
-    "_asw_max": null,
+    "_asw_max": 58,
     "_build_time": 70,
     "_class": "Independence",
     "_class_number": 1,
@@ -26465,8 +26465,8 @@
         "size": 1
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 30,
+    "_evasion_max": 57,
     "_firepower": 18,
     "_firepower_max": 40,
     "_firepower_mod": false,
@@ -26476,7 +26476,7 @@
     "_id": 525,
     "_japanese_name": "Langley改",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 80,
     "_luck": 35,
     "_luck_max": 97,
     "_luck_mod": false,
@@ -32866,8 +32866,8 @@
     "_armor_max": 19,
     "_armor_mod": 1,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 21,
+    "_asw_max": 48,
     "_availability": ["event_drop"],
     "_build_time": 22,
     "_buildable": false,
@@ -32884,8 +32884,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 40,
+    "_evasion_max": 76,
     "_firepower": 10,
     "_firepower_max": 31,
     "_firepower_mod": false,
@@ -32896,8 +32896,8 @@
     "_id": 382,
     "_implementation_date": [2022, 8, 26],
     "_japanese_name": "夏雲",
-    "_los": null,
-    "_los_max": null,
+    "_los": 5,
+    "_los_max": 19,
     "_luck": 6,
     "_luck_max": 43,
     "_luck_mod": false,
@@ -32932,27 +32932,27 @@
     "_armor": 14,
     "_armor_max": 49,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 24,
+    "_asw_max": 57,
     "_build_time": 22,
     "_class": "Asashio",
     "_class_number": 7,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12.7cm Twin Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "61cm Quadruple Torpedo Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "25mm Twin Autocannon Mount",
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 42,
+    "_evasion_max": 87,
     "_firepower": 12,
     "_firepower_max": 52,
     "_firepower_mod": 1,
@@ -32961,8 +32961,8 @@
     "_hp_max": 49,
     "_id": 382,
     "_japanese_name": "夏雲改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 6,
+    "_los_max": 36,
     "_luck": 8,
     "_luck_max": 53,
     "_luck_mod": false,
@@ -45298,8 +45298,8 @@
     "_armor_max": 16,
     "_armor_mod": false,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 42,
+    "_asw_max": 84,
     "_availability": ["event_drop"],
     "_build_time": 9,
     "_buildable": false,
@@ -45316,8 +45316,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 38,
+    "_evasion_max": 84,
     "_firepower": 4,
     "_firepower_max": 18,
     "_firepower_mod": false,
@@ -45328,8 +45328,8 @@
     "_id": 521,
     "_implementation_date": [2022, 8, 26],
     "_japanese_name": "鵜来",
-    "_los": null,
-    "_los_max": null,
+    "_los": 3,
+    "_los_max": 14,
     "_luck": 35,
     "_luck_max": 79,
     "_luck_mod": false,
@@ -45364,7 +45364,7 @@
     "_armor": 6,
     "_armor_max": 33,
     "_armor_mod": false,
-    "_asw": null,
+    "_asw": 65,
     "_asw_max": null,
     "_build_time": 9,
     "_class": "Ukuru",
@@ -45383,7 +45383,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 68,
     "_evasion_max": null,
     "_firepower": 4,
     "_firepower_max": 34,
@@ -45393,7 +45393,7 @@
     "_hp_max": 28,
     "_id": 521,
     "_japanese_name": "鵜来改",
-    "_los": null,
+    "_los": 14,
     "_los_max": null,
     "_luck": 38,
     "_luck_max": 99,
