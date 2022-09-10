@@ -16004,6 +16004,305 @@
     "_type": 7,
     "_full_name": "Hi Convoy Princess II"
   },
+  "Incomplete Battleship Princess": {
+    "_aa": null,
+    "_api_id": 2132,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2132,
+    "_japanese_name": "戦艦未完棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Incomplete Battleship Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Incomplete Battleship Princess"
+  },
+  "Incomplete Battleship Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2135,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2135,
+    "_japanese_name": "戦艦未完棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Incomplete Battleship Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Incomplete Battleship Princess Damaged"
+  },
+  "Incomplete Battleship Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2136,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2136,
+    "_japanese_name": "戦艦未完棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Incomplete Battleship Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Incomplete Battleship Princess Damaged II"
+  },
+  "Incomplete Battleship Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2137,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2137,
+    "_japanese_name": "戦艦未完棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Incomplete Battleship Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Incomplete Battleship Princess Damaged III"
+  },
+  "Incomplete Battleship Princess II": {
+    "_aa": null,
+    "_api_id": 2133,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2133,
+    "_japanese_name": "戦艦未完棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Incomplete Battleship Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Incomplete Battleship Princess II"
+  },
+  "Incomplete Battleship Princess III": {
+    "_aa": null,
+    "_api_id": 2134,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2134,
+    "_japanese_name": "戦艦未完棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Incomplete Battleship Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Incomplete Battleship Princess III"
+  },
   "Isolated Island Demon": {
     "_aa": 100,
     "_api_id": 1574,
@@ -22174,6 +22473,305 @@
     "_type": 2,
     "_full_name": "PT Imp Pack IV"
   },
+  "Prototype Carrier Princess": {
+    "_aa": null,
+    "_api_id": 2126,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2126,
+    "_japanese_name": "試作空母姫 バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Prototype Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Prototype Carrier Princess"
+  },
+  "Prototype Carrier Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2129,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2129,
+    "_japanese_name": "試作空母姫 バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Prototype Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Prototype Carrier Princess Damaged"
+  },
+  "Prototype Carrier Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2130,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2130,
+    "_japanese_name": "試作空母姫 バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Prototype Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Prototype Carrier Princess Damaged II"
+  },
+  "Prototype Carrier Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2131,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2131,
+    "_japanese_name": "試作空母姫 バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Prototype Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Prototype Carrier Princess Damaged III"
+  },
+  "Prototype Carrier Princess II": {
+    "_aa": null,
+    "_api_id": 2127,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2127,
+    "_japanese_name": "試作空母姫 バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Prototype Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Prototype Carrier Princess II"
+  },
+  "Prototype Carrier Princess III": {
+    "_aa": null,
+    "_api_id": 2128,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2128,
+    "_japanese_name": "試作空母姫 バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Prototype Carrier Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Prototype Carrier Princess III"
+  },
   "Seaplane Tender Princess": {
     "_aa": 70,
     "_api_id": 1625,
@@ -26506,6 +27104,366 @@
     "_torpedo": 128,
     "_type": 10,
     "_full_name": "Supply Depot Princess C III"
+  },
+  "Supply Depot Princess C Vacation Mode": {
+    "_aa": null,
+    "_api_id": 2138,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2138,
+    "_japanese_name": "集積地棲姫III バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess C Vacation Mode"
+  },
+  "Supply Depot Princess C Vacation Mode Damaged": {
+    "_aa": null,
+    "_api_id": 2139,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2139,
+    "_japanese_name": "集積地棲姫III バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode Damaged",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess C Vacation Mode Damaged"
+  },
+  "Supply Depot Princess C Vacation Mode Damaged II": {
+    "_aa": null,
+    "_api_id": 2141,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2141,
+    "_japanese_name": "集積地棲姫III バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode Damaged II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess C Vacation Mode Damaged II"
+  },
+  "Supply Depot Princess C Vacation Mode Damaged III": {
+    "_aa": null,
+    "_api_id": 2143,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2143,
+    "_japanese_name": "集積地棲姫III バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode Damaged III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess C Vacation Mode Damaged III"
+  },
+  "Supply Depot Princess C Vacation Mode Damaged IV": {
+    "_aa": null,
+    "_api_id": 2145,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2145,
+    "_japanese_name": "集積地棲姫III バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode Damaged IV",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess C Vacation Mode Damaged IV"
+  },
+  "Supply Depot Princess C Vacation Mode II": {
+    "_aa": null,
+    "_api_id": 2140,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2140,
+    "_japanese_name": "集積地棲姫III バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess C Vacation Mode II"
+  },
+  "Supply Depot Princess C Vacation Mode III": {
+    "_aa": null,
+    "_api_id": 2142,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2142,
+    "_japanese_name": "集積地棲姫III バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess C Vacation Mode III"
+  },
+  "Supply Depot Princess C Vacation Mode IV": {
+    "_aa": null,
+    "_api_id": 2144,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2144,
+    "_japanese_name": "集積地棲姫III バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess C",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Vacation Mode IV",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess C Vacation Mode IV"
   },
   "Supply Depot Princess Vacation Mode": {
     "_aa": 80,
