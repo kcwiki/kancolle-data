@@ -77,7 +77,7 @@
     "rules": {
       "complexity": [
         "error",
-        20
+        30
       ],
       "max-depth": [
         "error",
@@ -85,7 +85,7 @@
       ],
       "max-lines-per-function": [
         "error",
-        80
+        200
       ],
       "max-nested-callbacks": [
         "error",
@@ -97,7 +97,7 @@
       ],
       "max-statements": [
         "error",
-        20
+        50
       ],
       "no-async-promise-executor": 0
     }

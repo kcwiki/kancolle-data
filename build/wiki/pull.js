@@ -11,6 +11,8 @@ const ROOT = `${__dirname}/../..`
 
 const { shipBaseNames } = require(`${ROOT}/tl`)
 
+const getLuaData = async title => parse(await (await fetch(`https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/${title}?action=raw`)).text())
+
 const categories = {
   ship: 'Ship',
   enemy: 'Enemy',
@@ -37,7 +39,7 @@ const getLuaDataInCategory = async category => {
     if (cont) {
       params.gapcontinue = cont
     }
-    const url = `https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/${process.env.WIKI_PATH || '/w'}/api.php?${_(params)
+    const url = `https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/w/api.php?${_(params)
       .toPairs()
       .map(([k, v]) => `${k}=${v}`)
       .join('&')}`
@@ -51,6 +53,63 @@ const getLuaDataInCategory = async category => {
   return loop()
 }
 
+const fixApiYomi = name => name.replace(/\s?flagship/i, '').replace(/\s?elite/i, '')
+
+const fixEnemySuffix = suffix =>
+  fixApiYomi(suffix)
+    .replace(/\s[IVX][IVX]*$/, '')
+    .replace('- Damaged', 'Damaged')
+    .trim()
+
+const extractName = (context, type) => data => {
+  // handle modules with multiple data parts
+  if (!data._name) {
+    if (_.isObject(data)) {
+      return _.flatMap(data, extractName(context, type))
+    }
+    return []
+  }
+  // extract data from the module
+  const { _name, _japanese_name: _jpName, _suffix, _display_suffix, _api_id: _apiId, _id } = data
+  const isEnemy = type === 'enemy'
+  const id = isEnemy && _apiId && _apiId < 1501 ? _apiId + 1000 : _apiId || _id
+  const suffix = isEnemy ? _suffix && fixEnemySuffix(_suffix) : _display_suffix || _suffix
+  const name = suffix ? `${_name} ${suffix}` : _name
+  const fullEnemyName = isEnemy && (_suffix ? `${_name} ${_suffix.replace('- Damaged', 'Damaged')}` : _name)
+  const jpName = isEnemy ? _jpName && fixApiYomi(_jpName) : _jpName
+  // not sufficient data
+  if (!jpName || (isEnemy && !id)) {
+    return []
+  }
+  // incomplete module
+  if (!id) {
+    return [[jpName, name]]
+  }
+  // handle conflicts for this type
+  const typeContext = context[type]
+  if (typeContext[jpName] && (typeContext[jpName].name !== name || typeContext[jpName].fullEnemyName !== fullEnemyName)) {
+    // will need to fix first translation later, guaranteed to be the right one by
+    // getLuaDataInCategory order and wikia naming conventions
+    typeContext[jpName].fix = true
+    return [[`${jpName}_${id}`, fullEnemyName || name]]
+  }
+  typeContext[jpName] = {
+    id,
+    name,
+    baseName: _name,
+    fullEnemyName,
+    type,
+  }
+  // warn about global conflicts
+  const globalContext = context.global
+  if (globalContext[jpName] && globalContext[jpName] !== name) {
+    console.error(`global name conflict for ${jpName}`)
+  }
+  globalContext[jpName] = name
+  // no conflicts
+  return [[jpName, name]]
+}
+
 const main = async () => {
   const data = fromPairs(
     await map(toPairs(categories), async ([categoryName, category]) => [categoryName, fromPairs(await getLuaDataInCategory(category))]),
@@ -58,6 +117,31 @@ const main = async () => {
   data.quest = keyBy(flatten(values(data.quest)), 'label')
   const dataSorted = sortKeys(data, { deep: true })
   await map(toPairs(dataSorted), ([categoryName, data]) => outputJson(`${ROOT}/wiki/${categoryName}.json`, data, { spaces: 2 }))
+
+  // extracting translations
+
+  const context = { global: {} }
+  const tls = _(data)
+    .omit('quest')
+    .map((articles, type) => {
+      context[type] = context[type] || {}
+      const typeResult = _(articles).flatMap(extractName(context, type)).fromPairs().value()
+      // update first matches for all conflicts
+      _(context[type]).forEach(({ id, name, baseName, fullEnemyName, fix }, jpName) => {
+        if (fix || (name && fullEnemyName && name !== fullEnemyName)) {
+          // support no context, currently only adding (?) for enemy equipment, also Souya needs a kludge
+          typeResult[jpName] = (jpName === '宗谷' ? baseName : name) + (type === 'enemyEquipment' ? ' (?)' : '')
+          typeResult[`${jpName}_${id}`] = fullEnemyName || name
+        }
+      })
+      return [type, typeResult]
+    })
+    .value()
+
+  await map(tls, async ([type, data]) => outputJson(`${ROOT}/tl/${_.kebabCase(type)}.json`, sortKeys(data), { spaces: 2 }))
+
+  await outputJson(`${ROOT}/tl/equipment-type.json`, sortKeys(await getLuaData('Module:Data/EquipmentTypeNames')), { spaces: 2 })
+  await outputJson(`${ROOT}/tl/ship-type.json`, sortKeys(await getLuaData('Module:Data/ShipTypeNames')), { spaces: 2 })
 
   // seasonal data
 

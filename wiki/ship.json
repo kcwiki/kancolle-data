@@ -5647,8 +5647,8 @@
     "_build_time": 70,
     "_buildable": null,
     "_buildable_lsc": null,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Brooklyn",
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": null,
@@ -5714,8 +5714,8 @@
     "_asw": null,
     "_asw_max": null,
     "_build_time": 70,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Brooklyn",
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": null,
@@ -19799,8 +19799,8 @@
     "_build_time": 300,
     "_buildable": null,
     "_buildable_lsc": null,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Richelieu",
+    "_class_number": 2,
     "_equipment": [
       {
         "equipment": null,
@@ -19870,8 +19870,8 @@
     "_asw": null,
     "_asw_max": null,
     "_build_time": 300,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Richelieu",
+    "_class_number": 2,
     "_equipment": [
       {
         "equipment": null,
@@ -28089,8 +28089,8 @@
     "_build_time": 400,
     "_buildable": null,
     "_buildable_lsc": null,
-    "_class": null,
-    "_class_number": null,
+    "_class": "South Dakota",
+    "_class_number": 3,
     "_equipment": [
       {
         "equipment": null,
@@ -28160,8 +28160,8 @@
     "_asw": null,
     "_asw_max": null,
     "_build_time": 400,
-    "_class": null,
-    "_class_number": null,
+    "_class": "South Dakota",
+    "_class_number": 3,
     "_equipment": [
       {
         "equipment": null,
@@ -36151,8 +36151,8 @@
     "_build_time": 250,
     "_buildable": null,
     "_buildable_lsc": null,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Ranger",
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": null,
@@ -36222,8 +36222,8 @@
     "_asw": null,
     "_asw_max": null,
     "_build_time": 250,
-    "_class": null,
-    "_class_number": null,
+    "_class": "Ranger",
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": null,
