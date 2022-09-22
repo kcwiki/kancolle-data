@@ -3358,23 +3358,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 32
+        "estimation": false,
+        "size": 36
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 32
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 31
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 31
+        "size": 24
       }
     ],
     "_evasion": null,
@@ -3405,23 +3405,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 42
+        "estimation": false,
+        "size": 48
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 42
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 42
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 42
+        "size": 36
       }
     ],
     "_evasion": null,
@@ -3452,8 +3452,8 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 48
+        "estimation": false,
+        "size": 56
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
@@ -3468,7 +3468,7 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 47
+        "size": 36
       }
     ],
     "_evasion": null,
@@ -3499,23 +3499,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
+        "estimation": false,
         "size": 72
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": 48
+        "size": 52
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 48
+        "size": 56
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 48
+        "size": 36
       }
     ],
     "_evasion": null,
@@ -16005,301 +16005,325 @@
     "_full_name": "Hi Convoy Princess II"
   },
   "Incomplete Battleship Princess": {
-    "_aa": null,
+    "_aa": 160,
     "_api_id": 2132,
-    "_armor": null,
+    "_armor": 160,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 72
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 340,
+    "_hp": 970,
     "_id": 2132,
     "_japanese_name": "戦艦未完棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Incomplete Battleship Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "せんかんみかんせいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Incomplete Battleship Princess"
   },
   "Incomplete Battleship Princess Damaged": {
-    "_aa": null,
+    "_aa": 200,
     "_api_id": 2135,
-    "_armor": null,
+    "_armor": 240,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 80
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 380,
+    "_hp": 970,
     "_id": 2135,
     "_japanese_name": "戦艦未完棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Incomplete Battleship Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "せんかんみかんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Incomplete Battleship Princess Damaged"
   },
   "Incomplete Battleship Princess Damaged II": {
-    "_aa": null,
+    "_aa": 210,
     "_api_id": 2136,
-    "_armor": null,
+    "_armor": 290,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 88
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 400,
+    "_hp": 1000,
     "_id": 2136,
     "_japanese_name": "戦艦未完棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Incomplete Battleship Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "せんかんみかんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Incomplete Battleship Princess Damaged II"
   },
   "Incomplete Battleship Princess Damaged III": {
-    "_aa": null,
+    "_aa": 230,
     "_api_id": 2137,
-    "_armor": null,
+    "_armor": 360,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 98
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 440,
+    "_hp": 1070,
     "_id": 2137,
     "_japanese_name": "戦艦未完棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Incomplete Battleship Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "せんかんみかんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Incomplete Battleship Princess Damaged III"
   },
   "Incomplete Battleship Princess II": {
-    "_aa": null,
+    "_aa": 170,
     "_api_id": 2133,
-    "_armor": null,
+    "_armor": 200,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 80
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 360,
+    "_hp": 1000,
     "_id": 2133,
     "_japanese_name": "戦艦未完棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Incomplete Battleship Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "せんかんみかんせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Incomplete Battleship Princess II"
   },
   "Incomplete Battleship Princess III": {
-    "_aa": null,
+    "_aa": 190,
     "_api_id": 2134,
-    "_armor": null,
+    "_armor": 240,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 15inch Quadruple Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 88
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 400,
+    "_hp": 1070,
     "_id": 2134,
     "_japanese_name": "戦艦未完棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Incomplete Battleship Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "せんかんみかんせいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Incomplete Battleship Princess III"
   },
@@ -22473,304 +22497,329 @@
     "_type": 2,
     "_full_name": "PT Imp Pack IV"
   },
-  "Prototype Carrier Princess": {
-    "_aa": null,
+  "Prototype Carrier Princess Vacation Mode": {
+    "_aa": 150,
     "_api_id": 2126,
-    "_armor": null,
+    "_armor": 208,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 40
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 40
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 40
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 30
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Operation Aviation Equipment",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 230,
+    "_hp": 620,
     "_id": 2126,
     "_japanese_name": "試作空母姫 バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Prototype Carrier Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "しさくくうぼき バカンスモード",
     "_speed": 10,
-    "_torpedo": null,
+    "_suffix": "Vacation Mode",
+    "_torpedo": 0,
     "_type": 11,
-    "_full_name": "Prototype Carrier Princess"
+    "_full_name": "Prototype Carrier Princess Vacation Mode"
   },
-  "Prototype Carrier Princess Damaged": {
-    "_aa": null,
+  "Prototype Carrier Princess Vacation Mode Damaged": {
+    "_aa": 150,
     "_api_id": 2129,
-    "_armor": null,
+    "_armor": 208,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Vacation Mode",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 42
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Operation Aviation Equipment",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 230,
+    "_hp": 620,
     "_id": 2129,
     "_japanese_name": "試作空母姫 バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Prototype Carrier Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "しさくくうぼき バカンスモード-かい",
     "_speed": 10,
-    "_suffix": "Damaged",
-    "_torpedo": null,
+    "_suffix": "Vacation Mode Damaged",
+    "_torpedo": 0,
     "_type": 11,
-    "_full_name": "Prototype Carrier Princess Damaged"
+    "_full_name": "Prototype Carrier Princess Vacation Mode Damaged"
   },
-  "Prototype Carrier Princess Damaged II": {
-    "_aa": null,
+  "Prototype Carrier Princess Vacation Mode Damaged II": {
+    "_aa": 180,
     "_api_id": 2130,
-    "_armor": null,
+    "_armor": 248,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Vacation Mode",
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 68
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 74
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 32
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 34
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Operation Aviation Equipment",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 290,
+    "_hp": 720,
     "_id": 2130,
     "_japanese_name": "試作空母姫 バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Prototype Carrier Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "しさくくうぼき バカンスモード-かい",
     "_speed": 10,
-    "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_suffix": "Vacation Mode Damaged II",
+    "_torpedo": 0,
     "_type": 11,
-    "_full_name": "Prototype Carrier Princess Damaged II"
+    "_full_name": "Prototype Carrier Princess Vacation Mode Damaged II"
   },
-  "Prototype Carrier Princess Damaged III": {
-    "_aa": null,
+  "Prototype Carrier Princess Vacation Mode Damaged III": {
+    "_aa": 210,
     "_api_id": 2131,
-    "_armor": null,
+    "_armor": 298,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Vacation Mode",
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 72
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 84
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 48
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Operation Aviation Equipment",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 320,
+    "_hp": 920,
     "_id": 2131,
     "_japanese_name": "試作空母姫 バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Prototype Carrier Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "しさくくうぼき バカンスモード-かい",
     "_speed": 10,
-    "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_suffix": "Vacation Mode Damaged III",
+    "_torpedo": 0,
     "_type": 11,
-    "_full_name": "Prototype Carrier Princess Damaged III"
+    "_full_name": "Prototype Carrier Princess Vacation Mode Damaged III"
   },
-  "Prototype Carrier Princess II": {
-    "_aa": null,
+  "Prototype Carrier Princess Vacation Mode II": {
+    "_aa": 160,
     "_api_id": 2127,
-    "_armor": null,
+    "_armor": 217,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Vacation Mode",
+    "_battle_card_reference": "/Vacation Mode",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 46
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 32
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Operation Aviation Equipment",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 210,
+    "_hp": 720,
     "_id": 2127,
     "_japanese_name": "試作空母姫 バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Prototype Carrier Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "しさくくうぼき バカンスモード",
     "_speed": 10,
-    "_suffix": "II",
-    "_torpedo": null,
+    "_suffix": "Vacation Mode II",
+    "_torpedo": 0,
     "_type": 11,
-    "_full_name": "Prototype Carrier Princess II"
+    "_full_name": "Prototype Carrier Princess Vacation Mode II"
   },
-  "Prototype Carrier Princess III": {
-    "_aa": null,
+  "Prototype Carrier Princess Vacation Mode III": {
+    "_aa": 180,
     "_api_id": 2128,
-    "_armor": null,
+    "_armor": 277,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Vacation Mode",
+    "_battle_card_reference": "/Vacation Mode",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": null
+        "size": 52
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": null
+        "size": 52
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 52
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": null
+        "size": 52
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Operation Aviation Equipment",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 240,
+    "_hp": 920,
     "_id": 2128,
     "_japanese_name": "試作空母姫 バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Prototype Carrier Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "しさくくうぼき バカンスモード",
     "_speed": 10,
-    "_suffix": "III",
-    "_torpedo": null,
+    "_suffix": "Vacation Mode III",
+    "_torpedo": 0,
     "_type": 11,
-    "_full_name": "Prototype Carrier Princess III"
+    "_full_name": "Prototype Carrier Princess Vacation Mode III"
   },
   "Seaplane Tender Princess": {
     "_aa": 70,
@@ -26206,7 +26255,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode",
     "_torpedo": 78,
@@ -26251,7 +26300,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged",
     "_torpedo": 78,
@@ -26298,7 +26347,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged II",
     "_torpedo": 122,
@@ -26345,7 +26394,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged III",
     "_torpedo": 144,
@@ -26392,7 +26441,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged IV",
     "_torpedo": 188,
@@ -26439,7 +26488,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode II",
     "_torpedo": 102,
@@ -26486,7 +26535,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode III",
     "_torpedo": 122,
@@ -26533,7 +26582,7 @@
     "_name": "Supply Depot Princess B",
     "_range": null,
     "_rarity": null,
-    "_reading": null,
+    "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode IV",
     "_torpedo": 144,
@@ -27106,362 +27155,374 @@
     "_full_name": "Supply Depot Princess C III"
   },
   "Supply Depot Princess C Vacation Mode": {
-    "_aa": null,
+    "_aa": 44,
     "_api_id": 2138,
-    "_armor": null,
+    "_armor": 21,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
         "estimation": true,
-        "size": null
+        "size": 48
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 60,
+    "_hp": 960,
     "_id": 2138,
     "_japanese_name": "集積地棲姫III バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード",
     "_speed": 5,
     "_suffix": "Vacation Mode",
-    "_torpedo": null,
+    "_torpedo": 78,
     "_type": 10,
     "_full_name": "Supply Depot Princess C Vacation Mode"
   },
   "Supply Depot Princess C Vacation Mode Damaged": {
-    "_aa": null,
+    "_aa": 66,
     "_api_id": 2139,
-    "_armor": null,
+    "_armor": 131,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": null
+        "size": 72
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 118,
+    "_hp": 960,
     "_id": 2139,
     "_japanese_name": "集積地棲姫III バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード-かい",
     "_speed": 5,
     "_suffix": "Vacation Mode Damaged",
-    "_torpedo": null,
+    "_torpedo": 102,
     "_type": 9,
     "_full_name": "Supply Depot Princess C Vacation Mode Damaged"
   },
   "Supply Depot Princess C Vacation Mode Damaged II": {
-    "_aa": null,
+    "_aa": 99,
     "_api_id": 2141,
-    "_armor": null,
+    "_armor": 191,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": null
+        "size": 132
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 178,
+    "_hp": 1800,
     "_id": 2141,
     "_japanese_name": "集積地棲姫III バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード-かい",
     "_speed": 5,
     "_suffix": "Vacation Mode Damaged II",
-    "_torpedo": null,
+    "_torpedo": 144,
     "_type": 9,
     "_full_name": "Supply Depot Princess C Vacation Mode Damaged II"
   },
   "Supply Depot Princess C Vacation Mode Damaged III": {
-    "_aa": null,
+    "_aa": 91,
     "_api_id": 2143,
-    "_armor": null,
+    "_armor": 161,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 138,
+    "_hp": 3600,
     "_id": 2143,
     "_japanese_name": "集積地棲姫III バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード-かい",
     "_speed": 5,
     "_suffix": "Vacation Mode Damaged III",
-    "_torpedo": null,
+    "_torpedo": 122,
     "_type": 9,
     "_full_name": "Supply Depot Princess C Vacation Mode Damaged III"
   },
   "Supply Depot Princess C Vacation Mode Damaged IV": {
-    "_aa": null,
+    "_aa": 101,
     "_api_id": 2145,
-    "_armor": null,
+    "_armor": 191,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 191,
+    "_hp": 7200,
     "_id": 2145,
     "_japanese_name": "集積地棲姫III バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード-かい",
     "_speed": 5,
     "_suffix": "Vacation Mode Damaged IV",
-    "_torpedo": null,
+    "_torpedo": 144,
     "_type": 9,
     "_full_name": "Supply Depot Princess C Vacation Mode Damaged IV"
   },
   "Supply Depot Princess C Vacation Mode II": {
-    "_aa": null,
+    "_aa": 77,
     "_api_id": 2140,
-    "_armor": null,
+    "_armor": 161,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": null
+        "size": 98
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 148,
+    "_hp": 1800,
     "_id": 2140,
     "_japanese_name": "集積地棲姫III バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード",
     "_speed": 5,
     "_suffix": "Vacation Mode II",
-    "_torpedo": null,
+    "_torpedo": 122,
     "_type": 10,
     "_full_name": "Supply Depot Princess C Vacation Mode II"
   },
   "Supply Depot Princess C Vacation Mode III": {
-    "_aa": null,
+    "_aa": 71,
     "_api_id": 2142,
-    "_armor": null,
+    "_armor": 41,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 110,
+    "_hp": 3600,
     "_id": 2142,
     "_japanese_name": "集積地棲姫III バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード",
     "_speed": 5,
     "_suffix": "Vacation Mode III",
-    "_torpedo": null,
+    "_torpedo": 78,
     "_type": 10,
     "_full_name": "Supply Depot Princess C Vacation Mode III"
   },
   "Supply Depot Princess C Vacation Mode IV": {
-    "_aa": null,
+    "_aa": 121,
     "_api_id": 2144,
-    "_armor": null,
+    "_armor": 221,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Ambush Torpedo",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 198,
+    "_hp": 7200,
     "_id": 2144,
     "_japanese_name": "集積地棲姫III バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess C",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきスリー バカンスモード",
     "_speed": 5,
     "_suffix": "Vacation Mode IV",
-    "_torpedo": null,
+    "_torpedo": 188,
     "_type": 10,
     "_full_name": "Supply Depot Princess C Vacation Mode IV"
   },

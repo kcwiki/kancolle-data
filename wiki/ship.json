@@ -5641,8 +5641,8 @@
     "_armor_max": 39,
     "_armor_mod": 2,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": 35,
     "_availability": null,
     "_build_time": 70,
     "_buildable": null,
@@ -5651,20 +5651,20 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "6inch Triple Rapid Fire Gun Mount Mk.16",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 31,
+    "_evasion_max": 67,
     "_firepower": 29,
     "_firepower_max": 59,
     "_firepower_mod": 2,
@@ -5675,7 +5675,7 @@
     "_id": 497,
     "_implementation_date": null,
     "_japanese_name": "Brooklyn",
-    "_los": null,
+    "_los": 18,
     "_los_max": null,
     "_luck": 17,
     "_luck_max": 77,
@@ -5718,19 +5718,19 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "SOC Seagull",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 2
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 4
       }
     ],
@@ -19803,19 +19803,19 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "38cm Quadruple Gun Mount",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       }
     ],
@@ -19874,19 +19874,19 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "38cm Quadruple Gun Mount Kai",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": "15.2cm Triple Gun Mount",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": "Loire 130M",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       }
     ],
@@ -28083,8 +28083,8 @@
     "_armor_max": 92,
     "_armor_mod": 5,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_availability": null,
     "_build_time": 400,
     "_buildable": null,
@@ -28093,23 +28093,23 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "16inch Triple Gun Mount Mk.6",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "16inch Triple Gun Mount Mk.6",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       }
     ],
-    "_evasion": null,
+    "_evasion": 27,
     "_evasion_max": null,
     "_firepower": 80,
     "_firepower_max": 101,
@@ -28121,7 +28121,7 @@
     "_id": 533,
     "_implementation_date": null,
     "_japanese_name": "Massachusetts",
-    "_los": null,
+    "_los": 15,
     "_los_max": null,
     "_luck": 18,
     "_luck_max": 88,
@@ -28157,26 +28157,26 @@
     "_armor": 86,
     "_armor_max": 109,
     "_armor_mod": 5,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_build_time": 400,
     "_class": "South Dakota",
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "16inch Triple Gun Mount Mk.6 mod.2",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "SG Radar (Initial Model)",
         "size": 2
       },
       {
-        "equipment": null,
+        "equipment": "OS2U",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       }
     ],
@@ -36155,19 +36155,19 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "F4F-3",
         "size": 24
       },
       {
-        "equipment": null,
+        "equipment": "SBD",
         "size": 24
       },
       {
-        "equipment": null,
+        "equipment": "TBF",
         "size": 24
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 4
       }
     ],
@@ -36226,19 +36226,19 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "F4F-4",
         "size": 28
       },
       {
-        "equipment": null,
+        "equipment": "SBD-5",
         "size": 30
       },
       {
-        "equipment": null,
+        "equipment": "TBF",
         "size": 24
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 4
       }
     ],
