@@ -12298,22 +12298,22 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 24
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 35
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 35
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 24
+        "size": 26
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -12350,22 +12350,22 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 24
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 35
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 35
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 24
+        "size": 26
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -12405,22 +12405,22 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 34
+        "size": 40
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 35
+        "size": 38
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 35
+        "size": 38
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 34
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -12460,7 +12460,7 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 42
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -12475,7 +12475,7 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 42
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -12515,22 +12515,22 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 27
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 37
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 37
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 27
+        "size": 28
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -12570,17 +12570,17 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 32
+        "size": 40
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 42
+        "size": 38
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 42
+        "size": 38
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
@@ -27178,7 +27178,7 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
+        "estimation": false,
         "size": 48
       }
     ],
@@ -27223,7 +27223,7 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
+        "estimation": false,
         "size": 72
       }
     ],
@@ -27270,8 +27270,8 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 132
+        "estimation": false,
+        "size": 128
       }
     ],
     "_evasion": null,
@@ -27411,7 +27411,7 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
+        "estimation": false,
         "size": 98
       }
     ],

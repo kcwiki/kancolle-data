@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.220911.1",
+  "version": "0.220930.0",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -32,8 +32,8 @@
     "push-wiki": "node build/wiki/equipment.js",
     "type-api": "quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
     "type-equipment": "node -e 'console.log(JSON.stringify(Object.values(require(\"./wiki/equipment.json\"))))' > /tmp/equipment.json; quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level equipment /tmp/equipment.json -o wiki/equipment.ts",
-    "format": "prettier --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
-    "lint": "eslint --fix .",
+    "format": "prettier --ignore-path .gitignore --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
+    "lint": "eslint --ignore-path .gitignore --fix .",
     "test": "yarn type-api && node build/doc && yarn format && yarn lint && node test"
   },
   "dependencies": {
