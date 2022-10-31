@@ -4009,12 +4009,12 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 49
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 43
+        "size": 44
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -4061,8 +4061,7 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 50
+        "size": 52
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -4072,12 +4071,12 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 46
+        "size": 45
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 46
+        "size": 45
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -4114,7 +4113,6 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
         "size": 54
       },
       {
@@ -10703,7 +10701,6 @@
     "_full_name": "Entombed Anti-Air Guardian Princess III"
   },
   "Entombed Anti-Air Guardian Winter Princess": {
-    "_Opening_Torpedo": true,
     "_aa": 222,
     "_air_power_estimation": false,
     "_api_id": 2080,
@@ -10736,6 +10733,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Entombed Anti-Air Guardian Winter Princess",
+    "_opening_torpedo": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "ぼうくうまいごふゆき",
@@ -10745,7 +10743,6 @@
     "_full_name": "Entombed Anti-Air Guardian Winter Princess"
   },
   "Entombed Anti-Air Guardian Winter Princess Damaged": {
-    "_Opening_Torpedo": true,
     "_aa": 244,
     "_air_power_estimation": false,
     "_api_id": 2082,
@@ -10785,6 +10782,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Entombed Anti-Air Guardian Winter Princess",
+    "_opening_torpedo": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "ぼうくうまいごふゆき-かい",
@@ -10795,7 +10793,6 @@
     "_full_name": "Entombed Anti-Air Guardian Winter Princess Damaged"
   },
   "Entombed Anti-Air Guardian Winter Princess Damaged II": {
-    "_Opening_Torpedo": true,
     "_aa": 288,
     "_air_power_estimation": false,
     "_api_id": 2083,
@@ -10837,6 +10834,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Entombed Anti-Air Guardian Winter Princess",
+    "_opening_torpedo": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "ぼうくうまいごふゆき-かい",
@@ -10847,7 +10845,6 @@
     "_full_name": "Entombed Anti-Air Guardian Winter Princess Damaged II"
   },
   "Entombed Anti-Air Guardian Winter Princess II": {
-    "_Opening_Torpedo": true,
     "_aa": 244,
     "_air_power_estimation": false,
     "_api_id": 2081,
@@ -10889,6 +10886,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Entombed Anti-Air Guardian Winter Princess",
+    "_opening_torpedo": true,
     "_range": null,
     "_rarity": 8,
     "_reading": "ぼうくうまいごふゆき",
@@ -22616,22 +22614,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 68
+        "size": 62
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 74
+        "size": 62
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 32
+        "size": 42
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 34
+        "size": 42
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -22671,22 +22669,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 72
+        "size": 74
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 84
+        "size": 74
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 46
+        "size": 58
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 48
+        "size": 42
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -22741,7 +22739,7 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 32
+        "size": 42
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -22781,22 +22779,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 52
+        "size": 62
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 52
+        "size": 62
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 52
+        "size": 42
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 52
+        "size": 42
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",

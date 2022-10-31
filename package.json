@@ -1,6 +1,6 @@
 {
   "name": "@kancolle/data",
-  "version": "0.220930.0",
+  "version": "0.221031.0",
   "description": "KanColle data and data functions",
   "keywords": [
     "kancolle"
@@ -81,7 +81,7 @@
       ],
       "max-depth": [
         "error",
-        2
+        5
       ],
       "max-lines-per-function": [
         "error",
