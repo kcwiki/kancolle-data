@@ -9601,6 +9601,7 @@
     "_scrap_fuel": 3,
     "_scrap_steel": false,
     "_shelling_accuracy": false,
+    "_special": false,
     "_speed": false,
     "_torpedo": 6,
     "_torpedo_accuracy": false,
@@ -10737,6 +10738,37 @@
       "_bauxite": 10,
       "_fuel": 50,
       "_products": {
+        "Armed Daihatsu": {
+          "10": {
+            "_development_material": 6,
+            "_development_material_x": 9,
+            "_equipment": {
+              "Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force)": 1
+            },
+            "_improvement_material": 3,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Shinshuu Maru/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Uranami/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
+            }
+          }
+        },
         "Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force)": {
           "10": {
             "_development_material": 4,
@@ -10882,6 +10914,15 @@
               "Tuesday": true,
               "Wednesday": true
             },
+            "Shinshuu Maru/Kai": {
+              "Friday": false,
+              "Monday": true,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
             "Tatsuta/Kai Ni": {
               "Friday": false,
               "Monday": true,
@@ -10890,6 +10931,15 @@
               "Thursday": true,
               "Tuesday": true,
               "Wednesday": true
+            },
+            "Uranami/Kai Ni": {
+              "Friday": true,
+              "Monday": false,
+              "Saturday": false,
+              "Sunday": false,
+              "Thursday": true,
+              "Tuesday": false,
+              "Wednesday": false
             }
           }
         }
@@ -11707,6 +11757,7 @@
     "_scrap_fuel": 3,
     "_scrap_steel": false,
     "_shelling_accuracy": false,
+    "_special": false,
     "_speed": false,
     "_torpedo": 8,
     "_torpedo_accuracy": false,
@@ -12957,6 +13008,38 @@
     "_types": [5, 36, 45, 43, 26],
     "_wikipedia": "Kawanishi N1K"
   },
+  "Kyoufuu Kai Ni": {
+    "_aa": 6,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 4,
+    "_firepower": false,
+    "_flight_cost": 6,
+    "_flight_range": 3,
+    "_icon": 43,
+    "_id": 485,
+    "_improvements": false,
+    "_info": "水上機の名門が開発した空戦に特化した水上機「強風」。難航<br>する同機開発の繋ぎとして投入された二式水戦の後継として、<br>その登場が期待されました。実際の量産機の活躍は限定的でし<br>たが、同機をベースに開発された「紫電」のさらなる再設計機<br>「紫電改」は本土防空の切り札として奮戦します。本機は機体<br>強度等を強化したif艦載機型、その出力向上武装強化型です。",
+    "_japanese_name": "強風改二",
+    "_los": 2,
+    "_luck": false,
+    "_name": "Kyoufuu Kai Ni",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 1,
+    "_scrap_bauxite": 7,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 45,
+    "_types": [5, 36, 45, 43, 26]
+  },
   "Late Model 53cm Bow Torpedo Mount (8 tubes)": {
     "_aa": false,
     "_armor": false,
@@ -13476,6 +13559,7 @@
     "_scrap_fuel": 10,
     "_scrap_steel": false,
     "_shelling_accuracy": 2,
+    "_special": false,
     "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,
@@ -13508,6 +13592,7 @@
     "_scrap_fuel": 9,
     "_scrap_steel": false,
     "_shelling_accuracy": 1,
+    "_special": false,
     "_speed": false,
     "_torpedo": 8,
     "_torpedo_accuracy": false,
@@ -22292,6 +22377,68 @@
     "_scrap_steel": false,
     "_shelling_accuracy": false,
     "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 7,
+    "_types": [3, 5, 7, 7, 12]
+  },
+  "Type 0 Fighter Model 64 (Air Superiority Fighter Specification)": {
+    "_aa": 9,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 3,
+    "_firepower": 1,
+    "_flight_cost": 6,
+    "_flight_range": 5,
+    "_icon": 6,
+    "_id": 486,
+    "_improvements": false,
+    "_japanese_name": "零式艦戦64型(制空戦闘機仕様)",
+    "_los": 1,
+    "_luck": false,
+    "_name": "Type 0 Fighter Model 64 (Air Superiority Fighter Specification)",
+    "_range": false,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 3,
+    "_scrap_bauxite": 5,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 6,
+    "_types": [3, 5, 6, 6, 12]
+  },
+  "Type 0 Fighter Model 64 (Skilled Fighter-bomber)": {
+    "_aa": 7,
+    "_armor": false,
+    "_asw": 3,
+    "_bombing": 6,
+    "_buildable": false,
+    "_evasion": false,
+    "_firepower": 1,
+    "_flight_cost": 6,
+    "_flight_range": 5,
+    "_icon": 7,
+    "_id": 487,
+    "_improvements": false,
+    "_japanese_name": "零式艦戦64型(熟練爆戦)",
+    "_los": 2,
+    "_luck": false,
+    "_name": "Type 0 Fighter Model 64 (Skilled Fighter-bomber)",
+    "_range": false,
+    "_rarity": 4,
+    "_reading": null,
+    "_scrap_ammo": 4,
+    "_scrap_bauxite": 5,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 2,
     "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,

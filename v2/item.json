@@ -62,10 +62,10 @@
   "Construction Corps": {
     "_name": "Construction Corps",
     "_reading": "せつえいたい (setsueitai)",
-    "_description": "Required for setting up airfields and other facilities. ※ Can be used to expand the number of air base units. ※ Can have up to 10 in total.",
+    "_description": "Required for setting up airfields and other facilities. ※ Can be used to expand the number of air base units. ※ Can have up to 99 in total.",
     "_category": 0,
     "_id": 73,
-    "_japanese_description": "飛行場などの設営に必要です。※基地航空隊の拡張も可能※最大計10個まで保有可能",
+    "_japanese_description": "飛行場などの設営に必要です。※基地航空隊の拡張も可能※最大計99個まで保有可能",
     "_japanese_name": "設営隊",
     "_type": 0
   },
@@ -242,10 +242,10 @@
   "Homeport Expansion": {
     "_name": "Homeport Expansion",
     "_reading": "ぼこうかくちょう (bokōkakuchō)",
-    "_description": "Maximum number of ships +10 (max 490). Maximum number of items +40 (max 2110).",
+    "_description": "",
     "_category": 0,
     "_id": 53,
-    "_japanese_description": "最大保有艦娘数＋10(最大490)。最大保有アイテム数＋40(最大2110)。",
+    "_japanese_description": "",
     "_japanese_name": "母港拡張",
     "_type": 0
   },
@@ -398,6 +398,16 @@
     "_japanese_description": "本格的な大型航空母艦を、より強力に改装するための、特殊な航空艤装です。ある型の正規空母の改二改装に使用します。",
     "_japanese_name": "試製甲板カタパルト",
     "_type": 0
+  },
+  "Pumpkin": {
+    "_name": "Pumpkin",
+    "_reading": "かぼちゃ (kabocha)",
+    "_description": null,
+    "_category": 0,
+    "_id": 96,
+    "_japanese_description": "艦娘が丹精込めて畑で栽培した国産の南瓜です。甘みも抜群でケーキや羊羹にも最適です。※限定任務終了で消滅します。",
+    "_japanese_name": "南瓜",
+    "_type": 4
   },
   "Reinforcement Expansion": {
     "_name": "Reinforcement Expansion",
@@ -555,7 +565,7 @@
     "_description": "This is a large gift box to be given at Christmas 2021. Upon opening the box, the Admiral can choose what he prefers within the contents of the gift.",
     "_category": 0,
     "_id": 80,
-    "_japanese_description": "令和二年２０２０年クリスマスに贈られる大きなプレゼント箱です。開封時に、プレゼントの中身は提督が好きなものを選ぶことができます。",
+    "_japanese_description": "令和三年２０２１年クリスマスに贈られる大きなプレゼント箱です。開封時に、プレゼントの中身は提督が好きなものを選ぶことができます。",
     "_japanese_name": "Xmas Select Gift Box",
     "_type": 4
   }

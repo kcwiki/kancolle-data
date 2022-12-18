@@ -22496,9 +22496,9 @@
     "_full_name": "PT Imp Pack IV"
   },
   "Prototype Carrier Princess Vacation Mode": {
-    "_aa": 150,
+    "_aa": 130,
     "_api_id": 2126,
-    "_armor": 208,
+    "_armor": 177,
     "_asw": null,
     "_back": -11,
     "_can_debuff": true,
@@ -22530,7 +22530,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 230,
+    "_firepower": 180,
     "_hp": 620,
     "_id": 2126,
     "_japanese_name": "試作空母姫 バカンスmode",

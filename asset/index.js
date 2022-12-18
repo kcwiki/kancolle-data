@@ -52,7 +52,7 @@ const shipVoice = (id, lineId) => (id <= 1500 && lineId <= 53 ? 100000 + ((17 * 
 const equipment =
   type =>
   (id, server = '203.104.209.71') =>
-    `http://${server}/kcs2/resources/slot/${type}/${padStart(id, 3, '0')}_${create(id, `slot_${type}`)}.png`
+    `http://${server}/kcs2/resources/slot/${type}/${padStart(id, 4, '0')}_${create(id, `slot_${type}`)}.png`
 
 const equipmentCard = equipment('card')
 const equipmentFull = equipment('item_on')

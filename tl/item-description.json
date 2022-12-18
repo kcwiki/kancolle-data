@@ -5,7 +5,7 @@
   "あの暖簾をくぐって鳳翔さんの<br>小料理屋へどうぞ。心尽くしア<br>イテムと交換できます。※一定<br>期間後、消滅します。": "Please go through the curtains and walk into Houshou's small restaurant, you're welcomed inside. You can exchange this ticket for a heartfelt item. ※ Will disappear after a certain period of time.",
   "ある給糧艦が、新年の艦隊艦娘<br>と提督の安全を祈って準備する<br>お飾りの材料。３２個消費して<br>艦隊安全お飾りを制作可能。": "Materials for decorations ensuring the safety of fleet girls and admirals in the New Year, prepared by a certain food supply shipgirl. You can craft fleet safety decorations using 32 pieces.",
   "ケッコンカッコカリに必要な書<br>類一式と指輪。改装で使用す<br>る。": "A set of documents and a ring required for a fake marriage. Used in the \"Refit\" menu.",
-  "令和二年２０２０年クリスマス<br>に贈られる大きなプレゼント箱<br>です。開封時に、プレゼントの<br>中身は提督が好きなものを選ぶ<br>ことができます。": "This is a large gift box to be given at Christmas 2021. Upon opening the box, the Admiral can choose what he prefers within the contents of the gift.",
+  "令和三年２０２１年クリスマス<br>に贈られる大きなプレゼント箱<br>です。開封時に、プレゼントの<br>中身は提督が好きなものを選ぶ<br>ことができます。": "This is a large gift box to be given at Christmas 2021. Upon opening the box, the Admiral can choose what he prefers within the contents of the gift.",
   "入渠ドックまたは工廠ドックを<br>１つ開放できるキー。さらに、<br>艦隊編成記録枠を１つ拡張する<br>ことも可能です。": "A key that can open a repair dock or a construction dock. In addition, it can also add an additional fleet preset slot.",
   "入渠時間を短縮できる。": "Reduces docking time.",
   "工作艦などの艦で緊急泊地修理<br>を実施時に必要な資材です。　<br>※緊急泊地修理を実施する際、<br>　一つ消費します。": "These are the materials needed to perform emergency repairs by an anchorage using ships such as repair ships. ※ Consumed when performing emergency anchorage repair.",
@@ -38,6 +38,7 @@
   "艦のスロットに装備する。装備<br>した艦は1度だけ撃沈を回避で<br>きる。": "To equip in one of a ship's slot. The equipped ship can avoid being sunk only once.",
   "艦娘(練度30以上必要)を補強増<br>設改修できます。同改修により<br>補強増設装備スロットが艦娘に<br>増設されます。(1回分)": "Adds a reinforcement expansion to a ship (requires Lv.30 or higher). This upgrade will add a reinforcement expansion equipment slot to the ship. (One-time use)",
   "艦娘から贈られたチョコ。ク<br>リックして資源にするのもよ<br>し、保存しておくのもよし。": "Chocolates given by a shipgirl. You can click on it and get resources, or you could also just keep it.",
+  "艦娘が丹精込めて畑で栽培した<br>国産の南瓜です。甘みも抜群で<br>ケーキや羊羹にも最適です。<br>※限定任務終了で消滅します。": "A home-grown pumpkin, carefully cultivated in the fields by the shipgirls. It has an excellent sweetness and is ideal for cakes and yōkan. ※Will disappear with the related limited quests' end.",
   "艦娘たちの士気を高揚させる新<br>型給糧艦。編成で使用可能。": "A new type of food supply ship that boosts the morale of shipgirls. Can be used in the \"Fleet\" menu.",
   "艦娘の「特別な改造」に使用す<br>る設計図。": "A blueprint used for special remodels of some shipgirls.",
   "艦隊全体の疲労度を回復する給<br>糧艦。編成で使用可能。": "A food supply ship that recovers the entire fleet from fatigue. Can be used in the \"Fleet\" menu.",
@@ -47,5 +48,5 @@
   "開けると、中から大量の家具コ<br>インが出現する。": "When you open it, a large amount of furniture coins will be revealed within.",
   "開けると、中から少量の家具コ<br>インが出現する。": "When you open it, a small amount of furniture coins will be revealed within.",
   "難易度の高い作戦を、精鋭の艦<br>娘たちと共に攻略した提督のみ<br>に贈られる勝利の証。それが、<br>「甲種勲章」。資材等に交換す<br>ることも可能です。": "This is a certificate of victory given only to admirals who have conquered a difficult operation with their elite shipgirls. That, is the \"First Class Medal\". It can also be exchanged for materials.",
-  "飛行場などの設営に必要です。<br>※基地航空隊の拡張も可能　　<br>※最大計10個まで保有可能": "Required for setting up airfields and other facilities. ※ Can be used to expand the number of air base units. ※ Can have up to 10 in total."
+  "飛行場などの設営に必要です。<br>※基地航空隊の拡張も可能　　<br>※最大計99個まで保有可能": "Required for setting up airfields and other facilities. ※ Can be used to expand the number of air base units. ※ Can have up to 99 in total."
 }
