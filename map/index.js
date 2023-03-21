@@ -29,6 +29,7 @@ const nodeTypes = {
   '2-0-8': 'Resource',
   '3-0-3': 'Storm',
   '4-1-4': 'Normal',
+  '4-1-15': 'Supported',
   '4-2-11': 'Night',
   '4-5-4': 'Normal',
   '4-6-10': 'Defense',
@@ -55,7 +56,7 @@ const regularMaps = [
   ...range(41, 45 + 1),
   ...range(51, 55 + 1),
   ...range(61, 65 + 1),
-  ...range(71, 74 + 1),
+  ...range(71, 75 + 1),
 ]
 
 const battleRanks = ['S', 'A', 'B', 'C', 'D', 'E']

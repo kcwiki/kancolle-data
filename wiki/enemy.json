@@ -549,12 +549,330 @@
     "_type": 11,
     "_full_name": "Abyssal Crane Princess III"
   },
+  "Abyssal Heavy Cruiser Water Princess": {
+    "_aa": 88,
+    "_api_id": 2152,
+    "_armor": 148,
+    "_asw": null,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 4
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": false,
+        "size": 32
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 188,
+    "_hp": 740,
+    "_id": 2152,
+    "_japanese_name": "深海重巡水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Heavy Cruiser Water Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "しんかいじゅうじゅんすいき",
+    "_speed": 10,
+    "_torpedo": 78,
+    "_type": 6,
+    "_full_name": "Abyssal Heavy Cruiser Water Princess"
+  },
+  "Abyssal Heavy Cruiser Water Princess Damaged": {
+    "_aa": 118,
+    "_api_id": 2155,
+    "_armor": 178,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 60
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 228,
+    "_hp": 740,
+    "_id": 2155,
+    "_japanese_name": "深海重巡水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Heavy Cruiser Water Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "しんかいじゅうじゅんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": 88,
+    "_type": 6,
+    "_full_name": "Abyssal Heavy Cruiser Water Princess Damaged"
+  },
+  "Abyssal Heavy Cruiser Water Princess Damaged II": {
+    "_aa": 138,
+    "_api_id": 2156,
+    "_armor": 228,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 74
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 228,
+    "_hp": 840,
+    "_id": 2156,
+    "_japanese_name": "深海重巡水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Heavy Cruiser Water Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "しんかいじゅうじゅんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": 118,
+    "_type": 6,
+    "_full_name": "Abyssal Heavy Cruiser Water Princess Damaged II"
+  },
+  "Abyssal Heavy Cruiser Water Princess Damaged III": {
+    "_aa": 158,
+    "_api_id": 2157,
+    "_armor": 298,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 92
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 288,
+    "_hp": 940,
+    "_id": 2157,
+    "_japanese_name": "深海重巡水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Heavy Cruiser Water Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "しんかいじゅうじゅんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": 148,
+    "_type": 6,
+    "_full_name": "Abyssal Heavy Cruiser Water Princess Damaged III"
+  },
+  "Abyssal Heavy Cruiser Water Princess II": {
+    "_aa": 108,
+    "_api_id": 2153,
+    "_armor": 188,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 4
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 60
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 218,
+    "_hp": 840,
+    "_id": 2153,
+    "_japanese_name": "深海重巡水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Heavy Cruiser Water Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "しんかいじゅうじゅんすいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": 98,
+    "_type": 6,
+    "_full_name": "Abyssal Heavy Cruiser Water Princess II"
+  },
+  "Abyssal Heavy Cruiser Water Princess III": {
+    "_aa": 128,
+    "_api_id": 2154,
+    "_armor": 238,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 4
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": false,
+        "size": 88
+      },
+      {
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 248,
+    "_hp": 940,
+    "_id": 2154,
+    "_japanese_name": "深海重巡水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Heavy Cruiser Water Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "しんかいじゅうじゅんすいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": 238,
+    "_type": 6,
+    "_full_name": "Abyssal Heavy Cruiser Water Princess III"
+  },
   "Abyssal Jade Princess": {
     "_aa": 80,
     "_api_id": 2073,
     "_armor": 216,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -586,8 +904,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Jade Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 4,
+    "_rarity": 8,
     "_reading": "しんかいたませいき",
     "_speed": 10,
     "_torpedo": 130,
@@ -599,7 +917,7 @@
     "_api_id": 2075,
     "_armor": 286,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -629,8 +947,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Jade Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいたませいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
@@ -643,7 +961,7 @@
     "_api_id": 2076,
     "_armor": 366,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -675,8 +993,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Jade Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいたませいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
@@ -689,7 +1007,7 @@
     "_api_id": 2074,
     "_armor": 296,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -725,8 +1043,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Jade Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 4,
+    "_rarity": 8,
     "_reading": "しんかいたませいき",
     "_speed": 10,
     "_suffix": "II",
@@ -1467,7 +1785,7 @@
     "_api_id": 2038,
     "_armor": 158,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount",
@@ -1512,7 +1830,7 @@
     "_api_id": 2039,
     "_armor": 238,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -1559,7 +1877,7 @@
     "_api_id": 2040,
     "_armor": 298,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -2270,7 +2588,7 @@
     "_api_id": 2063,
     "_armor": 171,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -2298,8 +2616,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Plum Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいうめせいき",
     "_speed": 10,
     "_torpedo": 101,
@@ -2311,7 +2629,7 @@
     "_api_id": 2066,
     "_armor": 222,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -2341,8 +2659,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Plum Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいうめせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
@@ -2355,7 +2673,7 @@
     "_api_id": 2067,
     "_armor": 262,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -2387,8 +2705,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Plum Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいうめせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
@@ -2401,7 +2719,7 @@
     "_api_id": 2068,
     "_armor": 323,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -2433,8 +2751,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Plum Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいうめせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
@@ -2447,7 +2765,7 @@
     "_api_id": 2064,
     "_armor": 212,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -2479,8 +2797,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Plum Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいうめせいき",
     "_speed": 10,
     "_suffix": "II",
@@ -2493,7 +2811,7 @@
     "_api_id": 2065,
     "_armor": 272,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -2525,14 +2843,314 @@
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Plum Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "しんかいうめせいき",
     "_speed": 10,
     "_suffix": "III",
     "_torpedo": 151,
     "_type": 2,
     "_full_name": "Abyssal Plum Princess III"
+  },
+  "Abyssal Stranded Landing Princess": {
+    "_aa": null,
+    "_api_id": 2158,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2158,
+    "_japanese_name": "深海擱座揚陸姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Stranded Landing Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": false,
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Abyssal Stranded Landing Princess"
+  },
+  "Abyssal Stranded Landing Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2161,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2161,
+    "_japanese_name": "深海擱座揚陸姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Stranded Landing Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Abyssal Stranded Landing Princess Damaged"
+  },
+  "Abyssal Stranded Landing Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2162,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2162,
+    "_japanese_name": "深海擱座揚陸姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Stranded Landing Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Abyssal Stranded Landing Princess Damaged II"
+  },
+  "Abyssal Stranded Landing Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2163,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2163,
+    "_japanese_name": "深海擱座揚陸姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Stranded Landing Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Abyssal Stranded Landing Princess Damaged III"
+  },
+  "Abyssal Stranded Landing Princess II": {
+    "_aa": null,
+    "_api_id": 2159,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2159,
+    "_japanese_name": "深海擱座揚陸姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Stranded Landing Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Abyssal Stranded Landing Princess II"
+  },
+  "Abyssal Stranded Landing Princess III": {
+    "_aa": null,
+    "_api_id": 2160,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2160,
+    "_japanese_name": "深海擱座揚陸姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Stranded Landing Princess",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Abyssal Stranded Landing Princess III"
   },
   "Abyssal Sun Princess": {
     "_aa": 88,
@@ -4552,9 +5170,9 @@
     "_full_name": "Airfield Princess IV"
   },
   "Airfield Princess IX": {
-    "_aa": null,
+    "_aa": 1,
     "_api_id": 1890,
-    "_armor": null,
+    "_armor": 1,
     "_asw": null,
     "_back": -11,
     "_battle_card_layers": ["fortress_ace_r1", "fortress_r2"],
@@ -4583,19 +5201,19 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 1,
     "_hp": 500,
     "_id": 1890,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "IX",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess IX"
   },
@@ -4604,7 +5222,7 @@
     "_api_id": 2091,
     "_armor": 120,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
@@ -4636,7 +5254,7 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": 4,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ひこうじょうき(しょうかいきはいび）",
     "_speed": 0,
     "_suffix": "Patrol Aircraft Deployment",
@@ -4649,7 +5267,7 @@
     "_api_id": 2092,
     "_armor": 130,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/Patrol Aircraft Deployment",
     "_cg_reference": "/Patrol Aircraft Deployment",
     "_equipment": [
@@ -4683,7 +5301,7 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": 4,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ひこうじょうき(しょうかいきはいび）",
     "_speed": 0,
     "_suffix": "Patrol Aircraft Deployment II",
@@ -4696,7 +5314,7 @@
     "_api_id": 2093,
     "_armor": 140,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/Patrol Aircraft Deployment",
     "_cg_reference": "/Patrol Aircraft Deployment",
     "_equipment": [
@@ -4730,7 +5348,7 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": 4,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ひこうじょうき(しょうかいきはいび）",
     "_speed": 0,
     "_suffix": "Patrol Aircraft Deployment III",
@@ -4875,9 +5493,9 @@
     "_full_name": "Airfield Princess VII"
   },
   "Airfield Princess VIII": {
-    "_aa": null,
+    "_aa": 1,
     "_api_id": 1889,
-    "_armor": null,
+    "_armor": 1,
     "_asw": null,
     "_back": -11,
     "_battle_card_layers": ["fortress_r"],
@@ -4898,26 +5516,26 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 1,
     "_hp": 500,
     "_id": 1889,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "VIII",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess VIII"
   },
   "Airfield Princess X": {
-    "_aa": null,
+    "_aa": 1,
     "_api_id": 1891,
-    "_armor": null,
+    "_armor": 1,
     "_asw": null,
     "_back": -11,
     "_battle_card_layers": ["fortress_ace_r1", "fortress_ace_r2"],
@@ -4946,27 +5564,27 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 1,
     "_hp": 500,
     "_id": 1891,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "X",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess X"
   },
   "Airfield Princess XI": {
-    "_aa": null,
+    "_aa": 120,
     "_air_power_estimation": true,
     "_api_id": 1892,
-    "_armor": null,
+    "_armor": 140,
     "_asw": null,
     "_back": -11,
     "_battle_card_layers": ["fortress_heavy_r"],
@@ -4990,27 +5608,27 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 70,
     "_hp": 500,
     "_id": 1892,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XI",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess XI"
   },
   "Airfield Princess XII": {
-    "_aa": null,
+    "_aa": 120,
     "_air_power_estimation": true,
     "_api_id": 1893,
-    "_armor": null,
+    "_armor": 140,
     "_asw": null,
     "_back": -11,
     "_battle_card_layers": ["fortress_heavy_ace_r1", "fortress_heavy_r2"],
@@ -5039,27 +5657,26 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 80,
     "_hp": 500,
     "_id": 1893,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XII",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess XII"
   },
   "Airfield Princess XIII": {
-    "_aa": null,
-    "_air_power_estimation": true,
+    "_aa": 120,
     "_api_id": 1894,
-    "_armor": null,
+    "_armor": 140,
     "_asw": null,
     "_back": -11,
     "_battle_card_layers": ["fortress_heavy_ace_r1", "fortress_heavy_ace_r2"],
@@ -5088,51 +5705,47 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 90,
     "_hp": 500,
     "_id": 1894,
     "_japanese_name": "飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XIII",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Airfield Princess XIII"
   },
   "Airfield Princess XIV": {
     "_aa": 120,
-    "_air_power_estimation": true,
     "_api_id": 2047,
     "_armor": 120,
     "_asw": null,
     "_back": -11,
+    "_battle_card_layers": ["attack_hawk_r"],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
-        "estimation": true,
-        "size": 12
+        "size": 16
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
-        "estimation": true,
         "size": 12
       },
       {
         "equipment": "Abyssal Night Cat Fighter II",
-        "estimation": true,
         "size": 12
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
-        "size": 12
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -5143,7 +5756,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
@@ -5154,33 +5767,29 @@
   },
   "Airfield Princess XV": {
     "_aa": 120,
-    "_air_power_estimation": true,
     "_api_id": 2048,
     "_armor": 120,
     "_asw": null,
     "_back": -11,
+    "_battle_card_layers": ["cat_night_r1", "attack_hawk_r"],
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
-        "estimation": true,
-        "size": 16
+        "size": 20
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
-        "estimation": true,
         "size": 16
       },
       {
         "equipment": "Abyssal Night Cat Fighter II",
-        "estimation": true,
         "size": 16
       },
       {
         "equipment": "Abyssal Seaplane Tender Imp Aircraft",
-        "estimation": true,
-        "size": 16
+        "size": 12
       }
     ],
     "_evasion": null,
@@ -5191,7 +5800,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Airfield Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
@@ -5205,7 +5814,7 @@
     "_api_id": 2094,
     "_armor": 120,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -5239,7 +5848,7 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": 2,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XVI",
@@ -5252,7 +5861,7 @@
     "_api_id": 2095,
     "_armor": 130,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -5286,7 +5895,7 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": 2,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XVII",
@@ -5299,7 +5908,7 @@
     "_api_id": 2096,
     "_armor": 140,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -5333,7 +5942,7 @@
     "_luck": null,
     "_name": "Airfield Princess",
     "_range": 2,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ひこうじょうき",
     "_speed": 0,
     "_suffix": "XVIII",
@@ -10748,7 +11357,7 @@
     "_api_id": 2082,
     "_armor": 290,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -10798,7 +11407,7 @@
     "_api_id": 2083,
     "_armor": 380,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -11438,28 +12047,28 @@
     "_api_id": 2041,
     "_armor": 234,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter II",
-        "estimation": true,
-        "size": 13
+        "estimation": false,
+        "size": 14
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 12
+        "size": 17
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 12
+        "size": 9
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 12
+        "size": 9
       }
     ],
     "_evasion": null,
@@ -11470,8 +12079,8 @@
     "_los": null,
     "_luck": null,
     "_name": "European Armored Carrier Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 2,
+    "_rarity": 8,
     "_reading": "おうしゅうそうこうくうぼせいき",
     "_speed": 10,
     "_torpedo": 0,
@@ -11483,30 +12092,30 @@
     "_api_id": 2044,
     "_armor": 272,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter II",
-        "estimation": true,
-        "size": 14
+        "estimation": false,
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 14
+        "size": 17
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 14
+        "size": 10
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 13
+        "size": 10
       }
     ],
     "_evasion": null,
@@ -11517,8 +12126,8 @@
     "_los": null,
     "_luck": null,
     "_name": "European Armored Carrier Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 2,
+    "_rarity": 8,
     "_reading": "おうしゅうそうこうくうぼせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
@@ -11531,7 +12140,7 @@
     "_api_id": 2045,
     "_armor": 332,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -11541,22 +12150,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 17
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 17
+        "size": 19
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 17
+        "size": 15
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 16
+        "size": 15
       }
     ],
     "_evasion": null,
@@ -11567,8 +12176,8 @@
     "_los": null,
     "_luck": null,
     "_name": "European Armored Carrier Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 2,
+    "_rarity": 8,
     "_reading": "おうしゅうそうこうくうぼせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
@@ -11581,7 +12190,7 @@
     "_api_id": 2046,
     "_armor": 392,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -11591,22 +12200,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 21
+        "size": 28
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 20
+        "size": 23
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 20
+        "size": 15
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 20
+        "size": 15
       }
     ],
     "_evasion": null,
@@ -11617,8 +12226,8 @@
     "_los": null,
     "_luck": null,
     "_name": "European Armored Carrier Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 2,
+    "_rarity": 8,
     "_reading": "おうしゅうそうこうくうぼせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
@@ -11631,7 +12240,7 @@
     "_api_id": 2042,
     "_armor": 284,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -11641,22 +12250,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 14
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 14
+        "size": 17
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 14
+        "size": 10
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 13
+        "size": 10
       }
     ],
     "_evasion": null,
@@ -11667,8 +12276,8 @@
     "_los": null,
     "_luck": null,
     "_name": "European Armored Carrier Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 2,
+    "_rarity": 8,
     "_reading": "おうしゅうそうこうくうぼせいき",
     "_speed": 10,
     "_suffix": "II",
@@ -11681,7 +12290,7 @@
     "_api_id": 2043,
     "_armor": 324,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -11691,22 +12300,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 17
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 17
+        "size": 19
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 17
+        "size": 15
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 16
+        "size": 15
       }
     ],
     "_evasion": null,
@@ -11717,8 +12326,8 @@
     "_los": null,
     "_luck": null,
     "_name": "European Armored Carrier Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 2,
+    "_rarity": 8,
     "_reading": "おうしゅうそうこうくうぼせいき",
     "_speed": 10,
     "_suffix": "III",
@@ -12340,7 +12949,7 @@
     "_api_id": 2123,
     "_armor": 228,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -12393,7 +13002,7 @@
     "_api_id": 2124,
     "_armor": 268,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -12448,7 +13057,7 @@
     "_api_id": 2125,
     "_armor": 328,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -15865,7 +16474,7 @@
     "_api_id": 2061,
     "_armor": 195,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal Two-seat Fighter-bomber Hawk Kai",
@@ -15911,7 +16520,7 @@
     "_api_id": 2062,
     "_armor": 225,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -16057,7 +16666,7 @@
     "_api_id": 2135,
     "_armor": 240,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -16110,7 +16719,7 @@
     "_api_id": 2136,
     "_armor": 290,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -16165,7 +16774,7 @@
     "_api_id": 2137,
     "_armor": 360,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -16780,13 +17389,13 @@
     "_equipment": [
       {
         "equipment": "Abyssal Cat Fighter",
-        "estimation": true,
-        "size": 15
+        "estimation": false,
+        "size": 16
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 15
+        "size": 14
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
@@ -16827,7 +17436,7 @@
     "_equipment": [
       {
         "equipment": "Abyssal Cat Fighter",
-        "estimation": true,
+        "estimation": false,
         "size": 22
       },
       {
@@ -16874,23 +17483,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Cat Fighter",
-        "estimation": true,
-        "size": 23
+        "estimation": false,
+        "size": 28
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 22
+        "size": 21
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 22
+        "size": 20
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 22
+        "size": 20
       }
     ],
     "_evasion": null,
@@ -16921,23 +17530,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Cat Fighter",
-        "estimation": true,
-        "size": 25
+        "estimation": false,
+        "size": 36
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": 25
+        "size": 21
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": 24
+        "size": 20
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 24
+        "size": 20
       }
     ],
     "_evasion": null,
@@ -19094,8 +19703,8 @@
     "_aa": 52,
     "_api_id": 2029,
     "_armor": 166,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -19127,8 +19736,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Mediterranean Dreadnought Water Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "ちちゅうかいどきゅうすいき",
     "_speed": 5,
     "_torpedo": 66,
@@ -19139,8 +19748,8 @@
     "_aa": 104,
     "_api_id": 2032,
     "_armor": 211,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -19174,8 +19783,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Mediterranean Dreadnought Water Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "ちちゅうかいどきゅうすいき-かい",
     "_speed": 5,
     "_suffix": "Damaged",
@@ -19187,8 +19796,8 @@
     "_aa": 114,
     "_api_id": 2033,
     "_armor": 255,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -19224,8 +19833,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Mediterranean Dreadnought Water Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "ちちゅうかいどきゅうすいき-かい",
     "_speed": 5,
     "_suffix": "Damaged II",
@@ -19237,8 +19846,8 @@
     "_aa": 134,
     "_api_id": 2034,
     "_armor": 344,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -19274,8 +19883,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Mediterranean Dreadnought Water Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "ちちゅうかいどきゅうすいき-かい",
     "_speed": 5,
     "_suffix": "Damaged III",
@@ -19287,8 +19896,8 @@
     "_aa": 62,
     "_api_id": 2030,
     "_armor": 211,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -19324,8 +19933,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Mediterranean Dreadnought Water Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "ちちゅうかいどきゅうすいき",
     "_speed": 5,
     "_suffix": "II",
@@ -19337,8 +19946,8 @@
     "_aa": 82,
     "_api_id": 2031,
     "_armor": 255,
-    "_asw": null,
-    "_back": null,
+    "_asw": 0,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -19374,8 +19983,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Mediterranean Dreadnought Water Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 3,
+    "_rarity": 8,
     "_reading": "ちちゅうかいどきゅうすいき",
     "_speed": 5,
     "_suffix": "III",
@@ -19521,7 +20130,7 @@
     "_api_id": 2112,
     "_armor": 238,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -19565,7 +20174,7 @@
     "_api_id": 2113,
     "_armor": 278,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -19611,7 +20220,7 @@
     "_api_id": 2114,
     "_armor": 348,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -20754,7 +21363,7 @@
     "_api_id": 2049,
     "_armor": 33,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
@@ -20780,7 +21389,7 @@
     "_luck": null,
     "_name": "New Submarine Princess",
     "_range": 1,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "せんすいしんせいきフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship V",
@@ -22231,7 +22840,7 @@
     "_api_id": 2099,
     "_armor": 222,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -22275,7 +22884,7 @@
     "_api_id": 2100,
     "_armor": 292,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -22551,7 +23160,7 @@
     "_api_id": 2129,
     "_armor": 208,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Vacation Mode",
     "_can_debuff": true,
     "_cg_damaged_reference": "/Vacation Mode",
@@ -22604,7 +23213,7 @@
     "_api_id": 2130,
     "_armor": 248,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Vacation Mode",
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_can_debuff": true,
@@ -22659,7 +23268,7 @@
     "_api_id": 2131,
     "_armor": 298,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Vacation Mode",
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_can_debuff": true,
@@ -22818,6 +23427,329 @@
     "_torpedo": 0,
     "_type": 11,
     "_full_name": "Prototype Carrier Princess Vacation Mode III"
+  },
+  "Remodeled Wartime Cargo Princess": {
+    "_aa": 109,
+    "_api_id": 2146,
+    "_armor": 151,
+    "_asw": null,
+    "_back": -11,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 30
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 30
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 28
+      },
+      {
+        "equipment": "Abyssal Aviation Maintenance Bugs",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 169,
+    "_hp": 830,
+    "_id": 2146,
+    "_japanese_name": "戦標船改装棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Remodeled Wartime Cargo Princess",
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "せんひょうせんかいそうせいき",
+    "_speed": 5,
+    "_torpedo": 69,
+    "_type": 7,
+    "_full_name": "Remodeled Wartime Cargo Princess"
+  },
+  "Remodeled Wartime Cargo Princess Damaged": {
+    "_aa": 139,
+    "_api_id": 2149,
+    "_armor": 191,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_debuffed_reference": "/",
+    "_can_debuff": true,
+    "_cg_debuffed_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 50
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 50
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 48
+      },
+      {
+        "equipment": "Abyssal Aviation Maintenance Bugs",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 219,
+    "_hp": 830,
+    "_id": 2149,
+    "_japanese_name": "戦標船改装棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Remodeled Wartime Cargo Princess",
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "せんひょうせんかいそうせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": 109,
+    "_type": 7,
+    "_full_name": "Remodeled Wartime Cargo Princess Damaged"
+  },
+  "Remodeled Wartime Cargo Princess Damaged II": {
+    "_aa": 159,
+    "_api_id": 2150,
+    "_armor": 272,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_debuffed_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_debuffed_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 58
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 58
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 52
+      },
+      {
+        "equipment": "Abyssal Aviation Maintenance Bugs Pro",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 269,
+    "_hp": 930,
+    "_id": 2150,
+    "_japanese_name": "戦標船改装棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Remodeled Wartime Cargo Princess",
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "せんひょうせんかいそうせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": 139,
+    "_type": 7,
+    "_full_name": "Remodeled Wartime Cargo Princess Damaged II"
+  },
+  "Remodeled Wartime Cargo Princess Damaged III": {
+    "_aa": 189,
+    "_api_id": 2151,
+    "_armor": 353,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_debuffed_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_debuffed_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 64
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 64
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 60
+      },
+      {
+        "equipment": "Abyssal Aviation Maintenance Bugs Pro",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 289,
+    "_hp": 1030,
+    "_id": 2151,
+    "_japanese_name": "戦標船改装棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Remodeled Wartime Cargo Princess",
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "せんひょうせんかいそうせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": 169,
+    "_type": 7,
+    "_full_name": "Remodeled Wartime Cargo Princess Damaged III"
+  },
+  "Remodeled Wartime Cargo Princess II": {
+    "_aa": 139,
+    "_api_id": 2147,
+    "_armor": 202,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 44
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 44
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 40
+      },
+      {
+        "equipment": "Abyssal Aviation Maintenance Bugs",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 199,
+    "_hp": 930,
+    "_id": 2147,
+    "_japanese_name": "戦標船改装棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Remodeled Wartime Cargo Princess",
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "せんひょうせんかいそうせいき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": 89,
+    "_type": 7,
+    "_full_name": "Remodeled Wartime Cargo Princess II"
+  },
+  "Remodeled Wartime Cargo Princess III": {
+    "_aa": 159,
+    "_api_id": 2148,
+    "_armor": 282,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 58
+      },
+      {
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 58
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 52
+      },
+      {
+        "equipment": "Abyssal Aviation Maintenance Bugs Pro",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 219,
+    "_hp": 1030,
+    "_id": 2148,
+    "_japanese_name": "戦標船改装棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Remodeled Wartime Cargo Princess",
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "せんひょうせんかいそうせいき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": 109,
+    "_type": 7,
+    "_full_name": "Remodeled Wartime Cargo Princess III"
   },
   "Seaplane Tender Princess": {
     "_aa": 70,
@@ -23765,7 +24697,6 @@
     "_armor": 120,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": null,
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -23818,7 +24749,6 @@
     "_armor": 160,
     "_asw": 0,
     "_back": -6,
-    "_battle_card_layers": null,
     "_battle_card_reference": "/Kai Flagship",
     "_cg_reference": "/Kai Flagship",
     "_equipment": [
@@ -24753,7 +25683,7 @@
     "_api_id": 2053,
     "_armor": 19,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -24777,8 +25707,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Submarine Shark Water Demon",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "せんすいさめすいきフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship",
@@ -24791,7 +25721,7 @@
     "_api_id": 2056,
     "_armor": 29,
     "_asw": 0,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Flagship",
     "_can_debuff": true,
     "_cg_damaged_reference": "/Flagship",
@@ -24817,8 +25747,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Submarine Shark Water Demon",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "せんすいさめすいき-かいフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship Damaged",
@@ -24831,7 +25761,7 @@
     "_api_id": 2057,
     "_armor": 49,
     "_asw": 0,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Flagship",
     "_battle_card_reference": "/Flagship Damaged",
     "_can_debuff": true,
@@ -24863,8 +25793,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Submarine Shark Water Demon",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "せんすいさめすいき-かいフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship Damaged II",
@@ -24877,7 +25807,7 @@
     "_api_id": 2058,
     "_armor": 89,
     "_asw": 0,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Flagship",
     "_battle_card_reference": "/Flagship Damaged",
     "_can_debuff": true,
@@ -24909,8 +25839,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Submarine Shark Water Demon",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "せんすいさめすいき-かいフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship Damaged III",
@@ -24923,7 +25853,7 @@
     "_api_id": 2054,
     "_armor": 39,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/Flagship",
     "_battle_card_reference": "/Flagship",
     "_can_debuff": true,
@@ -24951,8 +25881,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Submarine Shark Water Demon",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "せんすいさめすいきフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship II",
@@ -24965,7 +25895,7 @@
     "_api_id": 2055,
     "_armor": 79,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/Flagship",
     "_battle_card_reference": "/Flagship",
     "_can_debuff": true,
@@ -24997,8 +25927,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Submarine Shark Water Demon",
-    "_range": null,
-    "_rarity": null,
+    "_range": 1,
+    "_rarity": 8,
     "_reading": "せんすいさめすいきフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship III",
@@ -25416,7 +26346,7 @@
     "_api_id": 2077,
     "_armor": 130,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal Sky Super Fortress",
@@ -25448,7 +26378,7 @@
     "_luck": null,
     "_name": "Super Heavy Bomber Airfield Princess",
     "_range": 5,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ちょうじゅうばくひこうじょうき",
     "_speed": 0,
     "_torpedo": 0,
@@ -25460,7 +26390,7 @@
     "_api_id": 2078,
     "_armor": 130,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -25494,7 +26424,7 @@
     "_luck": null,
     "_name": "Super Heavy Bomber Airfield Princess",
     "_range": 5,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ちょうじゅうばくひこうじょうき",
     "_speed": 0,
     "_suffix": "II",
@@ -25507,7 +26437,7 @@
     "_api_id": 2079,
     "_armor": 130,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -25541,7 +26471,7 @@
     "_luck": null,
     "_name": "Super Heavy Bomber Airfield Princess",
     "_range": 5,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "ちょうじゅうばくひこうじょうき",
     "_speed": 0,
     "_suffix": "III",
@@ -26220,7 +27150,7 @@
     "_api_id": 2015,
     "_armor": 22,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "5inch Coastal Gun",
@@ -26252,7 +27182,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode",
@@ -26265,7 +27195,7 @@
     "_api_id": 2019,
     "_armor": 44,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal 14inch Strait Double Gun Mount",
@@ -26297,7 +27227,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged",
@@ -26310,7 +27240,7 @@
     "_api_id": 2020,
     "_armor": 166,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -26344,7 +27274,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged II",
@@ -26357,7 +27287,7 @@
     "_api_id": 2021,
     "_armor": 199,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -26391,7 +27321,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged III",
@@ -26404,7 +27334,7 @@
     "_api_id": 2022,
     "_armor": 222,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -26438,7 +27368,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged IV",
@@ -26451,7 +27381,7 @@
     "_api_id": 2016,
     "_armor": 133,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/Vacation Mode",
     "_cg_reference": "/Vacation Mode",
     "_equipment": [
@@ -26485,7 +27415,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode II",
@@ -26498,7 +27428,7 @@
     "_api_id": 2017,
     "_armor": 166,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/Vacation Mode",
     "_cg_reference": "/Vacation Mode",
     "_equipment": [
@@ -26532,7 +27462,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode III",
@@ -26545,7 +27475,7 @@
     "_api_id": 2018,
     "_armor": 199,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/Vacation Mode",
     "_cg_reference": "/Vacation Mode",
     "_equipment": [
@@ -26579,7 +27509,7 @@
     "_luck": null,
     "_name": "Supply Depot Princess B",
     "_range": null,
-    "_rarity": null,
+    "_rarity": 8,
     "_reading": "しゅうせきちせいきツー　バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode IV",
@@ -26872,7 +27802,7 @@
     "_api_id": 2084,
     "_armor": 12,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "5inch Coastal Gun",
@@ -26917,7 +27847,7 @@
     "_api_id": 2085,
     "_armor": 22,
     "_asw": 0,
-    "_back": null,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal 14inch Strait Double Gun Mount",
@@ -26964,7 +27894,7 @@
     "_api_id": 2087,
     "_armor": 144,
     "_asw": 0,
-    "_back": null,
+    "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -27013,7 +27943,7 @@
     "_api_id": 2089,
     "_armor": 222,
     "_asw": 0,
-    "_back": null,
+    "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -27062,7 +27992,7 @@
     "_api_id": 2086,
     "_armor": 122,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -27110,7 +28040,7 @@
     "_api_id": 2088,
     "_armor": 188,
     "_asw": 0,
-    "_back": null,
+    "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
@@ -27202,7 +28132,7 @@
     "_api_id": 2139,
     "_armor": 131,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "5inch Coastal Gun",
@@ -27247,7 +28177,7 @@
     "_api_id": 2141,
     "_armor": 191,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -27294,7 +28224,7 @@
     "_api_id": 2143,
     "_armor": 161,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -27341,7 +28271,7 @@
     "_api_id": 2145,
     "_armor": 191,
     "_asw": null,
-    "_back": -11,
+    "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
@@ -27523,6 +28453,386 @@
     "_torpedo": 188,
     "_type": 10,
     "_full_name": "Supply Depot Princess C Vacation Mode IV"
+  },
+  "Supply Depot Princess D": {
+    "_aa": null,
+    "_api_id": 2164,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2164,
+    "_japanese_name": "集積地棲姫IV",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": false,
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess D"
+  },
+  "Supply Depot Princess D Damaged": {
+    "_aa": null,
+    "_api_id": 2165,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2165,
+    "_japanese_name": "集積地棲姫IV-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess D Damaged"
+  },
+  "Supply Depot Princess D Damaged II": {
+    "_aa": null,
+    "_api_id": 2167,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2167,
+    "_japanese_name": "集積地棲姫IV-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess D Damaged II"
+  },
+  "Supply Depot Princess D Damaged III": {
+    "_aa": null,
+    "_api_id": 2169,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2169,
+    "_japanese_name": "集積地棲姫IV-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess D Damaged III"
+  },
+  "Supply Depot Princess D Damaged IV": {
+    "_aa": null,
+    "_api_id": 2171,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2171,
+    "_japanese_name": "集積地棲姫IV-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "Damaged IV",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess D Damaged IV"
+  },
+  "Supply Depot Princess D II": {
+    "_aa": null,
+    "_api_id": 2166,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2166,
+    "_japanese_name": "集積地棲姫IV",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess D II"
+  },
+  "Supply Depot Princess D III": {
+    "_aa": null,
+    "_api_id": 2168,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2168,
+    "_japanese_name": "集積地棲姫IV",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess D III"
+  },
+  "Supply Depot Princess D IV": {
+    "_aa": null,
+    "_api_id": 2170,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2170,
+    "_japanese_name": "集積地棲姫IV",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess D",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 0,
+    "_suffix": "IV",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess D IV"
   },
   "Supply Depot Princess Vacation Mode": {
     "_aa": 80,
@@ -28202,7 +29512,7 @@
     "_api_id": 2069,
     "_armor": 202,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -28234,8 +29544,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Yokohama Wharf Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 4,
+    "_rarity": 8,
     "_reading": "よこはまがんぺきせいき",
     "_speed": 5,
     "_torpedo": 0,
@@ -28247,7 +29557,7 @@
     "_api_id": 2071,
     "_armor": 252,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
@@ -28281,8 +29591,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Yokohama Wharf Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 4,
+    "_rarity": 8,
     "_reading": "よこはまがんぺきせいき-かい",
     "_speed": 5,
     "_suffix": "Damaged",
@@ -28295,7 +29605,7 @@
     "_api_id": 2072,
     "_armor": 333,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
     "_can_debuff": true,
@@ -28331,8 +29641,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Yokohama Wharf Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 4,
+    "_rarity": 8,
     "_reading": "よこはまがんぺきせいき-かい",
     "_speed": 5,
     "_suffix": "Damaged II",
@@ -28345,7 +29655,7 @@
     "_api_id": 2070,
     "_armor": 292,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
     "_can_debuff": true,
@@ -28381,8 +29691,8 @@
     "_los": null,
     "_luck": null,
     "_name": "Yokohama Wharf Princess",
-    "_range": null,
-    "_rarity": null,
+    "_range": 4,
+    "_rarity": 8,
     "_reading": "よこはまがんぺきせいき",
     "_speed": 5,
     "_suffix": "II",

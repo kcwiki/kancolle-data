@@ -349,6 +349,16 @@
     "_reading": null,
     "_type": 0
   },
+  "Pumpkin": {
+    "_category": 0,
+    "_description": "A home-grown pumpkin, carefully cultivated in the fields by the shipgirls. It has an excellent sweetness and is ideal for cakes and yōkan. ※Will disappear with the related limited quests' end.",
+    "_id": 96,
+    "_japanese_description": "艦娘が丹精込めて畑で栽培した国産の南瓜です。甘みも抜群でケーキや羊羹にも最適です。※限定任務終了で消滅します。",
+    "_japanese_name": "南瓜",
+    "_name": "Pumpkin",
+    "_reading": "かぼちゃ (kabocha)",
+    "_type": 4
+  },
   "Reinforcement Expansion": {
     "_category": 0,
     "_description": "艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)",
