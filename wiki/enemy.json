@@ -618,12 +618,12 @@
       },
       {
         "equipment": "Abyssal Seagull Reconnaissance Seaplane",
-        "estimation": true,
+        "estimation": false,
         "size": 4
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
-        "estimation": true,
+        "estimation": false,
         "size": 60
       },
       {
@@ -673,12 +673,12 @@
       },
       {
         "equipment": "Abyssal Seagull Reconnaissance Seaplane",
-        "estimation": true,
+        "estimation": false,
         "size": 4
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
-        "estimation": true,
+        "estimation": false,
         "size": 74
       },
       {
@@ -728,12 +728,12 @@
       },
       {
         "equipment": "Abyssal Seagull Reconnaissance Seaplane",
-        "estimation": true,
+        "estimation": false,
         "size": 4
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
-        "estimation": true,
+        "estimation": false,
         "size": 92
       },
       {
@@ -782,12 +782,12 @@
       },
       {
         "equipment": "Abyssal Seagull Reconnaissance Seaplane",
-        "estimation": true,
+        "estimation": false,
         "size": 4
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
-        "estimation": true,
+        "estimation": false,
         "size": 60
       },
       {
@@ -2853,302 +2853,320 @@
     "_full_name": "Abyssal Plum Princess III"
   },
   "Abyssal Stranded Landing Princess": {
-    "_aa": null,
+    "_aa": 40,
     "_api_id": 2158,
-    "_armor": null,
+    "_armor": 171,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": false,
+        "size": 55
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 44,
+    "_hp": 880,
     "_id": 2158,
     "_japanese_name": "深海擱座揚陸姫",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Stranded Landing Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しんかいかくざようりくき",
     "_speed": 5,
-    "_suffix": false,
-    "_torpedo": null,
+    "_torpedo": 33,
     "_type": 10,
     "_full_name": "Abyssal Stranded Landing Princess"
   },
   "Abyssal Stranded Landing Princess Damaged": {
-    "_aa": null,
+    "_aa": 60,
     "_api_id": 2161,
-    "_armor": null,
+    "_armor": 202,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
+    "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": false,
+        "size": 77
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 88,
+    "_hp": 880,
     "_id": 2161,
     "_japanese_name": "深海擱座揚陸姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Stranded Landing Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しんかいかくざようりくき-かい",
     "_speed": 5,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 66,
     "_type": 10,
     "_full_name": "Abyssal Stranded Landing Princess Damaged"
   },
   "Abyssal Stranded Landing Princess Damaged II": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2162,
-    "_armor": null,
+    "_armor": 282,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": false,
+        "size": 99
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 121,
+    "_hp": 980,
     "_id": 2162,
     "_japanese_name": "深海擱座揚陸姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Stranded Landing Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しんかいかくざようりくき-かい",
     "_speed": 5,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 99,
     "_type": 10,
     "_full_name": "Abyssal Stranded Landing Princess Damaged II"
   },
   "Abyssal Stranded Landing Princess Damaged III": {
-    "_aa": null,
+    "_aa": 100,
     "_api_id": 2163,
-    "_armor": null,
+    "_armor": 383,
     "_asw": null,
-    "_back": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": false,
+        "size": 131
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 161,
+    "_hp": 1080,
     "_id": 2163,
     "_japanese_name": "深海擱座揚陸姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Stranded Landing Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しんかいかくざようりくき-かい",
     "_speed": 5,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 141,
     "_type": 10,
     "_full_name": "Abyssal Stranded Landing Princess Damaged III"
   },
   "Abyssal Stranded Landing Princess II": {
-    "_aa": null,
+    "_aa": 60,
     "_api_id": 2159,
-    "_armor": null,
+    "_armor": 222,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": false,
+        "size": 77
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 88,
+    "_hp": 980,
     "_id": 2159,
     "_japanese_name": "深海擱座揚陸姫",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Stranded Landing Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しんかいかくざようりくき",
     "_speed": 5,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 66,
     "_type": 10,
     "_full_name": "Abyssal Stranded Landing Princess II"
   },
   "Abyssal Stranded Landing Princess III": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2160,
-    "_armor": null,
+    "_armor": 303,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": false,
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": false,
+        "size": 99
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal FCS + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 121,
+    "_hp": 1080,
     "_id": 2160,
     "_japanese_name": "深海擱座揚陸姫",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Stranded Landing Princess",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しんかいかくざようりくき",
     "_speed": 5,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 99,
     "_type": 10,
     "_full_name": "Abyssal Stranded Landing Princess III"
   },
@@ -4076,7 +4094,7 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 48
+        "size": 44
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -4086,7 +4104,7 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 36
+        "size": 40
       }
     ],
     "_evasion": null,
@@ -4626,7 +4644,6 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
         "size": 48
       },
       {
@@ -12199,13 +12216,13 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter II",
-        "estimation": true,
-        "size": 28
+        "estimation": false,
+        "size": 27
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 23
+        "size": 24
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
@@ -12905,26 +12922,25 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 32
+        "size": 34
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 30
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 30
+        "size": 26
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
+        "estimation": false,
         "size": 26
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -12957,26 +12973,25 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 32
+        "size": 34
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 30
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 30
+        "size": 26
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
+        "estimation": false,
         "size": 26
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -13012,26 +13027,25 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 40
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 38
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 38
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
+        "estimation": false,
         "size": 32
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -13067,7 +13081,7 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 48
+        "size": 54
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -13077,7 +13091,7 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 42
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
@@ -13086,7 +13100,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -13122,26 +13135,25 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 36
+        "size": 38
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 32
+        "size": 34
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 32
+        "size": 28
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
+        "estimation": false,
         "size": 28
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -13177,17 +13189,17 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 40
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 38
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 38
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Cat Fighter",
@@ -13196,7 +13208,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -17395,17 +17406,17 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 14
+        "size": 24
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 14
+        "size": 10
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 14
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -17442,17 +17453,17 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 18
+        "size": 28
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 18
+        "size": 17
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 17
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -17489,17 +17500,17 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 21
+        "size": 32
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 20
+        "size": 21
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
-        "estimation": true,
-        "size": 20
+        "estimation": false,
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -17536,17 +17547,17 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": 21
+        "size": 32
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai",
         "estimation": true,
-        "size": 20
+        "size": 22
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
-        "estimation": true,
-        "size": 20
+        "estimation": false,
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -23114,27 +23125,26 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 40
+        "estimation": false,
+        "size": 36
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 40
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 40
+        "size": 46
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 30
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -23167,13 +23177,13 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 46
+        "estimation": false,
+        "size": 48
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 46
+        "size": 44
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -23187,7 +23197,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -23223,17 +23232,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 62
+        "size": 64
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 62
+        "size": 56
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 42
+        "size": 46
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -23242,7 +23251,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -23277,18 +23285,18 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 74
+        "estimation": false,
+        "size": 72
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 74
+        "size": 88
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 58
+        "size": 46
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -23297,7 +23305,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -23333,12 +23340,12 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 46
+        "size": 48
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 46
+        "size": 44
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -23352,7 +23359,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -23387,18 +23393,18 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 62
+        "estimation": false,
+        "size": 64
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 62
+        "size": 56
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 42
+        "size": 46
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -23407,7 +23413,6 @@
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
-        "estimation": true,
         "size": 0
       }
     ],
@@ -23439,17 +23444,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 30
+        "size": 20
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 30
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 28
+        "size": 36
       },
       {
         "equipment": "Abyssal Aviation Maintenance Bugs",
@@ -23491,17 +23496,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 50
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 50
+        "size": 54
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 48
+        "size": 64
       },
       {
         "equipment": "Abyssal Aviation Maintenance Bugs",
@@ -23546,17 +23551,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 58
+        "size": 50
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 58
+        "size": 54
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 52
+        "size": 64
       },
       {
         "equipment": "Abyssal Aviation Maintenance Bugs Pro",
@@ -23601,17 +23606,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 64
+        "size": 70
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 64
+        "size": 54
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 60
+        "size": 64
       },
       {
         "equipment": "Abyssal Aviation Maintenance Bugs Pro",
@@ -23656,17 +23661,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 44
+        "size": 30
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 44
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 40
+        "size": 50
       },
       {
         "equipment": "Abyssal Aviation Maintenance Bugs",
@@ -23711,17 +23716,17 @@
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 58
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber II",
         "estimation": true,
-        "size": 58
+        "size": 68
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 52
+        "size": 64
       },
       {
         "equipment": "Abyssal Aviation Maintenance Bugs Pro",
@@ -28455,382 +28460,394 @@
     "_full_name": "Supply Depot Princess C Vacation Mode IV"
   },
   "Supply Depot Princess D": {
-    "_aa": null,
+    "_aa": 60,
     "_api_id": 2164,
-    "_armor": null,
+    "_armor": 11,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Breakthrough Assault Aircraft",
+        "estimation": false,
+        "size": 48
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 80,
+    "_hp": 1200,
     "_id": 2164,
     "_japanese_name": "集積地棲姫IV",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー",
     "_speed": 0,
     "_suffix": false,
-    "_torpedo": null,
+    "_torpedo": 80,
     "_type": 10,
     "_full_name": "Supply Depot Princess D"
   },
   "Supply Depot Princess D Damaged": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2165,
-    "_armor": null,
+    "_armor": 22,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 130,
+    "_hp": 1200,
     "_id": 2165,
     "_japanese_name": "集積地棲姫IV-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー-かい",
     "_speed": 0,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 110,
     "_type": 9,
     "_full_name": "Supply Depot Princess D Damaged"
   },
   "Supply Depot Princess D Damaged II": {
-    "_aa": null,
+    "_aa": 90,
     "_api_id": 2167,
-    "_armor": null,
+    "_armor": 111,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 140,
+    "_hp": 2400,
     "_id": 2167,
     "_japanese_name": "集積地棲姫IV-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー-かい",
     "_speed": 0,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 150,
     "_type": 9,
     "_full_name": "Supply Depot Princess D Damaged II"
   },
   "Supply Depot Princess D Damaged III": {
-    "_aa": null,
+    "_aa": 100,
     "_api_id": 2169,
-    "_armor": null,
+    "_armor": 131,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 150,
+    "_hp": 4800,
     "_id": 2169,
     "_japanese_name": "集積地棲姫IV-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー-かい",
     "_speed": 0,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 9,
     "_full_name": "Supply Depot Princess D Damaged III"
   },
   "Supply Depot Princess D Damaged IV": {
-    "_aa": null,
+    "_aa": 130,
     "_api_id": 2171,
-    "_armor": null,
+    "_armor": 222,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal 14inch Strait Double Gun Mount",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 200,
+    "_hp": 8000,
     "_id": 2171,
     "_japanese_name": "集積地棲姫IV-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー-かい",
     "_speed": 0,
     "_suffix": "Damaged IV",
-    "_torpedo": null,
+    "_torpedo": 180,
     "_type": 9,
     "_full_name": "Supply Depot Princess D Damaged IV"
   },
   "Supply Depot Princess D II": {
-    "_aa": null,
+    "_aa": 70,
     "_api_id": 2166,
-    "_armor": null,
+    "_armor": 80,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Breakthrough Assault Aircraft",
+        "estimation": false,
+        "size": 88
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 120,
+    "_hp": 2400,
     "_id": 2166,
     "_japanese_name": "集積地棲姫IV",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー",
     "_speed": 0,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 130,
     "_type": 10,
     "_full_name": "Supply Depot Princess D II"
   },
   "Supply Depot Princess D III": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2168,
-    "_armor": null,
+    "_armor": 121,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
+        "estimation": false,
+        "size": 108
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 120,
+    "_hp": 4800,
     "_id": 2168,
     "_japanese_name": "集積地棲姫IV",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー",
     "_speed": 0,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 140,
     "_type": 10,
     "_full_name": "Supply Depot Princess D III"
   },
   "Supply Depot Princess D IV": {
-    "_aa": null,
+    "_aa": 110,
     "_api_id": 2170,
-    "_armor": null,
+    "_armor": 181,
     "_asw": null,
-    "_back": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "5inch Coastal Gun",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
         "estimation": true,
-        "size": null
+        "size": 0
       },
       {
-        "equipment": null,
-        "estimation": true,
-        "size": null
+        "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
+        "estimation": false,
+        "size": 132
       },
       {
-        "equipment": null,
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
         "estimation": true,
-        "size": null
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 170,
+    "_hp": 8000,
     "_id": 2170,
     "_japanese_name": "集積地棲姫IV",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess D",
-    "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_range": 5,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきフォー",
     "_speed": 0,
     "_suffix": "IV",
-    "_torpedo": null,
+    "_torpedo": 150,
     "_type": 10,
     "_full_name": "Supply Depot Princess D IV"
   },

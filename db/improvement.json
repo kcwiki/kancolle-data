@@ -16,6 +16,7 @@
   "15": true,
   "16": true,
   "17": true,
+  "18": true,
   "19": true,
   "20": true,
   "21": true,
@@ -149,6 +150,7 @@
   "205": true,
   "206": true,
   "210": true,
+  "213": true,
   "215": true,
   "216": true,
   "217": true,
@@ -266,5 +268,7 @@
   "485": true,
   "486": true,
   "487": true,
-  "488": true
+  "488": true,
+  "500": true,
+  "502": true
 }
