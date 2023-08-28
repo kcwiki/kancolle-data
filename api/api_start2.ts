@@ -2,7 +2,7 @@ export interface API {
   api_mst_bgm: APIMstBgm[]
   api_mst_const: APIMstConst
   api_mst_equip_exslot: number[]
-  api_mst_equip_exslot_ship: APIMstEquipExslotShip[]
+  api_mst_equip_exslot_ship: APIMstEquipExslotShip
   api_mst_equip_ship: APIMstEquipShip[]
   api_mst_furniture: APIMstFurniture[]
   api_mst_furnituregraph: APIMstFurnituregraph[]
@@ -38,8 +38,224 @@ export interface APIBokoMaxShipsClass {
 }
 
 export interface APIMstEquipExslotShip {
-  api_ship_ids: number[]
-  api_slotitem_id: number
+  '10': The10
+  '106': The106
+  '12': The12
+  '130': The10
+  '142': The12
+  '220': The220
+  '226': The226
+  '227': The226
+  '234': The12
+  '240': The240
+  '27': The106
+  '275': The275
+  '28': The240
+  '317': The10
+  '33': The106
+  '34': The10
+  '35': The10
+  '408': The106
+  '410': The10
+  '411': The10
+  '413': The12
+  '442': The240
+  '443': The240
+  '450': The106
+  '460': The12
+  '463': The12
+  '464': The10
+  '477': The275
+  '478': The275
+  '483': The10
+  '488': The226
+  '506': The106
+  '66': The220
+  '71': The275
+  '87': The10
+  '88': The240
+}
+
+export interface The10 {
+  api_ctypes: null
+  api_ship_ids: The10_APIShipIDS | null
+  api_stypes: The10_APIStypes | null
+}
+
+export interface The10_APIShipIDS {
+  '229'?: number
+  '316'?: number
+  '546'?: number
+  '593'?: number
+  '911'?: number
+  '916'?: number
+  '951'?: number
+  '954'?: number
+}
+
+export interface The10_APIStypes {
+  '10': number
+  '5': number
+  '6': number
+  '8': number
+  '9': number
+}
+
+export interface The106 {
+  api_ctypes: The106_APICtypes | null
+  api_ship_ids: The106_APIShipIDS | null
+  api_stypes: The106_APIStypes | null
+}
+
+export interface The106_APICtypes {
+  '101': number
+  '38': number
+  '54': number
+}
+
+export interface The106_APIShipIDS {
+  '147'?: number
+  '229'?: number
+  '235'?: number
+  '407'?: number
+  '419'?: number
+  '464'?: number
+  '470'?: number
+  '537'?: number
+  '538'?: number
+  '557'?: number
+  '558'?: number
+  '578'?: number
+  '621'?: number
+  '626'?: number
+  '656'?: number
+  '961'?: number
+}
+
+export interface The106_APIStypes {
+  '99': number
+}
+
+export interface The12 {
+  api_ctypes: The12_APICtypes | null
+  api_ship_ids: The12_APIShipIDS | null
+  api_stypes: null
+}
+
+export interface The12_APICtypes {
+  '16': number
+  '20': number
+  '38': number
+  '4': number
+  '41': number
+  '52': number
+  '54': number
+}
+
+export interface The12_APIShipIDS {
+  '546': number
+  '911': number
+  '916': number
+}
+
+export interface The220 {
+  api_ctypes: The220_APICtypes
+  api_ship_ids: The220_APIShipIDS
+  api_stypes: The220_APIStypes
+}
+
+export interface The220_APICtypes {
+  '41': number
+}
+
+export interface The220_APIShipIDS {
+  '488': number
+  '501': number
+  '503': number
+  '504': number
+  '506': number
+  '508': number
+  '509': number
+  '883': number
+  '888': number
+  '894': number
+  '899': number
+}
+
+export interface The220_APIStypes {
+  '19': number
+  '20': number
+  '21': number
+}
+
+export interface The226 {
+  api_ctypes: null
+  api_ship_ids: The226_APIShipIDS
+  api_stypes: The226_APIStypes
+}
+
+export interface The226_APIShipIDS {
+  '145': number
+  '961': number
+}
+
+export interface The226_APIStypes {
+  '1': number
+}
+
+export interface The240 {
+  api_ctypes: The240_APICtypes | null
+  api_ship_ids: The240_APIShipIDS | null
+  api_stypes: The240_APIStypes | null
+}
+
+export interface The240_APICtypes {
+  '101': number
+  '30': number
+  '38': number
+}
+
+export interface The240_APIShipIDS {
+  '229': number
+  '591': number
+  '592': number
+  '593': number
+  '954': number
+  '961': number
+}
+
+export interface The240_APIStypes {
+  '13': number
+  '14': number
+}
+
+export interface The275 {
+  api_ctypes: The275_APICtypes | null
+  api_ship_ids: The275_APIShipIDS | null
+  api_stypes: The275_APIStypes | null
+}
+
+export interface The275_APICtypes {
+  '43': number
+  '52': number
+}
+
+export interface The275_APIShipIDS {
+  '136': number
+  '148': number
+  '546': number
+  '593': number
+  '894': number
+  '899': number
+  '911': number
+  '916': number
+  '954': number
+}
+
+export interface The275_APIStypes {
+  '11': number
+  '18': number
+  '7': number
 }
 
 export interface APIMstEquipShip {
@@ -96,7 +312,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: null
+  api_max_maphp: number | null
   api_name: string
   api_no: number
   api_opetext: string

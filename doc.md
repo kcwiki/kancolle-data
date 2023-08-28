@@ -5,7 +5,7 @@ api : object
   api_mst_bgm : array
   api_mst_const : object
   api_mst_equip_exslot : array
-  api_mst_equip_exslot_ship : array
+  api_mst_equip_exslot_ship : object
   api_mst_equip_ship : array
   api_mst_furniture : array
   api_mst_furnituregraph : array
@@ -110,7 +110,7 @@ wiki : object
 api_mst_bgm : array
 api_mst_const : object
 api_mst_equip_exslot : array
-api_mst_equip_exslot_ship : array
+api_mst_equip_exslot_ship : object
 api_mst_equip_ship : array
 api_mst_furniture : array
 api_mst_furnituregraph : array

@@ -1,0 +1,33 @@
+name: Update
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      target:
+        description: Update
+        default: all
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'yarn'
+      - run: yarn --frozen-lockfile
+      - run: yarn update
+        env:
+          WIKI_HOST: ${{ secrets.WIKI_HOST }}
+          WIKI_PATH: ${{ secrets.WIKI_PATH }}
+          PGHOST: ${{ secrets.PGHOST }}
+          PGPORT: ${{ secrets.PGPORT }}
+          PGDATABASE: ${{ secrets.PGDATABASE }}
+          PGUSER: ${{ secrets.PGUSER }}
+          PGPASSWORD: ${{ secrets.PGPASSWORD }}
+      - run: |
+          git config --global user.name "Botkaze"
+          git config --global user.email "gkpyon+1@gmail.com"
+          TZ=Asia/Tokyo git commit -a -m "update: $(date +%Y-%m-%d)"
+          git push

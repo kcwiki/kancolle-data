@@ -16,16 +16,18 @@ yarn add @kancolle/data
 
 ```sh
 yarn pull-api      # pull API data from Tibo (default), kcwiki, file, or URL
-yarn pull-db       # pull data from PoiDB and TsunDB (requires auth data in .env)
 yarn pull-external # pull map edges from KC3Kai
+yarn pull-db       # pull data from PoiDB and TsunDB (requires auth data)
 yarn pull-wiki     # pull data from Wiki
 yarn test          # format files and run tests
 ```
 
+Done by the [update](https://github.com/kcwiki/kancolle-data/actions/workflows/update.yml) action.
+
 ## Push
 
 ```sh
-yarn push-wiki # push Wiki data modules (requires auth data in .env)
+yarn push-wiki # push Wiki data modules (requires auth data)
 ```
 
-or run [actions](https://github.com/kcwiki/kancolle-data/actions/workflows/build.yml).
+TBD by the [build](https://github.com/kcwiki/kancolle-data/actions/workflows/build.yml) action.

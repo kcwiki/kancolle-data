@@ -34,7 +34,8 @@
     "type-equipment": "node -e 'console.log(JSON.stringify(Object.values(require(\"./wiki/equipment.json\"))))' > /tmp/equipment.json; quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level equipment /tmp/equipment.json -o wiki/equipment.ts",
     "format": "prettier --ignore-path .gitignore --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
     "lint": "eslint --ignore-path .gitignore --fix .",
-    "test": "yarn type-api && node build/doc && yarn format && yarn lint && node test"
+    "test": "yarn type-api && node build/doc && yarn format && yarn lint && node test",
+    "update": "yarn pull-api && yarn pull-external && yarn pull-db && yarn pull-wiki && yarn test"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
@@ -57,7 +58,7 @@
     "prettier": "^2.7.1",
     "quicktype": "^15.0.261",
     "sort-keys": "^4.2.0",
-    "stream-bson": "^1.1.0"
+    "stream-bson": "^1.1.1"
   },
   "eslintConfig": {
     "env": {

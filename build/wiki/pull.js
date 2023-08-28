@@ -9,8 +9,6 @@ const { parse } = require('lua-json')
 
 const ROOT = `${__dirname}/../..`
 
-const { shipBaseNames } = require(`${ROOT}/tl`)
-
 const getLuaData = async title => parse(await (await fetch(`https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/${title}?action=raw`)).text())
 
 const categories = {
@@ -176,6 +174,8 @@ const main = async () => {
     }
     data[key] = curr[key]
   }
+
+  const { shipBaseNames } = require(`${ROOT}/tl`)
 
   forEach(ships, data => {
     fix(data, '_implementation_date', true)
