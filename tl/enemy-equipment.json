@@ -1,4 +1,6 @@
 {
+  " 深海標準14inch/45 三連装砲": "Abyssal Standard 14inch/45 Triple Gun Mount",
+  " 深海標準14inch/45 連装砲": "Abyssal Standard 14inch/45 Twin Gun Mount",
   "12.5inch連装副砲": "12.5inch Twin Secondary Gun Mount",
   "12.7mm機銃": "12.7mm Machine Gun",
   "14inch連装砲": "14inch Twin Gun Mount",
@@ -55,6 +57,7 @@
   "深海16inch三連装砲 Mk6": "Abyssal 16inch Triple Gun Mount Mk.6",
   "深海16inch三連装砲改": "Abyssal 16inch Triple Gun Mount Kai",
   "深海16inch三連装砲改二": "Abyssal 16inch Triple Gun Mount Kai Ni",
+  "深海3.7cm FlaK": "Abyssal 3.7cm FlaK",
   "深海3inch単装高角砲+甲板機銃": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
   "深海4.7inch砲 Mk.XII": "Abyssal 4.7inch Gun Mk.XII",
   "深海5.5inch連装砲改": "Abyssal 5.5inch Twin Gun Mount Kai",
@@ -131,6 +134,7 @@
   "深海航空整備蟲": "Abyssal Aviation Maintenance Bugs",
   "深海航空整備蟲pro": "Abyssal Aviation Maintenance Bugs Pro",
   "深海艤装水上汎用襲撃機": "Abyssal Rigging General Assault Seaplane",
+  "深海観測阻塞気球": "Abyssal Observation Barrage Balloon",
   "深海解放陸爆": "Abyssal Liberation Land-based Dive Bomber",
   "深海解放陸爆Ace": "Abyssal Liberation Land-based Dive Bomber Ace",
   "飛び魚偵察機": "Flying Fish Reconnaissance Plane",
