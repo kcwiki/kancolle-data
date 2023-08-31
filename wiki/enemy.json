@@ -12733,50 +12733,50 @@
     "_full_name": "European Armored Carrier Princess III"
   },
   "European Little Sister Princess": {
-    "_aa": null,
+    "_aa": 130,
     "_api_id": 2198,
-    "_armor": null,
+    "_armor": 227,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 36
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 310,
+    "_hp": 900,
     "_id": 2198,
     "_japanese_name": "欧州妹姫",
     "_los": null,
     "_luck": null,
     "_name": "European Little Sister Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "おうしゅうまいき",
     "_speed": 5,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "European Little Sister Princess"
   },
   "European Little Sister Princess Damaged": {
-    "_aa": null,
+    "_aa": 140,
     "_api_id": 2201,
-    "_armor": null,
+    "_armor": 253,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -12784,36 +12784,36 @@
     "_cg_damaged_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 64
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 360,
+    "_hp": 900,
     "_id": 2201,
     "_japanese_name": "欧州妹姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "European Little Sister Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "おうしゅうまいき-かい",
     "_speed": 5,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 121,
     "_type": 9,
     "_full_name": "European Little Sister Princess Damaged"
   },
@@ -12830,19 +12830,19 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
         "size": null
       }
     ],
@@ -12864,9 +12864,9 @@
     "_full_name": "European Little Sister Princess Damaged II"
   },
   "European Little Sister Princess Damaged III": {
-    "_aa": null,
+    "_aa": 180,
     "_api_id": 2203,
-    "_armor": null,
+    "_armor": 373,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -12876,36 +12876,36 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 156
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 420,
+    "_hp": 1100,
     "_id": 2203,
     "_japanese_name": "欧州妹姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "European Little Sister Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "おうしゅうまいき-かい",
     "_speed": 5,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 171,
     "_type": 9,
     "_full_name": "European Little Sister Princess Damaged III"
   },
@@ -12922,19 +12922,19 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
         "size": null
       }
     ],
@@ -12956,9 +12956,9 @@
     "_full_name": "European Little Sister Princess II"
   },
   "European Little Sister Princess III": {
-    "_aa": null,
+    "_aa": 150,
     "_api_id": 2200,
-    "_armor": null,
+    "_armor": 292,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -12968,36 +12968,36 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 81
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 360,
+    "_hp": 1100,
     "_id": 2200,
     "_japanese_name": "欧州妹姫",
     "_los": null,
     "_luck": null,
     "_name": "European Little Sister Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "おうしゅうまいき",
     "_speed": 5,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "European Little Sister Princess III"
   },
