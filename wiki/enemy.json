@@ -7340,20 +7340,20 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Radar",
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -7365,7 +7365,7 @@
     "_luck": null,
     "_name": "Anti-Air Guns Imp",
     "_pillbox": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "たいくうこおに",
     "_speed": 0,
@@ -7381,20 +7381,20 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Radar",
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -7406,7 +7406,7 @@
     "_luck": null,
     "_name": "Anti-Air Guns Imp",
     "_pillbox": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "たいくうこおに- エリート",
     "_speed": 0,
@@ -12742,14 +12742,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
         "size": 0
       },
       {
@@ -12785,14 +12788,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
         "size": 0
       },
       {
@@ -12820,7 +12826,7 @@
   "European Little Sister Princess Damaged II": {
     "_aa": null,
     "_api_id": 2202,
-    "_armor": null,
+    "_armor": 0,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -12831,14 +12837,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
         "size": 0
       },
       {
@@ -12848,13 +12857,13 @@
     ],
     "_evasion": null,
     "_firepower": null,
-    "_hp": null,
+    "_hp": 1000,
     "_id": 2202,
     "_japanese_name": "欧州妹姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "European Little Sister Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "おうしゅうまいき-かい",
     "_speed": 5,
@@ -12877,14 +12886,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
         "size": 0
       },
       {
@@ -12912,7 +12924,7 @@
   "European Little Sister Princess II": {
     "_aa": null,
     "_api_id": 2199,
-    "_armor": null,
+    "_armor": 0,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -12923,14 +12935,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
         "size": 0
       },
       {
@@ -12940,13 +12955,13 @@
     ],
     "_evasion": null,
     "_firepower": null,
-    "_hp": null,
+    "_hp": 1000,
     "_id": 2199,
     "_japanese_name": "欧州妹姫",
     "_los": null,
     "_luck": null,
     "_name": "European Little Sister Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "おうしゅうまいき",
     "_speed": 5,
@@ -12969,14 +12984,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Kai Ni",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal FCS + CIC",
+        "estimation": true,
         "size": 0
       },
       {
@@ -13988,116 +14006,119 @@
     "_full_name": "Floating Fortress III"
   },
   "Fortified Pillbox Princess": {
-    "_aa": null,
+    "_aa": 22,
     "_api_id": 2188,
-    "_armor": null,
+    "_armor": 70,
     "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Observation Barrage Balloon",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 300,
+    "_hp": 1000,
     "_id": 2188,
     "_japanese_name": "トーチカ要塞棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Fortified Pillbox Princess",
     "_pillbox": true,
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "トーチカようさいせいき",
     "_speed": 0,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "Fortified Pillbox Princess"
   },
   "Fortified Pillbox Princess Damaged": {
-    "_aa": null,
+    "_aa": 52,
     "_api_id": 2190,
-    "_armor": null,
+    "_armor": 115,
     "_asw": 0,
     "_back": -12,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 300,
+    "_hp": 1000,
     "_id": 2190,
     "_japanese_name": "トーチカ要塞棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Fortified Pillbox Princess",
     "_pillbox": true,
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "トーチカようさいせいき-かい",
     "_speed": 0,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "Fortified Pillbox Princess Damaged"
   },
   "Fortified Pillbox Princess Damaged II": {
-    "_aa": null,
+    "_aa": 72,
     "_api_id": 2191,
-    "_armor": null,
+    "_armor": 215,
     "_asw": 0,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 300,
     "_hp": 1600,
     "_id": 2191,
     "_japanese_name": "トーチカ要塞棲姫-壊",
@@ -14105,43 +14126,44 @@
     "_luck": null,
     "_name": "Fortified Pillbox Princess",
     "_pillbox": true,
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "トーチカようさいせいき-かい",
     "_speed": 0,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "Fortified Pillbox Princess Damaged II"
   },
   "Fortified Pillbox Princess II": {
-    "_aa": null,
+    "_aa": 44,
     "_api_id": 2189,
-    "_armor": null,
+    "_armor": 170,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "40mm Quadruple Autocannon Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Observation Barrage Balloon",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 300,
     "_hp": 1600,
     "_id": 2189,
     "_japanese_name": "トーチカ要塞棲姫",
@@ -14149,12 +14171,12 @@
     "_luck": null,
     "_name": "Fortified Pillbox Princess",
     "_pillbox": true,
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "トーチカようさいせいき",
     "_speed": 0,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "Fortified Pillbox Princess II"
   },
@@ -23943,20 +23965,20 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Radar",
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -23968,7 +23990,7 @@
     "_luck": null,
     "_name": "Pillbox Imp",
     "_pillbox": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "トーチカこおに",
     "_speed": 0,
@@ -23984,20 +24006,20 @@
     "_back": -10,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Radar",
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -24009,7 +24031,7 @@
     "_luck": null,
     "_name": "Pillbox Imp",
     "_pillbox": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "トーチカこおに- エリート",
     "_speed": 0,
@@ -24028,20 +24050,20 @@
     "_cg_reference": "/Elite",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Observation Barrage Balloon",
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -24053,7 +24075,7 @@
     "_luck": null,
     "_name": "Pillbox Imp",
     "_pillbox": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "トーチカこおに- エリート",
     "_speed": 0,
@@ -24072,20 +24094,20 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Observation Barrage Balloon",
+        "size": 0
       }
     ],
     "_evasion": null,
@@ -24097,7 +24119,7 @@
     "_luck": null,
     "_name": "Pillbox Imp",
     "_pillbox": true,
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "トーチカこおに",
     "_speed": 0,
@@ -24742,114 +24764,114 @@
     "_full_name": "Remodeled Wartime Cargo Princess III"
   },
   "Schnellboot Imp Pack": {
-    "_aa": null,
+    "_aa": 23,
     "_api_id": 2192,
-    "_armor": null,
+    "_armor": 37,
     "_asw": null,
     "_back": -10,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 19,
+    "_hp": 19,
     "_id": 2192,
     "_japanese_name": "Schnellboot小鬼群",
     "_los": null,
     "_luck": null,
     "_name": "Schnellboot Imp Pack",
-    "_range": null,
+    "_range": 1,
     "_rarity": 6,
     "_reading": "シュネルボートこおにぐん",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 102,
     "_type": 2,
     "_full_name": "Schnellboot Imp Pack"
   },
   "Schnellboot Imp Pack Elite": {
-    "_aa": null,
+    "_aa": 43,
     "_api_id": 2194,
-    "_armor": null,
+    "_armor": 47,
     "_asw": null,
     "_back": -10,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 39,
     "_hp": 39,
     "_id": 2194,
     "_japanese_name": "Schnellboot小鬼群- Elite",
     "_los": null,
     "_luck": null,
     "_name": "Schnellboot Imp Pack",
-    "_range": null,
+    "_range": 1,
     "_rarity": 6,
     "_reading": "シュネルボートこおにぐん- エリート",
     "_speed": 10,
     "_suffix": "Elite",
-    "_torpedo": null,
+    "_torpedo": 122,
     "_type": 2,
     "_full_name": "Schnellboot Imp Pack Elite"
   },
   "Schnellboot Imp Pack II": {
-    "_aa": null,
+    "_aa": 33,
     "_api_id": 2193,
-    "_armor": null,
+    "_armor": 37,
     "_asw": null,
     "_back": -10,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 3.7cm FlaK",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 29,
+    "_hp": 29,
     "_id": 2193,
     "_japanese_name": "Schnellboot小鬼群",
     "_los": null,
     "_luck": null,
     "_name": "Schnellboot Imp Pack",
-    "_range": null,
+    "_range": 1,
     "_rarity": 6,
     "_reading": "シュネルボートこおにぐん",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 102,
     "_type": 2,
     "_full_name": "Schnellboot Imp Pack II"
   },
@@ -26168,95 +26190,99 @@
     "_full_name": "Standard Carrier Wo-Class Kai Flagship VI"
   },
   "Standard Type Battleship Princess": {
-    "_aa": null,
+    "_aa": 88,
     "_api_id": 2182,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 198,
+    "_asw": null,
     "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 330,
+    "_hp": 830,
     "_id": 2182,
     "_japanese_name": "標準型戦艦棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Standard Type Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "ひょうじゅんがたせんかんせいき",
-    "_speed": null,
-    "_torpedo": null,
+    "_speed": 5,
+    "_torpedo": 68,
     "_type": 10,
     "_full_name": "Standard Type Battleship Princess"
   },
   "Standard Type Battleship Princess Damaged": {
-    "_aa": null,
+    "_aa": 98,
     "_api_id": 2185,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 228,
+    "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_can_debuff": true,
     "_cg_damaged_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 350,
+    "_hp": 830,
     "_id": 2185,
     "_japanese_name": "標準型戦艦棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Standard Type Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "ひょうじゅんがたせんかんせいき-かい",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 88,
     "_type": 10,
     "_full_name": "Standard Type Battleship Princess Damaged"
   },
   "Standard Type Battleship Princess Damaged II": {
-    "_aa": null,
+    "_aa": 138,
     "_api_id": 2186,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 268,
+    "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
@@ -26265,44 +26291,46 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 360,
+    "_hp": 930,
     "_id": 2186,
     "_japanese_name": "標準型戦艦棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Standard Type Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "ひょうじゅんがたせんかんせいき-かい",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 108,
     "_type": 10,
     "_full_name": "Standard Type Battleship Princess Damaged II"
   },
   "Standard Type Battleship Princess Damaged III": {
-    "_aa": null,
+    "_aa": 158,
     "_api_id": 2187,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 338,
+    "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/Damaged",
@@ -26311,44 +26339,46 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 390,
+    "_hp": 1030,
     "_id": 2187,
     "_japanese_name": "標準型戦艦棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Standard Type Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "ひょうじゅんがたせんかんせいき-かい",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 148,
     "_type": 10,
     "_full_name": "Standard Type Battleship Princess Damaged III"
   },
   "Standard Type Battleship Princess II": {
-    "_aa": null,
+    "_aa": 108,
     "_api_id": 2183,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 238,
+    "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
@@ -26357,44 +26387,46 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 340,
+    "_hp": 930,
     "_id": 2183,
     "_japanese_name": "標準型戦艦棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Standard Type Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "ひょうじゅんがたせんかんせいき",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 88,
     "_type": 10,
     "_full_name": "Standard Type Battleship Princess II"
   },
   "Standard Type Battleship Princess III": {
-    "_aa": null,
+    "_aa": 128,
     "_api_id": 2184,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 308,
+    "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
@@ -26403,36 +26435,38 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Surface Radar",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 350,
+    "_hp": 1030,
     "_id": 2184,
     "_japanese_name": "標準型戦艦棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Standard Type Battleship Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "ひょうじゅんがたせんかんせいき",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 108,
     "_type": 10,
     "_full_name": "Standard Type Battleship Princess III"
   },
