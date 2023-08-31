@@ -89,6 +89,7 @@
     "S": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "T": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "U": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "V": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "W": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   },
   "574": {
