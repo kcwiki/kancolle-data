@@ -12824,9 +12824,9 @@
     "_full_name": "European Little Sister Princess Damaged"
   },
   "European Little Sister Princess Damaged II": {
-    "_aa": null,
+    "_aa": 160,
     "_api_id": 2202,
-    "_armor": 0,
+    "_armor": 283,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -12856,8 +12856,8 @@
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": 1000,
+    "_firepower": 390,
+    "_hp": 980,
     "_id": 2202,
     "_japanese_name": "欧州妹姫-壊",
     "_los": null,
@@ -12868,7 +12868,7 @@
     "_reading": "おうしゅうまいき-かい",
     "_speed": 5,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 141,
     "_type": 9,
     "_full_name": "European Little Sister Princess Damaged II"
   },
@@ -12924,7 +12924,7 @@
   "European Little Sister Princess II": {
     "_aa": null,
     "_api_id": 2199,
-    "_armor": 0,
+    "_armor": 1,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -12955,7 +12955,7 @@
     ],
     "_evasion": null,
     "_firepower": null,
-    "_hp": 1000,
+    "_hp": 980,
     "_id": 2199,
     "_japanese_name": "欧州妹姫",
     "_los": null,
