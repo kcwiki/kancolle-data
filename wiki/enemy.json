@@ -12852,7 +12852,7 @@
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
-        "size": null
+        "size": 81
       }
     ],
     "_evasion": null,
@@ -12922,9 +12922,9 @@
     "_full_name": "European Little Sister Princess Damaged III"
   },
   "European Little Sister Princess II": {
-    "_aa": null,
+    "_aa": 140,
     "_api_id": 2199,
-    "_armor": 1,
+    "_armor": 257,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -12950,11 +12950,11 @@
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
-        "size": null
+        "size": 64
       }
     ],
     "_evasion": null,
-    "_firepower": null,
+    "_firepower": 330,
     "_hp": 980,
     "_id": 2199,
     "_japanese_name": "欧州妹姫",
@@ -12966,7 +12966,7 @@
     "_reading": "おうしゅうまいき",
     "_speed": 5,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 9,
     "_full_name": "European Little Sister Princess II"
   },
