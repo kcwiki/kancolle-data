@@ -35453,12 +35453,14 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
-        "size": 1
+        "equipment": "14inch/45 Twin Gun Mount",
+        "size": 1,
+        "stars": 3
       },
       {
-        "equipment": null,
-        "size": 1
+        "equipment": "14inch/45 Triple Gun Mount",
+        "size": 1,
+        "stars": 3
       },
       {
         "equipment": false,
