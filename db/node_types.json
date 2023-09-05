@@ -213,6 +213,7 @@
     "J": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "K": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "L": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "M": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "N": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "O": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "P": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
