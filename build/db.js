@@ -16,11 +16,13 @@ const queryTsun = async (...qs) => {
   const tsun = new Client()
   await tsun.connect()
   for (const q of qs) {
+    console.log(`queryTsun : ${q.query}`)
     const { rows } = await tsun.query(q.query)
     result.push(rows)
     if (q.file) {
       outputJsonSync(`${__dirname}/../db/${q.file}.json`, q.reduce ? q.reduce(rows) : rows)
     }
+    console.log('queryTsun: done')
   }
   await tsun.end()
   return result.length === 1 ? result[0] : result
@@ -70,6 +72,19 @@ const genNodeTypes = async () => {
 }
 
 const main = async () => {
+  await queryTsun(
+    ..._.range(5, 7 + 1).map(i => ({
+      query: `select * from enemycomp where (enemycomp->'isAirRaid') is not null and map='57-${i}'`,
+      file: `57-${i}`,
+    })),
+  )
+  await queryTsun(
+    ..._.range(5, 7 + 1).map(i => ({
+      query: `select map, node, difficulty, enemycomp->>'ship' as ship1, enemycomp->>'shipEscort' as ship2, enemycomp->>'mapStats' as mapStats, count(*) as count from enemycomp where map='57-${i}' and enemycomp#>>'{mapStats,gaugeNum}' is not null and enemycomp#>>'{mapStats,gaugeNum}' <> '-1' group by map, node, difficulty, enemycomp->>'ship', enemycomp->>'shipEscort', enemycomp->>'mapStats'`,
+      file: `gauge-57${i}`,
+    })),
+  )
+  /*
   // Tsun: N/A
   await queryPoi({
     dump: 'reciperecords',
@@ -128,6 +143,7 @@ const main = async () => {
     },
   )
   await genNodeTypes()
+  */
 }
 
 main()
