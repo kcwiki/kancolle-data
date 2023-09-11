@@ -253,6 +253,17 @@
   },
   {
     "map": "57-4",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 2 },
+      { "api_type": 1, "api_id": 4, "api_value": 3 },
+      { "api_type": 1, "api_id": 57, "api_value": 1 },
+      { "api_type": 2, "api_id": 964, "api_value": 1 }
+    ],
+    "selectreward": null
+  },
+  {
+    "map": "57-4",
     "difficulty": 3,
     "rewards": [
       { "api_type": 1, "api_id": 54, "api_value": 3 },
