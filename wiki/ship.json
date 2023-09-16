@@ -20912,11 +20912,12 @@
     "_class_number": 6,
     "_equipment": [
       {
-        "equipment": null,
-        "size": 0
+        "equipment": "QF 4.7inch Gun Mk.XII Kai",
+        "size": 0,
+        "stars": 2
       },
       {
-        "equipment": null,
+        "equipment": "Type144/147 ASDIC",
         "size": 0
       },
       {
