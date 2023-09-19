@@ -1,15 +1,15 @@
 require('dotenv').config()
 
 const { outputJsonSync } = require('fs-extra')
-const { Readable } = require('stream')
-const { gunzipSync } = require('zlib')
-const _ = require('lodash')
-const sortKeys = require('sort-keys')
-const fetch = require('node-fetch')
-const StreamBSON = require('stream-bson')
+// const { Readable } = require('stream')
+// const { gunzipSync } = require('zlib')
+// const _ = require('lodash')
+// const sortKeys = require('sort-keys')
+// const fetch = require('node-fetch')
+// const StreamBSON = require('stream-bson')
 const { Client } = require('pg')
 
-const { getNodeLabel, getNodeType } = require('../map')
+// const { getNodeLabel, getNodeType } = require('../map')
 
 const queryTsun = async (...qs) => {
   const result = []
@@ -28,6 +28,7 @@ const queryTsun = async (...qs) => {
   return result.length === 1 ? result[0] : result
 }
 
+/*
 const queryPoi = q =>
   new Promise(async resolve => {
     const data = {}
@@ -70,12 +71,15 @@ const genNodeTypes = async () => {
   }
   outputJsonSync(`${__dirname}/../db/node_types.json`, sortKeys(types, { deep: true }))
 }
+*/
 
 const main = async () => {
-  await queryTsun({
-    query: `select column_name, data_type, character_maximum_length, column_default, is_nullable from INFORMATION_SCHEMA.COLUMNS where table_name = 'eventworld'`,
-    file: `eventworld`,
-  })
+  await queryTsun(
+    {
+      query: `select column_name, data_type, character_maximum_length, column_default, is_nullable from INFORMATION_SCHEMA.COLUMNS where table_name = 'eventworld'`,
+      file: `eventworld`,
+    }
+  )
   /*
   await queryTsun(
     ..._.range(5, 7 + 1).map(i => ({
@@ -90,6 +94,7 @@ const main = async () => {
     })),
   )
   */
+  /*
   // Tsun: N/A
   await queryPoi({
     dump: 'reciperecords',
@@ -148,6 +153,7 @@ const main = async () => {
     },
   )
   await genNodeTypes()
+  */
 }
 
 main()
