@@ -18,6 +18,7 @@ const queryTsun = async (...qs) => {
   for (const q of qs) {
     console.log(`queryTsun : ${q.query}`)
     const { rows } = await tsun.query(q.query)
+    console.log(JSON.stringify(rows))
     result.push(rows)
     if (q.file) {
       outputJsonSync(`${__dirname}/../db/${q.file}.json`, q.reduce ? q.reduce(rows) : rows)
