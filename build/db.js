@@ -28,6 +28,7 @@ const queryTsun = async (...qs) => {
   return result.length === 1 ? result[0] : result
 }
 
+/*
 const queryPoi = q =>
   new Promise(async resolve => {
     const data = {}
@@ -70,6 +71,7 @@ const genNodeTypes = async () => {
   }
   outputJsonSync(`${__dirname}/../db/node_types.json`, sortKeys(types, { deep: true }))
 }
+*/
 
 const main = async () => {
   await queryTsun(
