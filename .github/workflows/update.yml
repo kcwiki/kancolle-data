@@ -27,5 +27,6 @@ jobs:
       - run: |
           git config --global user.name "Botkaze"
           git config --global user.email "gkpyon+1@gmail.com"
+          TZ=Asia/Tokyo git add .
           TZ=Asia/Tokyo git commit -a -m "update: $(date +%Y-%m-%d)"
           git push
