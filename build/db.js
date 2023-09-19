@@ -73,6 +73,13 @@ const genNodeTypes = async () => {
 
 const main = async () => {
   await queryTsun(
+    {
+      query: `select column_name, data_type, character_maximum_length, column_default, is_nullable from INFORMATION_SCHEMA.COLUMNS where table_name = 'eventworld'`,
+      file: `eventworld`,
+    }
+  )
+  /*
+  await queryTsun(
     ..._.range(5, 7 + 1).map(i => ({
       query: `select * from enemycomp where (enemycomp->'isAirRaid') is not null and map='57-${i}'`,
       file: `57-${i}`,
@@ -84,6 +91,7 @@ const main = async () => {
       file: `gauge-57${i}`,
     })),
   )
+  */
   /*
   // Tsun: N/A
   await queryPoi({
