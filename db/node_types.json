@@ -187,6 +187,7 @@
     "V": { "color": 14, "id": 10, "kind": 0, "type": "Repair" },
     "W": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "X": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "Y": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   },
   "577": {
