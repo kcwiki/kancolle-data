@@ -129,6 +129,8 @@ export interface The106_APIShipIDS {
   '621'?: number
   '626'?: number
   '656'?: number
+  '955'?: number
+  '960'?: number
   '961'?: number
 }
 
@@ -312,7 +314,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
