@@ -1641,7 +1641,7 @@
     "_buildable": false,
     "_buildable_lsc": true,
     "_class": "Hei",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": "Daihatsu Landing Craft",
@@ -6020,8 +6020,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 17,
+    "_evasion_max": 44,
     "_firepower": 5,
     "_firepower_max": 19,
     "_firepower_mod": false,
@@ -6031,8 +6031,8 @@
     "_id": 534,
     "_implementation_date": [2023, 8, 26],
     "_japanese_name": "C.Cappellini",
-    "_los": null,
-    "_los_max": null,
+    "_los": 5,
+    "_los_max": 24,
     "_luck": 33,
     "_luck_max": 73,
     "_luck_mod": false,
@@ -6083,8 +6083,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 18,
+    "_evasion_max": 58,
     "_firepower": 0,
     "_firepower_max": 2,
     "_firepower_mod": false,
@@ -6093,8 +6093,8 @@
     "_hp_max": 15,
     "_id": 534,
     "_japanese_name": "C.Cappellini改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 7,
+    "_los_max": 28,
     "_luck": 35,
     "_luck_max": 77,
     "_luck_mod": false,
@@ -8812,7 +8812,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30",
@@ -8874,7 +8874,7 @@
     "_asw_max": 91,
     "_build_time": 23,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30 Kai",
@@ -8950,7 +8950,7 @@
     "_back": 7,
     "_build_time": 23,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": false,
@@ -9026,7 +9026,7 @@
     "_back": 7,
     "_build_time": 23,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": false,
@@ -14809,7 +14809,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 134,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30",
@@ -14872,7 +14872,7 @@
     "_asw_max": 90,
     "_build_time": 23,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 134,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30 Kai",
@@ -18460,8 +18460,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 23,
+    "_evasion_max": 68,
     "_firepower": 4,
     "_firepower_max": 18,
     "_firepower_mod": false,
@@ -18470,8 +18470,8 @@
     "_hp_max": 17,
     "_id": 540,
     "_japanese_name": "伊503",
-    "_los": null,
-    "_los_max": null,
+    "_los": 10,
+    "_los_max": 33,
     "_luck": 43,
     "_luck_max": 93,
     "_luck_mod": false,
@@ -19004,14 +19004,14 @@
     "_armor_max": 18,
     "_armor_mod": false,
     "_artist": "Hoshi Akari",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 41,
+    "_asw_max": 83,
     "_availability": ["event_drop"],
     "_build_time": 9,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Ukuru",
-    "_class_number": null,
+    "_class_number": 12,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
@@ -19022,8 +19022,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 37,
+    "_evasion_max": 81,
     "_firepower": 4,
     "_firepower_max": 17,
     "_firepower_mod": false,
@@ -19034,8 +19034,8 @@
     "_id": 522,
     "_implementation_date": [2023, 8, 9],
     "_japanese_name": "稲木",
-    "_los": null,
-    "_los_max": null,
+    "_los": 3,
+    "_los_max": 13,
     "_luck": 9,
     "_luck_max": 59,
     "_luck_mod": false,
@@ -19070,11 +19070,11 @@
     "_armor": 6,
     "_armor_max": 36,
     "_armor_mod": false,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 46,
+    "_asw_max": 85,
     "_build_time": 9,
     "_class": "Ukuru",
-    "_class_number": null,
+    "_class_number": 12,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
@@ -19089,8 +19089,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 46,
+    "_evasion_max": 86,
     "_firepower": 4,
     "_firepower_max": 32,
     "_firepower_mod": 1,
@@ -19099,8 +19099,8 @@
     "_hp_max": 21,
     "_id": 1730,
     "_japanese_name": "稲木改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 4,
+    "_los_max": 24,
     "_luck": 13,
     "_luck_max": 73,
     "_luck_mod": false,
@@ -20839,8 +20839,8 @@
     "_armor_max": 18,
     "_armor_mod": 1,
     "_artist": "Konishi",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 40,
+    "_asw_max": 81,
     "_availability": ["event_drop"],
     "_build_time": 24,
     "_buildable": false,
@@ -20857,8 +20857,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 44,
+    "_evasion_max": 77,
     "_firepower": 12,
     "_firepower_max": 34,
     "_firepower_mod": 1,
@@ -20868,8 +20868,8 @@
     "_id": 501,
     "_implementation_date": [2023, 8, 26],
     "_japanese_name": "Javelin",
-    "_los": null,
-    "_los_max": null,
+    "_los": 10,
+    "_los_max": 21,
     "_luck": 30,
     "_luck_max": 80,
     "_luck_mod": false,
@@ -20905,8 +20905,8 @@
     "_armor": 15,
     "_armor_max": 50,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 53,
+    "_asw_max": 92,
     "_build_time": 24,
     "_class": "J",
     "_class_number": 6,
@@ -20925,8 +20925,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 47,
+    "_evasion_max": 87,
     "_firepower": 14,
     "_firepower_max": 54,
     "_firepower_mod": 1,
@@ -20935,8 +20935,8 @@
     "_hp_max": 36,
     "_id": 506,
     "_japanese_name": "Javelin改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 12,
+    "_los_max": 53,
     "_luck": 39,
     "_luck_max": 91,
     "_luck_mod": false,
@@ -21641,7 +21641,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 73,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30",
@@ -21704,7 +21704,7 @@
     "_asw_max": 90,
     "_build_time": 23,
     "_class": "Fletcher",
-    "_class_number": false,
+    "_class_number": 73,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30 Kai",
@@ -22633,8 +22633,8 @@
     "_armor_max": 15,
     "_armor_mod": false,
     "_artist": "Hozuka",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 30,
+    "_asw_max": 71,
     "_availability": ["event_drop"],
     "_build_time": 14,
     "_buildable": false,
@@ -22647,8 +22647,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 39,
+    "_evasion_max": 81,
     "_firepower": 3,
     "_firepower_max": 14,
     "_firepower_mod": false,
@@ -22659,8 +22659,8 @@
     "_id": 498,
     "_implementation_date": [2023, 8, 9],
     "_japanese_name": "第二十二号海防艦",
-    "_los": null,
-    "_los_max": null,
+    "_los": 2,
+    "_los_max": 13,
     "_luck": 19,
     "_luck_max": 85,
     "_luck_mod": false,
@@ -22695,11 +22695,11 @@
     "_armor": 5,
     "_armor_max": 30,
     "_armor_mod": false,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 33,
+    "_asw_max": 79,
     "_build_time": 14,
     "_class": "Type D",
-    "_class_number": null,
+    "_class_number": 11,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
@@ -22710,8 +22710,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 47,
+    "_evasion_max": 92,
     "_firepower": 4,
     "_firepower_max": 27,
     "_firepower_mod": 1,
@@ -22720,8 +22720,8 @@
     "_hp_max": 21,
     "_id": 1728,
     "_japanese_name": "第二十二号海防艦改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 4,
+    "_los_max": 22,
     "_luck": 22,
     "_luck_max": 88,
     "_luck_mod": false,
@@ -29438,7 +29438,7 @@
     "_buildable": false,
     "_buildable_lsc": true,
     "_class": "Type 3 Submergence Transport Vehicle",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [],
     "_evasion": 9,
     "_evasion_max": 19,
@@ -29491,7 +29491,7 @@
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Type 3 Submergence Transport Vehicle",
-    "_class_number": false,
+    "_class_number": 1,
     "_equipment": [
       {
         "equipment": false,
@@ -35485,8 +35485,8 @@
         "size": 1
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 20,
+    "_evasion_max": 47,
     "_firepower": 72,
     "_firepower_max": 92,
     "_firepower_mod": 4,
@@ -35496,8 +35496,8 @@
     "_id": 524,
     "_implementation_date": [2023, 8, 26],
     "_japanese_name": "Nevada",
-    "_los": null,
-    "_los_max": null,
+    "_los": 8,
+    "_los_max": 36,
     "_luck": 33,
     "_luck_max": 103,
     "_luck_mod": false,
@@ -35553,8 +35553,8 @@
         "size": 1
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 27,
+    "_evasion_max": 58,
     "_firepower": 77,
     "_firepower_max": 97,
     "_firepower_mod": 5,
@@ -35563,8 +35563,8 @@
     "_hp_max": 95,
     "_id": 529,
     "_japanese_name": "Nevada改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 13,
+    "_los_max": 50,
     "_luck": 40,
     "_luck_max": 112,
     "_luck_mod": false,
@@ -35631,8 +35631,8 @@
         "size": 2
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 27,
+    "_evasion_max": 67,
     "_firepower": 82,
     "_firepower_max": 103,
     "_firepower_mod": 5,
@@ -35641,8 +35641,8 @@
     "_hp_max": 96,
     "_id": 536,
     "_japanese_name": "Nevada改 Mod.2",
-    "_los": null,
-    "_los_max": null,
+    "_los": 15,
+    "_los_max": 52,
     "_luck": 45,
     "_luck_max": 118,
     "_luck_mod": false,
@@ -35998,7 +35998,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 36,
     "_evasion_max": 67,
     "_firepower": 3,
     "_firepower_max": 18,
@@ -36008,7 +36008,7 @@
     "_hp_max": 23,
     "_id": 1727,
     "_japanese_name": "第百一号輸送艦改",
-    "_los": null,
+    "_los": 3,
     "_los_max": 13,
     "_luck": 10,
     "_luck_max": 63,
@@ -36492,11 +36492,11 @@
     "_armor": 7,
     "_armor_max": 33,
     "_armor_mod": false,
-    "_asw": null,
+    "_asw": 39,
     "_asw_max": 87,
     "_build_time": 14,
     "_class": "Mikura",
-    "_class_number": 326,
+    "_class_number": 4,
     "_equipment": [
       {
         "equipment": null,
@@ -36521,7 +36521,7 @@
     "_hp_max": 21,
     "_id": 509,
     "_japanese_name": "能美改",
-    "_los": null,
+    "_los": 5,
     "_los_max": 28,
     "_luck": 16,
     "_luck_max": 76,
@@ -38763,8 +38763,8 @@
         "size": 2
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 21,
+    "_evasion_max": 44,
     "_firepower": 72,
     "_firepower_max": 102,
     "_firepower_mod": 5,
@@ -38774,8 +38774,8 @@
     "_id": 372,
     "_implementation_date": [2023, 8, 28],
     "_japanese_name": "Rodney",
-    "_los": null,
-    "_los_max": null,
+    "_los": 12,
+    "_los_max": 43,
     "_luck": 23,
     "_luck_max": 87,
     "_luck_mod": false,
@@ -38834,8 +38834,8 @@
         "size": 2
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 22,
+    "_evasion_max": 59,
     "_firepower": 81,
     "_firepower_max": 114,
     "_firepower_mod": 5,
@@ -38844,8 +38844,8 @@
     "_hp_max": 98,
     "_id": 377,
     "_japanese_name": "Rodney改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 13,
+    "_los_max": 48,
     "_luck": 27,
     "_luck_max": 97,
     "_luck_mod": false,
@@ -40021,7 +40021,7 @@
     "_armor": 3,
     "_armor_max": 18,
     "_armor_mod": false,
-    "_artist": null,
+    "_artist": "Kiddy",
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_reward"],
@@ -40036,8 +40036,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 15,
+    "_evasion_max": 44,
     "_firepower": 1,
     "_firepower_max": 10,
     "_firepower_mod": false,
@@ -40048,8 +40048,8 @@
     "_id": 491,
     "_implementation_date": [2023, 8, 9],
     "_japanese_name": "Salmon",
-    "_los": null,
-    "_los_max": null,
+    "_los": 10,
+    "_los_max": 42,
     "_luck": 16,
     "_luck_max": 86,
     "_luck_mod": false,
@@ -40099,8 +40099,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 16,
+    "_evasion_max": 57,
     "_firepower": 2,
     "_firepower_max": 13,
     "_firepower_mod": false,
@@ -40109,8 +40109,8 @@
     "_hp_max": 19,
     "_id": 496,
     "_japanese_name": "Salmon改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 12,
+    "_los_max": 45,
     "_luck": 17,
     "_luck_max": 96,
     "_luck_mod": false,
@@ -40141,7 +40141,7 @@
     "_full_name": "Salmon Kai",
     "_implementation_date": [2023, 8, 9],
     "_voice_actor": "Kawaida Natsumi",
-    "_artist": null,
+    "_artist": "Kiddy",
     "_availability": ["event_reward"]
   },
   "Samidare": {
@@ -40303,7 +40303,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "John C. Butler",
-    "_class_number": false,
+    "_class_number": 46,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30",
@@ -40366,7 +40366,7 @@
     "_asw_max": 88,
     "_build_time": 9,
     "_class": "John C. Butler",
-    "_class_number": false,
+    "_class_number": 46,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30",
@@ -40444,7 +40444,7 @@
     "_asw_max": 90,
     "_build_time": 9,
     "_class": "John C. Butler",
-    "_class_number": false,
+    "_class_number": 413,
     "_equipment": [
       {
         "equipment": "5inch Single Gun Mount Mk.30 Kai",
@@ -42040,8 +42040,8 @@
     "_armor": 15,
     "_armor_max": 57,
     "_armor_mod": 2,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 39,
+    "_asw_max": 88,
     "_class": "Shiratsuyu",
     "_class_number": 2,
     "_equipment": [
@@ -42059,8 +42059,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 63,
+    "_evasion_max": 98,
     "_firepower": 16,
     "_firepower_max": 67,
     "_firepower_mod": 2,
@@ -42070,8 +42070,8 @@
     "_id": 561,
     "_implementation_date": [2023, 6, 14],
     "_japanese_name": "時雨改三",
-    "_los": null,
-    "_los_max": null,
+    "_los": 12,
+    "_los_max": 51,
     "_luck": 55,
     "_luck_max": 97,
     "_luck_mod": false,
@@ -42986,8 +42986,8 @@
     "_armor_max": 19,
     "_armor_mod": false,
     "_artist": "Shibafu",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 19,
+    "_asw_max": 48,
     "_availability": ["event_drop"],
     "_build_time": 20,
     "_buildable": false,
@@ -43004,8 +43004,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 37,
+    "_evasion_max": 82,
     "_firepower": 10,
     "_firepower_max": 30,
     "_firepower_mod": 1,
@@ -43015,8 +43015,8 @@
     "_id": 564,
     "_implementation_date": [2023, 8, 9],
     "_japanese_name": "白雲",
-    "_los": null,
-    "_los_max": null,
+    "_los": 3,
+    "_los_max": 19,
     "_luck": 8,
     "_luck_max": 53,
     "_luck_mod": false,
@@ -43049,8 +43049,8 @@
     "_armor": 13,
     "_armor_max": 49,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 24,
+    "_asw_max": 67,
     "_class": "Fubuki",
     "_class_number": 8,
     "_equipment": [
@@ -43068,8 +43068,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 43,
+    "_evasion_max": 89,
     "_firepower": 11,
     "_firepower_max": 48,
     "_firepower_mod": 1,
@@ -43078,8 +43078,8 @@
     "_hp_max": 35,
     "_id": 1729,
     "_japanese_name": "白雲改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 5,
+    "_los_max": 40,
     "_luck": 14,
     "_luck_max": 76,
     "_luck_mod": false,
@@ -48712,8 +48712,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 21,
+    "_evasion_max": 65,
     "_firepower": 3,
     "_firepower_max": 14,
     "_firepower_mod": false,
@@ -48722,8 +48722,8 @@
     "_hp_max": 16,
     "_id": 539,
     "_japanese_name": "UIT-24",
-    "_los": null,
-    "_los_max": null,
+    "_los": 9,
+    "_los_max": 31,
     "_luck": 36,
     "_luck_max": 83,
     "_luck_mod": false,
@@ -52787,7 +52787,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Mikura",
-    "_class_number": 5,
+    "_class_number": 6,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
@@ -52849,7 +52849,7 @@
     "_asw_max": 85,
     "_build_time": 14,
     "_class": "Mikura",
-    "_class_number": 5,
+    "_class_number": 6,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
