@@ -70,6 +70,7 @@ export interface APIMstEquipExslotShip {
   '483': The10
   '488': The226
   '506': The106
+  '517': The240
   '66': The220
   '71': The275
   '87': The10
@@ -78,6 +79,7 @@ export interface APIMstEquipExslotShip {
 
 export interface The10 {
   api_ctypes: null
+  api_req_level: number
   api_ship_ids: The10_APIShipIDS | null
   api_stypes: The10_APIStypes | null
 }
@@ -103,6 +105,7 @@ export interface The10_APIStypes {
 
 export interface The106 {
   api_ctypes: The106_APICtypes | null
+  api_req_level: number
   api_ship_ids: The106_APIShipIDS | null
   api_stypes: The106_APIStypes | null
 }
@@ -140,6 +143,7 @@ export interface The106_APIStypes {
 
 export interface The12 {
   api_ctypes: The12_APICtypes | null
+  api_req_level: number
   api_ship_ids: The12_APIShipIDS | null
   api_stypes: null
 }
@@ -162,6 +166,7 @@ export interface The12_APIShipIDS {
 
 export interface The220 {
   api_ctypes: The220_APICtypes
+  api_req_level: number
   api_ship_ids: The220_APIShipIDS
   api_stypes: The220_APIStypes
 }
@@ -192,6 +197,7 @@ export interface The220_APIStypes {
 
 export interface The226 {
   api_ctypes: null
+  api_req_level: number
   api_ship_ids: The226_APIShipIDS
   api_stypes: The226_APIStypes
 }
@@ -207,6 +213,7 @@ export interface The226_APIStypes {
 
 export interface The240 {
   api_ctypes: The240_APICtypes | null
+  api_req_level: number
   api_ship_ids: The240_APIShipIDS | null
   api_stypes: The240_APIStypes | null
 }
@@ -233,6 +240,7 @@ export interface The240_APIStypes {
 
 export interface The275 {
   api_ctypes: The275_APICtypes | null
+  api_req_level: number
   api_ship_ids: The275_APIShipIDS | null
   api_stypes: The275_APIStypes | null
 }
