@@ -1640,7 +1640,7 @@
     "_build_time": 150,
     "_buildable": false,
     "_buildable_lsc": true,
-    "_class": "Hei",
+    "_class": "Special Purpose Ship Type C",
     "_class_number": 1,
     "_equipment": [
       {
@@ -1700,7 +1700,7 @@
     "_armor_mod": 1,
     "_asw": 0,
     "_asw_max": false,
-    "_class": "Hei",
+    "_class": "Special Purpose Ship Type C",
     "_class_number": 1,
     "_equipment": [
       {
@@ -11928,7 +11928,7 @@
     "_evasion": 45,
     "_evasion_max": 86,
     "_firepower": 52,
-    "_firepower_max": 84,
+    "_firepower_max": 85,
     "_firepower_mod": 3,
     "_fuel": 45,
     "_hp": 57,
@@ -11939,7 +11939,7 @@
     "_los": 18,
     "_los_max": 58,
     "_luck": 19,
-    "_luck_max": 74,
+    "_luck_max": 76,
     "_luck_mod": false,
     "_name": "Haguro",
     "_range": 2,
@@ -14519,7 +14519,7 @@
     "_build_time": 220,
     "_buildable": false,
     "_buildable_lsc": true,
-    "_class": "Revised Kazahaya",
+    "_class": "Kai Kazahaya",
     "_class_number": 1,
     "_equipment": [
       {
@@ -14580,7 +14580,7 @@
     "_asw": 12,
     "_asw_max": 36,
     "_cg_damaged_reference": "/",
-    "_class": "Revised Kazahaya",
+    "_class": "Kai Kazahaya",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17070,7 +17070,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Type AM",
+    "_class": "Junsen Type A Kai Ni",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17135,7 +17135,7 @@
     "_asw_max": false,
     "_build_time": 200,
     "_cg_damaged_reference": "/",
-    "_class": "Type AM",
+    "_class": "Junsen Type A Kai Ni",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17215,7 +17215,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Type AM",
+    "_class": "Junsen Type A Kai Ni",
     "_class_number": 2,
     "_equipment": [
       {
@@ -17280,7 +17280,7 @@
     "_asw_max": false,
     "_build_time": 200,
     "_cg_damaged_reference": "/",
-    "_class": "Type AM",
+    "_class": "Junsen Type A Kai Ni",
     "_class_number": 2,
     "_equipment": [
       {
@@ -17360,7 +17360,7 @@
     "_build_time": 22,
     "_buildable": true,
     "_buildable_lsc": false,
-    "_class": "Kaidai VI",
+    "_class": "Kaidai Type VI",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17421,7 +17421,7 @@
     "_asw_max": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Kaidai VI",
+    "_class": "Kaidai Type VI",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17636,7 +17636,7 @@
     "_build_time": 22,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "I-201",
+    "_class": "Sentaka Type",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17695,7 +17695,7 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 22,
-    "_class": "I-201",
+    "_class": "Sentaka Type",
     "_class_number": 1,
     "_equipment": [
       {
@@ -17769,7 +17769,7 @@
     "_build_time": 22,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "I-201",
+    "_class": "Sentaka Type",
     "_class_number": 3,
     "_equipment": [
       {
@@ -17827,7 +17827,7 @@
     "_asw": 0,
     "_asw_max": false,
     "_build_time": 22,
-    "_class": "I-201",
+    "_class": "Sentaka Type",
     "_class_number": 3,
     "_equipment": [
       {
@@ -18039,7 +18039,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "I-400",
+    "_class": "Sentoku Type (I-400 Class Submarine)",
     "_class_number": 1,
     "_equipment": [
       {
@@ -18101,7 +18101,7 @@
     "_build_time": 200,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "I-400",
+    "_class": "Sentoku Type (I-400 Class Submarine)",
     "_class_number": 1,
     "_equipment": [
       {
@@ -18176,7 +18176,7 @@
     "_build_time": 200,
     "_buildable": false,
     "_buildable_lsc": true,
-    "_class": "I-400",
+    "_class": "Sentoku Type (I-400 Class Submarine)",
     "_class_number": 2,
     "_equipment": [
       {
@@ -18237,7 +18237,7 @@
     "_asw_max": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "I-400",
+    "_class": "Sentoku Type (I-400 Class Submarine)",
     "_class_number": 2,
     "_equipment": [
       {
@@ -18732,7 +18732,7 @@
     "_build_time": 22,
     "_buildable": true,
     "_buildable_lsc": false,
-    "_class": "Junsen 3",
+    "_class": "Junsen Type 3",
     "_class_number": 2,
     "_equipment": [
       {
@@ -18793,7 +18793,7 @@
     "_asw_max": false,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Junsen 3",
+    "_class": "Junsen Type 3",
     "_class_number": 2,
     "_equipment": [
       {
@@ -22639,7 +22639,7 @@
     "_build_time": 14,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Type D",
+    "_class": "Type D Kaiboukan",
     "_class_number": 11,
     "_equipment": [
       {
@@ -22698,7 +22698,7 @@
     "_asw": 33,
     "_asw_max": 79,
     "_build_time": 14,
-    "_class": "Type D",
+    "_class": "Type D Kaiboukan",
     "_class_number": 11,
     "_equipment": [
       {
@@ -22771,7 +22771,7 @@
     "_build_time": 14,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Type D",
+    "_class": "Type D Kaiboukan",
     "_class_number": 15,
     "_equipment": [
       {
@@ -22830,7 +22830,7 @@
     "_asw": 30,
     "_asw_max": 74,
     "_build_time": 14,
-    "_class": "Type D",
+    "_class": "Type D Kaiboukan",
     "_class_number": 15,
     "_equipment": [
       {
@@ -22904,7 +22904,7 @@
     "_build_time": 14,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Type D",
+    "_class": "Type D Kaiboukan",
     "_class_number": 2,
     "_equipment": [
       {
@@ -22964,7 +22964,7 @@
     "_build_time": 14,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Type D",
+    "_class": "Type D Kaiboukan",
     "_class_number": 2,
     "_equipment": [
       {
@@ -27529,7 +27529,7 @@
     "_los": 25,
     "_los_max": 81,
     "_luck": 13,
-    "_luck_max": 73,
+    "_luck_max": 75,
     "_luck_mod": false,
     "_name": "Kumano",
     "_range": 2,
@@ -27586,7 +27586,7 @@
       },
       {
         "equipment": false,
-        "size": 16
+        "size": 18
       },
       {
         "equipment": false,
@@ -27606,7 +27606,7 @@
     "_los": 45,
     "_los_max": 83,
     "_luck": 12,
-    "_luck_max": 73,
+    "_luck_max": 75,
     "_luck_mod": false,
     "_name": "Kumano",
     "_range": 2,
@@ -27663,7 +27663,7 @@
     "_build_time": 150,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Otsu",
+    "_class": "Special Purpose Ship M Type C",
     "_class_number": 1,
     "_equipment": [
       {
@@ -27726,7 +27726,7 @@
     "_asw": 30,
     "_asw_max": 74,
     "_build_time": 150,
-    "_class": "Otsu",
+    "_class": "Special Purpose Ship M Type C",
     "_class_number": 1,
     "_equipment": [
       {
@@ -31005,6 +31005,173 @@
     "_wikipedia": "Japanese cruiser Mikuma",
     "_build_time": 90
   },
+  "Mikuma Kai Ni": {
+    "_aa": 30,
+    "_aa_max": 83,
+    "_aa_mod": 3,
+    "_ammo": 60,
+    "_api_id": 502,
+    "_armor": 41,
+    "_armor_max": 72,
+    "_armor_mod": 2,
+    "_asw": 0,
+    "_asw_max": false,
+    "_class": "Mogami",
+    "_class_number": 2,
+    "_equipment": [
+      {
+        "equipment": false,
+        "size": 2
+      },
+      {
+        "equipment": false,
+        "size": 3
+      },
+      {
+        "equipment": false,
+        "size": 6
+      },
+      {
+        "equipment": false,
+        "size": 13
+      }
+    ],
+    "_evasion": null,
+    "_evasion_max": null,
+    "_firepower": 31,
+    "_firepower_max": 77,
+    "_firepower_mod": 2,
+    "_fuel": 55,
+    "_hp": 59,
+    "_hp_max": 66,
+    "_id": 302,
+    "_japanese_name": "三隈改二",
+    "_los": null,
+    "_los_max": null,
+    "_luck": 12,
+    "_luck_max": 77,
+    "_luck_mod": false,
+    "_name": "Mikuma",
+    "_range": 2,
+    "_rarity": 6,
+    "_reading": "みくまかいに",
+    "_remodel_airmat": 2,
+    "_remodel_ammo": 2200,
+    "_remodel_blueprint": true,
+    "_remodel_catapult": false,
+    "_remodel_development_material": 60,
+    "_remodel_from": "Mikuma/Kai",
+    "_remodel_level": 82,
+    "_remodel_report": true,
+    "_remodel_steel": 1800,
+    "_remodel_to": "Mikuma/Kai Ni Toku",
+    "_scrap_ammo": 8,
+    "_scrap_baux": 5,
+    "_scrap_fuel": 5,
+    "_scrap_steel": 20,
+    "_speed": 10,
+    "_suffix": "Kai Ni",
+    "_torpedo": 38,
+    "_torpedo_max": 87,
+    "_torpedo_mod": 1,
+    "_true_id": false,
+    "_type": 6,
+    "_full_name": "Mikuma Kai Ni",
+    "_implementation_date": [2013, 6, 26],
+    "_voice_actor": "Nakajima Megumi",
+    "_artist": "Shibafu",
+    "_availability": ["drop"],
+    "_wikipedia": "Japanese cruiser Mikuma",
+    "_build_time": 90
+  },
+  "Mikuma Kai Ni Toku": {
+    "_aa": 35,
+    "_aa_max": 88,
+    "_aa_mod": 3,
+    "_ammo": 75,
+    "_api_id": 507,
+    "_armor": 41,
+    "_armor_max": 75,
+    "_armor_mod": 2,
+    "_asw": 0,
+    "_asw_max": false,
+    "_class": "Mogami",
+    "_class_number": 2,
+    "_equipment": [
+      {
+        "equipment": false,
+        "size": 2
+      },
+      {
+        "equipment": false,
+        "size": 3
+      },
+      {
+        "equipment": false,
+        "size": 6
+      },
+      {
+        "equipment": false,
+        "size": 2
+      }
+    ],
+    "_evasion": null,
+    "_evasion_max": null,
+    "_firepower": 31,
+    "_firepower_max": 78,
+    "_firepower_mod": 2,
+    "_fuel": 60,
+    "_hp": 59,
+    "_hp_max": 66,
+    "_id": 307,
+    "_japanese_name": "三隈改二特",
+    "_los": null,
+    "_los_max": null,
+    "_luck": 12,
+    "_luck_max": 77,
+    "_luck_mod": false,
+    "_name": "Mikuma",
+    "_range": 2,
+    "_rarity": 6,
+    "_reading": "みくまかいにとく",
+    "_remodel_ammo": 1800,
+    "_remodel_armament": true,
+    "_remodel_blueprint": false,
+    "_remodel_catapult": false,
+    "_remodel_construction_material": 40,
+    "_remodel_development_material": 35,
+    "_remodel_from": "Mikuma/Kai Ni",
+    "_remodel_level": 89,
+    "_remodel_report": false,
+    "_remodel_steel": 3800,
+    "_remodel_to": "Mikuma/Kai Ni",
+    "_remodel_to_ammo": 1300,
+    "_remodel_to_blueprint": false,
+    "_remodel_to_catapult": false,
+    "_remodel_to_construction_material": 40,
+    "_remodel_to_development_material": 15,
+    "_remodel_to_level": 90,
+    "_remodel_to_report": false,
+    "_remodel_to_steel": 1700,
+    "_scrap_ammo": 8,
+    "_scrap_baux": 5,
+    "_scrap_fuel": 5,
+    "_scrap_steel": 20,
+    "_speed": 10,
+    "_suffix": "Kai Ni Toku",
+    "_torpedo": 46,
+    "_torpedo_max": 92,
+    "_torpedo_mod": 1,
+    "_true_id": false,
+    "_type": 16,
+    "_full_name": "Mikuma Kai Ni Toku",
+    "_implementation_date": [2013, 6, 26],
+    "_voice_actor": "Nakajima Megumi",
+    "_artist": "Shibafu",
+    "_availability": ["drop"],
+    "_wikipedia": "Japanese cruiser Mikuma",
+    "_build_time": 90
+  },
   "Mikura": {
     "_aa": 9,
     "_aa_max": 36,
@@ -33645,7 +33812,7 @@
     "_ammo": 75,
     "_api_id": 319,
     "_armor": 47,
-    "_armor_max": 79,
+    "_armor_max": 80,
     "_armor_mod": 2,
     "_asw": 0,
     "_asw_max": false,
@@ -33672,7 +33839,7 @@
     "_evasion": 47,
     "_evasion_max": 87,
     "_firepower": 50,
-    "_firepower_max": 81,
+    "_firepower_max": 82,
     "_firepower_mod": 3,
     "_fuel": 45,
     "_hp": 56,
@@ -38666,7 +38833,7 @@
     "_armor_mod": false,
     "_asw": 0,
     "_asw_max": false,
-    "_class": "Ro-series",
+    "_class": "Ro-series Submarine",
     "_class_number": 41,
     "_equipment": [
       {
@@ -42617,7 +42784,7 @@
     "_build_time": 150,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "IJA R1",
+    "_class": "Army Special Purpose Ship (R1)",
     "_class_number": 1,
     "_equipment": [
       {
@@ -42682,7 +42849,7 @@
     "_asw": 30,
     "_asw_max": 48,
     "_build_time": 150,
-    "_class": "IJA R1",
+    "_class": "Army Special Purpose Ship (R1)",
     "_class_number": 1,
     "_equipment": [
       {
@@ -45522,7 +45689,7 @@
     "_los": 26,
     "_los_max": 83,
     "_luck": 14,
-    "_luck_max": 74,
+    "_luck_max": 76,
     "_luck_mod": false,
     "_name": "Suzuya",
     "_range": 2,
@@ -45579,7 +45746,7 @@
       },
       {
         "equipment": false,
-        "size": 16
+        "size": 18
       },
       {
         "equipment": false,
@@ -45599,7 +45766,7 @@
     "_los": 46,
     "_los_max": 85,
     "_luck": 13,
-    "_luck_max": 74,
+    "_luck_max": 76,
     "_luck_mod": false,
     "_name": "Suzuya",
     "_range": 2,
@@ -46378,7 +46545,7 @@
     "_ammo": 70,
     "_api_id": 269,
     "_armor": 45,
-    "_armor_max": 75,
+    "_armor_max": 76,
     "_armor_mod": 2,
     "_asw": 0,
     "_asw_max": false,
@@ -46407,7 +46574,7 @@
     "_evasion": 40,
     "_evasion_max": 80,
     "_firepower": 48,
-    "_firepower_max": 77,
+    "_firepower_max": 79,
     "_firepower_mod": 3,
     "_fuel": 40,
     "_hp": 57,
@@ -52081,7 +52248,7 @@
     "_build_time": 12,
     "_buildable": false,
     "_buildable_lsc": false,
-    "_class": "Special 2TL",
+    "_class": "Special 2TL Type",
     "_class_number": 1,
     "_equipment": [
       {
@@ -52145,7 +52312,7 @@
     "_asw_max": 82,
     "_back": 6,
     "_build_time": 12,
-    "_class": "Special 2TL",
+    "_class": "Special 2TL Type",
     "_class_number": 1,
     "_equipment": [
       {
@@ -54546,7 +54713,7 @@
     "_build_time": 24,
     "_buildable": true,
     "_buildable_lsc": false,
-    "_class": "Type 1934",
+    "_class": "Z1",
     "_class_number": 1,
     "_equipment": [
       {
@@ -54613,7 +54780,7 @@
     "_asw_max": 69,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Type 1934",
+    "_class": "Z1",
     "_class_number": 1,
     "_equipment": [
       {
@@ -54689,7 +54856,7 @@
     "_armor_mod": false,
     "_asw": 37,
     "_asw_max": 69,
-    "_class": "Type 1934",
+    "_class": "Z1",
     "_class_number": 1,
     "_equipment": [
       {
@@ -54770,7 +54937,7 @@
     "_build_time": 24,
     "_buildable": true,
     "_buildable_lsc": false,
-    "_class": "Type 1934",
+    "_class": "Z1",
     "_class_number": 3,
     "_equipment": [
       {
@@ -54837,7 +55004,7 @@
     "_asw_max": 69,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
-    "_class": "Type 1934",
+    "_class": "Z1",
     "_class_number": 3,
     "_equipment": [
       {
@@ -54911,7 +55078,7 @@
     "_armor_mod": false,
     "_asw": 37,
     "_asw_max": 69,
-    "_class": "Type 1934",
+    "_class": "Z1",
     "_class_number": 3,
     "_equipment": [
       {

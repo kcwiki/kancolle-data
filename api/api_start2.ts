@@ -43,64 +43,84 @@ export interface APIMstEquipExslotShip {
   '12': The12
   '130': The10
   '142': The12
+  '210': The10
+  '211': The10
   '220': The220
   '226': The226
   '227': The226
   '234': The12
-  '240': The240
+  '240': The10
   '27': The106
-  '275': The275
-  '28': The240
-  '317': The10
-  '33': The106
+  '275': The10
+  '28': The10
+  '317': The106
+  '33': The12
   '34': The10
-  '35': The10
+  '35': The106
+  '384': The10
   '408': The106
-  '410': The10
-  '411': The10
-  '413': The12
-  '442': The240
-  '443': The240
+  '410': The12
+  '411': The12
+  '413': The226
+  '442': The10
+  '443': The10
   '450': The106
+  '458': The10
   '460': The12
   '463': The12
   '464': The10
-  '477': The275
-  '478': The275
-  '483': The10
+  '477': The10
+  '478': The10
+  '483': The106
   '488': The226
   '506': The106
-  '517': The240
+  '517': The10
+  '519': The12
   '66': The220
-  '71': The275
+  '71': The10
   '87': The10
-  '88': The240
+  '88': The10
 }
 
 export interface The10 {
-  api_ctypes: null
+  api_ctypes: The10_APICtypes | null
   api_req_level: number
   api_ship_ids: The10_APIShipIDS | null
   api_stypes: The10_APIStypes | null
 }
 
+export interface The10_APICtypes {
+  '101'?: number
+  '30'?: number
+  '38'?: number
+  '43'?: number
+  '52'?: number
+}
+
 export interface The10_APIShipIDS {
+  '136'?: number
+  '148'?: number
   '229'?: number
   '316'?: number
   '546'?: number
+  '591'?: number
+  '592'?: number
   '593'?: number
+  '894'?: number
+  '899'?: number
   '911'?: number
   '916'?: number
   '951'?: number
   '954'?: number
+  '961'?: number
 }
 
 export interface The10_APIStypes {
-  '10': number
-  '5': number
-  '6': number
-  '8': number
-  '9': number
+  '11'?: number
+  '13'?: number
+  '14'?: number
+  '18'?: number
+  '7'?: number
 }
 
 export interface The106 {
@@ -138,30 +158,35 @@ export interface The106_APIShipIDS {
 }
 
 export interface The106_APIStypes {
-  '99': number
+  '10': number
+  '5': number
+  '6': number
+  '8': number
+  '9': number
 }
 
 export interface The12 {
   api_ctypes: The12_APICtypes | null
   api_req_level: number
   api_ship_ids: The12_APIShipIDS | null
-  api_stypes: null
+  api_stypes: The12_APIStypes | null
 }
 
 export interface The12_APICtypes {
-  '16': number
-  '20': number
-  '38': number
-  '4': number
-  '41': number
-  '52': number
-  '54': number
+  '114': number
+  '122': number
 }
 
 export interface The12_APIShipIDS {
-  '546': number
-  '911': number
-  '916': number
+  '546'?: number
+  '593'?: number
+  '911'?: number
+  '916'?: number
+  '954'?: number
+}
+
+export interface The12_APIStypes {
+  '99': number
 }
 
 export interface The220 {
@@ -178,9 +203,11 @@ export interface The220_APICtypes {
 export interface The220_APIShipIDS {
   '488': number
   '501': number
+  '502': number
   '503': number
   '504': number
   '506': number
+  '507': number
   '508': number
   '509': number
   '883': number
@@ -196,10 +223,20 @@ export interface The220_APIStypes {
 }
 
 export interface The226 {
-  api_ctypes: null
+  api_ctypes: The226_APICtypes | null
   api_req_level: number
-  api_ship_ids: The226_APIShipIDS
-  api_stypes: The226_APIStypes
+  api_ship_ids: The226_APIShipIDS | null
+  api_stypes: The226_APIStypes | null
+}
+
+export interface The226_APICtypes {
+  '16': number
+  '20': number
+  '38': number
+  '4': number
+  '41': number
+  '52': number
+  '54': number
 }
 
 export interface The226_APIShipIDS {
@@ -209,63 +246,6 @@ export interface The226_APIShipIDS {
 
 export interface The226_APIStypes {
   '1': number
-}
-
-export interface The240 {
-  api_ctypes: The240_APICtypes | null
-  api_req_level: number
-  api_ship_ids: The240_APIShipIDS | null
-  api_stypes: The240_APIStypes | null
-}
-
-export interface The240_APICtypes {
-  '101': number
-  '30': number
-  '38': number
-}
-
-export interface The240_APIShipIDS {
-  '229': number
-  '591': number
-  '592': number
-  '593': number
-  '954': number
-  '961': number
-}
-
-export interface The240_APIStypes {
-  '13': number
-  '14': number
-}
-
-export interface The275 {
-  api_ctypes: The275_APICtypes | null
-  api_req_level: number
-  api_ship_ids: The275_APIShipIDS | null
-  api_stypes: The275_APIStypes | null
-}
-
-export interface The275_APICtypes {
-  '43': number
-  '52': number
-}
-
-export interface The275_APIShipIDS {
-  '136': number
-  '148': number
-  '546': number
-  '593': number
-  '894': number
-  '899': number
-  '911': number
-  '916': number
-  '954': number
-}
-
-export interface The275_APIStypes {
-  '11': number
-  '18': number
-  '7': number
 }
 
 export interface APIMstEquipShip {
