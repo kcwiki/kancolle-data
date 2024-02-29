@@ -76,6 +76,7 @@ export interface APIMstEquipExslotShip {
   '506': The106
   '517': The10
   '519': The12
+  '524': The226
   '66': The220
   '71': The10
   '87': The10
@@ -245,7 +246,12 @@ export interface The226_APIShipIDS {
 }
 
 export interface The226_APIStypes {
-  '1': number
+  '1'?: number
+  '17'?: number
+  '19'?: number
+  '20'?: number
+  '21'?: number
+  '22'?: number
 }
 
 export interface APIMstEquipShip {
