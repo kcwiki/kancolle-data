@@ -867,6 +867,275 @@
     "_type": 6,
     "_full_name": "Abyssal Heavy Cruiser Water Princess III"
   },
+  "Abyssal I-go Water Princess Flagship": {
+    "_aa": null,
+    "_api_id": 2222,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2222,
+    "_japanese_name": "深海伊号水姫flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal I-go Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいいごうすいきフラグシップ",
+    "_speed": 5,
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Abyssal I-go Water Princess Flagship"
+  },
+  "Abyssal I-go Water Princess Flagship Damaged": {
+    "_aa": null,
+    "_api_id": 2225,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2225,
+    "_japanese_name": "深海伊号水姫-壊flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal I-go Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいいごうすいき-かいフラグシップ",
+    "_speed": null,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Abyssal I-go Water Princess Flagship Damaged"
+  },
+  "Abyssal I-go Water Princess Flagship Damaged II": {
+    "_aa": null,
+    "_api_id": 2226,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2226,
+    "_japanese_name": "深海伊号水姫-壊flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal I-go Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいいごうすいき-かいフラグシップ",
+    "_speed": null,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Abyssal I-go Water Princess Flagship Damaged II"
+  },
+  "Abyssal I-go Water Princess Flagship Damaged III": {
+    "_aa": null,
+    "_api_id": 2227,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2227,
+    "_japanese_name": "深海伊号水姫-壊flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal I-go Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいいごうすいき-かいフラグシップ",
+    "_speed": null,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Abyssal I-go Water Princess Flagship Damaged III"
+  },
+  "Abyssal I-go Water Princess Flagship II": {
+    "_aa": null,
+    "_api_id": 2223,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2223,
+    "_japanese_name": "深海伊号水姫flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal I-go Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいいごうすいきフラグシップ",
+    "_speed": null,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Abyssal I-go Water Princess Flagship II"
+  },
+  "Abyssal I-go Water Princess Flagship III": {
+    "_aa": null,
+    "_api_id": 2224,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/Flagship",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Flagship",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2224,
+    "_japanese_name": "深海伊号水姫flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal I-go Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいいごうすいきフラグシップ",
+    "_speed": null,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Abyssal I-go Water Princess Flagship III"
+  },
   "Abyssal Jade Princess": {
     "_aa": 80,
     "_api_id": 2073,
@@ -6264,6 +6533,529 @@
     "_type": 10,
     "_full_name": "Airfield Princess XVIII"
   },
+  "American Destroyer Princess": {
+    "_aa": null,
+    "_api_id": 2204,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2204,
+    "_japanese_name": "米駆逐棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess"
+  },
+  "American Destroyer Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2207,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2207,
+    "_japanese_name": "米駆逐棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Damaged"
+  },
+  "American Destroyer Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2208,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2208,
+    "_japanese_name": "米駆逐棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Damaged II"
+  },
+  "American Destroyer Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2209,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2209,
+    "_japanese_name": "米駆逐棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Damaged III"
+  },
+  "American Destroyer Princess II": {
+    "_aa": null,
+    "_api_id": 2205,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2205,
+    "_japanese_name": "米駆逐棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess II"
+  },
+  "American Destroyer Princess III": {
+    "_aa": null,
+    "_api_id": 2206,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2206,
+    "_japanese_name": "米駆逐棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess III"
+  },
+  "American Destroyer Princess Mass-Produced Model": {
+    "_aa": null,
+    "_api_id": 2216,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2216,
+    "_japanese_name": "米駆逐棲姫(量産型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき(りょうさんがた)",
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Mass-Produced Model"
+  },
+  "American Destroyer Princess Mass-Produced Model Damaged": {
+    "_aa": null,
+    "_api_id": 2219,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2219,
+    "_japanese_name": "米駆逐棲姫(量産型)-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき(りょうさんがた)-かい",
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model Damaged",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Mass-Produced Model Damaged"
+  },
+  "American Destroyer Princess Mass-Produced Model Damaged II": {
+    "_aa": null,
+    "_api_id": 2220,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Mass-Produced Model Damaged",
+    "_cg_reference": "/Mass-Produced Model Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2220,
+    "_japanese_name": "米駆逐棲姫(量産型)-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき(りょうさんがた)-かい",
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model Damaged II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Mass-Produced Model Damaged II"
+  },
+  "American Destroyer Princess Mass-Produced Model Damaged III": {
+    "_aa": null,
+    "_api_id": 2221,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Mass-Produced Model Damaged",
+    "_cg_reference": "/Mass-Produced Model Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2221,
+    "_japanese_name": "米駆逐棲姫(量産型)-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき(りょうさんがた)-かい",
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model Damaged III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Mass-Produced Model Damaged III"
+  },
+  "American Destroyer Princess Mass-Produced Model II": {
+    "_aa": null,
+    "_api_id": 2217,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/Mass-Produced Model",
+    "_cg_reference": "/Mass-Produced Model",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2217,
+    "_japanese_name": "米駆逐棲姫(量産型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき(りょうさんがた)",
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Mass-Produced Model II"
+  },
+  "American Destroyer Princess Mass-Produced Model III": {
+    "_aa": null,
+    "_api_id": 2218,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/Mass-Produced Model",
+    "_cg_reference": "/Mass-Produced Model",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2218,
+    "_japanese_name": "米駆逐棲姫(量産型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "American Destroyer Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "べいくちくせいき(りょうさんがた)",
+    "_speed": 10,
+    "_suffix": "Mass-Produced Model III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "American Destroyer Princess Mass-Produced Model III"
+  },
   "Anchorage Demon": {
     "_aa": 70,
     "_api_id": 1539,
@@ -7904,6 +8696,275 @@
     "_torpedo": 0,
     "_type": 9,
     "_full_name": "Artillery Imp III"
+  },
+  "Atoll Aircraft Carrier Anchorage Princess": {
+    "_aa": null,
+    "_api_id": 2210,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2210,
+    "_japanese_name": "環礁空母泊地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Atoll Aircraft Carrier Anchorage Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "かんしょうくうぼはくちせいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Atoll Aircraft Carrier Anchorage Princess"
+  },
+  "Atoll Aircraft Carrier Anchorage Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2213,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2213,
+    "_japanese_name": "環礁空母泊地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Atoll Aircraft Carrier Anchorage Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "かんしょうくうぼはくちせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Atoll Aircraft Carrier Anchorage Princess Damaged"
+  },
+  "Atoll Aircraft Carrier Anchorage Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2214,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2214,
+    "_japanese_name": "環礁空母泊地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Atoll Aircraft Carrier Anchorage Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "かんしょうくうぼはくちせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Atoll Aircraft Carrier Anchorage Princess Damaged II"
+  },
+  "Atoll Aircraft Carrier Anchorage Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2215,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2215,
+    "_japanese_name": "環礁空母泊地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Atoll Aircraft Carrier Anchorage Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "かんしょうくうぼはくちせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Atoll Aircraft Carrier Anchorage Princess Damaged III"
+  },
+  "Atoll Aircraft Carrier Anchorage Princess II": {
+    "_aa": null,
+    "_api_id": 2211,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2211,
+    "_japanese_name": "環礁空母泊地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Atoll Aircraft Carrier Anchorage Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "かんしょうくうぼはくちせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Atoll Aircraft Carrier Anchorage Princess II"
+  },
+  "Atoll Aircraft Carrier Anchorage Princess III": {
+    "_aa": null,
+    "_api_id": 2212,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2212,
+    "_japanese_name": "環礁空母泊地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Atoll Aircraft Carrier Anchorage Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "かんしょうくうぼはくちせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Atoll Aircraft Carrier Anchorage Princess III"
   },
   "Batavia Princess": {
     "_aa": 80,
