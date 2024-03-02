@@ -77,6 +77,8 @@ export interface APIMstEquipExslotShip {
   '517': The10
   '519': The12
   '524': The226
+  '525': The10
+  '526': The10
   '66': The220
   '71': The10
   '87': The10
@@ -103,10 +105,12 @@ export interface The10_APIShipIDS {
   '148'?: number
   '229'?: number
   '316'?: number
+  '399'?: number
   '546'?: number
   '591'?: number
   '592'?: number
   '593'?: number
+  '607'?: number
   '894'?: number
   '899'?: number
   '911'?: number
@@ -114,6 +118,10 @@ export interface The10_APIShipIDS {
   '951'?: number
   '954'?: number
   '961'?: number
+  '971'?: number
+  '972'?: number
+  '976'?: number
+  '977'?: number
 }
 
 export interface The10_APIStypes {
@@ -308,7 +316,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: null
+  api_max_maphp: number | null
   api_name: string
   api_no: number
   api_opetext: string
