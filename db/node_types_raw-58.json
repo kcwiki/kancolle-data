@@ -103,5 +103,6 @@
   { "map": "58-3", "edge": 40, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "58-3", "edge": 41, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "58-3", "edge": 42, "nodecolor": 5, "eventkind": 5, "eventid": 5 },
+  { "map": "58-3", "edge": 43, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "58-3", "edge": 44, "nodecolor": 4, "eventkind": 1, "eventid": 4 }
 ]
