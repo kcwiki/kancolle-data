@@ -71,6 +71,7 @@
     "M": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "N": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "O": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "O1": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "O2": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "O3": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "P": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
@@ -86,5 +87,6 @@
     "Y1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Y2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
-  }
+  },
+  "584": { "undefined": { "color": 4, "id": 4, "kind": 1, "type": "Normal" } }
 }

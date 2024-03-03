@@ -869,11 +869,10 @@
   },
   "Abyssal I-go Water Princess Flagship": {
     "_aa": null,
-    "_api_id": 2222,
+    "_api_id": 2228,
     "_armor": null,
     "_asw": 0,
     "_back": -11,
-    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": null,
@@ -895,7 +894,7 @@
     "_evasion": null,
     "_firepower": null,
     "_hp": null,
-    "_id": 2222,
+    "_id": 2228,
     "_japanese_name": "深海伊号水姫flagship",
     "_los": null,
     "_luck": null,
@@ -910,13 +909,11 @@
   },
   "Abyssal I-go Water Princess Flagship Damaged": {
     "_aa": null,
-    "_api_id": 2225,
+    "_api_id": 2231,
     "_armor": null,
     "_asw": null,
     "_back": -12,
-    "_battle_card_damaged_reference": "/Flagship",
     "_can_debuff": true,
-    "_cg_damaged_reference": "/Flagship",
     "_equipment": [
       {
         "equipment": null,
@@ -938,7 +935,7 @@
     "_evasion": null,
     "_firepower": null,
     "_hp": null,
-    "_id": 2225,
+    "_id": 2231,
     "_japanese_name": "深海伊号水姫-壊flagship",
     "_los": null,
     "_luck": null,
@@ -947,22 +944,22 @@
     "_rarity": 8,
     "_reading": "しんかいいごうすいき-かいフラグシップ",
     "_speed": null,
-    "_suffix": "Damaged",
+    "_suffix": "Flagship Damaged",
     "_torpedo": null,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship Damaged"
   },
   "Abyssal I-go Water Princess Flagship Damaged II": {
     "_aa": null,
-    "_api_id": 2226,
+    "_api_id": 2232,
     "_armor": null,
     "_asw": null,
     "_back": -12,
-    "_battle_card_damaged_reference": "/Flagship",
-    "_battle_card_reference": "/Damaged",
+    "_battle_card_damaged_reference": "/Flagship Damaged",
+    "_battle_card_reference": "/Flagship Damaged",
     "_can_debuff": true,
-    "_cg_damaged_reference": "/Flagship",
-    "_cg_reference": "/Damaged",
+    "_cg_damaged_reference": "/Flagship Damaged",
+    "_cg_reference": "/Flagship Damaged",
     "_equipment": [
       {
         "equipment": null,
@@ -984,7 +981,7 @@
     "_evasion": null,
     "_firepower": null,
     "_hp": null,
-    "_id": 2226,
+    "_id": 2232,
     "_japanese_name": "深海伊号水姫-壊flagship",
     "_los": null,
     "_luck": null,
@@ -993,22 +990,22 @@
     "_rarity": 8,
     "_reading": "しんかいいごうすいき-かいフラグシップ",
     "_speed": null,
-    "_suffix": "Damaged II",
+    "_suffix": "Flagship Damaged II",
     "_torpedo": null,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship Damaged II"
   },
   "Abyssal I-go Water Princess Flagship Damaged III": {
     "_aa": null,
-    "_api_id": 2227,
+    "_api_id": 2233,
     "_armor": null,
     "_asw": null,
     "_back": -12,
-    "_battle_card_damaged_reference": "/Flagship",
-    "_battle_card_reference": "/Damaged",
+    "_battle_card_damaged_reference": "/Flagship Damaged",
+    "_battle_card_reference": "/Flagship Damaged",
     "_can_debuff": true,
-    "_cg_damaged_reference": "/Flagship",
-    "_cg_reference": "/Damaged",
+    "_cg_damaged_reference": "/Flagship Damaged",
+    "_cg_reference": "/Flagship Damaged",
     "_equipment": [
       {
         "equipment": null,
@@ -1030,7 +1027,7 @@
     "_evasion": null,
     "_firepower": null,
     "_hp": null,
-    "_id": 2227,
+    "_id": 2233,
     "_japanese_name": "深海伊号水姫-壊flagship",
     "_los": null,
     "_luck": null,
@@ -1039,22 +1036,19 @@
     "_rarity": 8,
     "_reading": "しんかいいごうすいき-かいフラグシップ",
     "_speed": null,
-    "_suffix": "Damaged III",
+    "_suffix": "Flagship Damaged III",
     "_torpedo": null,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship Damaged III"
   },
   "Abyssal I-go Water Princess Flagship II": {
     "_aa": null,
-    "_api_id": 2223,
+    "_api_id": 2229,
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_damaged_reference": "/Flagship",
-    "_battle_card_reference": "/",
-    "_can_debuff": true,
-    "_cg_damaged_reference": "/Flagship",
-    "_cg_reference": "/",
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
     "_equipment": [
       {
         "equipment": null,
@@ -1076,7 +1070,7 @@
     "_evasion": null,
     "_firepower": null,
     "_hp": null,
-    "_id": 2223,
+    "_id": 2229,
     "_japanese_name": "深海伊号水姫flagship",
     "_los": null,
     "_luck": null,
@@ -1092,15 +1086,12 @@
   },
   "Abyssal I-go Water Princess Flagship III": {
     "_aa": null,
-    "_api_id": 2224,
+    "_api_id": 2230,
     "_armor": null,
     "_asw": null,
     "_back": -11,
-    "_battle_card_damaged_reference": "/Flagship",
-    "_battle_card_reference": "/",
-    "_can_debuff": true,
-    "_cg_damaged_reference": "/Flagship",
-    "_cg_reference": "/",
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
     "_equipment": [
       {
         "equipment": null,
@@ -1122,7 +1113,7 @@
     "_evasion": null,
     "_firepower": null,
     "_hp": null,
-    "_id": 2224,
+    "_id": 2230,
     "_japanese_name": "深海伊号水姫flagship",
     "_los": null,
     "_luck": null,
@@ -22837,6 +22828,283 @@
     "_torpedo": 186,
     "_type": 3,
     "_full_name": "New Light Cruiser Princess III"
+  },
+  "New Mass-Produced Aircraft Carrier Princess": {
+    "_aa": null,
+    "_api_id": 2222,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2222,
+    "_japanese_name": "新量産空母棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Mass-Produced Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんりょうさんくうぼせいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "New Mass-Produced Aircraft Carrier Princess"
+  },
+  "New Mass-Produced Aircraft Carrier Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2225,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2225,
+    "_japanese_name": "新量産空母棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Mass-Produced Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんりょうさんくうぼせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "New Mass-Produced Aircraft Carrier Princess Damaged"
+  },
+  "New Mass-Produced Aircraft Carrier Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2226,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2226,
+    "_japanese_name": "新量産空母棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Mass-Produced Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんりょうさんくうぼせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "New Mass-Produced Aircraft Carrier Princess Damaged II"
+  },
+  "New Mass-Produced Aircraft Carrier Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2227,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2227,
+    "_japanese_name": "新量産空母棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Mass-Produced Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんりょうさんくうぼせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "New Mass-Produced Aircraft Carrier Princess Damaged III"
+  },
+  "New Mass-Produced Aircraft Carrier Princess II": {
+    "_aa": null,
+    "_api_id": 2223,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2223,
+    "_japanese_name": "新量産空母棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Mass-Produced Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんりょうさんくうぼせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "New Mass-Produced Aircraft Carrier Princess II"
+  },
+  "New Mass-Produced Aircraft Carrier Princess III": {
+    "_aa": null,
+    "_api_id": 2224,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2224,
+    "_japanese_name": "新量産空母棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Mass-Produced Aircraft Carrier Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんりょうさんくうぼせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "New Mass-Produced Aircraft Carrier Princess III"
   },
   "New Southern Battleship Princess": {
     "_aa": 115,
