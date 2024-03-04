@@ -14857,15 +14857,15 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount",
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": "25mm Single Autocannon Mount",
         "size": 1
       },
       {
-        "equipment": false,
+        "equipment": "25mm Single Autocannon Mount",
         "size": 1
       }
     ],
