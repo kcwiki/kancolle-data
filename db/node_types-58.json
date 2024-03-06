@@ -64,6 +64,7 @@
     "C": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "D": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "F": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "G": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "H": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "I": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "J": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
