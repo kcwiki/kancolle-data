@@ -123,6 +123,7 @@
     "T": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "U": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "V": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "W": { "color": 14, "id": 10, "kind": 0, "type": "Repair" },
     "X": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "Y": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }

@@ -154,9 +154,11 @@
   { "map": "58-4", "edge": 46, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "58-4", "edge": 47, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "58-4", "edge": 48, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
+  { "map": "58-4", "edge": 49, "nodecolor": 14, "eventkind": 0, "eventid": 10 },
   { "map": "58-4", "edge": 50, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "58-4", "edge": 51, "nodecolor": 4, "eventkind": 1, "eventid": 6 },
   { "map": "58-4", "edge": 52, "nodecolor": 5, "eventkind": 5, "eventid": 5 },
+  { "map": "58-4", "edge": 53, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "58-4", "edge": 55, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "58-4", "edge": 58, "nodecolor": 4, "eventkind": 1, "eventid": 4 }
 ]

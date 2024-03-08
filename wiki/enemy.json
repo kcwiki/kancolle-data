@@ -903,6 +903,7 @@
     "_rarity": 8,
     "_reading": "しんかいいごうすいきフラグシップ",
     "_speed": 5,
+    "_suffix": "Flagship",
     "_torpedo": null,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship"
@@ -1079,7 +1080,7 @@
     "_rarity": 8,
     "_reading": "しんかいいごうすいきフラグシップ",
     "_speed": null,
-    "_suffix": "II",
+    "_suffix": "Flagship II",
     "_torpedo": null,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship II"
@@ -1122,7 +1123,7 @@
     "_rarity": 8,
     "_reading": "しんかいいごうすいきフラグシップ",
     "_speed": null,
-    "_suffix": "III",
+    "_suffix": "Flagship III",
     "_torpedo": null,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship III"
