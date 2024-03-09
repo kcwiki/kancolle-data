@@ -868,92 +868,98 @@
     "_full_name": "Abyssal Heavy Cruiser Water Princess III"
   },
   "Abyssal I-go Water Princess Flagship": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2228,
-    "_armor": null,
+    "_armor": 18,
     "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 1
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": false,
+        "estimation": true,
+        "size": 3
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 55,
+    "_hp": 241,
     "_id": 2228,
     "_japanese_name": "深海伊号水姫flagship",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal I-go Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいいごうすいきフラグシップ",
     "_speed": 5,
     "_suffix": "Flagship",
-    "_torpedo": null,
+    "_torpedo": 201,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship"
   },
   "Abyssal I-go Water Princess Flagship Damaged": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2231,
-    "_armor": null,
+    "_armor": 27,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 1
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": false,
+        "estimation": true,
+        "size": 3
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 69,
+    "_hp": 241,
     "_id": 2231,
     "_japanese_name": "深海伊号水姫-壊flagship",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal I-go Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいいごうすいき-かいフラグシップ",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Flagship Damaged",
-    "_torpedo": null,
+    "_torpedo": 203,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship Damaged"
   },
   "Abyssal I-go Water Princess Flagship Damaged II": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2232,
-    "_armor": null,
+    "_armor": 47,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Flagship Damaged",
@@ -963,43 +969,47 @@
     "_cg_reference": "/Flagship Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "estimation": true,
+        "size": 1
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "estimation": true,
+        "size": 3
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 79,
+    "_hp": 441,
     "_id": 2232,
     "_japanese_name": "深海伊号水姫-壊flagship",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal I-go Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいいごうすいき-かいフラグシップ",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Flagship Damaged II",
-    "_torpedo": null,
+    "_torpedo": 232,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship Damaged II"
   },
   "Abyssal I-go Water Princess Flagship Damaged III": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2233,
-    "_armor": null,
+    "_armor": 82,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Flagship Damaged",
@@ -1009,122 +1019,131 @@
     "_cg_reference": "/Flagship Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 1
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 6
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 99,
+    "_hp": 641,
     "_id": 2233,
     "_japanese_name": "深海伊号水姫-壊flagship",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal I-go Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいいごうすいき-かいフラグシップ",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Flagship Damaged III",
-    "_torpedo": null,
+    "_torpedo": 272,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship Damaged III"
   },
   "Abyssal I-go Water Princess Flagship II": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2229,
-    "_armor": null,
+    "_armor": 38,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 1
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": false,
+        "estimation": true,
+        "size": 3
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 65,
+    "_hp": 441,
     "_id": 2229,
     "_japanese_name": "深海伊号水姫flagship",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal I-go Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいいごうすいきフラグシップ",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Flagship II",
-    "_torpedo": null,
+    "_torpedo": 203,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship II"
   },
   "Abyssal I-go Water Princess Flagship III": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2230,
-    "_armor": null,
+    "_armor": 69,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 1
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 3
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 85,
+    "_hp": 641,
     "_id": 2230,
     "_japanese_name": "深海伊号水姫flagship",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal I-go Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいいごうすいきフラグシップ",
-    "_speed": null,
+    "_speed": 5,
     "_suffix": "Flagship III",
-    "_torpedo": null,
+    "_torpedo": 232,
     "_type": 13,
     "_full_name": "Abyssal I-go Water Princess Flagship III"
   },
@@ -6526,50 +6545,51 @@
     "_full_name": "Airfield Princess XVIII"
   },
   "American Destroyer Princess": {
-    "_aa": null,
+    "_aa": 110,
     "_api_id": 2204,
-    "_armor": null,
+    "_armor": 125,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 85,
+    "_hp": 500,
     "_id": 2204,
     "_japanese_name": "米駆逐棲姫",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 105,
     "_type": 2,
     "_full_name": "American Destroyer Princess"
   },
   "American Destroyer Princess Damaged": {
-    "_aa": null,
+    "_aa": 130,
     "_api_id": 2207,
-    "_armor": null,
+    "_armor": 145,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -6577,43 +6597,44 @@
     "_cg_damaged_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 115,
+    "_hp": 500,
     "_id": 2207,
     "_japanese_name": "米駆逐棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 125,
     "_type": 2,
     "_full_name": "American Destroyer Princess Damaged"
   },
   "American Destroyer Princess Damaged II": {
-    "_aa": null,
+    "_aa": 150,
     "_api_id": 2208,
-    "_armor": null,
+    "_armor": 195,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -6623,43 +6644,44 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 155,
+    "_hp": 600,
     "_id": 2208,
     "_japanese_name": "米駆逐棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 145,
     "_type": 2,
     "_full_name": "American Destroyer Princess Damaged II"
   },
   "American Destroyer Princess Damaged III": {
-    "_aa": null,
+    "_aa": 180,
     "_api_id": 2209,
-    "_armor": null,
+    "_armor": 275,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -6669,43 +6691,44 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 195,
+    "_hp": 760,
     "_id": 2209,
     "_japanese_name": "米駆逐棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 185,
     "_type": 2,
     "_full_name": "American Destroyer Princess Damaged III"
   },
   "American Destroyer Princess II": {
-    "_aa": null,
+    "_aa": 130,
     "_api_id": 2205,
-    "_armor": null,
+    "_armor": 175,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -6715,43 +6738,44 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 115,
+    "_hp": 600,
     "_id": 2205,
     "_japanese_name": "米駆逐棲姫",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 125,
     "_type": 2,
     "_full_name": "American Destroyer Princess II"
   },
   "American Destroyer Princess III": {
-    "_aa": null,
+    "_aa": 150,
     "_api_id": 2206,
-    "_armor": null,
+    "_armor": 225,
     "_asw": 0,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -6761,290 +6785,297 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 155,
+    "_hp": 760,
     "_id": 2206,
     "_japanese_name": "米駆逐棲姫",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 155,
     "_type": 2,
     "_full_name": "American Destroyer Princess III"
   },
   "American Destroyer Princess Mass-Produced Model": {
-    "_aa": null,
+    "_aa": 100,
     "_api_id": 2216,
-    "_armor": null,
+    "_armor": 75,
     "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 80,
+    "_hp": 460,
     "_id": 2216,
     "_japanese_name": "米駆逐棲姫(量産型)",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)",
     "_speed": 10,
     "_suffix": "Mass-Produced Model",
-    "_torpedo": null,
+    "_torpedo": 101,
     "_type": 2,
     "_full_name": "American Destroyer Princess Mass-Produced Model"
   },
   "American Destroyer Princess Mass-Produced Model Damaged": {
-    "_aa": null,
+    "_aa": 120,
     "_api_id": 2219,
-    "_armor": null,
+    "_armor": 95,
     "_asw": 0,
     "_back": -12,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 110,
+    "_hp": 460,
     "_id": 2219,
     "_japanese_name": "米駆逐棲姫(量産型)-壊",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)-かい",
     "_speed": 10,
     "_suffix": "Mass-Produced Model Damaged",
-    "_torpedo": null,
+    "_torpedo": 121,
     "_type": 2,
     "_full_name": "American Destroyer Princess Mass-Produced Model Damaged"
   },
   "American Destroyer Princess Mass-Produced Model Damaged II": {
-    "_aa": null,
+    "_aa": 140,
     "_api_id": 2220,
-    "_armor": null,
+    "_armor": 145,
     "_asw": 0,
     "_back": -12,
     "_battle_card_reference": "/Mass-Produced Model Damaged",
     "_cg_reference": "/Mass-Produced Model Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 150,
+    "_hp": 550,
     "_id": 2220,
     "_japanese_name": "米駆逐棲姫(量産型)-壊",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)-かい",
     "_speed": 10,
     "_suffix": "Mass-Produced Model Damaged II",
-    "_torpedo": null,
+    "_torpedo": 141,
     "_type": 2,
     "_full_name": "American Destroyer Princess Mass-Produced Model Damaged II"
   },
   "American Destroyer Princess Mass-Produced Model Damaged III": {
-    "_aa": null,
+    "_aa": 170,
     "_api_id": 2221,
-    "_armor": null,
+    "_armor": 240,
     "_asw": 0,
     "_back": -12,
     "_battle_card_reference": "/Mass-Produced Model Damaged",
     "_cg_reference": "/Mass-Produced Model Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 190,
+    "_hp": 700,
     "_id": 2221,
     "_japanese_name": "米駆逐棲姫(量産型)-壊",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)-かい",
     "_speed": 10,
     "_suffix": "Mass-Produced Model Damaged III",
-    "_torpedo": null,
+    "_torpedo": 181,
     "_type": 2,
     "_full_name": "American Destroyer Princess Mass-Produced Model Damaged III"
   },
   "American Destroyer Princess Mass-Produced Model II": {
-    "_aa": null,
+    "_aa": 120,
     "_api_id": 2217,
-    "_armor": null,
+    "_armor": 125,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/Mass-Produced Model",
     "_cg_reference": "/Mass-Produced Model",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 110,
+    "_hp": 550,
     "_id": 2217,
     "_japanese_name": "米駆逐棲姫(量産型)",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)",
     "_speed": 10,
     "_suffix": "Mass-Produced Model II",
-    "_torpedo": null,
+    "_torpedo": 121,
     "_type": 2,
     "_full_name": "American Destroyer Princess Mass-Produced Model II"
   },
   "American Destroyer Princess Mass-Produced Model III": {
-    "_aa": null,
+    "_aa": 140,
     "_api_id": 2218,
-    "_armor": null,
+    "_armor": 175,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/Mass-Produced Model",
     "_cg_reference": "/Mass-Produced Model",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Hedgehog Mk.10",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 150,
+    "_hp": 700,
     "_id": 2218,
     "_japanese_name": "米駆逐棲姫(量産型)",
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
-    "_range": null,
+    "_opening_asw": true,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)",
     "_speed": 10,
     "_suffix": "Mass-Produced Model III",
-    "_torpedo": null,
+    "_torpedo": 151,
     "_type": 2,
     "_full_name": "American Destroyer Princess Mass-Produced Model III"
   },
@@ -8690,50 +8721,54 @@
     "_full_name": "Artillery Imp III"
   },
   "Atoll Aircraft Carrier Anchorage Princess": {
-    "_aa": null,
+    "_aa": 85,
     "_api_id": 2210,
-    "_armor": null,
+    "_armor": 150,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 23
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 22
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 150,
+    "_hp": 700,
     "_id": 2210,
     "_japanese_name": "環礁空母泊地棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Atoll Aircraft Carrier Anchorage Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "かんしょうくうぼはくちせいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 80,
     "_type": 6,
     "_full_name": "Atoll Aircraft Carrier Anchorage Princess"
   },
   "Atoll Aircraft Carrier Anchorage Princess Damaged": {
-    "_aa": null,
+    "_aa": 115,
     "_api_id": 2213,
-    "_armor": null,
+    "_armor": 180,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -8741,43 +8776,47 @@
     "_cg_damaged_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 27
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 26
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 180,
+    "_hp": 700,
     "_id": 2213,
     "_japanese_name": "環礁空母泊地棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Atoll Aircraft Carrier Anchorage Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "かんしょうくうぼはくちせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 100,
     "_type": 6,
     "_full_name": "Atoll Aircraft Carrier Anchorage Princess Damaged"
   },
   "Atoll Aircraft Carrier Anchorage Princess Damaged II": {
-    "_aa": null,
+    "_aa": 135,
     "_api_id": 2214,
-    "_armor": null,
+    "_armor": 230,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -8787,43 +8826,47 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 37
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 37
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 200,
+    "_hp": 900,
     "_id": 2214,
     "_japanese_name": "環礁空母泊地棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Atoll Aircraft Carrier Anchorage Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "かんしょうくうぼはくちせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 6,
     "_full_name": "Atoll Aircraft Carrier Anchorage Princess Damaged II"
   },
   "Atoll Aircraft Carrier Anchorage Princess Damaged III": {
-    "_aa": null,
+    "_aa": 165,
     "_api_id": 2215,
-    "_armor": null,
+    "_armor": 290,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -8833,43 +8876,47 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 61
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 61
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 1000,
     "_id": 2215,
     "_japanese_name": "環礁空母泊地棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Atoll Aircraft Carrier Anchorage Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "かんしょうくうぼはくちせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 240,
     "_type": 6,
     "_full_name": "Atoll Aircraft Carrier Anchorage Princess Damaged III"
   },
   "Atoll Aircraft Carrier Anchorage Princess II": {
-    "_aa": null,
+    "_aa": 105,
     "_api_id": 2211,
-    "_armor": null,
+    "_armor": 190,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -8879,43 +8926,47 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 31
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 30
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 170,
+    "_hp": 900,
     "_id": 2211,
     "_japanese_name": "環礁空母泊地棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Atoll Aircraft Carrier Anchorage Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "かんしょうくうぼはくちせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 100,
     "_type": 6,
     "_full_name": "Atoll Aircraft Carrier Anchorage Princess II"
   },
   "Atoll Aircraft Carrier Anchorage Princess III": {
-    "_aa": null,
+    "_aa": 135,
     "_api_id": 2212,
-    "_armor": null,
+    "_armor": 230,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -8925,36 +8976,40 @@
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 42
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 42
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 200,
+    "_hp": 1000,
     "_id": 2212,
     "_japanese_name": "環礁空母泊地棲姫",
     "_los": null,
     "_luck": null,
     "_name": "Atoll Aircraft Carrier Anchorage Princess",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "かんしょうくうぼはくちせいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 6,
     "_full_name": "Atoll Aircraft Carrier Anchorage Princess III"
   },
@@ -22831,279 +22886,309 @@
     "_full_name": "New Light Cruiser Princess III"
   },
   "New Mass-Produced Aircraft Carrier Princess": {
-    "_aa": null,
+    "_aa": 120,
     "_api_id": 2222,
-    "_armor": null,
+    "_armor": 120,
     "_asw": 0,
     "_back": -11,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 23
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 200,
+    "_hp": 600,
     "_id": 2222,
     "_japanese_name": "新量産空母棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Mass-Produced Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんりょうさんくうぼせいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "New Mass-Produced Aircraft Carrier Princess"
   },
   "New Mass-Produced Aircraft Carrier Princess Damaged": {
-    "_aa": null,
+    "_aa": 130,
     "_api_id": 2225,
-    "_armor": null,
+    "_armor": 150,
     "_asw": null,
     "_back": -12,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 29
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 23
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 240,
+    "_hp": 600,
     "_id": 2225,
     "_japanese_name": "新量産空母棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Mass-Produced Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんりょうさんくうぼせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "New Mass-Produced Aircraft Carrier Princess Damaged"
   },
   "New Mass-Produced Aircraft Carrier Princess Damaged II": {
-    "_aa": null,
+    "_aa": 170,
     "_api_id": 2226,
-    "_armor": null,
+    "_armor": 220,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 38
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 800,
     "_id": 2226,
     "_japanese_name": "新量産空母棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Mass-Produced Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんりょうさんくうぼせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "New Mass-Produced Aircraft Carrier Princess Damaged II"
   },
   "New Mass-Produced Aircraft Carrier Princess Damaged III": {
-    "_aa": null,
+    "_aa": 190,
     "_api_id": 2227,
-    "_armor": null,
+    "_armor": 280,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 44
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 44
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 42
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 320,
+    "_hp": 980,
     "_id": 2227,
     "_japanese_name": "新量産空母棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Mass-Produced Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんりょうさんくうぼせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "New Mass-Produced Aircraft Carrier Princess Damaged III"
   },
   "New Mass-Produced Aircraft Carrier Princess II": {
-    "_aa": null,
+    "_aa": 160,
     "_api_id": 2223,
-    "_armor": null,
+    "_armor": 180,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 29
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 23
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 240,
+    "_hp": 800,
     "_id": 2223,
     "_japanese_name": "新量産空母棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Mass-Produced Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんりょうさんくうぼせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "New Mass-Produced Aircraft Carrier Princess II"
   },
   "New Mass-Produced Aircraft Carrier Princess III": {
-    "_aa": null,
+    "_aa": 180,
     "_api_id": 2224,
-    "_armor": null,
+    "_armor": 240,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 38
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 980,
     "_id": 2224,
     "_japanese_name": "新量産空母棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Mass-Produced Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんりょうさんくうぼせいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "New Mass-Produced Aircraft Carrier Princess III"
   },
