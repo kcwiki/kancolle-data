@@ -109,6 +109,7 @@
     "H": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
     "I": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "I1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "I3": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "J": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "J1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "J2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
