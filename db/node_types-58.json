@@ -49,6 +49,7 @@
     "N": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "O": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "P": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "Q": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "R": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "S": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
     "T": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
