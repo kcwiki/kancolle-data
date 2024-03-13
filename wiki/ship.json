@@ -17258,6 +17258,7 @@
     "_build_time": 270,
     "_class": "Ise",
     "_class_number": 2,
+    "_display_class": "Kai Ise",
     "_equipment": [
       {
         "equipment": "Prototype 41cm Triple Gun Mount",
@@ -20311,6 +20312,7 @@
     "_build_time": 270,
     "_class": "Ise",
     "_class_number": 1,
+    "_display_class": "Kai Ise",
     "_equipment": [
       {
         "equipment": "Prototype 41cm Triple Gun Mount",
@@ -53357,6 +53359,7 @@
     "_build_time": 480,
     "_class": "Yamato",
     "_class_number": 1,
+    "_display_class": "Kai Yamato",
     "_equipment": [
       {
         "equipment": false,
@@ -53442,6 +53445,7 @@
     "_build_time": 480,
     "_class": "Yamato",
     "_class_number": 1,
+    "_display_class": "Kai Yamato",
     "_equipment": [
       {
         "equipment": false,
