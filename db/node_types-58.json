@@ -70,6 +70,7 @@
     "H": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "I": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "J": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
+    "K": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "L": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "M": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "N": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
