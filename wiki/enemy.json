@@ -6935,6 +6935,7 @@
     "_los": null,
     "_luck": null,
     "_name": "American Destroyer Princess",
+    "_opening_asw": true,
     "_range": 2,
     "_rarity": 8,
     "_reading": "べいくちくせいき(りょうさんがた)-かい",
