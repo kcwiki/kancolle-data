@@ -8564,7 +8564,7 @@
     "_torpedo_mod": 2,
     "_true_id": false,
     "_type": 13,
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_voice_flag": null,
     "_full_name": "Drum"
   },
@@ -8634,7 +8634,7 @@
     "_voice_flag": null,
     "_full_name": "Drum Kai",
     "_implementation_date": [2024, 2, 29],
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"]
   },
@@ -14836,7 +14836,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 20,
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_voice_flag": null,
     "_wikipedia": "Heian Maru (1930)",
     "_full_name": "Heian Maru"
@@ -14911,7 +14911,7 @@
     "_voice_flag": null,
     "_full_name": "Heian Maru Kai",
     "_implementation_date": [2024, 2, 29],
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_artist": null,
     "_availability": ["event_drop"],
     "_wikipedia": "Heian Maru (1930)"
