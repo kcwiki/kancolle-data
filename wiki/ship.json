@@ -526,6 +526,7 @@
     "_build_time": 270,
     "_class": "Akagi",
     "_class_number": 1,
+    "_display_class": "Kai Akagi",
     "_equipment": [
       {
         "equipment": false,
@@ -612,6 +613,7 @@
     "_build_time": 270,
     "_class": "Akagi",
     "_class_number": 1,
+    "_display_class": "Kai Akagi",
     "_equipment": [
       {
         "equipment": false,
@@ -2652,6 +2654,7 @@
     "_back": 7,
     "_class": "Kagerou",
     "_class_number": 9,
+    "_display_class": "Renovated Kagerou",
     "_equipment": [
       {
         "equipment": "12.7cm Twin Gun Mount Model C Kai 2",
@@ -8296,6 +8299,7 @@
     "_build_time": 24,
     "_class": "Kagerou",
     "_class_number": 8,
+    "_display_class": "Renovated Kagerou",
     "_equipment": [
       {
         "equipment": "Locally Modified 12.7cm Twin High-angle Gun Mount",
@@ -12850,6 +12854,7 @@
     "_back": 7,
     "_class": "Kongou",
     "_class_number": 3,
+    "_display_class": "Kai Kongou",
     "_equipment": [
       {
         "equipment": false,
@@ -12930,6 +12935,7 @@
     "_back": 7,
     "_class": "Kongou",
     "_class_number": 3,
+    "_display_class": "Kai Kongou",
     "_equipment": [
       {
         "equipment": false,
@@ -15741,6 +15747,7 @@
     "_build_time": 240,
     "_class": "Kongou",
     "_class_number": 2,
+    "_display_class": "Kai Kongou",
     "_equipment": [
       {
         "equipment": "35.6cm Twin Gun Mount Kai",
@@ -16791,6 +16798,7 @@
     "_build_time": 120,
     "_class": "Houshou",
     "_class_number": 1,
+    "_display_class": "Kai Houshou",
     "_equipment": [
       {
         "equipment": false,
@@ -16871,6 +16879,7 @@
     "_build_time": 120,
     "_class": "Houshou",
     "_class_number": 1,
+    "_display_class": "Kai Houshou",
     "_equipment": [
       {
         "equipment": false,
@@ -22730,6 +22739,7 @@
     "_build_time": 260,
     "_class": "Kaga",
     "_class_number": 1,
+    "_display_class": "Kai Kaga",
     "_equipment": [
       {
         "equipment": false,
@@ -22814,6 +22824,7 @@
     "_build_time": 260,
     "_class": "Kaga",
     "_class_number": 1,
+    "_display_class": "Kai Kaga",
     "_equipment": [
       {
         "equipment": false,
@@ -22898,6 +22909,7 @@
     "_build_time": 260,
     "_class": "Kaga",
     "_class_number": 1,
+    "_display_class": "Kai Kaga",
     "_equipment": [
       {
         "equipment": false,
@@ -27158,6 +27170,7 @@
     "_cg_reference": "/",
     "_class": "Yuugumo",
     "_class_number": 19,
+    "_display_class": "Kai Yuugumo",
     "_equipment": [
       {
         "equipment": false,
@@ -27233,6 +27246,7 @@
     "_cg_reference": "/",
     "_class": "Yuugumo",
     "_class_number": 19,
+    "_display_class": "Kai Yuugumo",
     "_equipment": [
       {
         "equipment": false,
@@ -27550,6 +27564,7 @@
     "_build_time": 240,
     "_class": "Kongou",
     "_class_number": 1,
+    "_display_class": "Kai Kongou",
     "_equipment": [
       {
         "equipment": "35.6cm Twin Gun Mount Kai",
@@ -27771,6 +27786,7 @@
     "_build_time": 60,
     "_class": "Kuma",
     "_class_number": 1,
+    "_display_class": "Renovated Kuma",
     "_equipment": [
       {
         "equipment": false,
@@ -27847,6 +27863,7 @@
     "_build_time": 60,
     "_class": "Kuma",
     "_class_number": 1,
+    "_display_class": "Renovated Kuma",
     "_equipment": [
       {
         "equipment": false,
@@ -37102,6 +37119,7 @@
     "_build_time": 60,
     "_class": "Agano",
     "_class_number": 2,
+    "_display_class": "Kai Agano",
     "_equipment": [
       {
         "equipment": "15.2cm Twin Gun Mount Kai",
@@ -39957,6 +39975,7 @@
     "_build_time": 150,
     "_class": "Ryuuhou",
     "_class_number": 1,
+    "_display_class": "Kai Ryuuhou",
     "_equipment": [
       {
         "equipment": false,
@@ -40046,6 +40065,7 @@
     "_build_time": 150,
     "_class": "Ryuuhou",
     "_class_number": 1,
+    "_display_class": "Kai Ryuuhou",
     "_equipment": [
       {
         "equipment": false,
@@ -42795,6 +42815,7 @@
     "_asw_max": 88,
     "_class": "Shiratsuyu",
     "_class_number": 2,
+    "_display_class": "Renovated Shiratsuyu",
     "_equipment": [
       {
         "equipment": "12.7cm Twin Gun Mount Model C Kai 2",
@@ -50021,6 +50042,7 @@
     "_build_time": 22,
     "_class": "Shiratsuyu",
     "_class_number": 7,
+    "_display_class": "Kai Shiratsuyu",
     "_equipment": [
       {
         "equipment": "61cm Quadruple (Oxygen) Torpedo Mount",
@@ -52224,6 +52246,7 @@
     "_build_time": 60,
     "_class": "Agano",
     "_class_number": 3,
+    "_display_class": "Kai Agano",
     "_equipment": [
       {
         "equipment": false,
@@ -52304,6 +52327,7 @@
     "_build_time": 60,
     "_class": "Agano",
     "_class_number": 3,
+    "_display_class": "Kai Agano",
     "_equipment": [
       {
         "equipment": false,
@@ -52673,6 +52697,7 @@
     "_build_time": 22,
     "_class": "Shiratsuyu",
     "_class_number": 8,
+    "_display_class": "Kai Shiratsuyu",
     "_equipment": [
       {
         "equipment": false,
@@ -52748,6 +52773,7 @@
     "_build_time": 22,
     "_class": "Shiratsuyu",
     "_class_number": 8,
+    "_display_class": "Kai Shiratsuyu",
     "_equipment": [
       {
         "equipment": false,
@@ -54027,6 +54053,7 @@
     "_build_time": 24,
     "_class": "Kagerou",
     "_class_number": 8,
+    "_display_class": "Kai Kagerou",
     "_equipment": [
       {
         "equipment": "10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director",
