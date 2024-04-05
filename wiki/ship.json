@@ -9163,6 +9163,7 @@
     "_build_time": 23,
     "_class": "Fletcher",
     "_class_number": 1,
+    "_display_class": "Kai Fletcher",
     "_equipment": [
       {
         "equipment": false,
@@ -11732,7 +11733,7 @@
     "_torpedo": 0,
     "_torpedo_max": false,
     "_torpedo_mod": false,
-    "_true_id": 384,
+    "_true_id": 1458,
     "_type": 1,
     "_voice_flag": 1,
     "_full_name": "Hachijou Kai",
@@ -20524,7 +20525,7 @@
     "_torpedo": 0,
     "_torpedo_max": false,
     "_torpedo_mod": false,
-    "_true_id": 385,
+    "_true_id": 1459,
     "_type": 1,
     "_voice_flag": 1,
     "_full_name": "Ishigaki Kai",
@@ -31255,7 +31256,7 @@
     "_asw_max": 60,
     "_build_time": 22,
     "_class": "Asashio",
-    "_class_number": 4,
+    "_class_number": 3,
     "_equipment": [
       {
         "equipment": "12.7cm Twin Gun Mount Model C Kai 2",
@@ -52740,7 +52741,7 @@
     "_remodel_level": 83,
     "_remodel_report": true,
     "_remodel_steel": 370,
-    "_remodel_to": "Yamakaze/Kai Ni",
+    "_remodel_to": "Yamakaze/Kai Ni D",
     "_scrap_ammo": 2,
     "_scrap_baux": false,
     "_scrap_fuel": 1,
