@@ -79,6 +79,8 @@ export interface APIMstEquipExslotShip {
   '524': The226
   '525': The10
   '526': The10
+  '527': The106
+  '528': The12
   '66': The220
   '71': The10
   '87': The10
@@ -120,6 +122,7 @@ export interface The10_APIShipIDS {
   '961'?: number
   '971'?: number
   '972'?: number
+  '975'?: number
   '976'?: number
   '977'?: number
 }
@@ -140,9 +143,14 @@ export interface The106 {
 }
 
 export interface The106_APICtypes {
-  '101': number
-  '38': number
-  '54': number
+  '101'?: number
+  '108'?: number
+  '112'?: number
+  '38'?: number
+  '54'?: number
+  '67'?: number
+  '78'?: number
+  '88'?: number
 }
 
 export interface The106_APIShipIDS {
@@ -164,6 +172,7 @@ export interface The106_APIShipIDS {
   '955'?: number
   '960'?: number
   '961'?: number
+  '975'?: number
 }
 
 export interface The106_APIStypes {
@@ -182,8 +191,11 @@ export interface The12 {
 }
 
 export interface The12_APICtypes {
-  '114': number
-  '122': number
+  '108'?: number
+  '114'?: number
+  '122'?: number
+  '67'?: number
+  '88'?: number
 }
 
 export interface The12_APIShipIDS {
@@ -269,6 +281,7 @@ export interface APIMstEquipShip {
 
 export interface APIMstFurniture {
   api_active_flag: number
+  api_bgm_id: number
   api_description: string
   api_id: number
   api_no: number
@@ -276,7 +289,6 @@ export interface APIMstFurniture {
   api_price: number
   api_rarity: number
   api_saleflg: number
-  api_season: number
   api_title: string
   api_type: number
   api_version: number
@@ -316,7 +328,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
