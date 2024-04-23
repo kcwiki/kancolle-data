@@ -41,50 +41,51 @@ export interface APIMstEquipExslotShip {
   '10': The10
   '106': The106
   '12': The12
+  '124': The10
   '130': The10
   '142': The12
-  '210': The10
-  '211': The10
+  '210': The106
+  '211': The106
   '220': The220
-  '226': The226
-  '227': The226
+  '226': The10
+  '227': The10
   '234': The12
-  '240': The10
+  '240': The106
   '27': The106
-  '275': The10
-  '28': The10
-  '317': The106
-  '33': The12
-  '34': The10
-  '35': The106
-  '384': The10
-  '408': The106
-  '410': The12
-  '411': The12
-  '413': The226
-  '442': The10
-  '443': The10
+  '275': The106
+  '28': The106
+  '317': The12
+  '33': The10
+  '34': The106
+  '35': The12
+  '384': The106
+  '408': The12
+  '410': The10
+  '411': The10
+  '413': The106
+  '442': The106
+  '443': The106
   '450': The106
-  '458': The10
+  '458': The106
   '460': The12
   '463': The12
   '464': The10
-  '477': The10
-  '478': The10
-  '483': The106
-  '488': The226
-  '506': The106
-  '517': The10
-  '519': The12
-  '524': The226
+  '477': The12
+  '478': The12
+  '483': The12
+  '488': The10
+  '506': The10
+  '517': The106
+  '519': The106
+  '524': The12
   '525': The10
   '526': The10
   '527': The106
   '528': The12
   '66': The220
-  '71': The10
-  '87': The10
-  '88': The10
+  '71': The106
+  '87': The106
+  '88': The106
 }
 
 export interface The10 {
@@ -95,30 +96,33 @@ export interface The10 {
 }
 
 export interface The10_APICtypes {
-  '101'?: number
-  '30'?: number
-  '38'?: number
-  '43'?: number
-  '52'?: number
+  '47': number
+  '55': number
 }
 
 export interface The10_APIShipIDS {
-  '136'?: number
-  '148'?: number
-  '229'?: number
-  '316'?: number
+  '145'?: number
+  '147'?: number
+  '235'?: number
   '399'?: number
+  '407'?: number
+  '419'?: number
+  '464'?: number
+  '470'?: number
+  '537'?: number
+  '538'?: number
   '546'?: number
-  '591'?: number
-  '592'?: number
+  '557'?: number
+  '558'?: number
+  '578'?: number
   '593'?: number
   '607'?: number
-  '894'?: number
-  '899'?: number
+  '656'?: number
   '911'?: number
   '916'?: number
-  '951'?: number
   '954'?: number
+  '955'?: number
+  '960'?: number
   '961'?: number
   '971'?: number
   '972'?: number
@@ -128,11 +132,8 @@ export interface The10_APIShipIDS {
 }
 
 export interface The10_APIStypes {
-  '11'?: number
-  '13'?: number
-  '14'?: number
-  '18'?: number
-  '7'?: number
+  '1'?: number
+  '99'?: number
 }
 
 export interface The106 {
@@ -146,7 +147,16 @@ export interface The106_APICtypes {
   '101'?: number
   '108'?: number
   '112'?: number
+  '114'?: number
+  '122'?: number
+  '16'?: number
+  '20'?: number
+  '30'?: number
   '38'?: number
+  '4'?: number
+  '41'?: number
+  '43'?: number
+  '52'?: number
   '54'?: number
   '67'?: number
   '78'?: number
@@ -154,33 +164,27 @@ export interface The106_APICtypes {
 }
 
 export interface The106_APIShipIDS {
-  '147'?: number
+  '136'?: number
+  '148'?: number
   '229'?: number
-  '235'?: number
-  '407'?: number
-  '419'?: number
-  '464'?: number
-  '470'?: number
-  '537'?: number
-  '538'?: number
-  '557'?: number
-  '558'?: number
-  '578'?: number
-  '621'?: number
-  '626'?: number
-  '656'?: number
-  '955'?: number
-  '960'?: number
+  '316'?: number
+  '546'?: number
+  '591'?: number
+  '592'?: number
+  '593'?: number
+  '894'?: number
+  '899'?: number
+  '911'?: number
+  '916'?: number
+  '951'?: number
+  '954'?: number
   '961'?: number
   '975'?: number
 }
 
 export interface The106_APIStypes {
-  '10': number
-  '5': number
-  '6': number
-  '8': number
-  '9': number
+  '13': number
+  '14': number
 }
 
 export interface The12 {
@@ -191,23 +195,33 @@ export interface The12 {
 }
 
 export interface The12_APICtypes {
-  '108'?: number
-  '114'?: number
-  '122'?: number
-  '67'?: number
-  '88'?: number
+  '108': number
+  '67': number
+  '88': number
 }
 
 export interface The12_APIShipIDS {
   '546'?: number
-  '593'?: number
+  '621'?: number
+  '626'?: number
   '911'?: number
   '916'?: number
-  '954'?: number
 }
 
 export interface The12_APIStypes {
-  '99': number
+  '10'?: number
+  '11'?: number
+  '17'?: number
+  '18'?: number
+  '19'?: number
+  '20'?: number
+  '21'?: number
+  '22'?: number
+  '5'?: number
+  '6'?: number
+  '7'?: number
+  '8'?: number
+  '9'?: number
 }
 
 export interface The220 {
@@ -241,37 +255,6 @@ export interface The220_APIStypes {
   '19': number
   '20': number
   '21': number
-}
-
-export interface The226 {
-  api_ctypes: The226_APICtypes | null
-  api_req_level: number
-  api_ship_ids: The226_APIShipIDS | null
-  api_stypes: The226_APIStypes | null
-}
-
-export interface The226_APICtypes {
-  '16': number
-  '20': number
-  '38': number
-  '4': number
-  '41': number
-  '52': number
-  '54': number
-}
-
-export interface The226_APIShipIDS {
-  '145': number
-  '961': number
-}
-
-export interface The226_APIStypes {
-  '1'?: number
-  '17'?: number
-  '19'?: number
-  '20'?: number
-  '21'?: number
-  '22'?: number
 }
 
 export interface APIMstEquipShip {
