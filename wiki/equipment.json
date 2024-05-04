@@ -43,7 +43,8 @@
     "_icon": 16,
     "_id": 3,
     "_improvements": true,
-    "_info": "防空型駆逐艦の主砲です。画期的な長砲身半自動装填砲を動力<br>砲塔に備えた「長10cm」と呼ばれた新型の防空用高角砲で、<br>「秋月」型駆逐艦に採用されました。複雑な構造のため量産に<br>は不向きでしたが、敵機の跳梁を抑える艦隊防空の切り札の一<br>つです。",
+    "_info": "防空型駆逐艦の主砲です。<br>画期的な長砲身半自動装填砲を動力砲塔に備えた「長10cm」と呼ばれた新型の防空用高角砲で、「秋月」型駆逐艦に搭載されました。<br>複雑な構造のため量産には不向きでしたが、敵機の跳梁を抑える艦隊防空の切り札の一つです。",
+    "_info_en": "This is the main gun of the anti-air destroyers.<br>It is a groundbreaking new model anti-air gun called the \"Long 10 cm\" had long barrel high-angle guns, with semi-automatic loading, and a powered turret, and was equipped on the \"Akizuki-class\" destroyers.<br>Its complex design made it difficult to mass-produce, but it was a key part of the fleet's defense against the air superiority of enemy aircraft.",
     "_japanese_name": "10cm連装高角砲",
     "_los": false,
     "_luck": false,
@@ -688,7 +689,8 @@
       },
       "_steel": 60
     },
-    "_info": "艦隊型駆逐艦の主砲です。<br>防盾で全周を遮蔽、弾片や荒天対策を施しており、また動力操<br>砲も採用した近代的な小型艦の主砲で、多くの主力駆逐艦に採<br>用されました。<br>あまり仰角はとれず、対空射撃は少し苦手です。",
+    "_info": "艦隊型駆逐艦の主砲です。<br>防盾で全周を遮蔽、弾片や荒天対策を施しており、また動力操法も採用した近代的な小型艦の主砲で、多くの主力駆逐艦に採用されました。<br>あまり仰角はとれず、対空射撃は少し苦手です。",
+    "_info_en": "The main gun of fleet destroyers.<br> It has an enclosed, shielded turret that protects it against shrapnel and stormy weather. It also has powered turrets. It served as the main gun of modern small ships and many frontline destroyers.<br>It isn't good at anti-air because of its low maximum elevation.",
     "_japanese_name": "12.7cm連装砲",
     "_los": false,
     "_luck": false,
@@ -1670,7 +1672,8 @@
       },
       "_steel": 70
     },
-    "_info": "標準的な対空高角砲です。<br>量産に向いた構造で経済性も高く、戦艦や空母、巡洋艦などに<br>広く搭載されました。<br>発射速度や旋回速度にやや難がありますが、重要な対空火器で<br>す。",
+    "_info": "標準的な対空高角砲です。<br>量産に向いた構造で経済性も高く、戦艦や空母、巡洋艦などに広く搭載されました。<br>発射速度や旋回速度にやや難がありますが、重要な対空火器です。",
+    "_info_en": "Standard anti-air high-angle gun.<br>Structured for mass production and aimed for economic efficiency, it’s widely equipped in battleships, carriers, and cruisers.<br>Although there is some difficulty in turning speed and rate of fire, it is an important anti-aircraft gun.",
     "_japanese_name": "12.7cm連装高角砲",
     "_los": false,
     "_luck": false,
@@ -2185,36 +2188,101 @@
     "_icon": 1,
     "_id": 1,
     "_improvements": {
-      "_Ammo": 20,
-      "_Bauxite": 0,
-      "_Conv_A": "12cm Single Gun Mount Kai 2",
-      "_DM_1": 2,
-      "_DM_1g": 2,
-      "_DM_2": 2,
-      "_DM_2g": 3,
-      "_DM_A": 2,
-      "_DM_Ag": 4,
-      "_Equ_1": "12cm Single Gun Mount",
-      "_Equ_2": "12cm Single Gun Mount",
-      "_Equ_2_qty": 2,
-      "_Equ_A": "Type 22 Surface Radar",
-      "_Fuel": 10,
-      "_Helper1A": "Mutsuki",
-      "_Helper1AM": "Mutsuki/Kai/Ni",
-      "_Helper2A": "Kisaragi",
-      "_Helper2AM": "Kisaragi/Kai/Ni",
-      "_IM_1": 1,
-      "_IM_1g": 2,
-      "_IM_2": 1,
-      "_IM_2g": 2,
-      "_IM_A": 2,
-      "_IM_Ag": 6,
-      "_Steel": 40,
-      "_Week1A": 1111111,
-      "_Week2A": 1111111
+      "_ammo": 20,
+      "_bauxite": false,
+      "_fuel": 10,
+      "_products": {
+        "12cm Single Gun Mount Kai 2": {
+          "0": {
+            "_development_material": 2,
+            "_development_material_x": 2,
+            "_equipment": {
+              "true": 1
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "6": {
+            "_development_material": 2,
+            "_development_material_x": 3,
+            "_equipment": {
+              "true": 2
+            },
+            "_improvement_material": 1,
+            "_improvement_material_x": 2
+          },
+          "10": {
+            "_development_material": 2,
+            "_development_material_x": 4,
+            "_equipment": {
+              "Type 22 Surface Radar": 1
+            },
+            "_improvement_material": 2,
+            "_improvement_material_x": 6
+          },
+          "_ships": {
+            "Kisaragi/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kisaragi/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Kisaragi/Kai Ni": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Mutsuki/": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Mutsuki/Kai": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            },
+            "Mutsuki/Kai Ni": {
+              "Friday": true,
+              "Monday": true,
+              "Saturday": true,
+              "Sunday": true,
+              "Thursday": true,
+              "Tuesday": true,
+              "Wednesday": true
+            }
+          },
+          "_stars": false
+        }
+      },
+      "_steel": 40
     },
     "_info": "旧型の小型砲です。<br>旧型駆逐艦に標準的主砲として搭載されました。<br>装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました。<br>対空射撃には不向きです。",
-    "_infoEn": "This is an old model small-caliber gun.<br>It was equipped on older destroyers as their main armament.<br> Both loading and rotation were manual, but with its simple construction and low cost, it served a long time as the main weapon of destroyers and coastal defense ships.<br>It cannot be used for anti-air.''",
+    "_info_en": "This is an old model small-caliber gun.<br>It was equipped on older destroyers as their main armament.<br>Both loading and rotation were manual, but with its simple construction and low cost, it served a long time as the main weapon of destroyers and coastal defense ships.<br>It cannot be used for anti-air.",
     "_japanese_name": "12cm単装砲",
     "_los": false,
     "_luck": false,
@@ -2634,7 +2702,8 @@
       },
       "_steel": 80
     },
-    "_info": "巡洋艦の主砲や戦艦の副砲として独自開発された中距離砲で<br>す。<br>やや旧式化していますが、列強の15cm砲とほぼ同等の射程と<br>威力を持っています。<br>対艦対地専門で、対空射撃はできません。",
+    "_info": "巡洋艦の主砲や戦艦の副砲として独自開発された中距離砲です。<br>やや旧式化していますが、列強の15cm砲とほぼ同等の射程と威力を持っています。<br>対艦対地専門で、対空射撃はできません。",
+    "_info_en": "A medium-ranged gun that was developed domestically as the main gun of light cruisers and secondary gun of battleships.<br>Although it is slightly obsolete, it still has range and power comparable to 15 cm guns from the other major powers.<br>It is designed for surface combat so it is unable to be used for anti-air.",
     "_japanese_name": "14cm単装砲",
     "_los": false,
     "_luck": false,
@@ -3049,7 +3118,8 @@
       },
       "_steel": 90
     },
-    "_info": "英国開発のものを国産化、「金剛」型戦艦や「扶桑」型戦艦の<br>副砲として搭載されました。<br>「伊勢」型戦艦以降は改良軽量型14cm砲が搭載されるように<br>なりました。<br>対空射撃は不可能で、後に近代化改修に伴い、対空火器増設や<br>軽量化のため、表舞台から去っていきました。",
+    "_info": "英国開発のものを国産化、「金剛」型戦艦や「扶桑」型戦艦の副砲として搭載されました。<br>「伊勢」型戦艦以降は改良軽量型14cm砲が搭載されるようになりました。<br>対空射撃は不可能で、後に近代化改修に伴い、対空火器増設や軽量化のため、表舞台から去っていきました。",
+    "_info_en": "Knocking down British-made gun, this weapon was utilized as secondary guns on the \"Kongo-class\" and the \"Fuso-class\".<br>After the \"Ise-class\" the renewed, lightened variant of 14 cm caliber was adopted.<br>Anti-air firing was impossible; during later modernizations, these guns either gave their way to anti-air weapons or were taken down for weight reduction.",
     "_japanese_name": "15.2cm単装砲",
     "_los": false,
     "_luck": false,
@@ -3486,7 +3556,8 @@
       },
       "_steel": 120
     },
-    "_info": "条約下で保有数に制限のあった重巡を、火力を増強した強力な<br>軽巡で補うために開発されました。<br>初の三連装砲でしたが、射程・発射速度・運用性全てに高い評<br>価を得ることになりました。<br>後に有名な「大和」型戦艦の副砲としても採用されています。<br>対空戦にも効果を発揮する傑作砲です。",
+    "_info": "条約下で保有数に制限のあった重巡を、火力を増強した強力な軽巡で補うために開発されました。<br>初の三連装砲でしたが、射程・発射速度・運用面全てに高い評価を得ることになりました。<br>後に有名な「大和」型戦艦の副砲としても採用されています。<br>対空戦にも効果を発揮する傑作砲です。",
+    "_info_en": "To cover the shortfall of heavy cruisers that were limited by the Treaty, this gun was developed to produce powerful light cruisers.<br>It was the first 3-gun turret with excellent range, fire rate, and operability.<br>It was later adopted as secondary guns of the Yamato-class battleships.<br>It is a masterpiece that can also be used for anti-air.",
     "_japanese_name": "15.5cm三連装砲",
     "_los": false,
     "_luck": false,
@@ -3682,7 +3753,8 @@
       },
       "_steel": 120
     },
-    "_info": "巡洋艦の主砲だったものを、戦艦の副砲として活用しました。<br>「大和」型に搭載され、対空戦も可能な、性能・運用性ともに<br>優秀な戦艦副砲となりました。<br>砲塔部の装甲が薄いのが玉に瑕で、諸説ありますが「大和」型<br>の唯一の弱点という指摘もありました。",
+    "_info": "巡洋艦の主砲だったものを、戦艦の副砲として活用しました。<br>「大和」型に搭載され、対空戦も可能な、性能・運用ともに優秀な戦艦副砲となりました。<br>砲塔部の装甲が薄いのが玉に傷で、諸説ありますが「大和」型の唯一の弱点という指摘もありました。",
+    "_info_en": "Although designed to be a part of the cruiser's main battery, it saw a more practical use as the battleship's secondary armament.<br>The \"Yamato-class\" was designed with this, for potential use as an anti-aircraft gun, however, its combined ability and performance were outstanding enough to be used as the battleship's secondary armament.<br>However, the turret section's armor was very thin, resulting in various rumors about it being the Yamato-class' Achilles' heel when pointed out.",
     "_japanese_name": "15.5cm三連装副砲",
     "_los": false,
     "_luck": false,
@@ -4906,7 +4978,8 @@
       },
       "_steel": 120
     },
-    "_info": "重巡に搭載された主砲、それが20.3cm連装砲です。<br>条約上限一杯の8インチ（20.3cm）のこの砲は、中距離での<br>砲撃戦はもちろん、夜戦のような近距離での殴り合いでも十分<br>にその威力を発揮します。<br>限定的ですが、対空射撃も可能です。",
+    "_info": "重巡に搭載された主砲、それが20.3cm連装砲です。<br>条約上限一杯の8インチ（20.3cm）のこの砲は、中距離での砲撃戦はもちろん、夜戦のような近距離での殴り合いでも十分にその威力を発揮します。<br>限定的ですが、対空射撃も可能です。",
+    "_info_en": "The 20.3 cm twin-gun was the main armament of heavy cruisers.<br>With a caliber at the maximum allowed by the Treaty of 8 inches (20.3 cm), it has sufficient power for medium-range combat and close-range night battle brawls.<br>It also has limited anti-air capabilities.",
     "_japanese_name": "20.3cm連装砲",
     "_los": false,
     "_luck": false,
@@ -6139,7 +6212,8 @@
       },
       "_steel": 300
     },
-    "_info": "標準的な戦艦の主砲です。<br>「金剛」型建造と同時期に英国に発注され、後に国産化、「伊<br>勢」型までの標準的な戦艦主砲して運用されました。<br>遠距離からの堂々たる艦隊砲撃戦を実現します。",
+    "_info": "標準的な戦艦の主砲です。<br>「金剛」型建造と同時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲して運用されました。<br>遠距離からの堂々たる艦隊砲撃戦を実現します。",
+    "_info_en": "A standard battleship main gun.<br>It was ordered from the UK at the same time as Kongou. It was later produced domestically as the main gun of battleships up to the Ise-class.<br>It is the grand realization of long-ranged fleet artillery combat.",
     "_japanese_name": "35.6cm連装砲",
     "_los": false,
     "_luck": false,
@@ -7484,7 +7558,8 @@
       },
       "_steel": 480
     },
-    "_info": "呉海軍工廠砲熕部で開発された初の純国産戦艦主砲です。<br>16インチ（40.6cm）を僅かに上回る、この41cm砲は「大<br>和」型の46cm砲が登場するまで世界最大の戦艦砲でした。<br>これを搭載した「長門」「陸奥」は、当時世界列強の「ビッグ<br>７」として、多くのファンに称えられていました。",
+    "_info": "呉海軍工廠砲熕部で開発された初の純国産戦艦主砲です。<br>16インチ（40.6cm）を僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。<br>これを搭載した「長門」「陸奥」は、当時世界列強の「ビッグ7」として、多くのファンに称えられていました。",
+    "_info_en": "Developed by Kure Naval Arsenal's Artillery Division, this is the first entirely domestic battleship gun.<br>At a little over 16 inches (40.6 cm), this 41 cm gun was the largest battleship gun in the world until the introduction of the \"Yamato-class\" 46 cm guns.<br>It was equipped on \"Nagato\" and \"Mutsu\" who it was praised by many fans as two of the great power's \"Big 7\".",
     "_japanese_name": "41cm連装砲",
     "_los": false,
     "_luck": false,
@@ -7673,7 +7748,8 @@
       },
       "_steel": 800
     },
-    "_info": "呉海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲で<br>す。<br>敵戦艦に対してアウトレンジが可能な最大射程40kmを超える<br>最新鋭のこの巨砲は、機密保持のため公式には16インチ砲と<br>されていました。<br>「三式弾」を用いた強力な対空射撃も可能です。",
+    "_info": "呉海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲です。<br>敵戦艦に対してアウトレンジが可能な最大射程40kmを超える最新鋭のこの巨砲は、機密保持のため公式には16インチ砲とされていました。<br>「三式弾」を用いた強力な対空射撃も可能です。",
+    "_info_en": "Developed in absolute secrecy at the Kure Naval Arsenal's Artillery Division, this is the largest and most powerful battleship gun in the world.<br>It is a state-of-the-art gun capable of outranging enemy battleships with its maximum range in excess of 40 km. To ensure secrecy, it is officially designated as a 16 inch gun.<br>It is capable of strong anti-air fire when used alongside the \"Type 3 Shell\".",
     "_japanese_name": "46cm三連装砲",
     "_los": false,
     "_luck": false,
@@ -7692,7 +7768,7 @@
     "_torpedo_accuracy": false,
     "_type": 3,
     "_types": [1, 1, 3, 3, 0],
-    "_wikipedia": "40 cm/45 Type 94 naval gun"
+    "_wikipedia": "46 cm/45 Type 94 naval gun"
   },
   "46cm Triple Gun Mount Kai": {
     "_aa": 6,
@@ -8590,7 +8666,8 @@
       },
       "_steel": 80
     },
-    "_info": "大威力長射程を誇る、秘密兵器「九三式酸素魚雷」。<br>その必殺の酸素魚雷を四連装した水雷兵装の決定版が、この四<br>連装【酸素魚雷】発射管です。<br>新型の主力駆逐艦や各巡洋艦などに搭載され、夜戦等で最大の<br>雷装戦力を構成します。",
+    "_info": "大威力長射程を誇る、秘密兵器「九三式酸素魚雷」。<br>その必殺の酸素魚雷を四連装した水雷兵装の決定版が、この四連装【酸素魚雷】発射管です。<br>新型の主力駆逐艦や各巡洋艦などに搭載され、夜戦等で最大の雷装戦力を構成します。",
+    "_info_en": "A famous high-powered, long-range mount, the secret weapon \"Type 93 Oxygen Torpedo\".<br>The oxygen torpedo was able to bring certain death with its four tubes as well as being the definitive torpedo mount, using the four twins [Oxygen Torpedoes] firing tubes.<br>As the new main equipment for destroyers and cruisers, it played a major role in night warfare and many other compositions.",
     "_japanese_name": "61cm四連装(酸素)魚雷",
     "_los": false,
     "_luck": false,
@@ -8759,7 +8836,8 @@
       },
       "_steel": 70
     },
-    "_info": "強力な61cm魚雷の四連装発射管です。<br>迅速に次弾を装填できる次発装填装置を搭載、夜戦等での反転<br>再雷撃能力も増大しました。<br>「白露」型以降の艦隊型駆逐艦や、近代化改装後の主力重巡洋<br>艦などに搭載されました。",
+    "_info": "強力な61cm魚雷の四連装発射管です。<br>迅速に次弾を装填できる次弾装填装置を搭載、夜戦等での反転再雷撃機能も増大しました。<br>「白露」型以降の艦隊型駆逐艦や、近代化改装後の主力重巡洋艦などに搭載されました。",
+    "_info_en": "A quadruple tube of heavy-hitting 61 cm torpedo.<br>Comes with a reloading device to reload torpedoes in quick succession, thus providing more opportunities for pursuance.<br>Fitted on fleet destroyers of \"post-Shiratsuyu-class\", as well on modernized heavy cruisers.",
     "_japanese_name": "61cm四連装魚雷",
     "_los": false,
     "_luck": false,
@@ -8778,7 +8856,8 @@
     "_torpedo_accuracy": false,
     "_type": 5,
     "_types": [2, 3, 5, 5, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "Type 90 torpedo"
   },
   "61cm Quintuple (Oxygen) Torpedo Mount": {
     "_aa": false,
@@ -9112,7 +9191,8 @@
       },
       "_steel": 60
     },
-    "_info": "陳腐化した53cm魚雷の後継として開発された大型の61cm魚<br>雷。<br>その三連装発射管は、駆逐艦の主力兵装として「睦月」型や<br>「吹雪」型などに搭載されました。<br>魚雷戦や夜戦の主力兵装として活躍します。",
+    "_info": "陳腐化した53cm魚雷の後継として開発された大型の61cm魚雷。<br>その三連装発射管は、駆逐艦の主力兵装として「睦月」型や「吹雪」型などに搭載されました。<br>魚雷戦や夜戦の主力兵装として活躍します。",
+    "_info_en": "The successor to the obsolete 53 cm Torpedo Mount after development for a higher-scale, 61 cm Torpedo mount.<br>With the three-barreled firing tube, this was made as the destroyer's main armament for the Mutsuki-class and the Fubuki-class and so on for general equipping.<br>This would serve in many battles as the main force in general torpedo battles as well as night warfare.",
     "_japanese_name": "61cm三連装魚雷",
     "_los": false,
     "_luck": false,
@@ -9131,7 +9211,8 @@
     "_torpedo_accuracy": false,
     "_type": 5,
     "_types": [2, 3, 5, 5, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "Type 90 torpedo"
   },
   "65mm/64 Single Rapid Fire Gun Mount Kai": {
     "_aa": 9,
