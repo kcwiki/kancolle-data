@@ -2185,100 +2185,36 @@
     "_icon": 1,
     "_id": 1,
     "_improvements": {
-      "_ammo": 20,
-      "_bauxite": false,
-      "_fuel": 10,
-      "_products": {
-        "12cm Single Gun Mount Kai 2": {
-          "0": {
-            "_development_material": 2,
-            "_development_material_x": 2,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 1,
-            "_improvement_material_x": 2
-          },
-          "6": {
-            "_development_material": 2,
-            "_development_material_x": 3,
-            "_equipment": {
-              "true": 2
-            },
-            "_improvement_material": 1,
-            "_improvement_material_x": 2
-          },
-          "10": {
-            "_development_material": 2,
-            "_development_material_x": 4,
-            "_equipment": {
-              "Type 22 Surface Radar": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 6
-          },
-          "_ships": {
-            "Kisaragi/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Kisaragi/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Kisaragi/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Mutsuki/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Mutsuki/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Mutsuki/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 40
+      "_Ammo": 20,
+      "_Bauxite": 0,
+      "_Conv_A": "12cm Single Gun Mount Kai 2",
+      "_DM_1": 2,
+      "_DM_1g": 2,
+      "_DM_2": 2,
+      "_DM_2g": 3,
+      "_DM_A": 2,
+      "_DM_Ag": 4,
+      "_Equ_1": "12cm Single Gun Mount",
+      "_Equ_2": "12cm Single Gun Mount",
+      "_Equ_2_qty": 2,
+      "_Equ_A": "Type 22 Surface Radar",
+      "_Fuel": 10,
+      "_Helper1A": "Mutsuki",
+      "_Helper1AM": "Mutsuki/Kai/Ni",
+      "_Helper2A": "Kisaragi",
+      "_Helper2AM": "Kisaragi/Kai/Ni",
+      "_IM_1": 1,
+      "_IM_1g": 2,
+      "_IM_2": 1,
+      "_IM_2g": 2,
+      "_IM_A": 2,
+      "_IM_Ag": 6,
+      "_Steel": 40,
+      "_Week1A": 1111111,
+      "_Week2A": 1111111
     },
-    "_info": "旧型の小型砲です。<br>旧型駆逐艦に標準的主砲として搭載されました。<br>装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆<br>逐艦や海防艦等の主砲として、長く使われました。<br>対空射撃には不向きです。",
+    "_info": "旧型の小型砲です。<br>旧型駆逐艦に標準的主砲として搭載されました。<br>装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました。<br>対空射撃には不向きです。",
+    "_infoEn": "This is an old model small-caliber gun.<br>It was equipped on older destroyers as their main armament.<br> Both loading and rotation were manual, but with its simple construction and low cost, it served a long time as the main weapon of destroyers and coastal defense ships.<br>It cannot be used for anti-air.''",
     "_japanese_name": "12cm単装砲",
     "_los": false,
     "_luck": false,
@@ -2298,7 +2234,7 @@
     "_type": 1,
     "_types": [1, 1, 1, 1, 0],
     "_version": 2,
-    "_wikipedia": "Type 3 120 mm 45 caliber naval gun"
+    "_wikipedia": "12 cm/45 3rd Year Type naval gun"
   },
   "12cm Single Gun Mount Kai 2": {
     "_aa": false,
