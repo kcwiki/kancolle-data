@@ -11901,7 +11901,8 @@
       },
       "_steel": 600
     },
-    "_info": "新開発の高温高圧缶です。<br>従来の艦本式ロ号缶から換装するもので、駆逐艦「島風」で採<br>用した高温高圧缶をベースに、実用性と量産性を高めたもの。<br>高出力と低燃費を実現し、回避率を大きく向上させます。ま<br>た、改良型タービンとの併用でさらに高い推力を実現します。",
+    "_info": "新開発の高温高圧缶です。<br>従来の艦本式ロ号缶から換装するもので、駆逐艦「島風」で採用した高温高圧缶をベースに、実用性と量産性を高めたもの。<br>高出力と低燃費を実現し、回避率を大きく向上させます。<br>また、改良型タービンとの併用でさらに高い推進力を実現します。",
+    "_info_en": "A newly developed high-temperature and high-pressure steam boiler.<br>Based on the superheated high-pressure boiler used in \"Shimakaze\", but improved for mass production and usability, it replaces the previous conventional Kampon type boiler.<br>With higher power and reduced fuel consumption, it greatly improves evasion.<br>Combine it with an Improved Steam Turbine for even higher speed.",
     "_japanese_name": "強化型艦本式缶",
     "_los": false,
     "_luck": false,
@@ -13080,7 +13081,8 @@
     "_icon": 19,
     "_id": 33,
     "_improvements": false,
-    "_info": "改良型の新型タービン機関です。<br>従来型タービンの各部素材を見直し構造強化を行って、より高<br>出力が可能となりました。<br>機動性が向上し、砲雷撃戦や、対空戦における回避率が向上し<br>ます。",
+    "_info": "改良型の新型タービン機関です。<br>従来型タービンの各部素材を見直し構造強化を行なって、より高出力が可能となりました。<br>機動性が向上し、砲雷撃戦や、対空戦における回避率が向上します。",
+    "_info_en": "This is the improved version of the steam turbine engine.<br>The existing turbine's parts and materials have been revised for this new construction, making higher outputs possible.<br>This allows for even more evasion from torpedo attacks and air strikes.",
     "_japanese_name": "改良型艦本式タービン",
     "_los": false,
     "_luck": false,
@@ -15792,7 +15794,8 @@
     "_icon": 6,
     "_id": 22,
     "_improvements": false,
-    "_info": "名機「零戦」の後継機として開発された、最新鋭艦上戦闘機<br>「烈風」。<br>用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越え<br>て、ついに完成した新型艦戦の試作機「試製烈風」。<br>「零戦」を継ぐ次世代の我が主力艦上戦闘機、その先駆けたる<br>試作量産機です。",
+    "_info": "名機「零戦」の後継機と開発された最新鋭艦上戦闘機「烈風」。<br>用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を超えて、ついに完成した新型艦戦です。<br>ぜひ、「流星」艦爆と共に、次世代の機動部隊艦載機部隊を編成して、空を制してくださいね！",
+    "_info_en": "The name of the state-of-the-art machine that was developed to be the successor of the \"Zero\" carrier-based fighter, is \"Reppū\".<br>Despite difficulties in engine selection, preoccupied design teams, and factories, it was completed as the new type of ship-based fighter.<br>Together with the new \"Ryuusei\" torpedo-bomber, please organize a next-generation air task force to control the sky!",
     "_japanese_name": "試製烈風 後期型",
     "_localized_name": "Prototype Strong Gale Late Model",
     "_los": false,
@@ -17126,8 +17129,9 @@
     "_flight_range": 6,
     "_icon": 8,
     "_id": 18,
-    "_improvements": false,
-    "_info": "艦攻と艦爆を統合した先進的な\"急降下爆撃可能な雷撃機\"、そ<br>れが「流星」です。<br>発動機不調と重量過大に悩みながらも、開発に成功。高い性能<br>を誇る最新鋭の艦上攻撃機です。<br>先進的な性能を体現した独特のフォルムも魅力的な本機、ぜ<br>ひ、新型艦戦「烈風」と共に空母に積んであげてくださいね。",
+    "_improvements": true,
+    "_info": "艦攻と艦爆を統合した先進的な\"急降下爆撃可能な雷撃機\"、それが「流星」です。<br>発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。<br>先進的な性能を体現した独特のフォルムも魅力的な本機、ぜひ、新型艦戦「烈風」と共に空母に積んであげてくださいね。",
+    "_info_en": "The \"Ryuusei\" is a versatile attacker, able to \"dive-bomb almost as effectively as torpedo-bomb\".<br>Though it was plagued by engine troubles and weight issues during development, it somehow managed to succeed as a high-end carrier-based aircraft.<br>With its distinctly elegant silhouette as a symbol of its superior performance, please equip it on your carriers alongside the \"Reppuu\" fighter.",
     "_japanese_name": "流星",
     "_localized_name": "Shooting Star",
     "_los": 1,
@@ -20450,7 +20454,8 @@
       },
       "_steel": false
     },
-    "_info": "「九九艦爆」の後継として開発された高速性能を誇る艦上爆撃<br>機「彗星」。<br>液冷発動機を装備。当時の一般的な戦闘機より速く、護衛の零<br>戦すら振り切れる高速性とも言われます。<br>整備の難しい機体ですが、高速艦爆としての完成度は高く、ぜ<br>ひ機動部隊の中核として運用してくださいね。",
+    "_info": "「九九艦爆」の後継として開発された高速性能を誇る艦上爆撃機「彗星」。<br>液冷発動機を装備。当時の一般的な戦闘機より速く、護衛の零戦すら振り切れる高速性とも言われます。<br>整備の難しい機体ですが、高速艦爆としての完成度は高く、ぜひ機動部隊の中核として運用してくださいね。",
+    "_info_en": "Boasting high-speed performance, the successor of the \"Type 99 Dive Bomber\", the \"Suisei\".<br>It is equipped with a liquid-cooled engine. It is faster than typical fighters, even its Zero-fighter escorts.<br>Although it is difficult to maintain, its excellence as a carrier-based dive bomber is undeniable. Please do use it as the core of your mobile squadron.",
     "_japanese_name": "彗星",
     "_localized_name": "Comet",
     "_los": false,
@@ -21571,7 +21576,8 @@
       },
       "_steel": false
     },
-    "_info": "旧式化した「九七艦攻」の後継機として開発された、新型の艦<br>上攻撃機「天山」。<br>機動部隊に配備され、主に雷撃任務を担当します。<br>急降下爆撃機の「彗星」などと一緒に、ぜひ空母機動部隊で運<br>用してくださいね。",
+    "_info": "旧式化した「九七艦攻」の後継機として開発された、新型の艦上攻撃機「天山」。<br>機動部隊に配備され、主に雷撃任務を担当します。<br>急降下爆撃機の｢彗星｣などと一緒に、ぜひ空母機動部隊で運用してくださいね。",
+    "_info_en": "Developed as the successor of the obsolete \"Type 97 Torpedo Bomber\", the new carrier-based attack aircraft \"Tenzan\".<br>When deployed in a mobile squadron, it is mainly responsible for fast-strike missions.<br>Together with the \"Suisei\" dive bomber, please operate it as part of your aircraft carrier mobile squadron.",
     "_japanese_name": "天山",
     "_localized_name": "Heavenly Mountain",
     "_los": 1,
@@ -22310,7 +22316,8 @@
       },
       "_steel": false
     },
-    "_info": "「ゼロ戦」の名で知られる名機「零式艦上戦闘機」の初期型で<br>す。7.7mm機銃2門と自慢の20mm機銃2門を装備。<br>優れた格闘戦能力と長大な航続距離で、その圧倒的な力を見せ<br>つけました。<br>やがて敵が強力な新型機になってくると、火力と速度、防弾性<br>などの弱点が露呈していきます。",
+    "_info": "「ゼロ戦」の名で知られる名機「零式艦上戦闘機」の初期型です。7.7mm機銃2門と自慢の20mm機銃2門を装備。<br>優れた格闘戦能力と長大な航続距離で、その圧倒的な力を見せつけました。<br>やがて敵が強力な新型機になってくると、火力と速度、防弾性などの弱点が露呈していきます。",
+    "_info_en": "Known as the \"Zero-fighter\", this is the initial variant of the \"Type Zero Carrier-based Fighter\". Equipment included twin 7.7 mm machine guns and boasted twin 20 mm cannons.<br>With a far-reaching range and excellent dogfighting ability, it represented overwhelming power.<br>But eventually, when the enemy produced new machines with greater firepower and speed, weaknesses such as ballistic resistance were revealed.",
     "_japanese_name": "零式艦戦21型",
     "_los": false,
     "_luck": false,
@@ -22328,7 +22335,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 11]
+    "_types": [3, 5, 6, 6, 11],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 21 (Skilled)": {
     "_aa": 8,
@@ -23013,7 +23021,8 @@
       },
       "_steel": false
     },
-    "_info": "零戦の最終的な量産機となった改良型、「零式艦上戦闘機52<br>型」です。<br>後継機の開発が遅れたため、零戦52型が後期の主力艦上戦闘<br>機として奮戦することになりました。<br>「彗星」艦爆や「天山」艦攻と一緒に、機動部隊の主力として<br>運用してくださいね。",
+    "_info": "零戦の最終的な量産機となった改良型、「零式艦上戦闘機52型」です。<br>後継機の開発が遅れたため、零戦52型が後期の主力艦上戦闘機として奮戦することになりました。<br>「彗星」艦爆や「天山」艦攻と一緒に、機動部隊の主力として運用してくださいね。",
+    "_info_en": "The final mass-production version of the Zero-fighter, \"Type Zero Carrier-based Fighter Type 52\".<br>As the development of its successors was delayed, the Zero-fighter Type 52 fought bravely as the main late-war carrier-based fighter.<br>Along with the \"Suisei\" bomber and \"Tenzan\" torpedo bomber, please use it as your mainstay air task force.",
     "_japanese_name": "零式艦戦52型",
     "_los": false,
     "_luck": false,
@@ -23031,7 +23040,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 12]
+    "_types": [3, 5, 6, 6, 12],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 52 (Skilled)": {
     "_aa": 9,
@@ -23833,7 +23843,8 @@
       },
       "_steel": false
     },
-    "_info": "「零水偵」とも呼ばれる標準的な水上偵察機です。<br>戦艦や巡洋艦、水上機母艦などに搭載され、索敵任務担当とし<br>て艦隊の「目」の役目を務めます。<br>海戦は索敵が大事！　ぜひ、主力艦艇に搭載して、運用してく<br>ださいね。",
+    "_info": "「零水偵」とも呼ばれる標準的な水上偵察機です。<br>戦艦や巡洋艦、水上機母艦などに搭載され、索敵任務担当として艦隊の「目」の役目を務めます。<br>海戦は索敵が大事！<br>ぜひ、主力艦艇に搭載して、運用してくださいね。",
+    "_info_en": "The standard naval reconnaissance aircraft, also known as the \"Reimitei\".<br>Carried by battleships, cruisers, and seaplane tenders, it served as the \"Eye\" of the fleet, operating recon missions.<br>Scouting is important for battles!<br>Please operate it on your flagships!",
     "_japanese_name": "零式水上偵察機",
     "_los": 5,
     "_luck": false,
@@ -24968,7 +24979,8 @@
       },
       "_steel": 20
     },
-    "_info": "艦載用対空電探です。<br>当初陸上用として開発されたものでしたが、小型軽量で艦載も<br>可能だったため、「13号対空電探」として採用されました。<br>最終的に戦艦や空母まで、多くの艦艇に装備された傑作電探で<br>す。",
+    "_info": "艦載用対空電探です。<br>当初陸上用として開発されたものでしたが、小型軽量で艦載も可能だったため、「13号対空電探」として採用されました。<br>最終的に戦艦や空母まで、多くの艦艇に装備された傑作電探です。",
+    "_info_en": "It is a ship-borne radar.<br>Originally intended as ground-based radar, a lightweight version intended for ships was conceived and the \"Type 13 Air Radar\" was developed.<br>It then became a mainstay radar of ships from battleships to aircraft carriers.",
     "_japanese_name": "13号対空電探",
     "_los": 3,
     "_luck": false,
@@ -25862,7 +25874,8 @@
       },
       "_steel": 40
     },
-    "_info": "初の実用艦載電探です。<br>対空用ですが、対水上電探としても使用可能です。<br>13号電探と混載することも可能で、基本的にこの21号は大型<br>艦に搭載されました。",
+    "_info": "初の実用艦載電探です。<br>対空用ですが、対水上電探としても使用可能です。<br>13号電探と混載することも可能で、基本的にこの21号は大型艦に搭載されました。",
+    "_info_en": "This is the first practical ship-borne radar.<br>Primarily tasked for air search, it can also be used for surface search.<br>While it could be used in conjunction with the Type 13 radar, the Type 21 was basically used aboard larger warships.",
     "_japanese_name": "21号対空電探",
     "_los": 4,
     "_luck": false,
@@ -26134,7 +26147,8 @@
       },
       "_steel": 30
     },
-    "_info": "初の実戦運用された対水上電探です。<br>当初動作不安定で実用に耐えませんでしたが、改良と調整によ<br>り、徐々に効果を発揮していきます。<br>捜索以外にも限定的ながら射撃管制にも使用されました。",
+    "_info": "初の実戦運用された対水上電探です。<br>当初動作不安定で実用に耐えませんでしたが、改良と調整により、徐々に効果を発揮していきます。<br>捜索以外にも限定的ながら射撃管制にも使用されました。",
+    "_info_en": "The Type 22 Surface Radar was first used in the fighting.<br>It first had teething problems but an improved version became available, gradually increasing its effectiveness.<br>While mostly used as a search radar, it had limited use as a fire control system for ships.",
     "_japanese_name": "22号対水上電探",
     "_los": 5,
     "_luck": false,
@@ -27051,7 +27065,8 @@
       },
       "_steel": 210
     },
-    "_info": "戦艦の主砲から放たれる対空用特殊砲弾。<br>榴散弾の一種で、大量の子弾が爆散、敵を編隊ごと一網打尽に<br>殲滅することが可能。<br>戦艦主砲の射撃装置の問題で命中率が低いのが難点だが、艦隊<br>の防空力を大きく高めます。<br>戦艦・航空戦艦・巡洋戦艦が使用可能。",
+    "_info": "戦艦の主砲から放たれる対空用特殊砲弾。<br>榴散弾の一種で、大量の子弾が爆散、敵を編隊ごと一網打尽に殲滅することが可能。<br>戦艦主砲の射撃装置の問題で命中率が低いのが難点だが、艦隊の防空力を大きく高めます。<br>戦艦・航空戦艦・重巡洋艦が使用可能。",
+    "_info_en": "A special kind of main battery shell used by battleships that is specifically used as an anti-air weapon.<br>The shrapnel, when ejected from the bullet in large quantities, potentially encases and then annihilates all enemy planes in formation.<br>The questionable accuracy rate of the firing mechanism of the main battery of battleships is the only weakness, but this is traded for the immense AA firepower boost.<br>Can be deployed on battleships, aviation battleships, and heavy cruisers.",
     "_japanese_name": "三式弾",
     "_los": false,
     "_luck": false,
@@ -27303,7 +27318,8 @@
       },
       "_steel": 60
     },
-    "_info": "高性能な大型対水上電探です。<br>遠距離射撃にも対応できる射撃管制が可能ですが、かなり大型<br>で重量過大です。<br>これを搭載すると、そうとう目立ちます！",
+    "_info": "高性能な大型対水上電探です。<br>遠距離射撃にも対応できる射撃管制が可能ですが、かなり大型で重量過大です。<br>これを搭載すると、そうとう目立ちます！",
+    "_info_en": "This is a large, high-performance surface search radar.<br>While it is capable of long-range search and gunfire control, it was quite heavy.<br>When mounted aboard ships, it becomes conspicuous because of its size!",
     "_japanese_name": "32号対水上電探",
     "_los": 10,
     "_luck": false,
@@ -27526,7 +27542,8 @@
       },
       "_steel": 40
     },
-    "_info": "対水上射撃管制用に開発された小型対水上射撃用電探です。<br>22号を改修して精度を上げ、探知距離・精度ともに実用レベ<br>ルで運用可能です。<br>雷撃管制用にも使用でき、砲雷撃戦の質を大きく向上させま<br>す。",
+    "_info": "対水上射撃管制用に開発された小型対水上射撃用電探です。<br>22号を改修して精度を上げ、探知距離・精度ともに実用レベルで運用可能です。<br>雷撃管制用にも使用でき、砲雷撃戦の質を大きく向上させます。",
+    "_info_en": "The Type 33 radar is a compact version with the purpose of the fire control system of a ship.<br>With an improved version of the type 22 that raised accuracy, this radar also had improved search range and accuracy making it practical.<br>It can also be used for torpedo attacks and main gun firing which saw improved performance.",
     "_japanese_name": "33号対水上電探",
     "_los": 7,
     "_luck": false,
@@ -27976,7 +27993,8 @@
       },
       "_steel": 140
     },
-    "_info": "高性能な大型対空電探です。<br>英軍のレーダーを参考に開発したため、他の対空電探より高い<br>精度を発揮しました。<br>空中線が大型のため、基本的に戦艦や正規空母、重巡洋艦など<br>の大型艦への装備が可能です。",
+    "_info": "高性能な大型対空電探です。<br>英国のレーダーを参考に開発したため、他の対空電探より高い性能を発揮しました。",
+    "_info_en": "This is a large, high-performance anti-aircraft radar.<br>Since it was developed from a British radar, it has better air search performance than other radars.",
     "_japanese_name": "42号対空電探",
     "_los": 5,
     "_luck": false,
@@ -29121,7 +29139,8 @@
       },
       "_steel": false
     },
-    "_info": "旧式の艦上戦闘機です。<br>零戦より前に実戦配備されていた旧型機ですが、優れた格闘戦<br>能力を持っています。<br>武装や航続力、速度の点で既に二線級ではありますが、防空戦<br>闘には活用可能です。",
+    "_info": "旧式の艦上戦闘機です。<br>零戦より前に実戦配備されていた旧型機ですが、優れた格闘戦能力を持っています。<br>武装や航続力、速度の点で既に二線級ではありますが、防空戦闘には活用可能です。",
+    "_info_en": "This is an obsolete carrier-based fighter.<br>It is an old machine that was in operational service before the Zero-fighter, and boasts a history of exemplary aerial combat performance.<br>With standard armaments and cruising capacity, its speed is now second class, but it is still possible to utilize this aircraft in a dogfight.",
     "_japanese_name": "九六式艦戦",
     "_los": false,
     "_luck": false,
@@ -29379,7 +29398,8 @@
       },
       "_steel": 0
     },
-    "_info": "当時の世界水準を遥かに上回る艦上攻撃機の傑作機。<br>優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の<br>機動部隊艦載機の主力攻撃機として大活躍しました。<br>「九七艦攻」と呼ばれ、雷撃・水平爆撃をこなす主力艦上攻撃<br>機ですが、徐々に現役を退いていきます。",
+    "_info": "当時の世界水準を遥かに上回る艦上攻撃機傑作機。<br>優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の機動部隊艦載機の主力攻撃機として大活躍しました。<br>「九七艦攻」と呼ばれ、雷撃・水雷爆撃をこなす主力艦上攻撃機ですが、徐々に現役を退いていきます。",
+    "_info_en": "This aircraft is capable of long-range cruising in the early days of the war.<br>Despite being unarmored and slow, it had a great operational range, and in the early days of hostilities was the main attack aircraft of the Carrier Task Force.<br>Called the \"Type 97 Attacker\", it was mainly used for torpedo bombing of enemy ships, but was gradually phased out of that role.",
     "_japanese_name": "九七式艦攻",
     "_los": 1,
     "_luck": false,
@@ -29938,7 +29958,8 @@
       },
       "_steel": false
     },
-    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登<br>場しました。<br>「九九艦爆」と呼ばれ、「九七艦攻」と共に初期の機動部隊の<br>攻撃隊戦力の中核を担います。<br>固定脚の低速機であるため、より高性能な高速艦爆「彗星」に<br>その座を譲っていきました。",
+    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場しました。<br>「九九艦爆」と呼ばれ、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担います。<br>固定脚の低速機であるため、より高性能な高速艦爆「彗星」にその座を譲っていきました。",
+    "_info_en": "It has been completely redesigned from the biplane Type 96 Carrier Attacker and resulted in a modern monoplane carrier-based bomber.<br>Called the \"Type 99 Dive Bomber\" and alongside the \"Type 97 Torpedo Bomber\", it formed the core of the initial task force's strength.<br>As it was a low-speed, fixed-gear aircraft, it was replaced by the more advanced high-speed \"Comet\" naval bomber.",
     "_japanese_name": "九九式艦爆",
     "_los": false,
     "_luck": false,
@@ -31235,7 +31256,8 @@
       },
       "_steel": false
     },
-    "_info": "水上偵察機を発展させ、急降下爆撃可能な水偵として開発され<br>た「瑞雲」。<br>空戦フラップまで装備した高性能な多用途機で、水上機母艦<br>や、航空巡洋艦などからの運用も可能です。<br>「伊勢」型を改装した「航空戦艦」で集中運用、水上打撃機動<br>部隊を編制するのも楽しいですよ！",
+    "_info": "水上偵察機を発展させ、急降下爆撃可能な水偵として開発された「瑞雲」。<br>空戦フラップまで装備した高性能な多用途機で、水上機母艦や、航空巡洋艦などからの運用も可能です。<br>「伊勢」型を改装した「航空戦艦」で集中運用、水上打撃機動部隊を編制するのも楽しいですよ！",
+    "_info_en": "Derived from floatplanes, \"Zuiun\" was developed as a reconnaissance plane able to dive-bomb.<br>Equipped with variable flaps, it is a very fine-tuned multirole aircraft, and is able to be used on seaplane tenders or aircraft-carrying cruisers.<br>It is also fun to group an \"aircraft-carrying battleship\" division, mounting it on aircraft-carrying battleships which are modified \"Ise-class\".",
     "_japanese_name": "瑞雲",
     "_localized_name": "Auspicious Clouds",
     "_los": 6,
