@@ -1758,7 +1758,8 @@
       },
       "_steel": 80
     },
-    "_info": "標準的な対空高角砲の後期改良型です。<br>量産に向いた構造で経済性も高く、量産両用砲として優れた性<br>能を誇ります。課題のひとつである旋回速度等も改善された、<br>頼りになる対空火器です。",
+    "_info": "標準的な対空高角砲の後期改良型です。<br>量産に向いた構造で経済性も高く、量産両用砲として優れた性能を誇ります。<br>課題のひとつである旋回速度等も改善された、頼りになる対空火器です。",
+    "_info_en": "A late-model, improved version of the standard anti-air high-angle gun.<br>It had a design that lent itself to mass production and low costs. This resulted in a mass-produced high-angle gun that boasted good performance.<br>It is a reliable anti-air weapon that has improved rotation speed.",
     "_japanese_name": "12.7cm連装高角砲(後期型)",
     "_los": false,
     "_luck": false,
@@ -4793,7 +4794,8 @@
       },
       "_steel": 130
     },
-    "_info": "20.3cm連装砲のマイナーバージョンアップ版、それが同2号<br>連装砲です。<br>元々優秀な重巡洋艦用主砲を改良して、主に妙高型などに搭載<br>されました。初期主砲搭載の他の重巡達も、近代化改装時に順<br>次本砲に換装されていきました。",
+    "_info": "20.3cm連装砲のマイナーバージョンアップ版、それが同2号連装砲です。<br>元々優秀な重巡洋艦用主砲を改良して、主に妙高型などに搭載されました。<br>初期主砲搭載の他の重巡達も、近代化改装時に順次本砲に換装されていきました。",
+    "_info_en": "The no.2 twin gun is a slightly upgraded version of the 20.3 cm twin gun.<br>The excellent heavy cruiser main guns were upgraded and used as the main guns of the Myoukou-class.<br>Other heavy cruisers had their early-model guns eventually replaced with this one during their modernizations.",
     "_japanese_name": "20.3cm(2号)連装砲",
     "_los": false,
     "_luck": false,
@@ -5749,7 +5751,8 @@
     "_icon": 15,
     "_id": 84,
     "_improvements": true,
-    "_info": "かの国からもたらされた四連装対空機銃です。<br>2cm Flakvierling38と呼ばれる優れた近接防空火器で、艦船<br>だけでなく対空戦闘車両や防空陣地でも運用されました。",
+    "_info": "かの国からもたらされた四連装対空機銃です。<br>2cm Flakvierling38と呼ばれる優れた近接防空火器で、艦船だけでなく対空戦闘車両や防空陣地でも運用されました。",
+    "_info_en": "'A quad mount anti-air turret brought over from that country.<br>An excellent air defense weapon known as the 2 cm Flakvierling 38, it was not only used on ships but also on land vehicles.",
     "_japanese_name": "2cm 四連装FlaK 38",
     "_los": false,
     "_luck": false,
@@ -5768,7 +5771,7 @@
     "_torpedo_accuracy": false,
     "_type": 21,
     "_types": [4, 6, 21, 15, 0],
-    "_wikipedia": "2 cm Flak 30/38/Flakvierling"
+    "_wikipedia": "2 cm Flak 30, Flak 38 and Flakvierling 38"
   },
   "3.7cm FlaK M42": {
     "_aa": 8,
@@ -5781,7 +5784,8 @@
     "_icon": 15,
     "_id": 85,
     "_improvements": false,
-    "_info": "かの国からもたらされた大口径二連装高射機関砲です。<br>主に陸戦で用いられましたが、Uボートや艦船などにも一部搭<br>載・運用されました。高い近接防空火力を発揮します。",
+    "_info": "かの国からもたらされた大口径二連装高射機関砲です。<br>主に陸戦で用いられましたが、Uボートや艦船などにも一部搭載・運用されました。<br>高い近接防空火力を発揮します。",
+    "_info_en": "A large caliber twin anti-aircraft gun that was brought from another country.<br>It was primarily used on land, but was also mounted on U-boats and ships too.<br>It will provide a great amount of proximity air defense.",
     "_japanese_name": "3.7cm FlaK M42",
     "_los": false,
     "_luck": false,
@@ -5800,7 +5804,7 @@
     "_torpedo_accuracy": false,
     "_type": 21,
     "_types": [4, 6, 21, 15, 0],
-    "_wikipedia": "3.7 cm Flak M42"
+    "_wikipedia": "3.7 cm Flak 18/36/37"
   },
   "30.5cm Triple Gun Mount": {
     "_aa": false,
@@ -10745,7 +10749,8 @@
       },
       "_steel": 20
     },
-    "_info": "英国ヴィッカース社より導入した対空機銃です。<br>射撃時の音からポンポン砲とも呼ばれ、国内でライセンス生産<br>もされました。徐々に後発の国産対空機銃に更新されていきま<br>した。",
+    "_info": "英国ヴィッカース社より導入した対空機銃です。<br>射撃時の音からポンポン砲とも呼ばれ、国内でライセンス生産もされました。<br>徐々に後発の国産対空機銃に更新されていきました。",
+    "_info_en": "This is an anti-aircraft autocannon introduced by the British Vickers company.<br>Also known as the pom-pom gun due to its firing sound for its two-round burst, it was produced under license in Japan. It was gradually replaced by more modern domestically produced anti-aircraft machine guns.",
     "_japanese_name": "毘式40mm連装機銃",
     "_los": false,
     "_luck": false,
@@ -11945,7 +11950,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 17,
-    "_types": [6, 31, 17, 19, 0]
+    "_types": [6, 31, 17, 19, 0],
+    "_wikipedia": "Boiler"
   },
   "F4F-3": {
     "_aa": 4,
@@ -13125,7 +13131,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 17,
-    "_types": [6, 31, 17, 19, 0]
+    "_types": [6, 31, 17, 19, 0],
+    "_wikipedia": "Steam turbine"
   },
   "Jet Keiun Kai": {
     "_aa": 6,
@@ -14439,7 +14446,8 @@
       },
       "_steel": 750
     },
-    "_info": "次世代駆逐艦などに搭載するための高温高圧缶です。<br>従来の艦本式ロ号缶と比べて、その性能は大きく向上していま<br>す。艦の回避率を大きく向上させると共に、将来的には新型タ<br>ービンとの併用でさらに高い性能を発揮することが期待されま<br>す。",
+    "_info": "次世代駆逐艦などに搭載するための高温高圧缶です。<br>従来の艦本式ロ号缶と比べて、その性能は大きく向上しています。<br>艦の回避率を大きく向上させると共に、将来的には新型タービンとの併用でさらに高い性能を発揮することが期待されます。",
+    "_info_en": "A high-temperature, high-pressure boiler to be equipped by next-generation destroyers.<br>Its performance has been drastically improved compared to conventional Kampon boilers.<br>It impressively increases evasion by itself, and will improve even more when combined with an Improved Steam Turbine.",
     "_japanese_name": "新型高温高圧缶",
     "_los": false,
     "_luck": false,
@@ -14457,7 +14465,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 17,
-    "_types": [6, 31, 17, 19, 0]
+    "_types": [6, 31, 17, 19, 0],
+    "_wikipedia": "Boiler"
   },
   "Night Operation Aviation Personnel": {
     "_aa": false,
@@ -19102,7 +19111,8 @@
     "_icon": 26,
     "_id": 86,
     "_improvements": false,
-    "_info": "工作艦に搭載される修理装備一式です。「明石」等の工作艦に<br>搭載することで、入渠なしに艦艇の応急修理が可能です。<br>(小破程度の損害の艦を、この装備一式につき、+1隻の同時修<br>理が可能です)",
+    "_info": "工作艦に搭載される修理装備一式です。<br>「明石」等の工作艦に搭載することで、入渠なしに艦艇の応急修理が可能です。<br>(小破程度の損害の艦を、この装備一式につき、+1隻の同時修理が可能です)",
+    "_info_en": "A set of ship repair facilities used aboard repair ships.<br>When used on repair ships such as \"Akashi\", it can perform anchorage repairs on other ships without having to dock them.<br>(This set of equipment can repair +1 ships with minor damage at the same time.)",
     "_japanese_name": "艦艇修理施設",
     "_los": false,
     "_luck": false,
@@ -20259,7 +20269,8 @@
     "_icon": 5,
     "_id": 95,
     "_improvements": true,
-    "_info": "伊号潜水艦の艦首に装備する潜水艦専用兵装です。<br>水上艦艇に搭載するものよりやや直径の小さい、長射程高威力<br>を誇る必殺の酸素魚雷発射管艦首8門です。高い魚雷火力を潜<br>水艦に付与します。",
+    "_info": "伊号潜水艦の艦首に装備する潜水艦専用兵装です。<br>水上艦艇に搭載するものよりやや直径の小さい、長射程高威力を誇る必殺の酸素魚雷発射管艦首8門です。<br>高い魚雷火力を潜水艦に付与します。",
+    "_info_en": "This is a submarine-only weapon to equip along the bow of submarines.<br>Slightly smaller in diameter than those to be mounted on surface ships, the oxygen torpedo tubes ship pack 8 tubes of deadly, long-range high-accuracy oxygen torpedoes.<br>It will add a high torpedo firepower to submarines.",
     "_japanese_name": "潜水艦53cm艦首魚雷(8門)",
     "_los": false,
     "_luck": false,
@@ -20562,7 +20573,8 @@
     "_icon": 7,
     "_id": 100,
     "_improvements": false,
-    "_info": "「九九艦爆」の後継機として開発された高速艦爆「彗星」。<br>液冷発動機装備のため運用のやや難しい機体でしたが、江草隊<br>長の腕とその空中指揮、そして練度の高い母艦整備員によって<br>支えられた精鋭「彗星」艦爆隊は、圧倒的な命中率を誇るその<br>急降下爆撃で新生機動部隊の打撃力を担います。",
+    "_info": "「九九艦爆」の後継機として開発された高速艦爆「彗星」。<br>液冷発動機装備のため運用のやや難しい機体でしたが、江草隊長の腕とその空中指揮、そして練度の高い母艦整備員によって支えられた精鋭「彗星」艦爆隊は、圧倒的な命中率を誇るその急降下爆撃で新生機動部隊の打撃力を担います。",
+    "_info_en": "The \"Suisei\" is a high-speed dive bomber developed to replace the \"Type 99 Dive Bomber\".<br>Despite teething problems with the engine and the airframe, the Egusa Squadron with its Air Group commander, supported by skilled maintenance crews of frontline carriers, paved the way for the \"Suisei\" to achieve an outstanding dive bombing accuracy rate for the next generation of the Carrier Task Force.",
     "_japanese_name": "彗星(江草隊)",
     "_localized_name": "Comet (Egusa Squadron)",
     "_los": 4,
@@ -20582,7 +20594,7 @@
     "_torpedo_accuracy": false,
     "_type": 7,
     "_types": [3, 5, 7, 7, 16],
-    "_wikipedia": "江草隆繁"
+    "_wikipedia": "Yokosuka D4Y"
   },
   "Suisei Model 12 (634 Air Group w/ Type 3 Cluster Bombs)": {
     "_aa": 3,
@@ -21685,7 +21697,8 @@
     "_icon": 8,
     "_id": 83,
     "_improvements": false,
-    "_info": "登場の遅れた名艦上攻撃機「天山」。<br>この機体を用いて対潜哨戒・対潜制圧・対艦攻撃を担う九三一<br>航空隊所属の「天山」装備飛行隊です。",
+    "_info": "登場の遅れた名艦上攻撃機「天山」。<br>この機体を用いて対潜哨戒・対潜制圧・対艦攻撃を担う九三一航空隊所属の「天山」装備飛行隊です。",
+    "_info_en": "The \"Tenzan\" was a carrier-based attack aircraft that was delayed into service.<br>This \"Tenzan\" saw service with the 931st Air Group where they were used for anti-submarine patrols and warfare, and surface warfare operations.",
     "_japanese_name": "天山(九三一空)",
     "_localized_name": "Heavenly Mountain (931 Air Group)",
     "_los": 2,
@@ -21704,7 +21717,8 @@
     "_torpedo": 9,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 1]
+    "_types": [3, 5, 8, 8, 1],
+    "_wikipedia": "Nakajima B6N"
   },
   "Tenzan Model 12 (Murata Squadron)": {
     "_aa": 1,
@@ -21754,7 +21768,8 @@
     "_icon": 8,
     "_id": 94,
     "_improvements": false,
-    "_info": "旧式化した「九七艦攻」の後継機として開発された、新鋭艦上<br>攻撃機「天山」。本部隊は、闘志溢れる空中指揮官が率いる、<br>「天山」への機種転換が完了した熟練搭乗員で構成された精鋭<br>艦攻隊です。",
+    "_info": "旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。<br>本部隊は、闘志溢れる空中指揮官が率いる、「天山」への機種転換が完了した熟練搭乗員で構成された精鋭艦攻隊です。",
+    "_info_en": "The \"Tenzan\" is a carrier-based torpedo bomber developed as a successor to the obsolete \"Type 99 Torpedo Bomber\".<br>This squadron, made up of a select group of skilled pilots, transitioned to the new \"Tenzan\" and was led by a spirited Air Group commander.",
     "_japanese_name": "天山一二型(友永隊)",
     "_localized_name": "Heavenly Mountain Model 12 (Tomonaga Squadron)",
     "_los": 5,
@@ -21773,7 +21788,8 @@
     "_torpedo": 14,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 1]
+    "_types": [3, 5, 8, 8, 1],
+    "_wikipedia": "Nakajima B6N"
   },
   "Tenzan Model 12A": {
     "_aa": 1,
@@ -22509,7 +22525,8 @@
       },
       "_steel": false
     },
-    "_info": "熟練搭乗員で構成された「零式艦上戦闘機」装備の艦戦隊で<br>す。7.7mm機銃2門と自慢の20mm機銃2門、優れた格闘戦<br>能力と長大な航続距離。搭乗員達の高い技量もあって、初期段<br>階では圧倒的な力を誇りました。艦隊の上空直援や攻撃隊の護<br>衛で活躍します。",
+    "_info": "熟練搭乗員で構成された「零式艦上戦闘機」装備の艦戦隊です。<br>7.7mm機銃2門と自慢の20mm機銃2門、優れた格闘戦能力と長大な航続距離。<br>搭乗員達の高い技量もあって、初期段階では圧倒的な力を誇りました。<br>艦隊の上空直援や攻撃隊の護衛で活躍しま 。",
+    "_info_en": "\"Zero carrier-borne fighters\" used by skilled pilots.<br>It boasts incredible agility and long operational range and has two 7.7 mm machine guns on the engine cowling and two 20 mm cannons at the wings.<br>In the hands of a skilled pilot, it can be a deadly adversary in the early times.<br>This aircraft also patrols and guards the airspace of the fleet.",
     "_japanese_name": "零式艦戦21型(熟練)",
     "_los": 1,
     "_luck": false,
@@ -22527,7 +22544,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 11]
+    "_types": [3, 5, 6, 6, 11],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 21 (Tainan Air Group)": {
     "_aa": 11,
@@ -26025,6 +26043,7 @@
       "_steel": 60
     },
     "_info": "二式二号電波探信儀一型の改良型です。<br>様々な改良と調整によって、安定性が向上しました。<br>対空用ですが、対水上電探としても使用可能です。",
+    "_info_en": "This is the twin improved version of the Type 21 air radar.<br>Various things have been improved, increasing its reliability.<br>Primarily used as an air search radar, it can also be used as a surface search radar.",
     "_japanese_name": "21号対空電探改",
     "_los": 6,
     "_luck": false,
@@ -26279,7 +26298,8 @@
       },
       "_steel": 40
     },
-    "_info": "実戦運用された電探二号電波探信儀二型の改良型です。<br>新型受信機や様々な改良により、性能と安定性が向上、<br>実効力のあるレーダー射撃も可能となりました。",
+    "_info": "実戦運用された電探二号電波探信儀二型の改良型です。<br>新型受信機や様々な改良により、性能と安定性が向上、<br>実効力のあるレーダー射撃精度も可能となりました。",
+    "_info_en": "This radar is a newer version of the Type 22 surface radar.<br>It received a new receiver plus other things, making its performance and reliability better.<br>It also became an improved fire control system allowing more accurate shooting.",
     "_japanese_name": "22号対水上電探改四",
     "_los": 5,
     "_luck": false,
@@ -29586,7 +29606,8 @@
       },
       "_steel": 0
     },
-    "_info": "初期の機動部隊を支えた主力攻撃機「九七艦攻」。<br>旧式化した同機を対潜哨戒機バージョンとして運用する九三一<br>航空隊所属の「九七艦攻」装備飛行隊です。",
+    "_info": "初期の機動部隊を支えた主力攻撃機「九七艦攻」。<br>旧式化た同機を対潜哨戒機バージョンとして運用する九三一航空隊所属の「九七艦攻」装備飛行隊です。",
+    "_info_en": "The \"Type 97 Torpedo Bomber\" was the main attacker in the early days of the Carrier Task Force.<br>This \"Type 97 Torpedo Bomber\" saw service with the 931st Air Group for anti-submarine warfare duties.",
     "_japanese_name": "九七式艦攻(九三一空)",
     "_los": 2,
     "_luck": false,
@@ -29605,7 +29626,8 @@
     "_torpedo_accuracy": false,
     "_type": 8,
     "_types": [3, 5, 8, 8, 1],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "Nakajima B5N"
   },
   "Type 97 Torpedo Bomber (931 Air Group/Skilled)": {
     "_aa": false,
@@ -29689,7 +29711,8 @@
     "_icon": 8,
     "_id": 98,
     "_improvements": true,
-    "_info": "熟練搭乗員で構成された「九七艦攻」装備の艦攻隊です。<br>速度や防弾装備は劣るものの優れた航続距離と熟練搭乗員の腕<br>で、緒戦の機動部隊と共に大活躍を演じました。雷撃・水平爆<br>撃をこなす主力艦上攻撃機ですが、徐々に現役を退いていきま<br>す。",
+    "_info": "熟練搭乗員で構成された「九七艦攻」装備の艦攻隊です。<br>速度や防弾装備は劣るものの優れた航続距離と熟練搭乗員の腕で、緒戦の機動部隊と共に大活躍を演じました。<br>雷撃・水平爆撃をこなす主力艦上攻撃機ですが、徐々に現役を退いていきます。",
+    "_info_en": "This particular \"Type 97 Torpedo Bomber\" was used by skilled pilots.<br>While slow and unarmored, it had great operational range and in the hands of skilled aircrews, played an important role in the task force during the breakout of hostilities.<br>Capable of torpedo runs and horizontal bombing against enemy ships, it was gradually phased out from active service.",
     "_japanese_name": "九七式艦攻(熟練)",
     "_los": 2,
     "_luck": false,
@@ -29773,7 +29796,8 @@
       },
       "_steel": false
     },
-    "_info": "優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の<br>機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機<br>「九七艦攻」。本部隊は、闘志と高い技量を兼ね備えた友永隊<br>長の率いる九七艦攻隊です。",
+    "_info": "優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機「九七艦攻」。<br>本部隊は、闘志と高い技量を兼ね備えた友永隊長の率いる九七艦攻隊です。",
+    "_info_en": "The \"Type 97 Torpedo Bomber\" was the mainstay attack aircraft during the early days of the Carrier Task Force, renowned for its operational range despite being slow and unarmored.<br>This squadron was led by Commander Tomonaga who was spirited and highly skilled.",
     "_japanese_name": "九七式艦攻(友永隊)",
     "_los": 4,
     "_luck": false,
@@ -29792,7 +29816,8 @@
     "_torpedo_accuracy": false,
     "_type": 8,
     "_types": [3, 5, 8, 8, 1],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "Nakajima B5N"
   },
   "Type 98 Reconnaissance Seaplane (Night Recon)": {
     "_aa": false,
@@ -30094,7 +30119,8 @@
       },
       "_steel": false
     },
-    "_info": "緒戦の空母機動部隊の打撃力の中核を担う「九九艦爆」。<br>やや設計の古い固定脚低速機ですが稼働率や信頼性は高く、特<br>に高い練度を誇る江草隊長の率いる艦爆隊の急降下爆撃は、驚<br>異的な命中率を誇ります。",
+    "_info": "緒戦の空母機動部隊の打撃力の中核を担う「九九艦爆」。<br>やや設計の古い固定脚低速機ですが稼働率や信頼性は高く、特に高い練度を誇る江草隊長の率いる艦爆隊の急降下爆撃は、驚異的な命中率を誇ります。",
+    "_info_en": "The \"Type 99 Dive Bomber\" formed the backbone of strike groups of the carrier task force at the beginning of hostilities.<br>Despite being of old design with a slow speed and fixed landing gear, it has high availability and reliability, especially when used by the veteran Captain Egusa renowned for its impressive dive bombing accuracy.",
     "_japanese_name": "九九式艦爆(江草隊)",
     "_los": 3,
     "_luck": false,
@@ -30112,7 +30138,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 40]
+    "_types": [3, 5, 7, 7, 40],
+    "_wikipedia": "Aichi D3A"
   },
   "Type 99 Dive Bomber (Skilled)": {
     "_aa": 1,
@@ -30127,7 +30154,8 @@
     "_icon": 7,
     "_id": 97,
     "_improvements": false,
-    "_info": "熟練搭乗員で構成された「九九艦爆」装備の艦爆隊です。<br>「九七艦攻」と共に初期機動部隊の打撃力の中核を担います。<br>稼働率や信頼性は高いものの、やや設計の古い固定脚低速機で<br>あるため、より高性能な高速艦爆「彗星」にその座を譲ってい<br>きます。",
+    "_info": "熟練搭乗員で構成された「九九艦爆」装備の艦爆隊です。<br>「九七艦攻」と共に初期機動部隊の打撃力の中核を担います。<br>稼働率や信頼性は高いものの、やや設計の古い固定脚低速機であるため、より高性能な高速艦爆「彗星」にその座を譲っていきます。",
+    "_info_en": "This particular \"Type 99 Dive Bomber\" was used by skilled pilots.<br>Along with the \"Type 97 Torpedo Bomber\", it was the core of the initial task force's striking power.<br>Although it has high availability and reliability, it was a low-speed, fixed-leg aircraft with a somewhat outdated design, being gradually replaced by the more capable high-speed \"Suisei\" naval bomber.",
     "_japanese_name": "九九式艦爆(熟練)",
     "_los": 2,
     "_luck": false,
@@ -31755,7 +31783,8 @@
       },
       "_steel": false
     },
-    "_info": "高性能多用途水上偵察機「瑞雲」の改良型「瑞雲12型」。<br>同機によって編成された「伊勢」型航空戦艦などでの艦隊運用<br>を担う六三四航空隊所属の「瑞雲12型」飛行隊です。",
+    "_info": "高性能多用途水上偵察機「瑞雲」の改良型「瑞雲12型」。<br>同機によって編成された「伊勢」型航空戦艦などでの艦隊運用を担う六三四航空隊所属の「瑞雲12型」飛行隊です。",
+    "_info_en": "The \"Zuiun Model 12\" is an improved, high-performance version of the \"Zuiun\" reconnaissance seaplane.<br>This is the \"Zuiun Model 12\", belonging to the 634th Air Group, responsible for fleet operations of those seaplanes on the \"Ise-class\" aviation battleships.",
     "_japanese_name": "瑞雲12型(六三四空)",
     "_localized_name": "Auspicious Clouds Model 12 (634 Air Group)",
     "_los": 7,
@@ -31775,6 +31804,6 @@
     "_torpedo_accuracy": false,
     "_type": 11,
     "_types": [5, 43, 11, 10, 32],
-    "_wikipedia": "634th Naval Air Group"
+    "_wikipedia": "Aichi E16A"
   }
 }
