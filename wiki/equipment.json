@@ -20550,7 +20550,8 @@
     "_icon": 7,
     "_id": 111,
     "_improvements": false,
-    "_info": "「九九艦爆」の後継機として開発された高速艦爆「彗星」。<br>液冷発動機装備のため運用のやや難しい機体ですが、整備体制<br>を万全に、内地で訓練を重ねた六〇一空の精鋭が搭乗します。<br>機動部隊決戦に向けて、錬成を重ねた六〇一空の精鋭艦爆隊で<br>す。",
+    "_info": "「九九艦爆」の後継機として開発された高速艦爆「彗星」。<br>液冷発動機装備のため運用のやや難しい機体ですが、整備体制を万全に、内地で訓練を重ねた六〇一空の精鋭が搭乗します。<br>機動部隊決戦に向けて、錬成を重ねた六〇一空の精鋭艦爆隊です。",
+    "_info_en": "The \"Suisei\" is a fast dive bomber developed to replace the \"Type 99 Dive Bomber\".<br>Problems with its liquid-cooled engine and airframe have been smoothed out, and the 601 Air Group training inland transitioned into this aircraft.<br>It will then be used by the 601 aboard carriers once the Carrier Task Force is starting to achieve its decisive battle.",
     "_japanese_name": "彗星(六〇一空)",
     "_localized_name": "Comet (601 Air Group)",
     "_los": 1,
@@ -20569,7 +20570,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 16]
+    "_types": [3, 5, 7, 7, 16],
+    "_wikipedia": "Yokosuka D4Y"
   },
   "Suisei (Egusa Squadron)": {
     "_aa": 1,
