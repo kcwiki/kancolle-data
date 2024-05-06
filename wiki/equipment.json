@@ -10,7 +10,8 @@
     "_icon": 16,
     "_id": 160,
     "_improvements": false,
-    "_info": "かの国で開発された艦艇防空用の連装高角砲です。大型艦艇な<br>どに防空火器として装備されました。建造と工事中止を繰り返<br>したあの航空母艦にも、左右舷側と飛行甲板への背負い式装備<br>が計画されていました。",
+    "_info": "かの国で開発された艦艇防空用の連装高角砲です。<br>大型艦艇などに防空火器として装備されました。<br>建造と工事中止を繰り返したあの航空母艦にも、左右舷側と飛行甲板への背負い式装備が計画されていました。",
+    "_info_en": "A twin high-angle gun mount for vessel air defense developed in that country.<br>It was equipped on large vessels as an air defense armament.<br>Even on that aircraft carrier that repeatedly went between construction and work stoppage, it was planned to be equipped on the broadside and flight deck of the ship in superfiring arrangements.",
     "_japanese_name": "10.5cm連装砲",
     "_los": false,
     "_luck": false,
@@ -29,7 +30,7 @@
     "_torpedo_accuracy": false,
     "_type": 4,
     "_types": [1, 2, 4, 16, 0],
-    "_wikipedia": "10.5 cm FlaK 38#Naval_version"
+    "_wikipedia": "10.5 cm FlaK 38"
   },
   "10cm Twin High-angle Gun Mount": {
     "_aa": 7,
@@ -216,7 +217,8 @@
       },
       "_steel": 150
     },
-    "_info": "「長10cm砲」といわれる10cm連装高角砲と「94式高射装<br>置」の組み合わせによる、艦隊防空システムです。量産性が低<br>く、また射撃装置は列強の最新鋭には劣りますが、優秀な長<br>10cm砲と高射装置の組み合わせは艦隊の傘として十分に活躍<br>します。",
+    "_info": "「長10cm砲」といわれる10cm連装高角砲と「94式高射装置」の組み合わせによる、艦隊防空システムです。<br>量産性が低く、また射撃装置は列強の最新鋭には劣りますが、優秀な長10cm砲と高射装置の組み合わせは艦隊の傘として十分に活躍します。 ",
+    "_info_en": "A fleet air defense system created by combining the 10 cm twin high-angle gun \"Long 10 cm\" guns and the \"Type 94 Anti-Air Fire Director\".<br>It was unable to be mass produced and the fire director was inferior to the state-of-the-art ones used by the great powers, but the combination of the Long 10 cm Gun and the fire director was still able to function as an air defense umbrella for the fleet.",
     "_japanese_name": "10cm連装高角砲+高射装置",
     "_library_japanese_name": "10cm高角砲＋高射装置",
     "_library_name": "10cm High-angle Gun + Anti-Aircraft Fire Director",
@@ -237,7 +239,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 1,
-    "_types": [1, 1, 1, 16, 0]
+    "_types": [1, 1, 1, 16, 0],
+    "_wikipedia": "10 cm/65 Type 98 naval gun"
   },
   "10cm Twin High-angle Gun Mount Battery Concentrated Deployment": {
     "_aa": 12,
@@ -373,7 +376,8 @@
     "_icon": 16,
     "_id": 130,
     "_improvements": false,
-    "_info": "巡洋艦以上の大型艦の標準的な対空兵装として搭載された<br>12.7cm連装高角砲と「94式高射装置」の組み合わせによる、<br>艦隊防空システムです。発射速度や砲の旋回速度にやや難があ<br>りますが、高角砲と高射装置の組み合わせは艦隊の傘として重<br>要な兵装です。",
+    "_info": "巡洋艦以上の大型艦の標準的な対空兵装として搭載された12.7cm連装高角砲と「94式高射装置」の組み合わせによる、艦隊防空システムです。<br>発射速度や砲の旋回速度にやや難がありますが、高角砲と高射装置の組み合わせは艦隊の傘として重要な兵装です。",
+    "_info_en": "The 12.7 cm high angle gun with \"Type 94 AA Fire Director\" combination is the fleet's standard AA defense system used aboard cruisers or other larger warships.<br>While its fire rate and traverse rate is a bit sluggish, this high-angle gun with a director serves as the umbrella of the fleet against air attacks.",
     "_japanese_name": "12.7cm高角砲+高射装置",
     "_list_japanese_name": "12.7cm連装高角砲+高射装置",
     "_list_name": "12.7cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director",
@@ -395,7 +399,8 @@
     "_torpedo_accuracy": false,
     "_type": 4,
     "_types": [1, 2, 4, 16, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "12.7 cm/40 Type 89 naval gun"
   },
   "12.7cm Single Gun Mount": {
     "_aa": false,
@@ -1914,7 +1919,8 @@
       },
       "_steel": 80
     },
-    "_info": "パスタの国が生んだ連装の小艦艇用主砲兵装です。<br>口径は同クラスの日本海軍の主力駆逐艦の主砲より小さいもの<br>の、優れた機構と高いポテンシャルをもった新型小口径火砲で<br>す。",
+    "_info": "パスタの国が生み出した連装の小艦艇用主砲兵装です。<br>口径は同クラスの日本海軍の主力駆逐艦の主砲より小さいものの、優れた機構と高いポテンシャルをもった新型小口径火砲です。",
+    "_info_en": "A twin-mounted gun produced in the country of pasta as the main armament of small ships.<br>Although its caliber is smaller than that of IJN front-line destroyers, it is still a new model small caliber gun with good machinery and high potential.",
     "_japanese_name": "120mm/50 連装砲",
     "_los": false,
     "_luck": false,
@@ -1933,7 +1939,8 @@
     "_torpedo_accuracy": false,
     "_type": 1,
     "_types": [1, 1, 1, 1, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "List_of_120_mm_Italian_naval_guns#50-calibre_OTO_1931"
   },
   "120mm/50 Twin Gun Mount Kai A.mod.1937": {
     "_aa": 4,
@@ -2858,7 +2865,8 @@
       },
       "_steel": 100
     },
-    "_info": "巡洋艦等の主砲として開発された中距離砲の連装型です。<br>練習巡洋艦「香取」や軽巡洋艦「夕張」などに搭載されまし<br>た。対艦対地用の兵装です。",
+    "_info": "巡洋艦等の主砲として開発された中距離砲の連装型です。<br>練習巡洋艦「香取」や軽巡洋艦「夕張」などに搭載されました。<br>対艦対地用の兵装です。",
+    "_info_en": "This is the twin-mounted version of the medium-caliber guns developed for cruisers.<br>It was equipped on the training cruiser \"Katori\" and the light cruiser \"Yuubari\".<br>It is a weapon capable of anti-ship and anti-ground shelling.",
     "_japanese_name": "14cm連装砲",
     "_los": false,
     "_luck": false,
@@ -3428,7 +3436,8 @@
       },
       "_steel": 100
     },
-    "_info": "阿賀野型軽巡シリーズの主兵装として開発された両用砲の改良<br>改修型です。<br>対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的です<br>が対空戦闘も可能です。改修により精度が若干向上しました。<br>軽巡にフィットした新型の主砲兵装です。",
+    "_info": "阿賀野型軽巡シリーズの主兵装として開発された両用砲の改良改修型です。<br>対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能です。<br>改修により精度が若干向上しました。軽巡にフィットした新型の主砲兵装です。",
+    "_info_en": "The improved and revised model of the dual-purpose gun developed as the main armament for the Agano-class light cruisers.<br>It was a new design of light cruiser guns that emphasized combat with other cruisers but also possessed limited anti-air capabilities.<br>This upgrade slightly improves its accuracy. It is a new model main gun that fits light cruisers.",
     "_japanese_name": "15.2cm連装砲改",
     "_los": false,
     "_luck": false,
@@ -3446,7 +3455,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 2,
-    "_types": [1, 1, 2, 2, 0]
+    "_types": [1, 1, 2, 2, 0],
+    "_wikipedia": "15 cm/50 41st Year Type"
   },
   "15.2cm Twin Gun Mount Kai 2": {
     "_aa": 4,
@@ -4013,7 +4023,8 @@
     "_icon": 11,
     "_id": 142,
     "_improvements": true,
-    "_info": "大和型戦艦のために開発された射撃&電探兵装です。<br>特注の大型光学15m二重測距儀と、その上に熟練した技術者<br>が調整を重ねた精度の高い21号対空電探を配しています。大<br>型かつ重量もあるため、戦艦の艦橋上部構造物のみに装備可能<br>な光学及び電波兵装です。",
+    "_info": "大和型戦艦のために開発された射撃&電探兵装です。<br>特注の大型光学15m二重測距儀と、その上に熟練した技術者が調整を重ねた精度の高い21号対空電探を配しています。<br>大型かつ重量もあるため、戦艦の艦橋上部構造物のみに装備可能な光学及び電波兵装です。",
+    "_info_en": "A radar that was made mainly for the Yamato-class.<br>It uses its 15 m long optical to find the distance between yourself and the enemy, and includes an improved model of the type 21 anti-air radar.<br>''Owing to its size, this radar can only be equipped on battleships and needs to be mounted on the upper bridge of the ship.",
     "_japanese_name": "15m二重測距儀+21号電探改二",
     "_los": 7,
     "_luck": false,
@@ -4576,7 +4587,8 @@
       },
       "_steel": 750
     },
-    "_info": "Iowa級戦艦の主兵装として米国で開発された新型三連装主砲<br>です。前級に搭載された主砲の改良型で、長砲身化などの改良<br>によって威力がより向上しています。発展途上ではありました<br>が、レーダー連動の砲射撃指揮装置によるレーダー射撃も可能<br>です。",
+    "_info": "Iowa級戦艦の主兵装として米国で開発された新型三連装主砲です。<br>前級に搭載された主砲の改良型で、長砲身化などの改良によって威力がより向上しています。<br>発展途上ではありましたが、レーダー連動の砲射撃指揮装置によるレーダー射撃も可能です。",
+    "_info_en": "This is a new model triple mount main cannon developed by the United States used as the main weapon for Iowa class battleships.<br>As an improved main cannon to the one used by a previous class, the power is upgraded due to modifications such as the lengthening of the gun barrel.<br>It is still in development but, it could also be fired by radar using a radar-linked gun fire control system.",
     "_japanese_name": "16inch三連装砲 Mk.7",
     "_los": false,
     "_luck": false,
@@ -4595,7 +4607,7 @@
     "_torpedo_accuracy": false,
     "_type": 3,
     "_types": [1, 1, 3, 3, 0],
-    "_wikipedia": "16\"/50 caliber Mark 7 gun"
+    "_wikipedia": "16-inch/50-caliber Mark 7 gun"
   },
   "16inch Triple Gun Mount Mk.7 + GFCS": {
     "_aa": 3,
@@ -4605,7 +4617,7 @@
     "_buildable": false,
     "_evasion": 1,
     "_firepower": 24,
-    "_gun_fit_group": null,
+    "_gun_fit_group": "16inch",
     "_icon": 3,
     "_id": 183,
     "_improvements": {
@@ -4656,7 +4668,8 @@
       },
       "_steel": 770
     },
-    "_info": "Iowa級戦艦の主兵装として米国で開発された強力な新型三連<br>装主砲と、その改良された射撃管制システムです。現在のFCS<br>の先祖ともいえる射撃レーダーと砲射撃指揮装置によるシステ<br>ムを有しており、その高火力と共に高い射撃精度が期待できま<br>す。",
+    "_info": "Iowa級戦艦の主兵装として米国で開発された強力な新型三連装主砲と、その改良された射撃管制システムです。<br>現在のFCSの先祖ともいえる射撃レーダーと砲射撃指揮装置によるシステムを有しており、その高火力と共に高い射撃精度が期待できます。",
+    "_info_en": "A powerful triple cannon developed by the US as the main gun of the Iowa-class battleships that have been paired with an improved fire control system.<br>An ancestor of modern FCS, it pairs a fire control radar with a computer to achieve devastating firepower with precision and accuracy.",
     "_japanese_name": "16inch三連装砲 Mk.7+GFCS",
     "_los": false,
     "_luck": false,
@@ -4675,7 +4688,7 @@
     "_torpedo_accuracy": false,
     "_type": 3,
     "_types": [1, 1, 3, 3, 0],
-    "_wikipedia": "16\"/50 caliber Mark 7 gun"
+    "_wikipedia": "16-inch/50-caliber Mark 7 gun"
   },
   "20-tube 7inch UP Rocket Launchers": {
     "_aa": 7,
@@ -5061,7 +5074,8 @@
       },
       "_steel": 190
     },
-    "_info": "パスタの国で生まれた中口径主砲です。昼間砲撃戦で優位を確<br>保すべく誕生したザラ級重巡の主兵装として採用されました。<br>最大仰角で射撃では戦艦並の長射程距離を誇りましたが、構造<br>上の問題でその精度と命中率には課題を抱えています。",
+    "_info": "パスタの国で生まれた中口径主砲です。<br>昼間砲撃戦で優位を確保すべく誕生したザラ級重巡の主兵装として採用されました。<br>最大仰角で射撃では戦艦並の長射程距離を誇りましたが、構造上の問題でその精度と命中率には課題を抱えています。",
+    "_info_en": "A medium-caliber gun from the country of pasta.<br>It was used as the main armament of the Zara-class heavy cruisers that were created to secure superiority in artillery combat during the day.<br>Although it was capable of ranges comparable to battleships when firing at maximum elevation, it had problems with accuracy due to structural problems.",
     "_japanese_name": "203mm/53 連装砲",
     "_los": false,
     "_luck": false,
@@ -5080,7 +5094,7 @@
     "_torpedo_accuracy": false,
     "_type": 2,
     "_types": [1, 1, 2, 2, 0],
-    "_wikipedia": "203 mm /53 Italian naval gun"
+    "_wikipedia": "203 mm/53 Italian naval gun"
   },
   "21inch 4-tube Bow Torpedo Launcher (Initial Model)": {
     "_aa": false,
@@ -5594,7 +5608,8 @@
       },
       "_steel": 90
     },
-    "_info": "増大する敵航空兵力の脅威に対抗するため、25mm高角機銃<br>の三連装型を集中的に複数配備した、ハリネズミのような対空<br>機銃兵装です。命中精度にも難があり、すぐに砲身が過熱して<br>しまう25mm機銃ですが、集中運用することで個艦防空能力<br>を高めます。",
+    "_info": "増大する敵航空兵力の脅威に対抗するため、25mm高角機銃の三連装型を集中的に複数配備した、ハリネズミのような対空機銃兵装です。<br>命中精度にも難があり、すぐに砲身が過熱してしまう25mm機銃ですが、集中運用することで個艦防空能力を高めます。",
+    "_info_en": "In order to counter the threat of increased enemy air forces, concentrated deployment of multiple 25 mm Triple Autocannon Mounts, this is a hedgehog-like anti-air machine gun weapon.<br>Although there is an increase in accuracy, the 25 mm machine guns can end up overheating quickly, but it does increase an individual ship's air-defense capability by concentrating firepower.",
     "_japanese_name": "25mm三連装機銃 集中配備",
     "_los": false,
     "_luck": false,
@@ -5613,7 +5628,7 @@
     "_torpedo_accuracy": false,
     "_type": 21,
     "_types": [4, 6, 21, 15, 0],
-    "_wikipedia": "Type 96 25 mm AT/AA Gun"
+    "_wikipedia": "Type 96 25 mm AT/AA gun"
   },
   "25mm Twin Autocannon Mount": {
     "_aa": 5,
@@ -6566,7 +6581,8 @@
       },
       "_steel": 380
     },
-    "_info": "紅茶の国の戦艦主兵装用に開発された連装大口径主砲です。<br>同国ならでは堅実な作りの主砲ですが、後期にはレーダーシス<br>テムの連動した射撃管制装置も開発されました。",
+    "_info": "紅茶の国の戦艦主兵装用に開発された連装大口径主砲です。<br>同国ならではの堅実な作りの主砲ですが、後期にはレーダーシステムの連動した射撃管制装置も開発されました。",
+    "_info_en": "A large caliber main battery developed for the country of tea's main battleships.<br>A reliable main gun made in that country, it was later linked with a radar and fire control system.",
     "_japanese_name": "38.1cm Mk.I連装砲",
     "_los": false,
     "_luck": false,
@@ -6585,7 +6601,7 @@
     "_torpedo_accuracy": false,
     "_type": 3,
     "_types": [1, 1, 3, 3, 0],
-    "_wikipedia": "BL 15 inch Mk I naval gun"
+    "_wikipedia": "BL 15-inch Mk I naval gun"
   },
   "38.1cm Mk.I/N Twin Gun Mount Kai": {
     "_aa": 3,
@@ -6646,7 +6662,8 @@
       },
       "_steel": 420
     },
-    "_info": "紅茶の国で戦艦主兵装用に開発された連装大口径主砲です。<br>堅実な作りの傑作砲に対して最大仰角を上げる等の近代化改修<br>を行いました。熟成した戦艦主砲の改良版です。",
+    "_info": "紅茶の国で戦艦主兵装用に開発された連装大口径主砲です。<br>堅実な作りの傑作砲に対して最大仰角を上げる等の近代化改修を行いました。<br>熟成した戦艦主砲の改良版です。",
+    "_info_en": "A large caliber twin-mounted gun developed in the country of tea for use on battleships.<br>A reliable master-crafted gun with an angle of elevation increased from modernization improvements.<br>An improved version of the tried and tested battleship gun.",
     "_japanese_name": "38.1cm Mk.I/N連装砲改",
     "_los": false,
     "_luck": false,
@@ -6665,7 +6682,7 @@
     "_torpedo_accuracy": false,
     "_type": 3,
     "_types": [1, 1, 3, 3, 0],
-    "_wikipedia": "BL 15 inch Mk I naval gun"
+    "_wikipedia": "BL 15-inch Mk I naval gun"
   },
   "381mm/50 Triple Gun Mount": {
     "_aa": 2,
@@ -6754,7 +6771,8 @@
       },
       "_steel": 480
     },
-    "_info": "パスタの国が生んだ三連装型の戦艦主砲です。<br>高射速の50口径、中近距離戦闘での火力は同クラス最強で<br>す。また、射程も大和型46cm砲と同等以上のカタログスペッ<br>クを誇ります。ただし、砲の耐久性に難点があります。また散<br>布界が広く、その命中率にも課題を残していました。",
+    "_info": "パスタの国が生んだ三連装型の戦艦主砲です。<br>高射速の50口径、中近距離戦闘での火力は同クラス最強です。<br>また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。<br>ただし、砲の耐久性に難点があります。<br>また散布界が広く、その命中率にも課題を残していました。",
+    "_info_en": "A triple gun mount made for battleships by the land of pasta.<br>A 50-caliber gun with a high rate of fire, being more powerful at medium-short ranges.<br>In addition, the range is on par with the 46 cm cannons of the Yamato-class.<br>There were issues with the cannon's durability.<br>The spread of its fire was also wide, giving it poor accuracy.",
     "_japanese_name": "381mm/50 三連装砲",
     "_los": false,
     "_luck": false,
@@ -6772,7 +6790,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "Cannone da 381/50 Ansaldo M1934"
   },
   "381mm/50 Triple Gun Mount Kai": {
     "_aa": 4,
@@ -6851,7 +6870,8 @@
       },
       "_steel": 500
     },
-    "_info": "パスタの国が生んだ三連装型の戦艦主砲です。<br>高射速の50口径、中近距離戦闘での火力は同クラス最強で<br>す。また、射程も大和型46cm砲と同等以上のカタログスペッ<br>クを誇ります。砲の耐久性や命中率に課題を残していました<br>が、改修によってその命中精度などが向上しています。",
+    "_info": "パスタの国が生んだ三連装型の戦艦主砲です。<br>高射速の50口径、中近距離戦闘での火力は同クラス最強です。<br>また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。<br>砲の耐久性や命中率にも課題を残していましが、改修によってその命中精度などが向上しています。",
+    "_info_en": "This triple-barreled cannon was one of the main cannons used in the land of the pastas by battleships.<br>Boasting a fast-firing 50 caliber barrel, it was considered to have some of the highest firepower among mid-range combat equipment.<br>As for firepower, it's very similar to the Yamato Class 46 cm cannons, and holds its rankings among them.<br>Some of the main problems were its accuracy and durability, but with modernization, its accuracy has been improved over time.",
     "_japanese_name": "381mm/50 三連装砲改",
     "_los": false,
     "_luck": false,
@@ -7183,7 +7203,6 @@
     "_buildable": false,
     "_evasion": false,
     "_firepower": 17,
-    "_gun_fit_group": "35.6 cm",
     "_icon": 3,
     "_id": 114,
     "_improvements": {
@@ -7253,7 +7272,8 @@
       },
       "_steel": 470
     },
-    "_info": "ビスマルク級戦艦に搭載された戦艦主砲の改修型です。<br>短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修<br>によってその命中精度などが大きく向上しています。",
+    "_info": "ビスマルク級戦艦に搭載された戦艦主砲の改修型です。<br>短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修によってその命中精度などが大きく向上しています。",
+    "_info_en": "An improved version of the main guns mounted on the Bismarck-class battleships.<br>Meant as the main armament of fast battleships for short to medium ranged artillery combat, this upgrade has significantly improved its accuracy.",
     "_japanese_name": "38cm連装砲改",
     "_los": false,
     "_luck": false,
@@ -9016,7 +9036,8 @@
       },
       "_steel": 60
     },
-    "_info": "陳腐化した53cm魚雷の後継として開発された大型の61cm魚<br>雷。<br>その三連装発射管は、駆逐艦の主力兵装として特型駆逐艦「吹<br>雪」型などに搭載されました。その改良型である本兵装は、装<br>填魚雷を「九三式酸素魚雷」に換装しています。",
+    "_info": "陳腐化した53cm魚雷の後継として開発された大型の61cm魚雷。<br>その三連装発射管は、駆逐艦の主力兵装として特型駆逐艦「吹雪」型などに搭載されました。<br>その改良型である本兵装は、装填魚雷を「九三式酸素魚雷」に換装しています。",
+    "_info_en": "The 61 cm torpedo was developed as a successor to the obsolete 53 cm torpedo.<br>This 3-tubed torpedo launcher was equipped on the \"Fubuki-class\" Special-type destroyers.<br>This improved version also exchanged its torpedoes for the \"Type 93 Oxygen Torpedo\".",
     "_japanese_name": "61cm三連装(酸素)魚雷",
     "_los": false,
     "_luck": false,
@@ -9967,7 +9988,8 @@
       },
       "_steel": 70
     },
-    "_info": "パスタの国が生んだ、新型高速戦艦向けに開発された最新鋭の<br>高角砲です。<br>単砲身ではありますが、発射速度も速く、バランスのよい優れ<br>た中距離対空火器です。",
+    "_info": "パスタの国が生んだ、新型戦艦向けに開発された最新鋭の高角砲です。<br>単砲身ではありますが、発射速度も速く、バランスのよい優れた中距離対空火器です。",
+    "_info_en": "From the land of the pasta, this state-of-the-art high-angled gun was developed for the new battleships.<br>It may only have a single barrel, but with its fast firing rate, this gun was able to perform well because of its well-balanced mid-range anti-air defenses.",
     "_japanese_name": "90mm単装高角砲",
     "_los": false,
     "_luck": false,
@@ -9985,7 +10007,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 4,
-    "_types": [1, 2, 4, 16, 0]
+    "_types": [1, 2, 4, 16, 0],
+    "_wikipedia": "Cannone da 90/53"
   },
   "AU-1": {
     "_aa": 9,
@@ -10312,7 +10335,8 @@
     "_icon": 10,
     "_id": 115,
     "_improvements": true,
-    "_info": "ビスマルク級などの主力艦艇に搭載された艦載水上偵察機で<br>す。<br>偵察、観測、哨戒、そして対潜水艦任務など、南大西洋で幅広<br>く活躍した同機の改修型で、艦隊の眼の役割を担います。",
+    "_info": "ビスマルク級などの主力艦艇に搭載された艦載水上偵察機です。<br>偵察、観測、哨戒、そして対潜水艦任務など、南大西洋で幅広く活躍した同機の改修型で、艦隊の眼の役割を担います。",
+    "_info_en": "A reconnaissance aircraft installed in Bismarck-class flagships.<br>This refurbished version was the widely dominant aircraft in the South Atlantic in reconnaissance, observation, patrol, and anti-submarine operations, playing the role of the eye of the fleet.",
     "_japanese_name": "Ar196改",
     "_los": 5,
     "_luck": false,
@@ -10632,7 +10656,8 @@
     "_icon": 6,
     "_id": 158,
     "_improvements": false,
-    "_info": "かの国で開発/量産された主力戦闘機Bf109シリーズ。<br>メッサーシュミットの名でも知られる、ヨーロッパの空で活躍<br>した名機。本機はそのE型をベースにした艦上機バージョンの<br>さらなる改修機です。防空戦闘で大きな能力を発揮します。",
+    "_info": "かの国で開発/量産された主力戦闘機Bf109シリーズ。<br>メッサーシュミットの名でも知られる、ヨーロッパの空で活躍した名機。<br>本機はそのE型をベースにした艦上機バージョンのさらなる改修機です。防空戦闘で大きな能力を発揮します。",
+    "_info_en": "The Bf109 was the main fighter aircraft developed and mass-produced in another country.<br>Also known as the Messerschmitt, it is a famous aircraft that was active in the skies of Europe.<br>This aircraft is a further modification of the shipboard version based on the E type. It has great air defense capabilities.",
     "_japanese_name": "Bf109T改",
     "_los": false,
     "_luck": false,
@@ -10651,7 +10676,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 14],
-    "_wikipedia": "Messerschmitt_Bf_109_variants#Bf_109T"
+    "_wikipedia": "Messerschmitt Bf 109 variants"
   },
   "Bi Type 40mm Twin Autocannon Mount": {
     "_aa": 6,
@@ -10999,7 +11024,8 @@
     "_icon": 34,
     "_id": 150,
     "_improvements": false,
-    "_info": "旬の水揚げされたばかりの新鮮な秋刀魚を使った蒲焼の缶詰で<br>す。脂が乗った秋刀魚を炭火焼で丁寧に仕上げたその味は、そ<br>のままでも美味しいですが、おにぎりと一緒に食すれば美味し<br>さ倍増です。(戦闘糧食と一緒に発動すると効果倍増です。発<br>動すると消滅します)",
+    "_info": "旬の秋刀魚「蒲焼」缶詰です。<br>単品はもちろん、おにぎり等と一緒に食すとより美味しい！",
+    "_info_en": "The seasonal \"Kabayaki\" Pacific Saury sealed in a can.<br>Individually of course, and it tastes more delicious when eaten with Onigiri and so forth.",
     "_item_id": 69,
     "_japanese_name": "秋刀魚の缶詰",
     "_los": false,
@@ -11018,7 +11044,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 43,
-    "_types": [18, 34, 43, 34, 0]
+    "_types": [18, 34, 43, 34, 0],
+    "_wikipedia": "Pacific saury"
   },
   "Combat Ration": {
     "_aa": false,
@@ -11112,7 +11139,8 @@
       },
       "_steel": false
     },
-    "_info": "腹が減ってはなんとやら……戦闘前にしっかりと腹ごしらえを<br>しておきましょう。<br>海の上で食べる握り飯の味は格別です！<br>（発動すると消滅します）",
+    "_info": "腹が減ってはなんとやら･･････戦闘前にしっかりと腹ごしらえをしておきましょう。<br>海の上で食べる握り飯の味は格別です！<br>(発動すると消滅します)",
+    "_info_en": "You can't fight on an empty whatever......Let's make sure to fill our stomachs before the battle.<br>The flavor of rice balls eaten at sea is something special!<br>(Is consumed on activation)",
     "_item_id": 66,
     "_japanese_name": "戦闘糧食",
     "_los": false,
@@ -11598,7 +11626,8 @@
       },
       "_steel": 120
     },
-    "_info": "大発動艇、略して「大発」。旧式ではありますが量産型「大<br>発」に積載可能な「八九式中戦車」と、重火器で武装した陸戦<br>隊を搭載した、上陸作戦用の強襲揚陸バージョン(試製噴進砲<br>もif装備)です。輸送任務ではなく、敵地への上陸作戦等に適し<br>ています。",
+    "_info": "大発動艇、略して「大発」。<br>旧式ではありますが量産型「大発」に積載可能な「八九式中戦車」と、重火器で武装した陸戦隊を搭載した、上陸作戦用の強襲揚陸バージョン(試製噴進砲もif装備)です。<br>輸送任務ではなく、敵地への上陸作戦等に適しています。",
+    "_info_en": "The Daihatsu-class landing craft, or \"Daihatsu\" for short.<br>Even though they are outdated, the old model \"Daihatsu\" can still carry the \"Type 89 Medium Tank\" and a heavy weapons squad, with the amphibious assault version (armed with a prototype gun) used for landing operations.<br>Not only used for transport missions, it can also be used for landing operations too.",
     "_japanese_name": "大発動艇(八九式中戦車&陸戦隊)",
     "_los": false,
     "_luck": false,
@@ -11617,7 +11646,7 @@
     "_torpedo_accuracy": false,
     "_type": 24,
     "_types": [8, 14, 24, 20, 0],
-    "_wikipedia": "Type 89 I-Go"
+    "_wikipedia": "Type 89 I-Go medium tank"
   },
   "Do 17 Z-2": {
     "_aa": 2,
@@ -12685,7 +12714,8 @@
     "_icon": 11,
     "_id": 124,
     "_improvements": true,
-    "_info": "かの国で開発された艦載用レーダー(電探)です。<br>科学の国の電子兵装、残念ながら、我が連合艦隊に装備された<br>電探よりスペックは高いです。<br>主に巡洋艦以上の大型艦艇に搭載されました。",
+    "_info": "かの国で開発された艦載用レーダー(電探)です。<br>科学の国の電子兵装、残念ながら、我が連合艦隊に装備された電探よりスペックは高いです。<br>主に巡洋艦以上の大型艦艇に搭載されました。",
+    "_info_en": "This is a ship-borne radar developed in that country.<br>Unfortunately, the radars of the land of science have higher specs than the ones equipped to our  Combined Fleet.<br>It is mainly used aboard cruisers or any other larger warships.",
     "_japanese_name": "FuMO25 レーダー",
     "_los": 9,
     "_luck": false,
@@ -12704,7 +12734,8 @@
     "_torpedo_accuracy": false,
     "_type": 13,
     "_types": [5, 8, 13, 11, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "FuMO 24 radar"
   },
   "Fulmar": {
     "_aa": 3,
@@ -12852,7 +12883,8 @@
     "_icon": 6,
     "_id": 159,
     "_improvements": false,
-    "_info": "かの国で開発/量産された強力で信頼性の高い戦闘機Fw190シ<br>リーズ。タンク博士の設計により誕生し、フォッケウルフの名<br>で親しまれた名機です。本機はその後期型を改修した艦上機バ<br>ージョンです。高い制空戦闘能力を発揮します。",
+    "_info": "かの国で開発/量産された強力で信頼性の高い戦闘機Fw190シリーズ。<br>タンク博士の設計により誕生し、フォッケウルフの名で親しまれた名機です。<br>本機はその後期型を改修した艦上機バージョンです。<br>高い制空戦闘能力を発揮します。",
+    "_info_en": "The Fw190 series of powerful and reliable fighter planes were developed and mass-produced in that other country.<br>It was designed by Dr. Tank, and was known as the Focke-Wulf.<br>This aircraft is a carrier-based version of a later model.<br>It demonstrates a high level of air combat capability.",
     "_japanese_name": "Fw190T改",
     "_los": false,
     "_luck": false,
@@ -12949,7 +12981,8 @@
     "_icon": 37,
     "_id": 187,
     "_improvements": true,
-    "_info": "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された<br>陸上発進の攻撃機です。優れた機体設計により、高い性能を秘<br>めていました。戦力化された時期が遅かったことや複雑すぎる<br>構造に問題もありましたが、最後まで戦い抜きました。一部は<br>夜間戦闘機に転用されました。",
+    "_info": "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された陸上発進の攻撃機です。<br>優れた機体設計により、高い性能を秘めていました。<br>戦力化された時期が遅かったことや複雑すぎる構造に問題もありましたが、最後まで戦い抜きました。<br>一部は夜間戦闘機に転用されました。",
+    "_info_en": "Developed as a successor to the \"Type 1 Land Attacker\", the premier land-attack plane of the Navy.<br>The excellent design of the airframe hides an impressive performance.<br>It arrived too late to change the course of the war and the problems caused by its complex construction were not solved; it saw combat at the end of the war.<br>Some were converted to night fighters.",
     "_japanese_name": "銀河",
     "_localized_name": "Galaxy",
     "_los": 3,
@@ -13834,7 +13867,8 @@
       },
       "_steel": false
     },
-    "_info": "トリコロールの国で開発された水上攻撃機です。<br>日本海軍ではあまり研究されなかった、水上雷撃機としての運<br>用を狙った機体でもあります。本機は同機の水上機母艦艦載機<br>バージョンで、索敵や爆装攻撃を含むマルチロールが期待され<br>ていました。",
+    "_info": "トリコロールの国で開発された水上攻撃機です。<br>日本海軍ではあまり研究されなかった、水上雷撃機としての運用を狙った機体でもあります。<br>本機は同機の水上機母艦艦載機バージョンで、索敵や爆装攻撃を含むマルチロールが期待されていました。",
+    "_info_en": "This is a seaborne attack aircraft developed in the tricolor country.<br>It was also designed to carry a torpedo, something the Japanese navy did not study much.<br>This variant has folding wings for use on seaplane tenders, and was expected to perform multiple roles including recon and fighter-bomber.",
     "_japanese_name": "Laté 298B",
     "_localized_name": "Latécoère 298B",
     "_los": 4,
@@ -14859,7 +14893,8 @@
       },
       "_steel": 120
     },
-    "_info": "パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射<br>砲です。<br>砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最<br>新型です。新型高速戦艦の副砲にも採用されました。",
+    "_info": "パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射砲です。<br>砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最新型です。<br>新型高速戦艦の副砲にも採用されました。",
+    "_info_en": "Produced in the country of pasta, this is a reliable high-performance medium-caliber triple rapid-fire gun.<br>This latest model uses electric power to rapidly swivel and elevate, and for the ammunition supply and loading.<br>The newest fast battleships were equipped with it as a secondary cannon.",
     "_japanese_name": "OTO 152mm三連装速射砲",
     "_los": false,
     "_luck": false,
@@ -14877,7 +14912,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 4,
-    "_types": [1, 2, 4, 4, 0]
+    "_types": [1, 2, 4, 4, 0],
+    "_wikipedia": "152 mm/55 Italian naval gun Models 1934 and 1936"
   },
   "PBY-5A Catalina": {
     "_aa": false,
@@ -15335,7 +15371,8 @@
       },
       "_steel": 650
     },
-    "_info": "海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その<br>試作二連装砲です。<br>敵戦艦に対してアウトレンジが可能な最大射程40kmを超える<br>巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量で<br>す。主力戦艦群への搭載と同主兵装としての運用が可能です。",
+    "_info": "海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その試作二連装砲です。<br>敵戦艦に対してアウトレンジが可能な最大射程40kmを超える巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量です。<br>主力戦艦群への搭載と同主兵装としての運用が可能です。 ",
+    "_info_en": "The 46cm twin gun mount is one of the main cannons developed in secrecy by the Naval Arsenal.<br>While it can outrange enemy battleships with its 40 km maximum range, it is also lighter than the 46 cm triple cannons of the Yamato-class.<br>It can be used as the main cannons on other frontline battleships.",
     "_japanese_name": "試製46cm連装砲",
     "_los": false,
     "_luck": false,
@@ -15354,7 +15391,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "46 cm/45 Type 94 naval gun"
   },
   "Prototype 51cm Triple Gun Mount": {
     "_aa": 5,
@@ -15447,7 +15485,8 @@
       },
       "_steel": 950
     },
-    "_info": "改「大和」型、そしてその拡大発展級である超「大和」型の主<br>兵装として開発されている新型戦艦用大口径主砲です。<br>51cm砲が実現する群を抜いたその火力は、他の戦艦主砲の火<br>力を圧倒します。46cm砲をも凌駕する大きさと重量なため、<br>戦艦級の中でも限られた艦艇のみ、本兵装を装備することが可<br>能です。",
+    "_info": "改「大和」型、そしてその拡大発展級である超「大和」型の主兵装として開発されている新型戦艦用大口径主砲です。<br>51cm砲が実現する群を抜いたその火力は、他の戦艦主砲の火力を圧倒します。<br>46cm砲をも凌駕する大きさと重量なため、戦艦級の中でも限られた艦艇のみ、本兵装を装備することが可能です。 ",
+    "_info_en": "This is a large-caliber main gun for a new type of battleship that is being developed as the main weapon for the \"Kai Yamato-class\" and the expanded \"Super Yamato-class\".<br>The 51 cm guns achieved firepower that overwhelmed the firepower of other battleship main guns.<br>As the gun surpasses even the weight and size of the 46 cm guns, only a limited number of battleships can carry this gun.",
     "_japanese_name": "試製51cm連装砲",
     "_los": false,
     "_luck": false,
@@ -15576,7 +15615,8 @@
     "_icon": 5,
     "_id": 127,
     "_improvements": false,
-    "_info": "かの国で開発されていた、ジャイロ機構によって自動変針と直<br>線航行を繰り返し行い、面で敵艦を攻撃する「FaT航走パター<br>ン」仕様を実装した試製潜水艦搭載用酸素魚雷です。Uボート<br>によってもたらされた技術を応用した、平面を制圧する航路を<br>疾走する特殊な試作魚雷です。",
+    "_info": "かの国で開発されていた、ジャイロ機構によって自動変針と直線航行を繰り返し行い、面で敵艦を攻撃する「FaT航走パターン」仕様を実装した試製潜水艦搭載用酸素魚雷です。<br>Uボートによってもたらされた技術を応用した、平面を制圧する航路を疾走する特殊な試作魚雷です。",
+    "_info_en": "This is a prototype, submarine oxygen torpedo with the \"FaT guidance system\" which uses a gyroscopic mechanism to change course over time that was developed by that country for use on surface attacks on enemy warships.<br>This prototype oxygen torpedo was brought by U-boats for practical use on sea-lane control.",
     "_japanese_name": "試製FaT仕様九五式酸素魚雷改",
     "_los": false,
     "_luck": false,
@@ -15702,7 +15742,8 @@
       },
       "_steel": 700
     },
-    "_info": "空技廠が開発した最新鋭の高々度試作偵察機「景雲」。同機に<br>艦載用の改修を行った艦上偵察機バージョンです。様々な新機<br>軸を盛り込んだユニークな機体の「景雲」は、開発中のターボ<br>ジェットエンジン「ネ330」を搭載して、新鋭噴進式攻撃機化<br>する計画もありました。<br>(本機は新鋭正規空母の一部のみ運用可能です)",
+    "_info": "空技廠が開発した最新鋭の高々度試作偵察機「景雲」。<br>同機に艦載用の改修を行った艦上偵察機バージョンです。<br>様々な新機軸を盛り込んだユニークな機体の「景雲」は、開発中のターボジェットエンジン「ネ330」を搭載して、新鋭噴進式攻撃機化する計画もありました。<br>(本機は新鋭正規空母の一部のみ運用可能です)。",
+    "_info_en": "The high-flight-level prototype reconnaissance plane \"Keiun\" developed by the Air Technical Arsenal.<br>This is the remodeled version suitable for carriers.<br>\"Keiun\" has a unique body, and there were planes to equip the \"Ne-330\" turbojet engine to transform it into an attacking plane.<br>(This plane is only usable by a small portion of elite standard carriers).",
     "_japanese_name": "試製景雲(艦偵型)",
     "_localized_name": "Prototype Cirrus Cloud (Carrier-based Reconnaissance Model)",
     "_los": 11,
@@ -15769,7 +15810,8 @@
     "_icon": 7,
     "_id": 148,
     "_improvements": false,
-    "_info": "水上機搭載可能な潜水艦による戦略的な運用を目指して開発さ<br>れた、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。そ<br>の陸上運用機バージョン「南山」に着艦フックを付与した試作<br>航空母艦運用型(爆装)です。テスト機なので、派手なカラーリ<br>ングとなっています。",
+    "_info": "水上機搭載可能な潜水艦による戦略的運用を目指して開発された、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。<br>その陸上運用機バージョン「南山」に着艦フックを付与した試作航空母艦運用型(爆装)です。<br>テスト機なので、派手なカラーリングとなっています。",
+    "_info_en": "The high-spec ship-based attack plane \"Seiran\" was originally developed to be used by submarines capable of carrying seaplanes.<br>This is the modified prototype version for use by carriers (with dive bombs) based off \"Nanzan\", with hooks attached for landing on ships.<br>This is a test model, so bright coloring is applied.",
     "_japanese_name": "試製南山",
     "_localized_name": "Prototype Southern Mountain",
     "_los": 2,
@@ -15788,7 +15830,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 24]
+    "_types": [3, 5, 7, 7, 24],
+    "_wikipedia": "Aichi M6A"
   },
   "Prototype Night Zuiun (Attack Equipment)": {
     "_aa": 4,
@@ -16103,7 +16146,8 @@
     "_icon": 23,
     "_id": 136,
     "_improvements": true,
-    "_info": "シリンダータイプの隔壁による、艦幅も重量も増やさずに水中<br>防御を向上させる大型艦艇の防御隔壁です。タラントでの戦訓<br>から評価が分かれますが、一定の防御効果は期待できるといわ<br>れています。<br>(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)",
+    "_info": "シリンダータイプの隔壁による、艦幅も重量も増やさずに水中防御を向上させる大型艦艇の防御隔壁です。<br>タラントでの戦訓から評価が分かれますが、一定の防御効果は期待できるといわれています。<br>(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)",
+    "_info_en": "The Pugliese Underwater Protection Bulkhead is a cylindrical bulkhead intended to increase underwater protection against large warships.<br>As for the defense it provides, it should be considered as reliable when it was used in the Taranto battle training.<br>(Can be mounted on battleships, battlecruisers, aviation battleships, and aircraft carriers (including armored carriers))",
     "_japanese_name": "プリエーゼ式水中防御隔壁",
     "_los": false,
     "_luck": false,
@@ -16135,7 +16179,8 @@
     "_icon": 15,
     "_id": 191,
     "_improvements": false,
-    "_info": "紅茶の国の大型艦などに搭載された対空火器で、その個性ある<br>射撃音から通称ポンポン砲と呼ばれました。<br>本装備はその8連装バージョンです。運用性に難があり、故障<br>も多いものの、大火力&有名な近接対空火器です。",
+    "_info": "紅茶の国の大型艦などに搭載された対空火器で、その個性ある射撃音から通称ポンポン砲と呼ばれました。<br>本装備はその8連装バージョンです。<br>運用性に難があり、故障も多いものの、大火力&有名な近接対空火器です。",
+    "_info_en": "An anti-aircraft gun mounted on large ships from the country of tea, commonly known as a pom-pom gun due to its unique sound.<br>This gun is the octuple version.<br>It is hard to use and prone to breaking down; a famous anti-air point defense with high firepower.",
     "_japanese_name": "QF 2ポンド8連装ポンポン砲",
     "_los": false,
     "_luck": false,
@@ -16436,7 +16481,8 @@
     "_icon": 8,
     "_id": 188,
     "_improvements": false,
-    "_info": "パスタの国で開発/配備された液冷エンジン装備の戦闘機の<br>……航空魚雷装備型です。<br>魚雷投下後は制空戦闘で活躍……することもできるかも。艦攻<br>と艦戦の中間的な機体です。",
+    "_info": "パスタの国で開発/配備された液冷エンジン装備の戦闘機の……航空魚雷装備型です。<br>魚雷投下後は制空戦闘で活躍……することができるかも。<br>艦攻と艦戦の中間的な機体です。",
+    "_info_en": "Torpedo fighters equipped with liquid-cooled engines that were developed and deployed by the country of pasta.<br>It was supposed... to be capable of dropping torpedoes and contesting air superiority.<br>A hybrid airframe used for anti-ship operations.",
     "_japanese_name": "Re.2001 G改",
     "_localized_name": "Reggiane Re.2001 G/H Falco II",
     "_los": false,
@@ -16528,7 +16574,8 @@
       },
       "_steel": 10
     },
-    "_info": "パスタの国で開発/配備された液冷エンジン装備の戦闘機の艦<br>載型です。<br>同国の建造していた航空母艦への搭載が計画されていました。",
+    "_info": "パスタの国で開発/配備された液冷エンジン装備の戦闘機の艦載型です。<br>同国の建造していた航空母艦への搭載が計画されていました。",
+    "_info_en": "A carrier-based version of a fighter plane with a liquid cooling engine that was being developed in the land of pasta.<br>It was planned to be utilized by aircraft carriers being built by the same country.",
     "_japanese_name": "Re.2001 OR改",
     "_localized_name": "Reggiane Re.2001 OR Serie II Falco II ",
     "_los": false,
@@ -16548,7 +16595,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 14],
-    "_wikipedia": "Reggiane Re.2001"
+    "_wikipedia": "Reggiane Re.2001 Falco II"
   },
   "Re.2005 Kai": {
     "_aa": 11,
@@ -16563,7 +16610,8 @@
     "_icon": 6,
     "_id": 189,
     "_improvements": false,
-    "_info": "パスタの国で戦いの後期に開発が進められていた高性能戦闘機<br>です。<br>量産戦力化されることは叶いませんでしたが、高い潜在力を持<br>ち、優れた戦闘力が期待されました。本機はその艦載機バー<br>ジョンです。",
+    "_info": "パスタの国で戦いの後期に開発が進められていた高性能戦闘機です。<br>量産戦力化されることは叶いませんでしたが、高い潜在力を持ち、優れた戦闘力が期待されました。<br>本機はその艦載機バージョンです。",
+    "_info_en": "A high-performance fighter from the later stages of the war that was developed in the land of pasta.<br>It wasn't managed to be mass-produced, but it had a lot of hidden potential and high expectations of its combat potential.<br>This plane is the carrier-based version.",
     "_japanese_name": "Re.2005 改",
     "_localized_name": "Reggiane Re.2005 Sagittario",
     "_los": false,
@@ -16985,7 +17033,8 @@
       },
       "_steel": false
     },
-    "_info": "パスタの国で開発/運用された運動性に優れた複葉複座の水上<br>偵察機です。同国の中型以上の主力水上艦艇に搭載されまし<br>た。低速機であるものの、信頼性と優れた操縦性を持った水偵<br>として、艦隊の目や連絡を務めます。単座の戦闘機バージョン<br>も存在しました。",
+    "_info": "パスタの国で開発/運用された運動性に優れた複葉複座の水上偵察機です。<br>同国の中型以上の主力水上艦艇に搭載されました。<br>低速機であるものの、信頼性と優れた操縦性を持った水偵として、艦隊の目や連絡を務めます。<br>単座の戦闘機バージョンも存在しました",
+    "_info_en": "This is a biplane with good maneuverability and multiple seats used as recon seaplane by the country of pasta.<br>It was equipped to ships of medium-sized and above.<br>It has a lower speed, but as a recon seaplane with good reliability and maneuverability, it was still used as the eyes and liaison of the fleet.<br>A single-seat fighter version also existed.",
     "_japanese_name": "Ro.43水偵",
     "_localized_name": "IMAM Ro.43",
     "_los": 4,
@@ -17067,7 +17116,8 @@
       },
       "_steel": false
     },
-    "_info": "パスタの国で運用された信頼性と運動性に優れた複葉複座の水<br>偵Ro.43を単座に改修した水上戦闘機です。低速なため戦闘機<br>としては限界がありますが、貴重な洋上防空戦力として期待さ<br>れました。量産数は控えめです。",
+    "_info": "パスタの国で運用された信頼性と運動性に優れた複葉複座の水偵Ro.43を単座に改修した水上戦闘機です。<br>低速なため戦闘機としては限界がありますが、貴重な洋上防空戦力として期待されました。<br>量産数は控えめです。",
+    "_info_en": "A single-seat seaplane fighter remodeled from the double-seat Ro.43 Recon Seaplane that came from the country of pasta.<br>Because it was not as speedy, it had a limited capability as a fighter, but was counted on as a valuable maritime anti-air force.<br>It was not mass produced as much.",
     "_japanese_name": "Ro.44水上戦闘機",
     "_localized_name": "IMAM Ro.44",
     "_los": 2,
@@ -17215,7 +17265,8 @@
     "_icon": 8,
     "_id": 113,
     "_improvements": false,
-    "_info": "艦攻と艦爆を統合した先進的な\"急降下爆撃可能な雷撃機\"、そ<br>れが「流星」です。<br>発動機不調と重量過大に悩みながらも、開発に成功。高い性能<br>を誇る最新鋭の艦上攻撃機です。錬成を重ねた六〇一空が機種<br>転換し、本機を装備します。整備の行き届いた流星を定数装備<br>した、新生艦攻隊の主力です。",
+    "_info": "艦攻と艦爆を統合した先進的な\"急降下爆撃可能な雷撃機\"、それが「流星」です。<br>発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。<br>錬成を重ねた六〇一空が機種転換し、本機を装備します。<br>整備の行き届いた流星を定数装備した、新生艦攻隊の主力です。 ",
+    "_info_en": "Ryusei is an advanced \"dive bombing torpedo bomber\" that integrates naval attack and naval bombing.<br>Despite problems with its engine and weight, it was finally completed, boasting as a high-performance, cutting-edge, carrier-borne attack aircraft.<br>The 601 Air Group in training transitioned into this type of aircraft.<br>Well-maintained, this aircraft became the mainstay of the carrier attack group.",
     "_japanese_name": "流星(六〇一空)",
     "_localized_name": "Shooting Star (601 Air Group)",
     "_los": 3,
@@ -17235,7 +17286,8 @@
     "_torpedo": 13,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 17]
+    "_types": [3, 5, 8, 8, 17],
+    "_wikipedia": "Aichi B7A"
   },
   "Ryuusei Kai": {
     "_aa": 1,
@@ -17742,7 +17794,8 @@
     "_icon": 7,
     "_id": 195,
     "_improvements": true,
-    "_info": "シンプルかつ頑丈な作りの傑作急降下爆撃機です。<br>大戦初期の機体でありながら、旧式化したあとも長く使われま<br>した。ドーントレスの愛称で呼ばれた本機は、練度の高いパイ<br>ロットであれば、ある程度の対空戦闘も可能でした。",
+    "_info": "シンプルかつ頑丈な作りの傑作急降下爆撃機です。<br>大戦初期の機体でありながら、旧式化したあとも長く使われました。ドーントレスの愛称で呼ばれた本機は、練度の高いパイロットであれば、ある程度の対空戦闘も可能でした。",
+    "_info_en": "Called the Dauntless, this simple yet robust dive bomber was used extensively during the Great War.<br>In the hands of a skilled pilot it can even be used as a fighter.",
     "_japanese_name": "SBD",
     "_localized_name": "Douglas SBD-1 Dauntless",
     "_los": 2,
@@ -18014,6 +18067,7 @@
     "_id": 123,
     "_improvements": true,
     "_info": "かの国の重巡洋艦装備用に開発された連装砲です。<br>高い命中率と火力を誇る優秀な巡洋艦主兵装です。<br>中距離の砲撃戦で威力を発揮します。",
+    "_info_en": "A twin-mounted gun developed for the heavy cruisers of that country.<br>It is an excellent cruiser gun that boasts high accuracy and firepower.<br>It displays its power during medium-ranged shelling.",
     "_japanese_name": "SKC34 20.3cm連装砲",
     "_los": false,
     "_luck": false,
@@ -19251,7 +19305,8 @@
     "_icon": 10,
     "_id": 118,
     "_improvements": true,
-    "_info": "制空権を失った空でも強行偵察が可能な高性能水偵を目指して<br>開発された、十四試高速水上偵察機「紫雲」です。火星エンジ<br>ンと二重反転プロペラの採用、投下可能フロート機構などで高<br>速高性能な次世代艦載水偵となるはずでしたが、計画通りの高<br>性能を発揮することは叶いませんでした。就役直後の軽巡「大<br>淀」などで、増加試作機が運用されています。",
+    "_info": "制空権を失った空でも強行偵察が可能な高性能水偵を目指して開発された、十四試高速水上偵察機「紫雲」です。<br>火星エンジンと二重反転プロペラの採用、投下可能フロート機構などで高速高性能な次世代艦載水偵となるはずでしたが、計画通りの高性能を発揮することは叶いませんでした。<br>就役直後の軽巡「大淀」などで、増加試作機が運用されています。 ",
+    "_info_en": "The \"Shiun\" was conceived as a high-performance seaplane intended to scout the enemy where air superiority is lost or unachievable.<br>A next-generation seaplane powered by the Mitsubishi Kasei engine with a pair of contra-rotating propellers and floats that could be jettisoned for higher speed performance, tests were inconclusive with these features.<br>Nonetheless, these aircraft saw service aboard the light cruiser, \"Ooyodo\".",
     "_japanese_name": "紫雲",
     "_localized_name": "Violet Cloud",
     "_los": 8,
@@ -19449,7 +19504,8 @@
     "_icon": 32,
     "_id": 129,
     "_improvements": false,
-    "_info": "水上戦闘艦に配備可能な熟練見張員です。<br>その鍛え抜かれた肉眼視力による偵察力・索敵力は状況によっ<br>ては大きな威力を発揮し、敵艦隊のレーダー兵装が充実するま<br>では、特に夜戦などで水上艦隊の攻撃力を支えました。",
+    "_info": "水上戦闘艦に配備可能な熟練見張員です。<br>その鍛え抜かれた肉眼視力による偵察力・索敵力は状況によっては大きな威力を発揮し、敵艦隊のレーダー兵装が充実するまでは、特に夜戦などで水上艦隊の攻撃力を支えました。",
+    "_info_en": "Skilled lookouts can be deployed on surface warships.<br>Using their skilled naked eyes, they can largely contribute in scouting the enemy depending on the situation and before the advent of enemy radars, can spot for targets, especially during night battles.",
     "_japanese_name": "熟練見張員",
     "_los": 2,
     "_luck": false,
@@ -19468,7 +19524,7 @@
     "_torpedo_accuracy": false,
     "_type": 39,
     "_types": [16, 27, 39, 32, 0],
-    "_wikipedia": "Crow's Nest"
+    "_wikipedia": "Crow's nest"
   },
   "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)": {
     "_aa": false,
@@ -19803,7 +19859,8 @@
       },
       "_steel": 100
     },
-    "_info": "島嶼への上陸作戦のために開発された水陸両用「特二式内火<br>艇」、通称「カミ車」です。前後に着脱式のフロートを備え、<br>機甲戦力として敵地への上陸作戦が可能です。輸送時の水密化<br>構造が採用されており、潜水艦での運用も可能でした。",
+    "_info": "島嶼への上陸作戦のために開発された水陸両用「特二式内火艇」、通称「カミ車」です。<br>前後に着脱式のフロートを備え、機甲戦力として敵地への上陸作戦が可能です。<br>輸送時の水密化構造が採用されており、潜水艦での運用も可能でした。",
+    "_info_en": "An amphibious vehicle developed for landing operations around islands, the \"Special Type 2 Amphibious Tank\", also known as the \"Ka-Mi Tank\".<br>Equipped with removable floats at the front and back, it allowed landing operations to have armored support.<br>With watertight construction, it can also be deployed aboard submarines.",
     "_japanese_name": "特二式内火艇",
     "_localized_name": "Type 2 Ka-Mi",
     "_los": false,
@@ -21676,7 +21733,8 @@
     "_icon": 8,
     "_id": 112,
     "_improvements": false,
-    "_info": "旧式化した「九七艦攻」の後継機として開発された、新鋭艦上<br>攻撃機「天山」。<br>本部隊は、同機を装備して内地で錬成を重ねた六〇一空による<br>精鋭艦攻機隊です。新生空母機動部隊の打撃力を担います。",
+    "_info": "旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。<br>本部隊は、同機を装備して内地で錬成を重ねた六〇一空による精鋭艦攻機隊です。<br>新生空母機動部隊の打撃力を担います。",
+    "_info_en": "The new \"Tenzan\" was developed as a successor to the obsolete \"Type 97 Torpedo Bomber\".<br>This is the aircraft of choice of the elite 601st Air Group currently in training at the mainland.<br>This aircraft is intended to form the backbone of strike groups of the newly formed Carrier Task Force.",
     "_japanese_name": "天山(六〇一空)",
     "_localized_name": "Heavenly Mountain (601 Air Group)",
     "_los": 2,
@@ -21695,7 +21753,8 @@
     "_torpedo": 10,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 1]
+    "_types": [3, 5, 8, 8, 1],
+    "_wikipedia": "Nakajima B6N"
   },
   "Tenzan (931 Air Group)": {
     "_aa": false,
@@ -21746,7 +21805,8 @@
     "_icon": 8,
     "_id": 144,
     "_improvements": false,
-    "_info": "旧式化した「九七艦攻」の後継機として開発された、新鋭艦上<br>攻撃機「天山」。同機を装備した本部隊は、高技量と豊かな指<br>導力を兼ね備えた歴戦の空中指揮官が率いる、「天山」への機<br>種転換が完了した精鋭艦攻隊です。",
+    "_info": "旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。<br>同機を装備した本部隊は、高技量と豊かな指導力を兼ね備えた歴戦の空中指揮官が率いる、「天山」への機種転換が完了した精鋭艦攻隊です。",
+    "_info_en": "The \"Tenzan\" is an advanced torpedo bomber developed as a successor to the obsolete \"Type 97 Attacker\".<br>The command squadron equipped with this plane is an elite attack squadron that has converted to the \"Tenzan\", led by a veteran commander with a history of high skill and abundant leadership.",
     "_japanese_name": "天山一二型(村田隊)",
     "_localized_name": "Heavenly Mountain Model 12 (Murata Squadron)",
     "_los": 4,
@@ -21766,7 +21826,7 @@
     "_torpedo_accuracy": false,
     "_type": 8,
     "_types": [3, 5, 8, 8, 1],
-    "_wikipedia": "ja:村田重治"
+    "_wikipedia": "Nakajima B6N"
   },
   "Tenzan Model 12 (Tomonaga Squadron)": {
     "_aa": 1,
@@ -21975,7 +22035,8 @@
       },
       "_steel": 120
     },
-    "_info": "特大発動艇、略して「特大発」。<br>輸送船からの揚陸作業や上陸戦に用いる数多く量産された上陸<br>用舟艇、「大発」。この海上のトラック「大発」を新型中戦車<br>搭載等に対応するためより大型化、搭載力が向上しています。",
+    "_info": "特大発動艇、略して「特大発」。<br>輸送船からの揚陸作業や上陸戦に用いる数多く量産された上陸用舟艇、「大発」。<br>この海上のトラック「大発」を新型中戦車搭載等に対応するためより大型化、搭載力が向上しています。",
+    "_info_en": "Toku Daihatsu-class Landing Craft or \"Toku Daihatsu\" for short.<br>Unloading and landing operations made use of great numbers of these mass-produced \"Daihatsu\" landing craft.<br>The maritime truck \"Daihatsu\" was increased in size to accommodate the new medium tank.",
     "_japanese_name": "特大発動艇",
     "_los": false,
     "_luck": false,
@@ -22759,7 +22820,8 @@
       },
       "_steel": false
     },
-    "_info": "名機零式艦戦21型の性能向上型、「零式艦上戦闘機32型」で<br>す。<br>翼端を角型に変更、エンジン換装により出力向上を図りまし<br>た。また、搭載機銃の弾数も増やしています。航続距離など不<br>利な点もありましたが、ラバウル航空隊やブイン、そしてソロ<br>モン上空の戦いに参加しました。",
+    "_info": "名機零式艦戦21型の性能向上型、「零式艦上戦闘機32型」です。<br>翼端を角型に変更、エンジン換装により出力向上を図りました。<br>また、搭載機銃の弾数も増やしています。<br>航続距離など不利な点もありましたが、ラバウル航空隊やブイン、そしてソロモン上空の戦いに参加しました。",
+    "_info_en": "An improvement over the high-performance Model 21 Zero, the \"Type 0 Fighter Carrier-Based Model 32\".<br>The wing tips were squared off and the engine retrofitted to improve performance.<br>In addition to that, the ammunition capacity of the machine guns was increased.<br>It was at a disadvantage when it came to operation range but it still served in the Rabaul and Buin Air Corps as well as in the skies of Solomon.",
     "_japanese_name": "零式艦戦32型",
     "_los": false,
     "_luck": false,
@@ -22777,7 +22839,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 11]
+    "_types": [3, 5, 6, 6, 11],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 32 (Skilled)": {
     "_aa": 8,
@@ -22912,7 +22975,8 @@
       },
       "_steel": false
     },
-    "_info": "熟練搭乗員で構成された「零式艦上戦闘機32型」装備の艦戦<br>隊です。<br>翼端を切り落としたスタイルの21型の性能向上型「32型」<br>は、航続距離などに課題もありましたが、精鋭の熟練搭乗員が<br>駆る同機は、ラバウル、そしてソロモン上空の激戦を支えまし<br>た。",
+    "_info": "熟練搭乗員で構成された「零式艦上戦闘機32型」装備の艦戦隊です。<br>翼端を切り落としたスタイルの21型の性能向上型「32型」は、航続距離などに課題もありましたが、精鋭の熟練搭乗員が駆る同機は、ラバウル、そしてソロモン上空の激戦を支えました。",
+    "_info_en": "A carrier-based squadron made up of skilled crew equipped with the \"Type 0 Fighter Model 32\".<br>The \"Model 32\" was an improvement over the Model 21, it had its wingtips squared off and although it had issues with range, it was piloted by skilled elites in Rabaul and in the fierce battles in the skies above Solomon.",
     "_japanese_name": "零式艦戦32型(熟練)",
     "_los": false,
     "_luck": false,
@@ -22930,7 +22994,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 11]
+    "_types": [3, 5, 6, 6, 11],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 32 (Tainan Air Group)": {
     "_aa": 12,
@@ -23227,7 +23292,8 @@
       },
       "_steel": false
     },
-    "_info": "熟練搭乗員で構成された「零式艦上戦闘機52型」装備の艦戦<br>隊です。<br>零戦の最終的な量産機となった「52型」は、後継機の開発が<br>遅れたため、後期の艦上戦闘機の主力として奮戦することにな<br>りました。熟練搭乗員の巧みな操縦技術で、機材の質的劣勢を<br>カバーします。",
+    "_info": "熟練搭乗員で構成された「零式艦上戦闘機52型」装備の艦戦隊です。<br>零戦の最終的な量産機となった「52型」は、後継機の開発が遅れたため、後期の艦上戦闘機の主力として奮戦することになりました。<br>熟練搭乗員の巧みな操縦技術で、機材の質的劣勢をカバーします。",
+    "_info_en": "Carrier-based \"Type 52 Zero Fighters\" piloted by skilled pilots.<br>\"Type 52\" was the last mass-produced model of the Zero fighters and due to the development delays of its successors, it continued to be the backbone of the carrier fighter force.<br>The skills of the skilled pilots will cover for the technological inferiority.",
     "_japanese_name": "零式艦戦52型(熟練)",
     "_los": 1,
     "_luck": false,
@@ -23245,7 +23311,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 12]
+    "_types": [3, 5, 6, 6, 12],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 53 (Iwamoto Squadron)": {
     "_aa": 12,
@@ -23326,7 +23393,8 @@
       },
       "_steel": false
     },
-    "_info": "遂に飛行隊を預かることになった「零戦虎徹」岩本隊長率い<br>る、「零式艦上戦闘機53型」装備の艦戦隊です。「52型」の<br>エンジンと生存性を強化した性能向上型である「零戦53型」<br>を駆り、熟練搭乗員を率いて戦いの空に駆け上がります。",
+    "_info": "遂に飛行隊を預かることになった「零戦虎徹」岩本隊長率いる、「零式艦上戦闘機53型」装備の艦戦隊です。<br>「52型」のエンジンと生存性を強化した性能向上型である「零戦53型」を駆り、熟練搭乗員を率いて戦いの空に駆け上がります。",
+    "_info_en": "The last command of Lt. Iwamoto, the \"Reisen Kotetsu\", a carrier-based squadron equipped with \"Type 53 Zero Fighters\".<br>Improvements to the engines and airframe of the \"Type 52\" resulted in the new model \"Type 53\", it soars into battle piloted by skilled pilots.",
     "_japanese_name": "零式艦戦53型(岩本隊)",
     "_los": 3,
     "_luck": false,
@@ -23345,7 +23413,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 12],
-    "_wikipedia": "Tetsuzo Iwamoto"
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Type 0 Fighter Model 62 (Fighter-bomber)": {
     "_aa": 4,
@@ -23797,7 +23865,8 @@
     "_icon": 18,
     "_id": 132,
     "_improvements": true,
-    "_info": "大型艦用パッシブソナー兵装です。<br>九三式水中聴音機の補音機を増強した大型グレードアップバー<br>ジョンで、大和型戦艦のバルバス・バウ付近にも装備されまし<br>た。専門の人員も配置して水面下の音を収集、敵潜などの早期<br>発見に努めます。",
+    "_info": "大型艦用パッシブソナー兵装です。<br>九三式水中聴音機の捕音機を増強した大型グレードアップバージョンで、大和型戦艦のバルバス・バウ付近にも装備されました。<br>専門の人員も配置して水面下の音を収集、敵潜などの早期発見に努めます。",
+    "_info_en": "A Passive SONAR system for large ships.<br>An upgrade from the Type 93 Passive SONAR, with a larger sound collector, it was equipped on Yamato-class battleship within their bulbous bow.<br>Specialized personnel constantly listening on the machine, trying to quickly recognize any enemy submarines.",
     "_japanese_name": "零式水中聴音機",
     "_los": 1,
     "_luck": false,
@@ -24222,7 +24291,8 @@
       },
       "_steel": 330
     },
-    "_info": "遠距離砲撃戦における秘密兵器「九一式徹甲弾」の改良版で<br>す。<br>海中突入後魚雷のように敵艦水線下に突き進み、喫水下破砕を<br>企図した特殊徹甲弾です。九一式より性能・生産性が向上して<br>おり、弾頭部には弾着観測用着色剤を充填していたと云われて<br>います。戦艦・航空戦艦・高速戦艦で使用可能です。",
+    "_info": "遠距離砲撃戦における秘密兵器「九一式徹甲弾」の改良版です。<br>海中突入後魚雷のように敵艦水線下に突き進み、喫水下破砕を企図した特殊徹甲弾です。<br>九一式より性能・生産性が向上しており、弾頭部には弾着観測用着色剤を充填していたと云われています。<br>戦艦・航空戦艦・高速戦艦で使用可能です。 ",
+    "_info_en": "The Type 1 Armor Piercing shell is an improved version of the secret \"Type 91 Armor Piercing Shell\" fired from long-range cannons.<br>It is intended to work by plunging into the sea, striking the hull below the waterline of the enemy ship like a torpedo.<br>It has better performance than the Type 91, and has colored dyes for identification and target assists.<br>It can be equipped on battleships, aviation battleships, and fast battleships.",
     "_japanese_name": "一式徹甲弾",
     "_los": false,
     "_luck": false,
@@ -24240,7 +24310,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 19,
-    "_types": [4, 25, 19, 13, 0]
+    "_types": [4, 25, 19, 13, 0],
+    "_wikipedia": "Armour-piercing ammunition"
   },
   "Type 1 Armor Piercing Shell Kai": {
     "_aa": false,
@@ -24774,7 +24845,8 @@
     "_icon": 37,
     "_id": 169,
     "_improvements": true,
-    "_info": "陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等へ<br>の対地攻撃などを行った海軍の主力陸上攻撃機です。戦場の制<br>空権を失った大戦後期は大きな犠牲を払いましたが、本機「一<br>式陸攻」は、まぎれもない海軍基地航空打撃力の中核として奮<br>戦しました。",
+    "_info": "陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等への対地攻撃などを行った海軍の主力陸上攻撃機です。<br>戦場の制空権を失った大戦後期は大きな犠牲を払いましたが、本機「一式陸攻」は、まぎれもない海軍基地航空打撃力の中核として奮戦しました。",
+    "_info_en": "Launching from land-based airfields, it was deployed in anti-naval roles against enemy vessels as well as for bombardment of enemy airfields as the Navy's main land-based bomber.<br>Although late in the war the loss of air superiority led to heavy losses, the \"Type 1 Land Attacker\" indisputably fought bravely as the core of the Naval Aviation's attacking forces to the end.",
     "_japanese_name": "一式陸攻",
     "_los": 3,
     "_luck": false,
@@ -24841,7 +24913,8 @@
     "_icon": 37,
     "_id": 170,
     "_improvements": true,
-    "_info": "歴戦の中攻乗りの空中指揮官、野中飛行長の率いる精鋭「一式<br>陸攻」隊です。<br>新鋭の「一式陸攻」を装備し、士気の高い「野中一家」の搭乗<br>員たちと共に、通常攻撃で対艦・対地攻撃に出撃します。",
+    "_info": "歴戦の中攻乗りの空中指揮官、野中飛行長の率いる精鋭「一式陸攻」隊です。<br>新鋭の「一式陸攻」を装備し、士気の高い「野中一家」の搭乗員たちと共に、通常攻撃で対艦・対地攻撃に出撃します。",
+    "_info_en": "This is the \"Type 1 Land Attacker\" squadron led by a commander in the air, Nonaka. Equipped with the newest \"Type 1 Land Attacker\", the pilots of the \"Nonaka branch\" will run anti-ship/anti-structure missions with high morale.",
     "_japanese_name": "一式陸攻(野中隊)",
     "_los": 4,
     "_luck": false,
@@ -24910,7 +24983,8 @@
     "_icon": 37,
     "_id": 186,
     "_improvements": true,
-    "_info": "陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等へ<br>の対地攻撃などを行った海軍の主力陸上攻撃機「一式陸攻」の<br>さらなる性能向上型です。尾翼形状などを再設計改修、また脆<br>弱性の原因となっていた燃料タンク問題改善にも着手した改良<br>後期型の一式陸攻です。",
+    "_info": "陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等への対地攻撃などを行った海軍の主力陸上攻撃機「一式陸攻」のさらなる性能向上型です。<br>尾翼形状などを再設計改修、また脆弱性の原因となっていた燃料タンク問題改善にも着手した改良後期型の一式陸攻です。",
+    "_info_en": "An improved version of the Navy's premier ground attack plane \"Type 1 Land Attacker\"; launched from land-based air bases for anti-ship operations against enemy vessels and air-raids against enemy airfields.<br>This is a late remodel of the Type 1 Land Attacker that has undergone changes to the shape of the tail and a redesign to fix the vulnerability of the fuel tank.",
     "_japanese_name": "一式陸攻 三四型",
     "_los": 4,
     "_luck": false,
@@ -24928,7 +25002,8 @@
     "_torpedo": 11,
     "_torpedo_accuracy": false,
     "_type": 47,
-    "_types": [21, 38, 47, 37, 4]
+    "_types": [21, 38, 47, 37, 4],
+    "_wikipedia": "Mitsubishi G4M"
   },
   "Type 13 Air Radar": {
     "_aa": 2,
@@ -25502,7 +25577,8 @@
     "_icon": 33,
     "_id": 138,
     "_improvements": false,
-    "_info": "四発の大型飛行艇「二式大型飛行艇」、通称「二式大艇」で<br>す。<br>巨大な翼と船のような構造を持つ機体で、長距離偵察や司令部<br>要員の移動等に用いられました。同時代の世界水準を大きく超<br>えた傑作機で、今の時代もその後継は空に海に活躍していま<br>す。",
+    "_info": "四発の大型飛行艇「二式大型飛行艇」、通称「二式大艇」です。<br>巨大な翼と船のような構造を持つ機体で、長距離偵察や司令部要員の移動等に用いられました。<br>同時代の世界水準を大きく超えた傑作機で、今の時代もその後継は空に海に活躍しています。",
+    "_info_en": "This is the four-engined \"Type 2 Large Seaplane\", otherwise known as the \"Type 2 Flying Boat\".<br>It has a large wing-like airframe, and was made for the usage of long-range reconnaissance as well as providing transportation for fleet command personnel.<br>It was a state-of-the-art plane exceeding the world standard during its time, and to this day its successors are still active flying in the seas and skies.",
     "_japanese_name": "二式大艇",
     "_los": 12,
     "_luck": false,
@@ -25617,7 +25693,6 @@
   },
   "Type 2 Seaplane Fighter Kai": {
     "_aa": 3,
-    "_album_type": "Multi-purpose Seaplane/Seaplane Fighter",
     "_armor": false,
     "_asw": 1,
     "_bombing": false,
@@ -25685,7 +25760,8 @@
       },
       "_steel": false
     },
-    "_info": "新型水上戦闘機の実戦投入までの繋ぎとして、零式艦上戦闘機<br>をベースに急遽開発/実戦投入された水上戦闘機です。カタパ<br>ルトによる艦上運用を考慮した機材ではありませんでしたが、<br>本機は機体及びフロート強度を改良強化して投入です。",
+    "_info": "新型水上戦闘機の実戦投入までの繋ぎとして、零式艦上戦闘機をベースに急遽開発/実戦投入された水上戦闘機です。<br>カタパルトによる艦上運用を考慮した機材ではありませんでしたが、本機は機体及びフロート強度を改良強化して投入です。",
+    "_info_en": "A new model of seaplane fighter thrown into combat in order add numbers to the fight, the base form of the Type 0 Zero Carrier Fighter has been hurriedly converted to a seaplane and put in service.<br>No extra equipment was added to the plane, instead, the airframe and float devices have been strengthened to handle catapult-assisted take-off.",
     "_japanese_name": "二式水戦改",
     "_los": 1,
     "_luck": false,
@@ -26948,7 +27024,8 @@
     "_icon": 44,
     "_id": 185,
     "_improvements": true,
-    "_info": "かの国で開発された液冷エンジンを参考に開発された、液冷エ<br>ンジンを装備した陸軍戦闘機、三式戦「飛燕」、その性能向上<br>型です。エンジンの信頼性に課題を残していますが、武装等を<br>強化、総合的に戦闘力は向上しています。万全な整備状態であ<br>れば高い戦闘力を発揮します。",
+    "_info": "かの国で開発された液冷エンジンを参考に開発された、液冷エンジンを装備した陸軍戦闘機、三式戦「飛燕」、その性能向上型です。<br>エンジンの信頼性に課題を残していますが、武装等を強化、総合的に戦闘力は向上しています。<br>万全な整備状態であれば高い戦闘力を発揮します。",
+    "_info_en": "An improved model of the Army Type 3 Fighter \"Hien\", equipped with a liquid-cooled engine developed using a reference engine from that country.<br>The engine reliability problems have been sorted out and the armament improved to increase overall combat power.<br>If properly maintained, it will display a high level of combat prowess.",
     "_japanese_name": "三式戦 飛燕一型丁",
     "_localized_name": "Type 3 Fighter Flying Swallow Model 1D",
     "_los": false,
@@ -26968,7 +27045,8 @@
     "_torpedo_accuracy": false,
     "_type": 48,
     "_types": [22, 39, 48, 44, 18],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "Kawasaki Ki-61"
   },
   "Type 3 Shell": {
     "_aa": 5,
@@ -27514,7 +27592,8 @@
       },
       "_steel": 100
     },
-    "_info": "高性能な大型対水上電探の調整改良型です。<br>遠距離射撃にも対応できるレーダー射撃管制も可能ですが、か<br>なり大型かつ重量のある電探で大型艦しか装備できません。ま<br>た、精度の高い調整と運用には練度の高い操作員が必要です。",
+    "_info": "高性能な大型対水上電探の調整改良型です。<br>遠距離射撃にも対応できるレーダー射撃管制も可能ですが、かなり大型かつ重量のある電探で大型艦しか装備できません。<br>また、精度の高い調整と運用には練度の高い操作員が必要です。",
+    "_info_en": "The Type 32 Kai is a modified, large, high-performance surface search radar.<br>While it is capable of long-range search and gunfire control, it is very large and heavy, hence only large ships are able to equip them.<br>For better use of this radar, it will require skilled and experienced crews.",
     "_japanese_name": "32号対水上電探改",
     "_los": 11,
     "_luck": false,
@@ -27967,7 +28046,8 @@
       },
       "_steel": 50
     },
-    "_info": "小型艦艇にも装備可能な、新型パッシブソナー兵装です。<br>九三式水中聴音機に比べて、その対潜発見能力は格段に向上し<br>ました。数は少ないですが、大戦末期に建造された後期型の駆<br>逐艦などの対潜兵装として装備されました。",
+    "_info": "小型艦艇にも装備可能な、新型パッシブソナー兵装です。<br>九三式水中聴音機に比べて、その対潜発見能力は格段に向上しました。<br>数は少ないですが、大戦末期に建造された後期型の駆逐艦などの対潜兵装として装備されました。",
+    "_info_en": "This SONAR can be equipped on smaller ships, and is a new type of armament: a passive SONAR.<br>Compared to the type 93 SONARs, this has increased ASW.<br>There are few of these because it was made in the later part of the war, and were equipped by some of the newer destroyers.",
     "_japanese_name": "四式水中聴音機",
     "_los": false,
     "_luck": false,
@@ -28237,7 +28317,8 @@
       },
       "_steel": 60
     },
-    "_info": "高角砲の対空射撃用の高射装置です。<br>高射機と高射射撃盤を組み合わせ、高角砲の有効な対空射撃を<br>サポートします。やや、旧式ではありますが、主力の戦艦や巡<br>洋艦などに搭載されました。",
+    "_info": "高角砲の対空射撃用の高射装置です。<br>高射機と高射射撃盤を組み合わせ、高角砲の有効な対空射撃をサポートします。<br>やや、旧式ではありますが、主力の戦艦や巡洋艦などに搭載されました。",
+    "_info_en": "This is the high-angle guns' director.<br>The director and its firing dish together locate a target and find its best-fit firing angle.<br>...somewhat. This one is obsolete, and its primary function is already built-in on battleships, cruisers, etc.",
     "_japanese_name": "91式高射装置",
     "_los": false,
     "_luck": false,
@@ -28255,7 +28336,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 36,
-    "_types": [14, 24, 36, 30, 0]
+    "_types": [14, 24, 36, 30, 0],
+    "_wikipedia": "Fire-control system"
   },
   "Type 91 Armor Piercing Shell": {
     "_aa": false,
@@ -28797,7 +28879,8 @@
       },
       "_steel": 80
     },
-    "_info": "比較的新しい高角砲対空射撃用の高射装置です。<br>本高射機は測距儀がパッケージされており、高角砲の有効な対<br>空射撃をサポートします。新造大型艦や、防空駆逐艦 「秋<br>月」 型に搭載されました。",
+    "_info": "比較的新しい高角砲対空射撃用の高射装置です。<br>本高射機は測距儀がパッケージされており、高角砲の有効な対空射撃をサポートします。<br>新造大型艦や、防空駆逐艦 「秋月」 型に搭載されました。",
+    "_info_en": "This is the new high-angle anti-aircraft unit.<br>The equipment includes a range-finder, providing high-angle anti-aircraft guns with more effective anti-air capability.<br>Newer large-scale ships and the \"Akizuki-class\" anti-aircraft destroyers have the unit pre-installed.",
     "_japanese_name": "94式高射装置",
     "_los": false,
     "_luck": false,
@@ -28815,7 +28898,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 36,
-    "_types": [14, 24, 36, 30, 0]
+    "_types": [14, 24, 36, 30, 0],
+    "_wikipedia": "Fire-control system"
   },
   "Type 94 Depth Charge Projector": {
     "_aa": false,
@@ -29132,7 +29216,8 @@
       },
       "_steel": 70
     },
-    "_info": "戦艦装備用の大型探照灯です。<br>夜戦時に敵に照射することで味方艦隊の攻撃を支援できます<br>が、照射艦は敵艦隊からの集中攻撃を浴びるリスクがありま<br>す。<br>(戦艦級のみが装備可能です)",
+    "_info": "戦艦装備用の大型探照灯です。<br>夜戦時に敵に照射することで味方艦隊の攻撃を支援できますが、照射艦は敵艦隊からの集中攻撃を浴びるリスクがあります。<br>(戦艦級のみが装備可能です)",
+    "_info_en": "Large-scale searchlight fitted for battleships.<br>Shining the searchlight at the enemy can assist friendly ship's attacks during the night battle, but there is risk of having the enemy focus their fire on the user.<br>(Only battleships may equip this)",
     "_japanese_name": "96式150cm探照灯",
     "_los": 3,
     "_luck": false,
@@ -29150,7 +29235,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 42,
-    "_types": [8, 18, 42, 24, 0]
+    "_types": [8, 18, 42, 24, 0],
+    "_wikipedia": "Searchlight"
   },
   "Type 96 Fighter": {
     "_aa": 3,
@@ -29292,7 +29378,8 @@
     "_icon": 37,
     "_id": 168,
     "_improvements": true,
-    "_info": "陸上航空基地に展開、対艦攻撃などを主任務とした陸上攻撃機<br>です。大きな航続距離を持ち、対艦はもちろん対地攻撃も可能<br>な本機は、中攻とも呼ばれ、初期の海軍基地航空戦力の基幹兵<br>力を構成しました。本機の後継機が、あの有名な「一式陸攻」<br>です。",
+    "_info": "陸上航空基地に展開、対艦攻撃などを主任務とした陸上攻撃機です。<br>大きな航続距離を持ち、対艦はもちろん対地攻撃も可能な本機は、中攻とも呼ばれ、初期の海軍基地航空戦力の基幹兵力を構成しました。<br>本機の後継機が、あの有名な「一式陸攻」です。",
+    "_info_en": "Deployed at the Navy's land-based airfields, its primary mission was anti-ship bombardment.<br>With its long range, although it was naturally designed for anti-ship missions, it was used against land-based installations as well, it was also nicknamed the Rikko, and it formed the core of the Navy's early air power.<br>The successor to this design was the more famous \"Type 1 Land Attacker\".",
     "_japanese_name": "九六式陸攻",
     "_los": 2,
     "_luck": false,
@@ -29690,7 +29777,8 @@
     "_icon": 8,
     "_id": 143,
     "_improvements": false,
-    "_info": "優れた航続距離を誇り、初期の機動部隊艦載機の主力攻撃機と<br>して大活躍した傑作艦上攻撃機「九七艦攻」。同機を装備した<br>本部隊は、高い技量と豊かな指導力を兼ね備えた村田隊長の率<br>いる精鋭九七艦攻隊です。",
+    "_info": "優れた航続距離を誇り、初期の機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機「九七艦攻」。<br>同機を装備した本部隊は、高い技量と豊かな指導力を兼ね備えた村田隊長の率いる精鋭九七艦攻隊です。",
+    "_info_en": "Boasting an excellent cruising range, the \"Type 97 Torpedo Bomber\" was a masterpiece carrier-capable attacker that played a major role as the primary attacker on board Mobile Force ships.<br>The command squadron equipped with this plane was the elite attack squadron led by Captain Murata, who combined high skill with abundant leadership.",
     "_japanese_name": "九七式艦攻(村田隊)",
     "_los": 4,
     "_luck": false,
@@ -29710,7 +29798,7 @@
     "_type": 8,
     "_types": [3, 5, 8, 8, 1],
     "_version": 3,
-    "_wikipedia": "ja:村田重治"
+    "_wikipedia": "Nakajima B5N"
   },
   "Type 97 Torpedo Bomber (Skilled)": {
     "_aa": false,
@@ -30677,7 +30765,8 @@
     "_icon": 35,
     "_id": 146,
     "_improvements": false,
-    "_info": "戦闘航海中の洋上で燃料弾薬を補給することが可能です。これ<br>を保持した状態で燃料弾薬が欠乏すると戦闘航海中に「洋上補<br>給」が発動し、燃料弾薬が洋上で「補給」されます。長期戦と<br>なる艦隊決戦のサポートにご活用ください。<br>（発動すると消滅します）",
+    "_info": "戦闘航海中の海上で燃料弾薬を補給することが可能です。<br>これを保持した状態で燃料が欠乏すると戦闘航海中に「洋上補給」が発動し、燃料弾薬が洋上で「補給」されます。<br>長期戦となる艦隊決戦のサポートにご活用ください。<br>(発動すると消滅します。)",
+    "_info_en": "It is possible to perform resupply on the seas to ships performing combat sailing.<br>When fuel is low while this is being held, \"Maritime Resupply\" will happen, and fuel & ammo will be \"replenished\" on the seas.<br>Please use this well as a support for the final battle, which could become a war of attrition.<br>(Will disappear when activated.)",
     "_item_id": 67,
     "_japanese_name": "洋上補給",
     "_los": false,
@@ -30710,7 +30799,8 @@
     "_icon": 31,
     "_id": 126,
     "_improvements": false,
-    "_info": "かの国で開発された対地対艦攻撃用の艦載ロケットランチャー<br>装備「WG42」です。<br>Uボートにも搭載され、実際に運用されました。命中精度には<br>難がありますが、ごく浅い深度なら水面下から発射可能な、潜<br>水艦発射対地ミサイルのご先祖様のような装備で、主に対地攻<br>撃に有効です。",
+    "_info": "かの国で開発された対地対艦攻撃用の艦載ロケットランチャー装備「WG42」です。<br>Uボートにも搭載され、実際に運用されました。<br>命中精度には難がありますが、ごく浅い深度なら水面下から発射可能な、潜水艦発射対地ミサイルのご先祖様のような装備で、主に対地攻撃に有効です。 ",
+    "_info_en": "The \"WG42\" is a ship-borne rocket launcher developed in that country for anti-ground attacks.<br>It was also used aboard U-boats where it saw practical use.<br>Mainly effective for anti-ground strikes, it suffered from poor accuracy, however, it can be fired from a shallow depth similar to the submarine-launched anti-ground missiles of today.",
     "_japanese_name": "WG42 (Wurfgerät 42)",
     "_los": false,
     "_luck": false,
@@ -30811,7 +30901,8 @@
     "_icon": 6,
     "_id": 155,
     "_improvements": false,
-    "_info": "圧倒的な空戦技量を誇る岩本小隊長を擁する「零式艦上戦闘機<br>21型」装備の艦戦隊です。零戦の優れた格闘戦能力と長大な<br>航続距離、そして搭乗員の高い技量で圧倒的な強さを誇りま<br>す。開戦から珊瑚海海戦まで「瑞鶴」の上空を護りました。",
+    "_info": "圧倒的な空戦技量を誇る岩本小隊長を擁する「零式艦上戦闘機21型」装備の艦戦隊です。<br>零戦の優れた格闘戦能力と長大な航続距離、そして搭乗員の高い技量で圧倒的な強さを誇ります。<br>開戦から珊瑚海海戦まで「瑞鶴」の上空を護りました。",
+    "_info_en": "Commanded by squadron commander Iwamoto, the great dogfighting expert, a carrier-based squadron equipped with the \"Type 21 Zero Fighter\".<br>The excellent combat ability and the long range of the zero fighters combined with the skills of the pilots result in overwhelming strength.<br>Protecting the skies above \"Zuikaku\" during the Battle of the Coral Sea.",
     "_japanese_name": "零戦21型(付岩本小隊)",
     "_los": 1,
     "_luck": false,
@@ -30830,7 +30921,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 11],
-    "_wikipedia": "Tetsuzo Iwamoto"
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Zero Fighter Model 52A (w/ Iwamoto Flight)": {
     "_aa": 11,
@@ -30911,7 +31002,8 @@
       },
       "_steel": false
     },
-    "_info": "圧倒的な空戦技量を誇るエース、岩本小隊長を擁する「零式艦<br>上戦闘機52型」装備の艦戦隊です。卓越した空戦技量で零戦<br>の後期改良型を駆る「零戦虎徹」は、機体の質的優位性が失わ<br>れても果敢に敵機に挑み、撃墜を重ねていきました。",
+    "_info": "圧倒的な空戦技量を誇るエース、岩本小隊長を擁する「零式艦上戦闘機52型」装備の艦戦隊です。<br>卓越した空戦技量で零戦の後期改良型を駆る「零戦虎徹」は、機体の質的優位性が失われても果敢に敵機に挑み、撃墜を重ねていきました。",
+    "_info_en": "Commanded by squadron commander Iwamoto, the great dogfighting ace, a carrier-based squadron equipped with \"Type 52 Zero Fighters\".<br>A late model of the Zero fighter piloted by an excellent pilot, the \"Reisen Kotetsu\", even if the plane is weaker than its enemies, it will still boldly challenge them and shoot them down without fail.",
     "_japanese_name": "零戦52型甲(付岩本小隊)",
     "_los": 1,
     "_luck": false,
@@ -30930,7 +31022,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 12],
-    "_wikipedia": "Tetsuzo Iwamoto"
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Zero Fighter Model 52C (601 Air Group)": {
     "_aa": 9,
@@ -31150,7 +31242,8 @@
       },
       "_steel": false
     },
-    "_info": "巧みな操縦技術を持つ岩井小隊長を擁する「零式艦上戦闘機<br>52型丙」装備の艦戦隊です。「52型丙」では、敵新型機に対<br>抗するため、火力及び防御力が強化されました。その分機動性<br>は若干低下していますが、熟練搭乗員の巧みな操縦技術でカバ<br>ーします。",
+    "_info": "巧みな操縦技術を持つ岩井小隊長を擁する「零式艦上戦闘機52型丙」装備の艦戦隊です。<br>「52型丙」では、敵新型機に対抗するため、火力及び防御力が強化されました。<br>その分機動性は若干低下していますが、熟練搭乗員の巧みな操縦技術でカバーします。",
+    "_info_en": "A carrier-based squadron equipped with \"Type 52 Model C Zero Fighters\" commanded by the skilled squadron commander Iwai.<br>The firepower and armor of the \"Type 52C\" were upgraded in order to counter new enemy planes.<br>Although the maneuverability suffered slightly, it can be covered by the skilled piloting of the pilots.",
     "_japanese_name": "零戦52型丙(付岩井小隊)",
     "_los": 1,
     "_luck": false,
@@ -31169,7 +31262,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 12],
-    "_wikipedia": "ja:岩井勉"
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)": {
     "_aa": 7,
@@ -31251,7 +31344,8 @@
       },
       "_steel": false
     },
-    "_info": "遂に飛行隊を預かることになった「ゼロファイターゴッド」岩<br>井隊長率いる、「零式艦上戦闘機62型」装備の爆戦隊です。<br>整備の行き届いた「62型」を駆り、高機動戦闘爆撃機として<br>敵艦に爆弾を叩き付け、しかるのち制空戦闘に参加します。",
+    "_info": "遂に飛行隊を預かることになった「ゼロファイターゴッド」岩井隊長率いる、「零式艦上戦闘機62型」装備の爆戦隊です。<br>整備の行き届いた「62型」を駆り、高機動戦闘爆撃機として敵艦に爆弾を叩き付け、しかるのち制空戦闘に参加します。",
+    "_info_en": "The last command of Lt. Iwai, the \"Zero Fighter God\", a bombing squadron equipped with \"Type 62 Zero Fighter-bombers\".<br>Equipped with \"Type 62s\", the quick-response fighter-bomber squadron that can bomb enemy ships and participate in taking air superiority.",
     "_japanese_name": "零戦62型(爆戦/岩井隊)",
     "_los": 1,
     "_luck": false,
@@ -31271,7 +31365,7 @@
     "_type": 7,
     "_types": [3, 5, 7, 7, 12],
     "_version": 2,
-    "_wikipedia": "ja:岩井勉"
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Zuiun": {
     "_aa": 2,
