@@ -6301,7 +6301,8 @@
       },
       "_steel": 300
     },
-    "_info": "金剛型高速戦艦「榛名」の前部主砲の最終形態です。<br>あまり効果がなかったといわれていますが、縦縞ゼブラ模様の<br>ダズル迷彩を施しています。三式弾を装填して敵機が跳梁する<br>空を睨み、母港呉と動けない残存艦隊の防戦に努めました。",
+    "_info": "金剛型高速戦艦「榛名」の前部主砲の最終形態です。<br>あまり効果がなかったといわれていますが、縦縞ゼブラ模様のダズル迷彩を施しています。<br>三式弾を装填して敵機が跳梁する空を睨み、母港呉と動けない残存艦隊の防戦に努めました。",
+    "_info_en": "The final version of the forward battery of the Kongou-class fast battleship \"Haruna\".<br>Although it was of questionable efficacy, the turret was given a zebra-striped pattern dazzle camouflage.<br>Loaded with the Type 3 shell and facing the skies dominated by enemy aircraft, it did its best to defend the remaining fleet trapped in Kure Harbour.",
     "_japanese_name": "35.6cm連装砲(ダズル迷彩)",
     "_los": false,
     "_luck": false,
@@ -12652,7 +12653,8 @@
     "_icon": 28,
     "_id": 107,
     "_improvements": false,
-    "_info": "洋上において艦隊を指揮する前線司令部です。<br>司令部施設を開設できるある一定以上の大きさの艦に設営可能<br>です。同司令部を旗艦に設営した艦隊は「連合艦隊」として出<br>撃している際に、随伴艦隊の健在な駆逐艦を「損害の大きい<br>艦」の護衛につけて、戦場から退避させることが可能です。",
+    "_info": "洋上において艦隊を指揮する前線司令部です。<br>司令部施設を開設できるある一定以上の大きさの艦に設営可能です。<br>同司令部を旗艦に設営した艦隊は「連合艦隊」として出撃している際に、随伴艦隊の健在な駆逐艦を「損害の大きい艦」の護衛につけて、戦場から退避させることが可能です。 ",
+    "_info_en": "This facility is used as a command center aboard warships to direct naval fleets at sea.<br>This can only be used aboard larger warships.<br>When used on the flagship of the \"Combined Fleet\", a \"heavily damaged ship\" can be escorted away from the battle line by a destroyer still in good shape from the escort fleet.",
     "_japanese_name": "艦隊司令部施設",
     "_los": 1,
     "_luck": false,
@@ -15112,7 +15114,8 @@
       },
       "_steel": 390
     },
-    "_info": "高速戦艦に搭載するための新開発の試製戦艦主砲です。<br>「金剛」型高速戦艦の代替新建造艦のために計画されていた三<br>連装の35.6cm砲で、大口径主砲よりはコンパクトで軽く、も<br>ちろん従来の35.6cm砲より火力及び命中率が大きく向上して<br>います。高速戦艦の改装時に、ぜひ運用をお試しください！",
+    "_info": "高速戦艦に搭載するための新開発の試製戦艦主砲です。<br>「金剛」型高速戦艦の代替新建造艦のために計画されていた三連装の35.6cm砲で、大口径主砲よりはコンパクトで軽く、もちろん従来の35.6cm砲より火力及び命中率が大きく向上しています。<br>高速戦艦の改装時に、ぜひ運用をお試しください！",
+    "_info_en": "A newly developed prototype main battleship armament intended to be equipped on fast battleships.<br>This triple-mounted 35.6 cm gun was planned to be for the successor to the \"Kongou-class\" fast battleships. It is slightly smaller and lighter than other large-caliber guns. Its firepower and accuracy have been significantly improved compared to the original 35.6 cm guns.<br>Please try putting this to use after you've upgraded your fast battleships!",
     "_japanese_name": "試製35.6cm三連装砲",
     "_los": false,
     "_luck": false,
@@ -15130,7 +15133,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "Vickers 14 inch/45 naval gun"
   },
   "Prototype 41cm Triple Gun Mount": {
     "_aa": 5,
@@ -15220,7 +15224,8 @@
       },
       "_steel": 620
     },
-    "_info": "呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲で<br>す。<br>16インチを僅かに上回る、この41cm砲は「大和」型の46cm<br>砲が登場するまで世界最大の戦艦砲でした。これを搭載した長<br>門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに超えた<br>高火力と高命中精度を実現します。",
+    "_info": "呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲です。<br>16インチを僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。<br>これを搭載した長門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに超えた高火力と高命中精度を実現します。",
+    "_info_en": "A triple-mounted domestic battleship main gun prototyped by Kure Naval Arsenal's Artillery Division.<br>At a little over 16 inches, this 41 cm gun was the largest battleship gun in the world until the introduction of the \"Yamato-class\" 46 cm guns.<br>When equipped on the Nagato-class battleships, they would have had firepower and accuracy far exceeding that of any \"Big 7\" from the other great powers.",
     "_japanese_name": "試製41cm三連装砲",
     "_los": false,
     "_luck": false,
@@ -15239,7 +15244,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "41 cm/45 3rd Year Type naval gun"
   },
   "Prototype 46cm Twin Gun Mount": {
     "_aa": 4,
@@ -16593,7 +16599,8 @@
     "_icon": 6,
     "_id": 110,
     "_improvements": false,
-    "_info": "「零戦」の後継機として開発された最新鋭艦上戦闘機「烈<br>風」。<br>用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越え<br>て、ついに完成した新型艦戦。本航空隊は同新鋭機材を定数受<br>領して、再建を目指す空母機動部隊、その戦闘機部隊の中核を<br>担います。",
+    "_info": "「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。<br>用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦。<br>本航空隊は同新鋭機材を定数受領して、再建を目指す空母機動部隊、その戦闘機部隊の中核を担います。 ",
+    "_info_en": "The \"Reppuu\" is a state-of-the-art, carrier-borne fighter designed to replace the \"Zero\" fighter.<br>Despite difficulties in engine selection, preoccupied design teams, and factories, this new type of carrier-borne fighter was finally completed.<br>This new fighter will form the backbone of carrier air groups of rebuilt carrier task groups.",
     "_japanese_name": "烈風(六〇一空)",
     "_localized_name": "Strong Gale (601 Air Group)",
     "_los": false,
@@ -16613,7 +16620,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 13]
+    "_types": [3, 5, 6, 6, 13],
+    "_wikipedia": "Mitsubishi A7M"
   },
   "Reppuu Kai": {
     "_aa": 10,
@@ -19347,7 +19355,8 @@
     "_icon": 29,
     "_id": 108,
     "_improvements": false,
-    "_info": "艦載機の整備の卓越した能力を発揮できる整備要員です。<br>艦載機を装備した航空母艦に導入することで、同空母から発進<br>する攻撃隊の能力を高めることが可能です。第一次攻撃隊のパ<br>ンチ力不足を感じたら、お試しください！",
+    "_info": "艦載機の整備の卓越した能力を発揮できる整備要員です。<br>艦載機を装備した航空母艦に導入することで、同空母から発進する攻撃隊の能力を高めることが可能です。<br>第一次攻撃隊のパンチ力不足を感じたら、お試しください！",
+    "_info_en": "This maintenance crew can perform excellent maintenance on carrier-borne aircraft.<br>Carrier planes serviced by this crew have better performance when launched from the carriers they were based from.<br>Please try them out if you feel your main attack force is lacking the power punch!",
     "_japanese_name": "熟練艦載機整備員",
     "_los": 1,
     "_luck": false,
@@ -20145,7 +20154,8 @@
     "_icon": 27,
     "_id": 101,
     "_improvements": false,
-    "_info": "主砲等から発射される落下傘付の照明弾です。<br>夜戦時において敵艦隊付近を照明し、味方艦隊の夜間攻撃を支<br>援します(敵艦隊の夜間特殊攻撃発生も少し抑えることが可能<br>です)。",
+    "_info": "主砲等から発射される落下傘付の照明弾です。<br>夜戦時において敵艦隊付近を照明し、味方艦隊の夜間攻撃を支援します(敵艦隊の夜間特殊攻撃発生も少し抑えることが可能です)。",
+    "_info_en": "A flare with a parachute fired from a main gun.<br>During night battles, it illuminates the vicinity of the enemy fleet and supports the night attacks of the allied fleet (it also slightly suppresses the occurrence of nighttime special attacks by the enemy fleet).",
     "_japanese_name": "照明弾",
     "_los": false,
     "_luck": false,
@@ -20163,7 +20173,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 33,
-    "_types": [11, 21, 33, 27, 0]
+    "_types": [11, 21, 33, 27, 0],
+    "_wikipedia": "Shell (projectile)"
   },
   "Striking Force Fleet Command Facility": {
     "_aa": false,
@@ -25136,7 +25147,8 @@
       },
       "_steel": 30
     },
-    "_info": "艦載用対空電探の改良調整版です。<br>比較的信頼性も高く、小型軽量で駆逐艦等への装備も可能だっ<br>た「13号対空電探」に、技術者達がさらに改良を加えた対空<br>電探です。水雷戦隊の眼として活躍します。",
+    "_info": "艦載用対空電探の改良調整版です。<br>比較的信頼性も高く、小型軽量で駆逐艦等への装備も可能だった「13号対空電探」に、技術者達がさらに改良を加えた対空電探です。<br>水雷戦隊の眼として活躍します。",
+    "_info_en": "This is an improved version of the radar intended for use aboard warships.<br>While the \"Type 13 Air Radar\" is reliable, this small class of air search radar intended for use in destroyers was further improved by engineers.<br>This radar is basically the eyes of the Destroyer Squadron.",
     "_japanese_name": "13号対空電探改",
     "_los": 4,
     "_luck": false,
@@ -29870,7 +29882,8 @@
       },
       "_steel": false
     },
-    "_info": "水雷戦隊旗艦用に開発された水上夜間偵察機です。<br>長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力<br>に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する<br>「夜間触接」が発生する可能性があります)。",
+    "_info": "水雷戦隊旗艦用に開発された水上夜間偵察機です。<br>長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する「夜間触接」が発生する可能性があります)。",
+    "_info_en": "This is a night reconnaissance seaplane developed for torpedo squadron flagships.<br>The airframe is painted black has a skilled crew with excellent night-time detection ability, and can stay in the air for long periods of time (if conditions are right, \"night contact\" may occur to support night battles).",
     "_japanese_name": "九八式水上偵察機(夜偵)",
     "_los": 3,
     "_luck": false,
@@ -29889,7 +29902,8 @@
     "_torpedo_accuracy": false,
     "_type": 10,
     "_types": [5, 7, 10, 50, 2],
-    "_version": 3
+    "_version": 3,
+    "_wikipedia": "Aichi E11A"
   },
   "Type 99 Dive Bomber": {
     "_aa": false,
@@ -30999,7 +31013,8 @@
       },
       "_steel": false
     },
-    "_info": "零戦の最終的な量産型「零式艦上戦闘機52丙型」です。<br>武装及び防御力が強化されました。その分、若干機動性は失わ<br>れています。本航空隊は同機材を装備して、再建を目指す空母<br>機動部隊の制空戦闘を担います。",
+    "_info": "零戦の最終的な量産型「零式艦上戦闘機52丙型」です。<br>武装及び防御力が強化されました。<br>その分、若干機動性は失われています。<br>本航空隊は同機材を装備して、再建を目指す空母機動部隊の制空戦闘を担います。",
+    "_info_en": "The Zero fighter's final production model is the \"Type Zero Carrier-Based Fighter Model 52C\".<br>Weaponry and durability have been enhanced.<br>However, mobility has been somewhat impaired.<br>This is the same plane used by the reformed aircraft carrier mobile squadrons, responsible for controlling the skies.",
     "_japanese_name": "零戦52型丙(六〇一空)",
     "_localized_name": false,
     "_los": false,
@@ -31018,7 +31033,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 13]
+    "_types": [3, 5, 6, 6, 13],
+    "_wikipedia": "Mitsubishi A6M Zero"
   },
   "Zero Fighter Model 52C (Hachiman Force)": {
     "_aa": 10,
