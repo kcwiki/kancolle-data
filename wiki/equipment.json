@@ -14553,7 +14553,8 @@
     "_icon": 29,
     "_id": 258,
     "_improvements": false,
-    "_info": "着艦指導灯や電波誘導装置などの夜間航空作戦支援装備とそれ<br>を使いこなす要員、さらに訓練された着艦信号士官など、夜間<br>発着艦を支援する優れた航空要員です。",
+    "_info": "着艦指導灯や電波誘導装置などの夜間航空作戦支援装備とそれを使いこなす要員、さらに訓練された着艦信号士官など、夜間発着艦を支援する優れた航空要員です。",
+    "_info_en": "Landing lights, radio flight directors, among other equipment required for aerial night operations, and the crew to man it; furthermore, a trained signal operator, etc., and the excellent flight crew supporting with night landings.",
     "_japanese_name": "夜間作戦航空要員",
     "_los": false,
     "_luck": false,
@@ -14584,7 +14585,8 @@
     "_icon": 29,
     "_id": 259,
     "_improvements": false,
-    "_info": "着艦指導灯や電波誘導装置などの夜間航空作戦支援装備とそれ<br>を使いこなす要員、さらに卓越した技量を持つ甲板員や熟練の<br>着艦信号士官など、夜間航空作戦を支援する優れた航空要員達<br>です。",
+    "_info": "着艦指導灯や電波誘導装置などの夜間航空作戦支援装備とそれを使いこなす要員、さらに卓越した技量を持つ甲板員や熟練の着艦信号士官など、夜間航空作戦を支援する優れた航空要員達です。",
+    "_info_en": "Landing lights, radio flight directors, among other equipment required for aerial night operations, and the crew to man it; furthermore, deck crew with outstanding technique, and a skilled signal operator, etc., and an excellent flight crew supporting with night landings.",
     "_japanese_name": "夜間作戦航空要員+熟練甲板員",
     "_los": false,
     "_luck": false,
@@ -21528,7 +21530,8 @@
     "_icon": 8,
     "_id": 256,
     "_improvements": true,
-    "_info": "重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半<br>の大空を駆けた主力雷撃機「TBF」。<br>復讐者の名を持つこの新鋭艦上雷撃機は、F6Fシリーズの援護<br>下で多くの日本主力艦艇群に痛撃を放つこととなります。",
+    "_info": "重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半の大空を駆けた主力雷撃機「TBF」。<br>復讐者の名を持つこの新鋭艦上雷撃機は、F6Fシリーズの援護下で多くの日本主力艦艇群に痛撃を放つこととなります。",
+    "_info_en": "With its heavy engine and sturdy body, the \"TBF\" is the mainstay torpedo bomber that took to the skies during the later stages of the Pacific War.<br>With the name of Avenger, this state-of-the-art carrier-capable torpedo bomber would unleash a crushing blow on many of Japan's naval groups under the protection of the F6F series.",
     "_japanese_name": "TBF",
     "_localized_name": "Grumman TBF-1 Avenger",
     "_los": 2,
@@ -21547,7 +21550,8 @@
     "_torpedo": 9,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 21]
+    "_types": [3, 5, 8, 8, 21],
+    "_wikipedia": "Grumman TBF Avenger"
   },
   "TBM-3D": {
     "_aa": 1,
@@ -21562,7 +21566,8 @@
     "_icon": 46,
     "_id": 257,
     "_improvements": false,
-    "_info": "重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半<br>の大空を駆けた主力雷撃機「TBF」。復讐者の名を持つこの新<br>鋭雷撃機に機上レーダーを搭載し、夜間作戦能力を付与したの<br>が本機「TBM-3D」。夜戦型艦戦を組み合わせた夜戦空母での<br>集中運用もお試しあれ！",
+    "_info": "重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半の大空を駆けた主力雷撃機「TBF」。<br>復讐者の名を持つこの新鋭雷撃機に機上レーダーを搭載し、夜間作戦能力を付与したのが本機「TBM-3D」。<br>夜戦型艦戦を組み合わせた夜戦空母での集中運用もお試しあれ！",
+    "_info_en": "Equipped with a heavy engine and sturdy body, This main torpedo attack plane, \"TBF\" raced across the skies of the latter half of the Pacific War.<br>This new carrier-borne torpedo attack plane, carrying the name of Avengers, equipped with on-board radar, is capable of night operations as \"TBM-3D\".<br>Try out operations with a carrier-included fleet that focuses on night battles.",
     "_japanese_name": "TBM-3D",
     "_localized_name": "Grumman TBM-3D Avenger",
     "_los": 4,
@@ -21581,7 +21586,8 @@
     "_torpedo": 9,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 46, 21]
+    "_types": [3, 5, 8, 46, 21],
+    "_wikipedia": "Grumman TBF Avenger"
   },
   "TBM-3W+3S": {
     "_aa": false,
@@ -30791,7 +30797,8 @@
     "_icon": 18,
     "_id": 260,
     "_improvements": true,
-    "_info": "早くから潜水艦との闘いを経験した紅茶の国の研究チーム、<br>Anti-Submarine Detection Investigation Committeeで<br>開発された対潜探知システムです。「ASDIC」と呼ばれた同シ<br>ステム群は進化を重ね、今日のアクティブソナーへと発展して<br>いきます。124型は大戦初期から運用されていた駆逐艦に搭載<br>されました。",
+    "_info": "早くから潜水艦との闘いを経験した紅茶の国の研究チーム、Anti-Submarine Detection Investigation Committeeで開発された対潜探知システムです。<br>「ASDIC」と呼ばれた同システム群は進化を重ね、今日のアクティブソナーへと発展していきます。<br>124型は大戦初期から運用されていた駆逐艦に搭載されました。",
+    "_info_en": "An anti-submarine detection system developed by the research team, Anti-Submarine Detection Investigation Committee, from the country of tea that had early experience fighting submarines.<br>The system called \"ASDIC\" would evolve into modern active sonar.<br>The Type 124 was mounted on destroyers at the start of the Great War.",
     "_japanese_name": "Type124 ASDIC",
     "_los": false,
     "_luck": false,
@@ -30809,7 +30816,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 14,
-    "_types": [7, 10, 14, 18, 0]
+    "_types": [7, 10, 14, 18, 0],
+    "_wikipedia": "ASDIC"
   },
   "Type144/147 ASDIC": {
     "_aa": false,
