@@ -13115,7 +13115,8 @@
     "_icon": 18,
     "_id": 262,
     "_improvements": false,
-    "_info": "紅茶の国で開発された対潜探知システム「ASDIC」。その改良<br>発展型です。対潜探知技術の蓄積と144型と147型の複合装備<br>により、敵潜探知精度をさらに向上させています。敵潜の発す<br>る無線波を捉える「短波方向探知機」と組み合わせて運用する<br>ことで、総合的な対潜作戦能力は大きく向上しました。",
+    "_info": "紅茶の国で開発された対潜探知システム「ASDIC」。<br>その改良発展型です。<br>対潜探知技術の蓄積と144型と147型の複合装備により、敵潜探知精度をさらに向上させています。<br>敵潜の発する無線波を捉える「短波方向探知機」と組み合わせて運用することで、総合的な対潜作戦能力は大きく向上しました。",
+    "_info_en": "The anti-submarine detection system developed in the country of tea, \"ASDIC\".<br>This is an improved model.<br>By combining the anti-submarine detection technologies present in the Types 144 and 147, it is able to detect enemy submarines with more accuracy.<br>Operating in conjunction with a \"Short Wave Direction Finder\" that detects radio waves from enemy submarines, the all-round capability to detect enemy subs is greatly improved.",
     "_japanese_name": "HF/DF + Type144/147 ASDIC",
     "_los": 2,
     "_luck": false,
@@ -13133,7 +13134,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 14,
-    "_types": [7, 10, 14, 18, 0]
+    "_types": [7, 10, 14, 18, 0],
+    "_wikipedia": "ASDIC"
   },
   "Hedgehog (Initial Model)": {
     "_aa": false,
@@ -30830,7 +30832,8 @@
     "_icon": 18,
     "_id": 261,
     "_improvements": false,
-    "_info": "紅茶の国で開発された対潜探知システム「ASDIC」。その改良<br>発展型です。我が水中探信儀にあたるシステムですが、対潜探<br>知技術の蓄積と144型と147型の複合装備により、精度が大き<br>く向上しています。ヘッジホッグやスキッドなどの進んだ対潜<br>火器と組み合わせることで、より強力なASW(対潜戦)が可能と<br>なります。",
+    "_info": "紅茶の国で開発された対潜探知システム「ASDIC」。<br>その改良発展型です。<br>我が水中探信儀にあたるシステムですが、対潜探知技術の蓄積と144型と147型の複合装備により、精度が大きく向上しています。<br>ヘッジホッグやスキッドなどの進んだ対潜火器と組み合わせることで、より強力なASW(対潜戦)が可能となります。",
+    "_info_en": "The anti-submarine detection system developed in the country of tea, \"ASDIC\".<br>This is an improved model.<br>Although it is analogous to our active sonars, the anti-submarine detection technology implemented makes the Type 144 and Type 147 have superior accuracy.<br>By pairing it with advanced anti-submarine equipment such as the Hedgehog and the Squid, you can have more powerful ASW attacks.",
     "_japanese_name": "Type144/147 ASDIC",
     "_los": false,
     "_luck": false,
@@ -30848,7 +30851,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 14,
-    "_types": [7, 10, 14, 18, 0]
+    "_types": [7, 10, 14, 18, 0],
+    "_wikipedia": "ASDIC"
   },
   "Underway Replenishment": {
     "_aa": false,
