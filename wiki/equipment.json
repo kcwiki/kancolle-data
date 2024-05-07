@@ -621,7 +621,8 @@
     "_icon": 16,
     "_id": 379,
     "_improvements": true,
-    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された<br>単装両用砲です。運用実績の豊富な八九式12.7cm連装高角砲<br>を単装化、防盾付き艦載両用砲として再整備されました。本砲<br>は、さらに発射速度などの向上を図ったその改良型です。松型<br>駆逐艦を始め、一部の艦艇でより効果的な運用が可能です。",
+    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された単装両用砲です。<br>運用実績の豊富な八九式12.7cm連装高角砲を単装化、防盾付き艦載両用砲として再整備されました。<br>本砲は、さらに発射速度などの向上を図ったその改良型です。<br>松型駆逐艦を始め、一部の艦艇でより効果的な運用が可能です。",
+    "_info_en": "This is a dual-purpose single mount developed for use aboard the Japanese Navy’s last mass-produced destroyer line: The Type D destroyers.<br>The successful Type 89 12.7 cm twin high-angle mount was reintroduced into service as a shielded, dual-purpose single-mount.<br>This improved model incorporates planned upgrades for a higher rate of fire.<br>It will display increased combat effectiveness when mounted on certain vessels, such as the new Matsu-class destroyers.",
     "_japanese_name": "12.7cm単装高角砲改二",
     "_los": false,
     "_luck": false,
@@ -639,7 +640,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 1,
-    "_types": [1, 1, 1, 16, 0]
+    "_types": [1, 1, 1, 16, 0],
+    "_wikipedia": "12.7 cm/40 Type 89 naval gun"
   },
   "12.7cm Twin Gun Mount": {
     "_aa": 2,
@@ -1579,7 +1581,8 @@
     "_icon": 1,
     "_id": 366,
     "_improvements": false,
-    "_info": "夕雲型駆逐艦などに搭載された駆逐艦主砲のif改修型です。<br>対空戦闘用に最大仰角を大きくとることに加え、装填システム<br>を改良、仰角時の装填と発射速度の向上に成功したif改良D型<br>主砲です。<br>数々の実戦の戦訓を取り入れた改修により、甲型及び改甲型駆<br>逐艦での運用において、優れた戦闘力を発揮します。",
+    "_info": "夕雲型駆逐艦などに搭載された駆逐艦主砲のif改修型です。<br>対空戦闘用に最大仰角を大きくとることに加え、装填システムを改良、仰角時の装填と発射速度の向上に成功したif改良D型主砲です。<br>数々の実戦の戦訓を取り入れた改修により、甲型及び改甲型駆逐艦での運用において、優れた戦闘力を発揮します。",
+    "_info_en": "A what-if version of the destroyer main guns that were mounted on the Yuugumo-class destroyers.<br>In addition to increasing the maximum elevation angle for anti-aircraft combat, this is an improved D-type main gun that has an improved loading system and has succeeded in increasing loading at elevation angle and firing rate.<br>It incorporates many lessons learned in combat and will have outstanding performance on Type-A and Improved Type-A destroyers.",
     "_japanese_name": "12.7cm連装砲D型改三",
     "_los": false,
     "_luck": false,
@@ -1597,7 +1600,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 1,
-    "_types": [1, 1, 1, 1, 0]
+    "_types": [1, 1, 1, 1, 0],
+    "_wikipedia": "12.7 cm/50 Type 3 naval gun"
   },
   "12.7cm Twin High-angle Gun Mount": {
     "_aa": 4,
@@ -1811,7 +1815,8 @@
     "_icon": 16,
     "_id": 380,
     "_improvements": false,
-    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦などに搭載され<br>た運用実績の豊富な八九式12.7cm連装高角砲、その強化改良<br>型です。戦訓により従来型に対して発射速度等の向上を図った<br>本改良型は、松型駆逐艦を始め一部の艦艇で運用することで、<br>より効果的な戦闘力を発揮することが可能です。",
+    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦などに搭載された運用実績の豊富な八九式12.7cm連装高角砲、その強化改良型です。<br>戦訓により従来型に対して発射速度等の向上を図った本改良型は、松型駆逐艦を始め一部の艦艇で運用することで、より効果的な戦闘力を発揮することが可能です。",
+    "_info_en": "This is the improved version of the successful Type 89 12.7 cm twin high-angle gun, mounted aboard the Japanese Navy’s last mass-produced destroyer line: The Type D destroyers.<br>This improved model was designed to have a higher rate of fire based on lessons learned during the war, gaining increased combat effectiveness when mounted on the first batch of Matsu-class destroyers to join the fleet.",
     "_japanese_name": "12.7cm連装高角砲改二",
     "_los": false,
     "_luck": false,
@@ -1829,7 +1834,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 1,
-    "_types": [1, 1, 1, 16, 0]
+    "_types": [1, 1, 1, 16, 0],
+    "_wikipedia": "12.7 cm/40 Type 89 naval gun"
   },
   "12.7mm Single Machine Gun Mount": {
     "_aa": 3,
@@ -2547,7 +2553,8 @@
       },
       "_steel": 40
     },
-    "_info": "やや旧式ながら実績のある単装高角砲、その後期艦載型です。<br>量産に向いた構造で経済性が高く、後期の量産海防艦に搭載さ<br>れ、雲霞のような敵艦載機に立ち向かいます。<br>御蔵型、日振型、そして鵜来型、さらに小型簡略化された丙型<br>及び丁型海防艦でも装備運用されました。",
+    "_info": "やや旧式ながら実績のある単装高角砲、その後期艦載型です。<br>量産に向いた構造で経済性が高く、後期の量産海防艦に搭載され、雲霞のような敵艦載機に立ち向かいます。<br>御蔵型、日振型、そして鵜来型、さらに小型簡略化された丙型及び丁型海防艦でも装備運用されました。",
+    "_info_en": "This is a version of the rather old but proven single high-angle gun that was mounted on ships during the late-war period.<br>It was cheap and easy to mass produce and was mounted on the mass-produced coastal defense ships late in the war where it faced swarms of enemy planes.<br>It was used by the Mikura, Hiburi, and Ukuru classes as well as the simplified C and D types coastal defense ships.",
     "_japanese_name": "12cm単装高角砲E型",
     "_los": false,
     "_luck": false,
@@ -2565,7 +2572,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 1,
-    "_types": [1, 1, 1, 16, 0]
+    "_types": [1, 1, 1, 16, 0],
+    "_wikipedia": "Type 10 120 mm AA gun"
   },
   "12cm Single High-angle Gun Mount Model E Kai": {
     "_aa": 4,
@@ -4475,7 +4483,8 @@
     "_icon": 3,
     "_id": 381,
     "_improvements": true,
-    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦<br>用大口径主砲です。南太平洋海戦に機動部隊と共に参加、さら<br>に南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦<br>を演じた米高速戦艦「South Dakota」にも、その主兵装とし<br>て装備されました。",
+    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。<br>南太平洋海戦に機動部隊と共に参加、さらに南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦「South Dakota」にも、その主兵装として装備されました。",
+    "_info_en": "This is a large-caliber main gun developed and deployed by the US as the standard issue main weapon of their front-line battleships.<br>It was the main gun of the \"South Dakota\", who participated in the Pacific War with a carrier task force, and fought a fierce night battle with a Japanese fast battleship and torpedo squadrons in the Southern Solomon Sea.",
     "_japanese_name": "16inch三連装砲 Mk.6",
     "_los": false,
     "_luck": false,
@@ -4493,7 +4502,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "16-inch/45-caliber Mark 6 gun"
   },
   "16inch Triple Gun Mount Mk.6 + GFCS": {
     "_aa": 3,
@@ -4507,7 +4517,8 @@
     "_icon": 3,
     "_id": 390,
     "_improvements": false,
-    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦<br>用大口径主砲です。本兵装は同砲の後期改修型に、さらに射撃<br>レーダーと砲射撃指揮装置との連携を付与した主砲火力システ<br>ムです。最新Mk.7には一歩劣るものの高いバランスと運用性<br>を持つ本兵装は、高火力と優れた射撃精度も期待できます。",
+    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。<br>本兵装は同砲の後期改修型に、さらに射撃レーダーと砲射撃指揮装置との連携を付与した主砲火力システムです。<br>最新Mk.7には一歩劣るものの高いバランスと運用性を持つ本兵装は、高火力と優れた射撃精度も期待できます。",
+    "_info_en": "This is a large-caliber main gun developed and deployed by the US as the standard issue main weapon of their front-line battleships.<br>This gun is a late-war upgraded model that is linked with an artillery radar and gun fire control system.<br>Although it is slightly inferior to the newer Mk.7, it is a practical weapon that has high firepower and accuracy.",
     "_japanese_name": "16inch三連装砲 Mk.6+GFCS",
     "_los": false,
     "_luck": false,
@@ -4525,7 +4536,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "16-inch/45-caliber Mark 6 gun"
   },
   "16inch Triple Gun Mount Mk.6 mod.2": {
     "_aa": 2,
@@ -4539,7 +4551,8 @@
     "_icon": 3,
     "_id": 385,
     "_improvements": true,
-    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦<br>用大口径主砲です。<br>南太平洋海戦に機動部隊と共に参加、さらに南方ソロモン海域<br>で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦<br>「South Dakota」の主兵装となった兵装の強化改修型です。",
+    "_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。<br>南太平洋海戦に機動部隊と共に参加、さらに南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦「South Dakota」の主兵装となった兵装の強化改修型です。",
+    "_info_en": "This is a large-caliber main gun developed and deployed by the US as the standard issue main weapon of their front-line battleships.<br>This is the new and improved version of the main gun of the \"South Dakota\", who participated in the Pacific War with a carrier task force, and fought a fierce night battle with a Japanese fast battleship and torpedo squadrons in the Southern Solomon Sea.",
     "_japanese_name": "16inch三連装砲 Mk.6 mod.2",
     "_los": false,
     "_luck": false,
@@ -4557,7 +4570,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 3,
-    "_types": [1, 1, 3, 3, 0]
+    "_types": [1, 1, 3, 3, 0],
+    "_wikipedia": "16-inch/45-caliber Mark 6 gun"
   },
   "16inch Triple Gun Mount Mk.7": {
     "_aa": 3,
@@ -8141,7 +8155,8 @@
     "_icon": 5,
     "_id": 376,
     "_improvements": false,
-    "_info": "米国で開発され、広く実戦配備された標準的な対水上艦用魚雷<br>兵装、その改良後期型です。<br>初期型では動作不良も多く安定性を欠いていましたが、改良更<br>新されたこの後期型には不具合も解消され、対水上艦戦闘時に<br>おいて大きな力を発揮することが可能となりました。",
+    "_info": "米国で開発され、広く実戦配備された標準的な対水上艦用魚雷兵装、その改良後期型です。<br>初期型では動作不良も多く安定性を欠いていましたが、改良更新されたこの後期型には不具合も解消され、対水上艦戦闘時において大きな力を発揮することが可能となりました。",
+    "_info_en": "An improved late model of the standard-issue anti-surface torpedo weapon that was developed and widely deployed by the US.<br>The early models were prone to malfunctions that largely reduced their reliability, but the improvements made to the late model fixed these defects, and they are now a significant threat in surface combat.",
     "_japanese_name": "533mm五連装魚雷(後期型)",
     "_los": false,
     "_luck": false,
@@ -8159,7 +8174,8 @@
     "_torpedo": 11,
     "_torpedo_accuracy": false,
     "_type": 5,
-    "_types": [2, 3, 5, 5, 0]
+    "_types": [2, 3, 5, 5, 0],
+    "_wikipedia": "Mark 15 torpedo"
   },
   "533mm Triple Torpedo Mount": {
     "_aa": false,
@@ -8564,7 +8580,8 @@
     "_icon": 16,
     "_id": 358,
     "_improvements": false,
-    "_info": "米国で開発・運用された標準的な対空兵装です。<br>本装備は、重巡や戦艦などの中型艦以上の標準的な艦隊防空用<br>対空火力として運用されました。戦いの後期になると、より<br>新型の両用砲に更新されていきます。",
+    "_info": "米国で開発・運用された標準的な対空兵装です。<br>本装備は、重巡や戦艦などの中型艦以上の標準的な艦隊防空用対空火力として運用されました。<br>戦いの後期になると、より新型の両用砲に更新されていきます。",
+    "_info_en": "This is the standard anti-aircraft equipment developed and used by the US.<br>It was used as the standard anti-aircraft armament on heavy cruisers, battleships, and other medium-sized and greater ships.<br>It would be upgraded to a newer model, dual-purpose gun later in the war.",
     "_japanese_name": "5inch 単装高角砲群",
     "_los": false,
     "_luck": false,
@@ -8582,7 +8599,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 4,
-    "_types": [1, 2, 4, 16, 0]
+    "_types": [1, 2, 4, 16, 0],
+    "_wikipedia": "5-inch/25-caliber gun"
   },
   "5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)": {
     "_aa": 11,
@@ -8595,7 +8613,8 @@
     "_icon": 16,
     "_id": 362,
     "_improvements": false,
-    "_info": "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲<br>兵装です。<br>本装備は、同砲を連装化、さらに薬莢形式を採用して連射性を<br>向上、これを集中配備することで艦隊防空を担当する防空艦の<br>強力な対空兵装として運用されました。Atlanta級防空巡など<br>に装備され、一部は夜戦の近距離砲撃戦でも使用されました。",
+    "_info": "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲兵装です。<br>本装備は、同砲を連装化、さらに薬莢形式を採用して連射性を向上、これを集中配備することで艦隊防空を担当する防空艦の強力な対空兵装として運用されました。<br>Atlanta級防空巡などに装備され、一部は夜戦の近距離砲撃戦でも使用されました。",
+    "_info_en": "A dual-purpose gun developed and deployed by the United States that is capable of surface and anti-air combat.<br>This equipment is a twin-mounted version that adopted a new type of ammunition to increase its fire rate, and by placing it in a concentrated deployment, it was used as powerful anti-air armament on the anti-air cruisers in charge of fleet air defense.<br>It was equipped on the Atlanta-class cruisers, and was used for short-range shelling in night battles.",
     "_japanese_name": "5inch連装両用砲(集中配備)",
     "_los": false,
     "_luck": false,
@@ -8613,7 +8632,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 2,
-    "_types": [1, 1, 2, 16, 0]
+    "_types": [1, 1, 2, 16, 0],
+    "_wikipedia": "5-inch/38-caliber gun"
   },
   "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment": {
     "_aa": 11,
@@ -9409,7 +9429,8 @@
     "_icon": 2,
     "_id": 386,
     "_improvements": false,
-    "_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、こ<br>れを三連装砲塔にまとめた軽巡主砲兵装です。<br>米国の大型軽巡に搭載され、Brooklyn級や、次級の<br>St. Louis級、その後のCleveland級でも装備運用されました。",
+    "_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、これを三連装砲塔にまとめた軽巡主砲兵装です。<br>米国の大型軽巡に搭載され、Brooklyn級や、次級のSt. Louis級、その後のCleveland級でも装備運用されました。",
+    "_info_en": "The rapid fire 6 inch gun was developed and deployed by the US as the main armament of light cruisers. They were put in triple-mounted turrets as the main guns of light cruisers.<br>It was equipped and used by the large-sized American light cruisers, the Brooklyn-class, the successive St. Louis-class, and finally the Cleveland-class.",
     "_japanese_name": "6inch三連装速射砲 Mk.16",
     "_los": false,
     "_luck": false,
@@ -9428,7 +9449,8 @@
     "_torpedo_accuracy": false,
     "_type": 2,
     "_types": [1, 1, 2, 2, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "6-inch/47-caliber gun"
   },
   "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2": {
     "_aa": 3,
@@ -9441,7 +9463,8 @@
     "_icon": 2,
     "_id": 387,
     "_improvements": false,
-    "_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、こ<br>れを三連装砲塔にまとめた軽巡主砲兵装です。<br>米国の大型軽巡に搭載され、Brooklyn級や、次級の<br>St. Louis級、その後のCleveland級でも装備運用されました。<br>本兵装はその改修強化型です。",
+    "_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、これを三連装砲塔にまとめた軽巡主砲兵装です。<br>米国の大型軽巡に搭載され、Brooklyn級や、次級のSt. Louis級、その後のCleveland級でも装備運用されました。<br>本兵装はその改修強化型です。",
+    "_info_en": "The rapid fire 6 inch gun was developed and deployed by the US as the main armament of light cruisers. They were put in triple-mounted turrets as the main guns of light cruisers.<br>It was equipped and used by the large-sized American light cruisers, the Brooklyn-class, the successive St. Louis-class, and finally the Cleveland-class.<br>This is the improved version of that gun.",
     "_japanese_name": "6inch三連装速射砲 Mk.16 mod.2",
     "_los": false,
     "_luck": false,
@@ -9460,7 +9483,8 @@
     "_torpedo_accuracy": false,
     "_type": 2,
     "_types": [1, 1, 2, 2, 0],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "6-inch/47-caliber gun"
   },
   "6inch Twin Rapid Fire Gun Mount Mk.XXI": {
     "_aa": 3,
@@ -9473,7 +9497,8 @@
     "_icon": 2,
     "_id": 359,
     "_improvements": false,
-    "_info": "紅茶の国で開発された中口径主砲です。<br>本装備は、紅茶の国の軽巡クラスや、オーストラリア海軍に<br>移籍した同国建造の艦艇などの主兵装として運用されました。<br>ABDA艦隊の一翼として、南方作戦を展開中の日本艦隊を迎撃<br>したオーストラリア海軍の軽巡もその一隻です。",
+    "_info": "紅茶の国で開発された中口径主砲です。<br>紅茶の国の軽巡クラスや、オーストラリア海軍に移籍した同国建造の艦艇などの主兵装として運用されました。<br>ABDA艦隊の一翼として、南方作戦を展開中の日本艦隊を迎撃したオーストラリア海軍の軽巡もその一隻です。",
+    "_info_en": "A medium caliber gun developed by the country of tea.<br>This gun was the main gun of the light cruisers from the Country of Tea and also those that were built there and transferred to the Australian Navy.<br>One of those Australian Navy light cruisers was part of the ABDA fleet that intercepted the Japanese fleet during the Southern Strategy.",
     "_japanese_name": "6inch 連装速射砲 Mk.XXI",
     "_los": false,
     "_luck": false,
@@ -9491,7 +9516,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 2,
-    "_types": [1, 1, 2, 2, 0]
+    "_types": [1, 1, 2, 2, 0],
+    "_wikipedia": "BL 6-inch Mk XXIII naval gun"
   },
   "7.7mm Machine Gun": {
     "_aa": 2,
@@ -9894,7 +9920,8 @@
       },
       "_steel": 160
     },
-    "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡<br>洋艦群に装備された三連装主砲兵装です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、<br>大火力を備えた主砲兵装です。米海軍の条約型重巡Pensacola<br>級やNorthampton級の主兵装として運用されました。",
+    "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡洋艦群に装備された三連装主砲兵装です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、大火力を備えた主砲兵装です。<br>米海軍の条約型重巡Pensacola級やNorthampton級の主兵装として運用されました。",
+    "_info_en": "Developed by the United States Navy as the main gun of their treaty heavy cruisers, it was equipped on them in a triple mount.<br>It possesses great firepower even though it is just a basic mounting of three 20 cm guns in a single turret.<br>It was used as the main gun of the USN's Pensacola and Northampton classes treaty heavy cruisers.",
     "_japanese_name": "8inch三連装砲 Mk.9",
     "_los": false,
     "_luck": false,
@@ -9912,7 +9939,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 2,
-    "_types": [1, 1, 2, 2, 0]
+    "_types": [1, 1, 2, 2, 0],
+    "_wikipedia": "8-inch/55-caliber gun"
   },
   "8inch Triple Gun Mount Mk.9 mod.2": {
     "_aa": 2,
@@ -9973,7 +10001,8 @@
       },
       "_steel": 190
     },
-    "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡<br>洋艦群に装備された三連装主砲兵装の改修後期型です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、<br>大火力の主砲兵装として米海軍条約型重巡Northampton級<br>などで運用された三連装重巡主砲、その熟成改良型です。",
+    "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡洋艦群に装備された三連装主砲兵装の改修後期型です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、大火力の主砲兵装として米海軍条約型重巡Northampton級などで運用された三連装重巡主砲、その熟成改良型です。",
+    "_info_en": "This is a late model upgrade of the gun developed by the USN for their treaty heavy cruisers that was mounted on them in triple mounts.<br>It possesses great firepower even though it is just a basic mounting of three 20 cm guns in a single turret, with this refined and upgraded model being used as the main gun of the USN's Northampton-class treaty heavy cruisers.",
     "_japanese_name": "8inch三連装砲 Mk.9 mod.2",
     "_los": false,
     "_luck": false,
@@ -9991,7 +10020,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 2,
-    "_types": [1, 1, 2, 2, 0]
+    "_types": [1, 1, 2, 2, 0],
+    "_wikipedia": "8-inch/55-caliber gun"
   },
   "90mm Single High-angle Gun Mount": {
     "_aa": 8,
@@ -10978,7 +11008,8 @@
     "_icon": 2,
     "_id": 361,
     "_improvements": false,
-    "_info": "北欧スウェーデンの名門が開発した新型の軽巡用中口径連装主<br>砲と同単装砲をさらに熟成した軽巡用if改良兵装です。<br>同兵装のオリジナルは対空戦用に大きな仰角も可能、砲の自由<br>な角度で次弾装填ができる機構を搭載、限定的ながら対空戦闘<br>にも対応可能です。オランダの軽巡などで運用されました。",
+    "_info": "北欧スウェーデンの名門が開発した新型の軽巡用中口径連装主砲と同単装砲をさらに熟成した軽巡用if改良兵装です。<br>同兵装のオリジナルは対空戦用に大きな仰角も可能、砲の自由な角度で次発装填ができる機構を搭載、限定的ながら対空戦闘にも対応可能です。<br>オランダの軽巡などで運用されました。",
+    "_info_en": "'A what-if improved version of the light cruiser medium-caliber twin and single mounted gun developed by the prestigious Swedish company.<br>The original gun's anti-air capabilities were limited, it was capable of high degrees of elevation for use as an anti-air gun. It also has a mechanism that allows it to reload while elevated which increases its effectiveness at anti-air even more.<br>It was mounted on the Dutch light cruisers.",
     "_japanese_name": "Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938",
     "_los": false,
     "_luck": false,
@@ -11009,7 +11040,8 @@
     "_icon": 2,
     "_id": 360,
     "_improvements": false,
-    "_info": "北欧スウェーデンの名門が開発した新型の軽巡用中口径連装主<br>砲兵装です。<br>新型の砲は対空戦用に大きな仰角が可能で、砲の角度に関らず<br>次弾装填ができる機構を搭載、限定的ながら対空戦闘にも対応<br>可能です。オランダの軽巡にも搭載されました。",
+    "_info": "北欧スウェーデンの名門が開発した新型の軽巡用中口径連装主砲兵装です。<br>新型の砲は対空戦用に大きな仰角が可能で、砲の角度に関らず6次弾装填ができる機構を搭載、限定的ながら対空戦闘にも対応可能です。<br>オランダの軽巡にも搭載されました。",
+    "_info_en": "This is a medium caliber twin-mounted light cruiser gun developed by a prestigious Swedish company. <br>While its anti-air capabilities are limited, this new model of gun is capable of high degrees of elevation for use as an anti-air gun. It is also equipped with a mechanism that allows it to reload regardless of elevation.<br>It was mounted on Dutch light cruisers.",
     "_japanese_name": "Bofors 15cm連装速射砲 Mk.9 Model 1938",
     "_los": false,
     "_luck": false,
@@ -12749,7 +12781,8 @@
     "_icon": 10,
     "_id": 371,
     "_improvements": true,
-    "_info": "紅茶の国で開発/運用されたOspreyの後継たる艦艇運用を前提<br>とした水上偵察機です。複葉でありながら剛性の高い機体で、<br>大戦中期まで巡洋艦以上の艦艇に搭載され、航空索敵や弾着観<br>測などで活躍しました。本機は、そのif改良輸出型です。",
+    "_info": "紅茶の国で開発/運用されたOspreyの後継たる艦艇運用を前提とした水上偵察機です。<br>複葉でありながら剛性の高い機体で、大戦中期まで巡洋艦以上の艦艇に搭載され、航空索敵や弾着観測などで活躍しました。<br>本機は、そのif改良輸出型です。",
+    "_info_en": "This reconnaissance seaplane was developed and operated by the country of tea as the successor to the Osprey.<br>Even though it was a biplane, it had a rigid airframe. During the Great War, it was equipped on cruisers and performed aerial reconnaissance and artillery spotting.<br>This particular plane is a what-if export model.",
     "_japanese_name": "Fairey Seafox改",
     "_los": 6,
     "_luck": false,
@@ -12767,7 +12800,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 10,
-    "_types": [5, 7, 10, 10, 28]
+    "_types": [5, 7, 10, 10, 28],
+    "_wikipedia": "Fairey Seafox"
   },
   "Fleet Command Facility": {
     "_aa": 1,
@@ -13053,7 +13087,8 @@
     "_icon": 16,
     "_id": 363,
     "_improvements": false,
-    "_info": "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲<br>兵装に射撃レーダーを組み合わせた強力な対空兵装です。<br>本装備は、薬莢形式を採用して連射性を向上した5inch連装両<br>用砲を集中運用、さらに射撃レーダーと連動することで高い艦<br>隊防空能力を実現しました。Atlanta級などに装備され、第三<br>次ソロモン海戦では夜戦の殴り合いも経験しています。",
+    "_info": "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲兵装に射撃レーダーを組み合わせた強力な対空兵装です。<br>本装備は、薬莢形式を採用して連射性を向上した5inch連装両用報を集中運用、さらに射撃レーダーと連動することで高い艦隊防空能力を実現しました。<br>Atlanta級などに装備され、第三次ソロモン海戦では夜戦の殴り合いも経験しています。",
+    "_info_en": "A dual-purpose gun developed and deployed by the United States combined with a fire-control RADAR that is capable of surface and anti-air combat. It is a powerful anti-aircraft weapon.<br>This equipment is a concentrated deployment of the twin-mounted 5 inch guns that adopted a new type of ammunition to improve fire rate, combining it with a fire-control radar has further increased its fleet air defense capabilities.<br>It was equipped on the Atlanta-class cruisers and was used in the opening brawl of the Naval Battle of Guadalcanal.",
     "_japanese_name": "GFCS Mk.37+5inch連装両用砲(集中配備)",
     "_los": 3,
     "_luck": false,
@@ -13071,7 +13106,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 2,
-    "_types": [1, 1, 2, 16, 0]
+    "_types": [1, 1, 2, 16, 0],
+    "_wikipedia": "5-inch/38-caliber gun"
   },
   "Ginga": {
     "_aa": 3,
@@ -13122,7 +13158,8 @@
     "_icon": 37,
     "_id": 388,
     "_improvements": false,
-    "_info": "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された<br>陸上発進の攻撃機です。優れた機体設計により、高い性能を秘<br>めていました。戦力化された時期が遅かったことや複雑な構造<br>に問題もあった新鋭機「銀河」。本部隊は、同機で編成され、<br>鵬部隊とも呼ばれた精鋭江草隊長率いる飛行隊です。",
+    "_info": "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された陸上発進の攻撃機です。<br>優れた機体設計により、高い性能を秘めていました。<br>戦力化された時期が遅かったことや複雑な構造に問題もあった新鋭機「銀河」。<br>本部隊は、同機で編成され、鵬部隊とも呼ばれた精鋭江草隊長率いる飛行隊です。",
+    "_info_en": "A land-based bomber developed as the successor to the Navy's main land-based \"Type 1 Attacker\".<br>Its high performance is due to its excellent airframe design.<br>These new \"Gingas\" were delayed when entering service due to problems stemming from its complex construction.<br>This squadron, also known as the Phoenix Squadron, is equipped with said planes and commanded by the elite Egusa.",
     "_japanese_name": "銀河(江草隊)",
     "_localized_name": "Galaxy (Egusa Squadron)",
     "_los": 4,
@@ -13141,7 +13178,8 @@
     "_torpedo": 15,
     "_torpedo_accuracy": false,
     "_type": 47,
-    "_types": [21, 38, 47, 37, 4]
+    "_types": [21, 38, 47, 37, 4],
+    "_wikipedia": "Yokosuka P1Y"
   },
   "Ginga (Skilled)": {
     "_aa": 3,
@@ -13774,7 +13812,8 @@
     "_icon": 5,
     "_id": 383,
     "_improvements": true,
-    "_info": "後期生産型の伊号潜水艦艦首に装備する潜水艦専用兵装の改良<br>後期型です。水上艦艇に搭載するものよりやや直径の小さい長<br>射程高威力を誇る必殺の潜水艦搭載酸素魚雷。その無気泡発射<br>管改良後期型を潜水艦の艦首に8門集中した本兵装は、圧倒的<br>な雷撃攻撃力を潜水艦に付与します。",
+    "_info": "後期生産型の伊号潜水艦艦首に装備する潜水艦専用兵装の改良後期型です。<br>水上艦艇に搭載するものよりやや直径の小さい長射程高威力を誇る必殺の潜水艦搭載酸素魚雷。<br>その無気泡発射管改良後期型を潜水艦の艦首に8門集中した本兵装は、圧倒的な雷撃攻撃力を潜水艦に付与します。",
+    "_info_en": "An improved late-model version of the bow-mounted submarine torpedoes that were used by the late-war 1st class submarines.<br>It has a slightly smaller diameter than the torpedoes loaded on surface ships. It is a deadly oxygen torpedo equipped on submarines that boasts long-range and high power.<br>This equipment concentrates 8 bubbleless ejection tubes in the bow, giving the submarine overwhelming torpedo power.",
     "_japanese_name": "後期型53cm艦首魚雷(8門)",
     "_los": false,
     "_luck": false,
@@ -13792,7 +13831,8 @@
     "_torpedo": 19,
     "_torpedo_accuracy": false,
     "_type": 32,
-    "_types": [2, 3, 32, 5, 0]
+    "_types": [2, 3, 32, 5, 0],
+    "_wikipedia": "Type 95 torpedo"
   },
   "Late Model Bow Torpedo Mount (4 tubes)": {
     "_aa": false,
@@ -13901,7 +13941,8 @@
     "_icon": 42,
     "_id": 384,
     "_improvements": false,
-    "_info": "後期型潜水艦に搭載する、索敵及び水上偵察用装備です。<br>艦橋上部に集中装備する多数の優れた水防式望遠鏡と運用実績<br>によって改修された水上電探及び対空電探群、さらに実用性の<br>高い逆探によって脅威や目標の早期発見に努め、潜水艦の生残<br>性と攻撃力の向上を図ります。",
+    "_info": "後期型潜水艦に搭載する、索敵及び水上偵察用装備です。<br>艦橋上部に集中装備する多数の優れた水防式望遠鏡と運用実績によって改修された水上電探及び対空電探群、さらに実用性の高い逆探によって脅威や目標の早期発見に努め、潜水艦の生残性と攻撃力の向上を図ります。",
+    "_info_en": "An equipment mounted on late-war submarines to search for the enemy and reconnoiter the surface.<br>A number of excellent waterproof periscopes and improved versions of the proven surface and anti-air radars have been mounted close together atop the bridge, along with a useful radiolocator, it should allow a submarine to detect threats and targets early to improve survivability and attack success.",
     "_japanese_name": "後期型潜水艦搭載電探&逆探",
     "_los": 7,
     "_luck": false,
@@ -14015,7 +14056,8 @@
     "_icon": 17,
     "_id": 378,
     "_improvements": false,
-    "_info": "現代の水上艦装備の対潜兵装としても運用されている新世代の<br>対潜誘導魚雷、その先行初期型です。<br>爆雷に替わる新世代の対潜兵装として米国で開発された、音響<br>ホーミング形式の対潜魚雷、そのごく初期型です。その後、年<br>月と様々な改良が加えられ、進化発展していきます。",
+    "_info": "現代の水上艦装備の対潜兵装としても運用されている新世代の対潜誘導魚雷、その先行初期型です。<br>爆雷に替わる新世代の対潜兵装として米国で開発された、音響ホーミング形式の対潜魚雷、そのごく初期型です。<br>その後、年月と様々な改良が加えられ、進化発展していきます。",
+    "_info_en": "An early predecessor of the next-generation anti-submarine guided torpedo that is used by modern surface combatants as an ASW weapon.<br>This is an extremely early model acoustic homing ASW torpedo developed by the US as a next-generation ASW weapon to replace the depth charge.<br>After this, it would undergo many improvements over the years and continue to evolve.",
     "_japanese_name": "対潜短魚雷(試作初期型)",
     "_los": false,
     "_luck": false,
@@ -14033,7 +14075,8 @@
     "_torpedo": 2,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [7, 32, 15, 17, 0]
+    "_types": [7, 32, 15, 17, 0],
+    "_wikipedia": "Mark 46 torpedo"
   },
   "Locally Modified 10cm Twin High-angle Gun Mount": {
     "_aa": 8,
@@ -16430,7 +16473,8 @@
     "_icon": 17,
     "_id": 377,
     "_improvements": false,
-    "_info": "増大する潜水艦の脅威に対抗するため開発された、革新的な次<br>世代の対潜前投ロケット弾兵装です。実機は不具合の多発によ<br>り運用上の問題を抱えていましたが、本兵装は改良によって不<br>発率の低下に成功したif改修兵装です。本兵装のコンセプト<br>は、あの名対潜兵装アスロックへと受け継がれていきます。",
+    "_info": "増大する潜水艦の脅威に対抗するため開発された、革新的な次世代の対潜前投ロケット弾兵装です。<br>実機は不具合の多発により運用上の問題を抱えていましたが、本兵装は改良によって不発率の低下に成功したif改修兵装です。<br>本兵装のコンセプトは、あの名対潜兵装アスロックへと受け継がれていきます。",
+    "_info_en": "This is a revolutionary next-generation forward-firing anti-submarine rocket weapon developed to counter the increasing threat of submarines.<br>The base version was plagued with problems during actual use, but this is a what-if version where improvements succeeded in reducing the rate of misfires.<br>The main concept behind this weapon was succeeded by the famed ASROC ASW weapons system.",
     "_japanese_name": "RUR-4A Weapon Alpha改",
     "_los": false,
     "_luck": false,
@@ -16448,7 +16492,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 15,
-    "_types": [7, 32, 15, 17, 0]
+    "_types": [7, 32, 15, 17, 0],
+    "_wikipedia": "RUR-4 Weapon Alpha"
   },
   "Radar Equipment Mast (Type 13 Kai + Type 22 Radar Kai 4)": {
     "_aa": 4,
@@ -21316,7 +21361,8 @@
       },
       "_steel": false
     },
-    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性<br>を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>航空母艦「Ark Royal」などに搭載され、戦艦「Bismarck」<br>と英艦隊との激闘に大きな一撃を放つことになる旧式ながら<br>赫々たる戦果をおさめた傑作機。実在した、その水上機型で<br>す！",
+    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>航空母艦「Ark Royal」などに搭載され、戦艦「Bismarck」と英艦隊との激闘に大きな一撃を放つことになる旧式ながら赫々たる戦果をおさめた傑作機。<br>実在した、その水上機型です！",
+    "_info_en": "The Swordfish is a seaplane from the country of tea. Even though it is an old model, this non-metal biplane has excellent reliability and operability.<br>A masterpiece that was deployed on the carrier \"Ark Royal\" how delivered a decisive blow to the battleship \"Bismarck\" during that fierce battle with the Royal Navy.<br>This is a seaplane that existed in real life!",
     "_japanese_name": "Swordfish(水上機型)",
     "_los": 2,
     "_luck": false,
@@ -21334,7 +21380,8 @@
     "_torpedo": 5,
     "_torpedo_accuracy": false,
     "_type": 11,
-    "_types": [5, 43, 11, 10, 28]
+    "_types": [5, 43, 11, 10, 28],
+    "_wikipedia": "Fairey Swordfish"
   },
   "Swordfish Mk.II (Skilled)": {
     "_aa": false,
@@ -21476,7 +21523,8 @@
       },
       "_steel": false
     },
-    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性<br>を誇る、旧式ながら赫々たる戦果をおさめたメカジキの名を持<br>つ紅茶の国の傑作艦上攻撃機、その改修水偵型です。同水上機<br>の索敵偵察装備も強化、よりバランスの良い索敵機として仕上<br>がった紅茶の国の水上偵察機です。Old Ladyへの搭載もぜひ!",
+    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、旧式ながら赫々たる戦果をおさめたメカジキの名を持つ紅茶の国の傑作艦上攻撃機、その改修水偵型です。<br>同水上機の索敵偵察装備も強化、よりバランスの良い索敵機として仕上がった紅茶の国の水上偵察機です。<br>Old Ladyへの搭載もぜひ!",
+    "_info_en": "Although it is an older-generation non-metallic biplane, it boasts high reliability and operability. This is a modified seaplane recon version of the masterpiece torpedo bomber from the tea country known as the Swordfish, which achieved great military results despite being an old model.<br>The country of tea's reconnaissance seaplane became a more balanced recon plane through improvements to its reconnaissance equipment.<br>Go equip it on the Old Lady!",
     "_japanese_name": "Swordfish Mk.II改(水偵型)",
     "_los": 5,
     "_luck": false,
@@ -21494,7 +21542,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 10,
-    "_types": [5, 7, 10, 10, 28]
+    "_types": [5, 7, 10, 10, 28],
+    "_wikipedia": "Fairey Swordfish"
   },
   "Swordfish Mk.III (Skilled)": {
     "_aa": false,
@@ -21582,7 +21631,8 @@
       },
       "_steel": false
     },
-    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性<br>を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>旧式ながら赫々たる戦果をおさめた傑作機、その水上機型を強<br>化改修、S9 Ospreyの後継機として輸出導入するif多用途作戦<br>水上機、その初期モデルです。",
+    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>旧式ながら赫々たる戦果をおさめた傑作機、その水上機型を強化改修、S9 Ospreyの後継機として輸出導入するif多用途作戦水上機、その初期モデルです。",
+    "_info_en": "The Swordfish is a seaplane from the country of tea, and even though it is an old model, this non-metal biplane has excellent reliability and operability.<br>This masterwork has a magnificent service record, with this multirole seaplane being an early what-if model that has been improved for export to replace the S9 Osprey.",
     "_japanese_name": "Swordfish Mk.III改(水上機型)",
     "_los": 3,
     "_luck": false,
@@ -21600,7 +21650,8 @@
     "_torpedo": 6,
     "_torpedo_accuracy": false,
     "_type": 11,
-    "_types": [5, 43, 11, 10, 28]
+    "_types": [5, 43, 11, 10, 28],
+    "_wikipedia": "Fairey Swordfish"
   },
   "Swordfish Mk.III Kai (Seaplane Model/Skilled)": {
     "_aa": false,
@@ -21615,7 +21666,8 @@
     "_icon": 10,
     "_id": 369,
     "_improvements": false,
-    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性<br>を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>旧式ながら赫々たる戦果をおさめた傑作機、その水上機型を強<br>化改修、S9 Ospreyの後継機として輸出導入するif多用途作戦<br>水上機を駆る熟練水上機作戦部隊です。",
+    "_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>旧式ながら赫々たる戦果をおさめた傑作機、その水上機型を強化改修、S9 Ospreyの後継機として輸出導入するif多用途作戦水上機を駆る熟練水上機作戦部隊です。",
+    "_info_en": "The Swordfish is a seaplane from the country of tea. Even though it is an old model, this non-metal biplane has excellent reliability and operability.<br>This masterwork has a magnificent service record, with this multirole seaplane being an early what-if model piloted by a skilled crew that has been improved for export to replace the S9 Osprey.",
     "_japanese_name": "Swordfish Mk.III改(水上機型/熟練)",
     "_los": 4,
     "_luck": false,
@@ -21633,7 +21685,8 @@
     "_torpedo": 7,
     "_torpedo_accuracy": false,
     "_type": 11,
-    "_types": [5, 43, 11, 10, 28]
+    "_types": [5, 43, 11, 10, 28],
+    "_wikipedia": "Fairey Swordfish"
   },
   "TBD": {
     "_aa": false,
@@ -21756,7 +21809,8 @@
     "_icon": 46,
     "_id": 389,
     "_improvements": false,
-    "_info": "重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半<br>の大空を駆けた主力雷撃機「TBF」。同機に哨戒用レーダーを<br>搭載したW型、さらに同機とペアを組む対潜攻撃に特化した<br>S型。戦後海上自衛隊でも運用された、対潜哨戒攻撃機ペアを<br>さらに汎用性を高めたif改装機による攻撃哨戒機隊です。",
+    "_info": "重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半の大空を駆けた主力雷撃機「TBF」。<br>同機に哨戒用レーダーを搭載したW型、さらに同機とペアを組む対潜攻撃に特化したS型。<br>戦後海上自衛隊でも運用された、対潜哨戒攻撃機ペアをさらに汎用性を高めたif改装機による攻撃哨戒機隊です。",
+    "_info_en": "Possessing a heavy engine and a sturdy airframe, the \"TBF\" was the main torpedo bomber that soared in the skies during the latter half of the Pacific War.<br>This is a combination of the W-type that was mounted with a radar for patrolling and the S-type that was designed for anti-submarine strikes.<br>This is a what-if version that would've been operated by the post-war JMSDF as a hunter-killer combo after upgrades to increase versatility.",
     "_japanese_name": "TBM-3W+3S",
     "_localized_name": "Grumman TBM-3W Avenger & Grumman TBM-3S Avenger",
     "_los": 10,
@@ -21775,7 +21829,8 @@
     "_torpedo": 10,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 46, 39]
+    "_types": [3, 5, 8, 46, 39],
+    "_wikipedia": "Grumman TBF Avenger"
   },
   "Tenzan": {
     "_aa": false,
@@ -22100,7 +22155,8 @@
     "_icon": 8,
     "_id": 372,
     "_improvements": true,
-    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」。<br>発動機を換装し、武装を強化。さらに細部を改修した「天山」<br>の改良後期型です。「翔鶴」「瑞鶴」、そして「大鳳」などの<br>航空母艦で運用して、戦果を挙げたいですね。",
+    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」。<br>発動機を換装し、武装を強化。さらに細部を改修した「天山」の改良後期型です。<br>「翔鶴」「瑞鶴」、そして「大鳳」などの航空母艦で運用して、戦果を挙げたいですね。",
+    "_info_en": "A carrier-based torpedo bomber developed as the successor to the \"Type 97 Torpedo Bomber\", the \"Tenzan\".<br>Its engine has been replaced and armament strengthened. This is an improved late-model \"Tenzan\" with improved specs.<br>Use them on carriers like \"Shoukaku\", \"Zuikaku\", and \"Taihou\" for improved results.",
     "_japanese_name": "天山一二型甲",
     "_localized_name": "Heavenly Mountain Model 12A",
     "_los": 2,
@@ -22119,7 +22175,8 @@
     "_torpedo": 9,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 1]
+    "_types": [3, 5, 8, 8, 1],
+    "_wikipedia": "Nakajima B6N"
   },
   "Tenzan Model 12A Kai (Skilled w/ Type 6 Airborne Radar Kai)": {
     "_aa": 1,
@@ -22134,7 +22191,8 @@
     "_icon": 46,
     "_id": 374,
     "_improvements": false,
-    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」。<br>その改良後期型に、機上電探空六号の改良調整型と電波高度計<br>などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦<br>艦上攻撃機。同機で編成され、熟練搭乗員を集中配備した夜間<br>作戦の要となる精鋭艦攻隊です。",
+    "_info": "",
+    "_info_en": "Developed as the successor to the \"Type 97 Torpedo Bomber\", the \"Tenzan\", with this improved, late-war model coming equipped with a tuned-up Type 6 Airborne RADAR and a radio altimeter for nighttime operations, being a carrier-based torpedo bomber capable of performing night attacks.<br>This is an elite squadron of skilled pilots that will play an important role in nighttime operations.",
     "_japanese_name": "天山一二型甲改(熟練/空六号電探改装備機)",
     "_localized_name": "Heavenly Mountain Model 12A Kai (w/ Type 6 Airborne Radar Kai)",
     "_los": 6,
@@ -22154,7 +22212,8 @@
     "_torpedo_accuracy": false,
     "_type": 8,
     "_types": [3, 5, 8, 46, 1],
-    "_version": 2
+    "_version": 2,
+    "_wikipedia": "Nakajima B6N"
   },
   "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)": {
     "_aa": 1,
@@ -22169,7 +22228,8 @@
     "_icon": 46,
     "_id": 373,
     "_improvements": false,
-    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」。<br>その改良後期型に、機上電探空六号の改良調整型と電波高度計<br>などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦<br>艦上攻撃機です。",
+    "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」その改良後期型に、機上電探空六号の改良調整型と電波高度計などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦艦上攻撃機です。",
+    "_info_en": "Developed as the successor to the \"Type 97 Torpedo Bomber\", the \"Tenzan\", with this improved, late-war model coming equipped with a tuned-up Type 6 Airborne RADAR and a radio altimeter for nighttime operations, being a carrier-based torpedo bomber capable of performing night attacks.",
     "_japanese_name": "天山一二型甲改(空六号電探改装備機)",
     "_localized_name": false,
     "_los": 5,
@@ -22188,7 +22248,8 @@
     "_torpedo": 11,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 46, 1]
+    "_types": [3, 5, 8, 46, 1],
+    "_wikipedia": "Nakajima B6N"
   },
   "Toku Daihatsu Landing Craft": {
     "_aa": false,
@@ -24613,7 +24674,8 @@
       },
       "_steel": 390
     },
-    "_info": "遠距離砲撃戦における秘密兵器「九一式徹甲弾」改良版、<br>「一式徹甲弾」。本徹甲弾はそのさらなる改良版です。<br>本改良徹甲弾は弾頭炸薬を増量し、被帽頭を再設計したif強化<br>弾です。海中突入後魚雷のように敵艦水線下に突き進む喫水下<br>破砕を企図した水中弾能力も強化、もちろん弾頭部に弾着観測<br>用着色剤を充填。戦艦・航空戦艦・高速戦艦で運用可能です。",
+    "_info": "遠距離砲撃戦における秘密兵器「九一式徹甲弾」改良版、「一式徹甲弾」。<br>本徹甲弾はそのさらなる改良版です。<br>本改良徹甲弾は弾頭炸薬を増量し、被帽頭を再設計したif強化弾です。<br>海中突入後魚雷のように敵艦水線下に突き進む喫水下破砕を企図した水中弾能力も強化、もちろん弾頭部に弾着観測用着色剤を充填。<br>戦艦・航空戦艦・高速戦艦で運用可能です。",
+    "_info_en": "The \"Type 1 Armor-Piercing Shell\" is an improved version of the \"Type 91 Armor-Piercing Shell\" that was meant as a secret weapon for long-ranged shelling.<br>This AP shell is a further improved version.<br>This what-if upgrade of the AP shell has a larger bursting charge and a redesigned cap, and it was designed to cut through the water to hit enemy ships below the waterline like a torpedo.<br>Of course, dye caps were also included to help spot the shots.<br>It can be used on battleships, aviation battleships, and fast battleships.",
     "_japanese_name": "一式徹甲弾改",
     "_los": false,
     "_luck": false,
@@ -24631,7 +24693,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 19,
-    "_types": [4, 25, 19, 13, 0]
+    "_types": [4, 25, 19, 13, 0],
+    "_wikipedia": "Armour-piercing ammunition"
   },
   "Type 1 Fighter Hayabusa Model II": {
     "_aa": 6,
@@ -30673,7 +30736,8 @@
       },
       "_steel": false
     },
-    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登<br>場した「九九艦爆」。固定脚の低速機ではありましたが、「九<br>七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担いまし<br>た。後期改良機の二二型ではエンジンを換装、主に速度などの<br>性能向上を図りました。大戦後半期に投入された新鋭機と比べ<br>ると、残念ながらその旧式化は否めません。",
+    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場した「九九艦爆」。<br>固定脚の低速機ではありましたが、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担いました。<br>後期改良機の二二型ではエンジンを換装、主に速度などの性能向上を図りました。<br>大戦後半期に投入された新鋭機と比べると、残念ながらその旧式化は否めません。",
+    "_info_en": "The Type 99 was introduced as a modern monoplane replacement for the \"Type 96 Biplane\".<br>Although it was a slow aircraft with fixed landing gear, it formed the core of the attack squadrons along with the \"Type 97 Torpedo Bomber\" in the early days of the carrier task forces.<br>In the model 22, a late-stage upgrade, its engine was replaced to improve speed.<br>Despite this, it is still obsolete compared to newer aircraft introduced late in the war.",
     "_japanese_name": "九九式艦爆二二型",
     "_los": 2,
     "_luck": false,
@@ -30691,7 +30755,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 40]
+    "_types": [3, 5, 7, 7, 40],
+    "_wikipedia": "Aichi D3A"
   },
   "Type 99 Dive Bomber Model 22 (Skilled)": {
     "_aa": 1,
@@ -30780,7 +30845,8 @@
       },
       "_steel": false
     },
-    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登<br>場した「九九艦爆」。固定脚の低速機ではありましたが、「九<br>七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担いまし<br>た。後期改良機の二二型ではエンジンを換装、主に速度などの<br>性能向上を図ります。既に旧式であることは否めませんが、本<br>艦爆隊は、熟練搭乗員で構成された精鋭九九艦爆隊です。",
+    "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場した「九九艦爆」。<br>固定脚の低速機ではありましたが、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担いました。<br>後期改良機の二二型ではエンジンを換装、主に速度などの性能向上を図ります。<br>既に旧式であることは否めませんが、本艦爆隊は、熟練搭乗員で構成された精鋭九九艦爆隊です。",
+    "_info_en": "The Type 99 was introduced as a modern monoplane replacement for the \"Type 96 Biplane\".<br>Although it was a slow aircraft with fixed landing gear, it formed the core of the attack squadrons along with the \"Type 97 Torpedo Bomber\" in the early days of the carrier task forces.<br>In its upgrade to the model 22 in the latter stages of the war, its engine was replaced to improve speed.<br>It is undeniably obsolete, but this elite Type 99 squadron is crewed by skilled pilots.",
     "_japanese_name": "九九式艦爆二二型(熟練)",
     "_los": 3,
     "_luck": false,
@@ -30798,7 +30864,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 40]
+    "_types": [3, 5, 7, 7, 40],
+    "_wikipedia": "Aichi D3A"
   },
   "Type A Kouhyouteki": {
     "_aa": false,
@@ -30940,7 +31007,8 @@
     "_icon": 5,
     "_id": 364,
     "_improvements": false,
-    "_info": "独自開発された「特殊潜航艇」、その後期改良型のさらなる発<br>展型です。従来の甲標的を大型化、航続距離や通信能力を強<br>化、搭乗員も5名に拡張、艇首に45cm魚雷発射管2基を備え<br>るミニ潜水艦に近づいた強化発展型甲標的です。本来はその戦<br>局から艦上での運用を前提の設計でしたが、改良型の本艇は同<br>運用に対応した水上艦での積極運用が可能です。",
+    "_info": "独自開発された「特殊潜航艇」、その後期改良型のさらなる発展型です。<br>従来の甲標的を大型化、航続距離や通信能力を強化、搭乗員も5名に拡張、艇首に45cm魚雷発射管2基を備えるミニ潜水艦に近づいた強化発展型甲標的です。<br>本来はその戦局から艦上での運用を前提の設計でしたが、改良型の本艇は同運用に対応した水上艦での積極運用が可能です。",
+    "_info_en": "This was an independently developed \"Special Submarine\" that was an improvement over the previous late-model.<br>It is an enlarged version of the Type-A Midget Submarine with increased cruising range and communications capability. With the crew count increased to 5 members and 2 bow-mounted 45 cm torpedo tubes, this is closer to a mini-submarine than an improved midget submarine.<br>It was originally designed to be operated from a ship, but this improved model can operate independently to support other ships.",
     "_japanese_name": "甲標的 丁型改(蛟龍改)",
     "_localized_name": "Type D Target Mk.1 (Kōryū Mk.1)",
     "_los": 2,
@@ -30959,7 +31027,8 @@
     "_torpedo": 17,
     "_torpedo_accuracy": false,
     "_type": 22,
-    "_types": [2, 4, 22, 5, 0]
+    "_types": [2, 4, 22, 5, 0],
+    "_wikipedia": "Type A Kō-hyōteki-class submarine"
   },
   "Type124 ASDIC": {
     "_aa": false,
@@ -31141,7 +31210,8 @@
     "_icon": 6,
     "_id": 375,
     "_improvements": false,
-    "_info": "米海軍が名機「F4U」を生み出した航空機メーカーに発注した<br>円盤翼を持つ独特な機体の試作新型艦上戦闘機です。<br>「Flying Pancake」とも呼ばれた革新的な機体は、STOL性<br>と高い運動性能、そして頑丈な機体強度を持っています。ぜひ<br>米空母に搭載して、幻の戦闘配備を！",
+    "_info": "米海軍が名機「F4U」を生み出した航空機メーカーに発注した円盤翼を持つ独特な機体の試作新型艦上戦闘機です。<br>「Flying Pancake」とも呼ばれた革新的な機体は、STOL性と高い運動性能、そして頑丈な機体強度を持っています。<br>ぜひ米空母に搭載して、幻の戦闘配備を！",
+    "_info_en": "A prototype carrier-based fighter with a unique disc wing ordered by the USN from the maker of the famous F4U.<br>Known as the \"Flying Pancake\", this innovative plane has STOL capabilities, high maneuverability, and a sturdy airframe.<br>Go on and equip them on US carriers and deploy the dream team!",
     "_japanese_name": "XF5U",
     "_localized_name": "Vought XF5U Flying Flapjack",
     "_los": 1,
@@ -31160,7 +31230,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
-    "_types": [3, 5, 6, 6, 38]
+    "_types": [3, 5, 6, 6, 38],
+    "_wikipedia": "Vought XF5U"
   },
   "Zero Fighter Model 21 (w/ Iwamoto Flight)": {
     "_aa": 9,
