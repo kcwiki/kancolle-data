@@ -7322,6 +7322,7 @@
     "_buildable": false,
     "_evasion": false,
     "_firepower": 17,
+    "_gun_fit_group": "35.6 cm",
     "_icon": 3,
     "_id": 114,
     "_improvements": {
@@ -20663,7 +20664,7 @@
     "_torpedo_accuracy": false,
     "_type": 33,
     "_types": [11, 21, 33, 27, 0],
-    "_wikipedia": "Shell (projectile)"
+    "_wikipedia": "Shell (projectile)#Illumination"
   },
   "Striking Force Fleet Command Facility": {
     "_aa": false,
@@ -24047,7 +24048,7 @@
       "_steel": false
     },
     "_info": "零式艦上戦闘機を艦上爆撃機仕様にした、通称「爆戦」です。<br>52型の胴体下に250㎏爆弾掛吊架を増設しました。<br>戦闘爆撃機型の機体で、爆撃後は制空戦闘機として空戦に参加できるマルチロールファイター。<br>あの攻撃方法は採用しないで通常攻撃です！",
-    "_info_en": "The Type Zero Fighter in bomber specification, commonly known as a \"fighter-bomber\".<br>A hanging 250 ㎏ bomb has been added under the fuselage of the Type 52.<br>As a fighter-bomber, it is a multi-role fighter that can participate in dogfighting as an air superiority fighter after bombing.<br>That paradigm of engagement is not usually seen!",
+    "_info_en": "The Type Zero Fighter in bomber specification, commonly known as a \"fighter-bomber\".<br>A hanging 250 kg bomb has been added under the fuselage of the Type 52.<br>As a fighter-bomber, it is a multi-role fighter that can participate in dogfighting as an air superiority fighter after bombing.<br>That paradigm of engagement is not usually seen!",
     "_japanese_name": "零式艦戦62型(爆戦)",
     "_los": false,
     "_luck": false,
