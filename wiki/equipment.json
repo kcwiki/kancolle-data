@@ -15678,7 +15678,7 @@
       "_steel": 650
     },
     "_info": "海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その試作二連装砲です。<br>敵戦艦に対してアウトレンジが可能な最大射程40kmを超える巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量です。<br>主力戦艦群への搭載と同主兵装としての運用が可能です。 ",
-    "_info_en": "The 46cm twin gun mount is one of the main cannons developed in secrecy by the Naval Arsenal.<br>While it can outrange enemy battleships with its 40 km maximum range, it is also lighter than the 46 cm triple cannons of the Yamato-class.<br>It can be used as the main cannons on other frontline battleships.",
+    "_info_en": "The 46 cm twin gun mount is one of the main cannons developed in secrecy by the Naval Arsenal.<br>While it can outrange enemy battleships with its 40 km maximum range, it is also lighter than the 46 cm triple cannons of the Yamato-class.<br>It can be used as the main cannons on other frontline battleships.",
     "_japanese_name": "試製46cm連装砲",
     "_los": false,
     "_luck": false,
@@ -25446,7 +25446,7 @@
     "_id": 170,
     "_improvements": true,
     "_info": "歴戦の中攻乗りの空中指揮官、野中飛行長の率いる精鋭「一式陸攻」隊です。<br>新鋭の「一式陸攻」を装備し、士気の高い「野中一家」の搭乗員たちと共に、通常攻撃で対艦・対地攻撃に出撃します。",
-    "_info_en": "This is the \"Type 1 Land Attacker\" squadron led by a commander in the air, Nonaka. Equipped with the newest \"Type 1 Land Attacker\", the pilots of the \"Nonaka branch\" will run anti-ship/anti-structure missions with high morale.",
+    "_info_en": "This is the \"Type 1 Land Attacker\" squadron led by a commander in the air, Nonaka.<br>Equipped with the newest \"Type 1 Land Attacker\", the pilots of the \"Nonaka branch\" will run anti-ship/anti-structure missions with high morale.",
     "_japanese_name": "一式陸攻(野中隊)",
     "_los": 4,
     "_luck": false,
