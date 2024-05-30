@@ -19843,7 +19843,7 @@
     "_remodel_armament": 1,
     "_remodel_blueprint": true,
     "_remodel_catapult": false,
-    "_remodel_development_material": false,
+    "_remodel_development_material": 13,
     "_remodel_from": "Inagi/Kai",
     "_remodel_level": 73,
     "_remodel_report": false,
