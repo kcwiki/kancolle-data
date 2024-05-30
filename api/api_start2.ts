@@ -180,6 +180,7 @@ export interface The106_APIShipIDS {
   '954'?: number
   '961'?: number
   '975'?: number
+  '979'?: number
 }
 
 export interface The106_APIStypes {
@@ -401,6 +402,7 @@ export interface APIMstShipgraph {
   api_pa?: number[]
   api_pab?: number[]
   api_sortno?: number
+  api_sp_flag?: number
   api_version: string[]
   api_weda?: number[]
   api_wedb?: number[]
