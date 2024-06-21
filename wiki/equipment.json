@@ -2121,7 +2121,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 21,
-    "_types": [4, 29, 21, 15, 0]
+    "_types": [4, 29, 21, 15, 0],
+    "_wikipedia": "Type 4 Incendiary Rocket (RoSa)"
   },
   "12cm 30-tube Rocket Launcher Kai 2": {
     "_aa": 8,
@@ -2219,7 +2220,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 21,
-    "_types": [4, 29, 21, 15, 0]
+    "_types": [4, 29, 21, 15, 0],
+    "_wikipedia": "Type 4 Incendiary Rocket (RoSa)"
   },
   "12cm Single Gun Mount": {
     "_aa": 1,
