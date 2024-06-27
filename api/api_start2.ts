@@ -124,6 +124,7 @@ export interface The10_APIShipIDS {
   '955'?: number
   '960'?: number
   '961'?: number
+  '968'?: number
   '971'?: number
   '972'?: number
   '975'?: number
