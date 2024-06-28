@@ -368,6 +368,7 @@
     "_id": 533,
     "_improvements": true,
     "_info": "",
+    "_info_en": "",
     "_japanese_name": "10cm連装高角砲改+高射装置改",
     "_los": false,
     "_luck": false,
@@ -385,7 +386,8 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 1,
-    "_types": [1, 1, 1, 16, 0]
+    "_types": [1, 1, 1, 16, 0],
+    "_wikipedia": "10 cm/65 Type 98 naval gun"
   },
   "12.7cm High-angle Gun + Anti-Aircraft Fire Director": {
     "_aa": 8,
