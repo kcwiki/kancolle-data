@@ -7404,5 +7404,19 @@
     "asw": 0,
     "los": 0,
     "range": 1
+  },
+  {
+    "id": 536,
+    "name": "15.2cm三連装主砲",
+    "description": "トリコロールの国で建造された軽巡級の主砲兵装です。<br>後に特徴ある迷彩仕様となる「Gloire」などの<br>La Galissonnière級軽巡の主砲兵装として運用されました。<br>改修して、特徴ある迷彩仕様にするのもいいですね！",
+    "firepower": 7,
+    "torpedo": 0,
+    "armor": 0,
+    "aa": 2,
+    "bombing": 0,
+    "evasion": 1,
+    "asw": 0,
+    "los": 0,
+    "range": 2
   }
 ]

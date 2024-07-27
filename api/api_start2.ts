@@ -313,7 +313,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: null
+  api_max_maphp: number | null
   api_name: string
   api_no: number
   api_opetext: string
@@ -420,6 +420,7 @@ export interface APIMstShipupgrade {
   api_original_ship_id: number
   api_report_count: number
   api_sortno: number
+  api_tech_count: number
   api_upgrade_level: number
   api_upgrade_type: number
 }
