@@ -6544,6 +6544,133 @@
     "_type": 10,
     "_full_name": "Airfield Princess XVIII"
   },
+  "Airfield Summer Princess": {
+    "_aa": null,
+    "_api_id": 2234,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2234,
+    "_japanese_name": "飛行場夏姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Summer Princess",
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "ひこうじょうなつき",
+    "_speed": 0,
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Summer Princess"
+  },
+  "Airfield Summer Princess II": {
+    "_aa": null,
+    "_api_id": 2235,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2235,
+    "_japanese_name": "飛行場夏姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Summer Princess",
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "ひこうじょうなつき",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Airfield Summer Princess II"
+  },
+  "Airfield Summer Princess III": {
+    "_aa": 90,
+    "_api_id": 2236,
+    "_armor": 90,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 80,
+    "_hp": 440,
+    "_id": 2236,
+    "_japanese_name": "飛行場夏姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Airfield Summer Princess",
+    "_range": 4,
+    "_rarity": 8,
+    "_reading": "ひこうじょうなつき",
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 0,
+    "_type": 10,
+    "_full_name": "Airfield Summer Princess III"
+  },
   "American Destroyer Princess": {
     "_aa": 110,
     "_api_id": 2204,
@@ -15841,6 +15968,267 @@
     "_type": 10,
     "_full_name": "French Battleship Princess Vacation Mode III"
   },
+  "French Light Cruiser Princess": {
+    "_aa": null,
+    "_api_id": 2237,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2237,
+    "_japanese_name": "軽巡仏棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "French Light Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんふつせいき",
+    "_speed": 5,
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "French Light Cruiser Princess"
+  },
+  "French Light Cruiser Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2240,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2240,
+    "_japanese_name": "軽巡仏棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "French Light Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんふつせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "French Light Cruiser Princess Damaged"
+  },
+  "French Light Cruiser Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2241,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2241,
+    "_japanese_name": "軽巡仏棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "French Light Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんふつせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "French Light Cruiser Princess Damaged II"
+  },
+  "French Light Cruiser Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2242,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2242,
+    "_japanese_name": "軽巡仏棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "French Light Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんふつせいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "French Light Cruiser Princess Damaged III"
+  },
+  "French Light Cruiser Princess II": {
+    "_aa": null,
+    "_api_id": 2238,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2238,
+    "_japanese_name": "軽巡仏棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "French Light Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんふつせいき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "French Light Cruiser Princess II"
+  },
+  "French Light Cruiser Princess III": {
+    "_aa": null,
+    "_api_id": 2239,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2239,
+    "_japanese_name": "軽巡仏棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "French Light Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんふつせいき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "French Light Cruiser Princess III"
+  },
   "German Escort Princess": {
     "_aa": 100,
     "_air_power_estimation": true,
@@ -16433,6 +16821,176 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Princess"
+  },
+  "Harbour Princess Holiday Mode": {
+    "_aa": null,
+    "_api_id": 2143,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2143,
+    "_japanese_name": "港湾棲姫 休日mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうわんせいき きゅうじつモード",
+    "_speed": 0,
+    "_suffix": "Holiday Mode",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Harbour Princess Holiday Mode"
+  },
+  "Harbour Princess Holiday Mode Damaged": {
+    "_aa": null,
+    "_api_id": 2145,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2145,
+    "_japanese_name": "港湾棲姫 休日mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうわんせいき きゅうじつモード-かい",
+    "_speed": 0,
+    "_suffix": "Holiday Mode Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Harbour Princess Holiday Mode Damaged"
+  },
+  "Harbour Princess Holiday Mode Damaged II": {
+    "_aa": null,
+    "_api_id": 2146,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Holiday Mode Damaged",
+    "_cg_reference": "/Holiday Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2146,
+    "_japanese_name": "港湾棲姫 休日mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうわんせいき きゅうじつモード-かい",
+    "_speed": 0,
+    "_suffix": "Holiday Mode Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Harbour Princess Holiday Mode Damaged II"
+  },
+  "Harbour Princess Holiday Mode II": {
+    "_aa": null,
+    "_api_id": 2144,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Holiday Mode",
+    "_cg_reference": "/Holiday Mode",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2144,
+    "_japanese_name": "港湾棲姫 休日mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Harbour Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうわんせいき きゅうじつモード",
+    "_speed": 0,
+    "_suffix": "Holiday Mode II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Harbour Princess Holiday Mode II"
   },
   "Harbour Princess II": {
     "_aa": 170,

@@ -52057,11 +52057,11 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "38.1cm Mk.I Twin Gun Mount",
         "size": 3
       },
       {
-        "equipment": false,
+        "equipment": "Swordfish (Seaplane Model)",
         "size": 3
       },
       {
@@ -52106,7 +52106,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 9,
-    "_voice_actor": null,
+    "_voice_actor": "Yamada Misuzu",
     "_wikipedia": "HMS Valiant (1914)",
     "_full_name": "Valiant"
   },
@@ -52183,7 +52183,7 @@
     "_type": 9,
     "_full_name": "Valiant Kai",
     "_implementation_date": [2024, 7, 27],
-    "_voice_actor": null,
+    "_voice_actor": "Yamada Misuzu",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Valiant (1914)",
