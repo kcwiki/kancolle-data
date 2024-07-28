@@ -1,0 +1,114 @@
+[
+  {
+    "map": "59-1",
+    "difficulty": 1,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 1 },
+      { "api_type": 7, "api_id": 111, "api_value": 1 },
+      { "api_type": 3, "api_id": 534, "api_value": 1 }
+    ],
+    "selectreward": {
+      "111": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 902, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 8 }
+      ]
+    }
+  },
+  {
+    "map": "59-1",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 1 },
+      { "api_type": 1, "api_id": 64, "api_value": 1 },
+      { "api_type": 7, "api_id": 121, "api_value": 1 },
+      { "api_type": 3, "api_id": 534, "api_value": 1 },
+      { "api_type": 3, "api_id": 527, "api_value": 1 }
+    ],
+    "selectreward": {
+      "121": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 903, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 12 }
+      ]
+    }
+  },
+  {
+    "map": "59-1",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 2 },
+      { "api_type": 1, "api_id": 64, "api_value": 1 },
+      { "api_type": 7, "api_id": 131, "api_value": 1 },
+      { "api_type": 3, "api_id": 534, "api_value": 1, "api_slot_level": 1 },
+      { "api_type": 3, "api_id": 532, "api_value": 1 },
+      { "api_type": 3, "api_id": 527, "api_value": 1, "api_slot_level": 1 }
+    ],
+    "selectreward": {
+      "131": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 904, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 16 }
+      ]
+    }
+  },
+  {
+    "map": "59-1",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 1 },
+      { "api_type": 1, "api_id": 54, "api_value": 3 },
+      { "api_type": 1, "api_id": 64, "api_value": 1 },
+      { "api_type": 7, "api_id": 141, "api_value": 1 },
+      { "api_type": 3, "api_id": 534, "api_value": 1, "api_slot_level": 2 },
+      { "api_type": 3, "api_id": 532, "api_value": 1 },
+      { "api_type": 3, "api_id": 527, "api_value": 1, "api_slot_level": 2 },
+      { "api_type": 1, "api_id": 100, "api_value": 1 }
+    ],
+    "selectreward": null
+  },
+  {
+    "map": "59-2",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 59, "api_value": 2 },
+      { "api_type": 1, "api_id": 58, "api_value": 1 },
+      { "api_type": 7, "api_id": 221, "api_value": 1 },
+      { "api_type": 1, "api_id": 100, "api_value": 1 }
+    ],
+    "selectreward": {
+      "221": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 1600 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 51, "api_value": 1 }
+      ]
+    }
+  },
+  {
+    "map": "59-2",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 2 },
+      { "api_type": 1, "api_id": 59, "api_value": 4 },
+      { "api_type": 1, "api_id": 58, "api_value": 1 },
+      { "api_type": 3, "api_id": 531, "api_value": 1 },
+      { "api_type": 7, "api_id": 241, "api_value": 1 },
+      { "api_type": 3, "api_id": 535, "api_value": 1, "api_slot_level": 2 },
+      { "api_type": 1, "api_id": 100, "api_value": 1 },
+      { "api_type": 3, "api_id": 528, "api_value": 1 }
+    ],
+    "selectreward": null
+  },
+  { "map": "59-3", "difficulty": 1, "rewards": [{ "api_type": 2, "api_id": 965, "api_value": 1 }], "selectreward": null },
+  {
+    "map": "59-3",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 3 },
+      { "api_type": 1, "api_id": 65, "api_value": 1 },
+      { "api_type": 3, "api_id": 532, "api_value": 1 },
+      { "api_type": 7, "api_id": 341, "api_value": 1 },
+      { "api_type": 3, "api_id": 537, "api_value": 1, "api_slot_level": 2 },
+      { "api_type": 1, "api_id": 100, "api_value": 2 },
+      { "api_type": 3, "api_id": 538, "api_value": 1, "api_slot_level": 1 },
+      { "api_type": 2, "api_id": 965, "api_value": 1 }
+    ],
+    "selectreward": null
+  }
+]
