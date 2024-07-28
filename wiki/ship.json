@@ -11101,11 +11101,11 @@
     "_class_number": 5,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "15.2cm Triple Main Gun Mount",
         "size": 1
       },
       {
-        "equipment": false,
+        "equipment": "15.2cm Triple Main Gun Mount",
         "size": 1
       },
       {
@@ -33090,7 +33090,7 @@
     "_armor": 13,
     "_armor_max": 34,
     "_armor_mod": 1,
-    "_artist": null,
+    "_artist": "Umihara Sakana",
     "_asw": null,
     "_asw_max": null,
     "_availability": ["event_drop"],
@@ -33101,15 +33101,15 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "13.8cm Twin Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "13.8cm Twin Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
@@ -33170,19 +33170,19 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "13.8cm Twin Gun Mount Kai",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
@@ -33229,7 +33229,7 @@
     "_full_name": "Mogador Kai",
     "_implementation_date": [2024, 7, 27],
     "_voice_actor": null,
-    "_artist": null,
+    "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_wikipedia": "French destroyer Mogador"
   },
