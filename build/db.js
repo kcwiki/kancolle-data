@@ -49,7 +49,7 @@ const queryPoi = q =>
       })
   })
 
-const eventIds = [58] // _.range(50, 60 + 1)
+const eventIds = [59] // _.range(50, 60 + 1)
 
 const mapQuery = eventId =>
   _.range(1, 10 + 1)
