@@ -15987,10 +15987,6 @@
       {
         "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
         "size": 0
-      },
-      {
-        "equipment": false,
-        "size": false
       }
     ],
     "_evasion": null,
