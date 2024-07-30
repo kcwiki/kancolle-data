@@ -15969,92 +15969,92 @@
     "_full_name": "French Battleship Princess Vacation Mode III"
   },
   "French Light Cruiser Princess": {
-    "_aa": null,
+    "_aa": 51,
     "_api_id": 2237,
-    "_armor": null,
+    "_armor": 120,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": false,
+        "size": false
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 141,
+    "_hp": 760,
     "_id": 2237,
     "_japanese_name": "軽巡仏棲姫",
     "_los": null,
     "_luck": null,
     "_name": "French Light Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "けいじゅんふつせいき",
     "_speed": 5,
-    "_torpedo": null,
+    "_torpedo": 121,
     "_type": 3,
     "_full_name": "French Light Cruiser Princess"
   },
   "French Light Cruiser Princess Damaged": {
-    "_aa": null,
+    "_aa": 61,
     "_api_id": 2240,
-    "_armor": null,
+    "_armor": 220,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 171,
+    "_hp": 760,
     "_id": 2240,
     "_japanese_name": "軽巡仏棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "French Light Cruiser Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "けいじゅんふつせいき-かい",
     "_speed": 5,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 141,
     "_type": 3,
     "_full_name": "French Light Cruiser Princess Damaged"
   },
   "French Light Cruiser Princess Damaged II": {
-    "_aa": null,
+    "_aa": 71,
     "_api_id": 2241,
-    "_armor": null,
+    "_armor": 260,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -16064,43 +16064,43 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 8
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 201,
+    "_hp": 830,
     "_id": 2241,
     "_japanese_name": "軽巡仏棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "French Light Cruiser Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "けいじゅんふつせいき-かい",
     "_speed": 5,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 161,
     "_type": 3,
     "_full_name": "French Light Cruiser Princess Damaged II"
   },
   "French Light Cruiser Princess Damaged III": {
-    "_aa": null,
+    "_aa": 91,
     "_api_id": 2242,
-    "_armor": null,
+    "_armor": 350,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -16110,122 +16110,122 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 16
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 261,
+    "_hp": 910,
     "_id": 2242,
     "_japanese_name": "軽巡仏棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "French Light Cruiser Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "けいじゅんふつせいき-かい",
     "_speed": 5,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 181,
     "_type": 3,
     "_full_name": "French Light Cruiser Princess Damaged III"
   },
   "French Light Cruiser Princess II": {
-    "_aa": null,
+    "_aa": 61,
     "_api_id": 2238,
-    "_armor": null,
+    "_armor": 190,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 181,
+    "_hp": 830,
     "_id": 2238,
     "_japanese_name": "軽巡仏棲姫",
     "_los": null,
     "_luck": null,
     "_name": "French Light Cruiser Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "けいじゅんふつせいき",
     "_speed": 5,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 141,
     "_type": 3,
     "_full_name": "French Light Cruiser Princess II"
   },
   "French Light Cruiser Princess III": {
-    "_aa": null,
+    "_aa": 81,
     "_api_id": 2239,
-    "_armor": null,
+    "_armor": 250,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 15.2cm Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "size": 8
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 241,
+    "_hp": 910,
     "_id": 2239,
     "_japanese_name": "軽巡仏棲姫",
     "_los": null,
     "_luck": null,
     "_name": "French Light Cruiser Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "けいじゅんふつせいき",
     "_speed": 5,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 161,
     "_type": 3,
     "_full_name": "French Light Cruiser Princess III"
   },
@@ -16823,172 +16823,180 @@
     "_full_name": "Harbour Princess"
   },
   "Harbour Princess Holiday Mode": {
-    "_aa": null,
+    "_aa": 127,
     "_api_id": 2243,
-    "_armor": null,
+    "_armor": 7,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 24
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 177,
+    "_hp": 570,
     "_id": 2243,
     "_japanese_name": "港湾棲姫 休日mode",
     "_los": null,
     "_luck": null,
     "_name": "Harbour Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうわんせいき きゅうじつモード",
     "_speed": 0,
     "_suffix": "Holiday Mode",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Princess Holiday Mode"
   },
   "Harbour Princess Holiday Mode Damaged": {
-    "_aa": null,
+    "_aa": 167,
     "_api_id": 2245,
-    "_armor": null,
+    "_armor": 14,
     "_asw": null,
     "_back": -12,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 48
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 207,
+    "_hp": 570,
     "_id": 2245,
     "_japanese_name": "港湾棲姫 休日mode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Harbour Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうわんせいき きゅうじつモード-かい",
     "_speed": 0,
     "_suffix": "Holiday Mode Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Princess Holiday Mode Damaged"
   },
   "Harbour Princess Holiday Mode Damaged II": {
-    "_aa": null,
+    "_aa": 187,
     "_api_id": 2246,
-    "_armor": null,
+    "_armor": 247,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Holiday Mode Damaged",
     "_cg_reference": "/Holiday Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 96
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "estimation": true,
+        "size": 96
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 247,
+    "_hp": 1700,
     "_id": 2246,
     "_japanese_name": "港湾棲姫 休日mode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Harbour Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうわんせいき きゅうじつモード-かい",
     "_speed": 0,
     "_suffix": "Holiday Mode Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Princess Holiday Mode Damaged II"
   },
   "Harbour Princess Holiday Mode II": {
-    "_aa": null,
+    "_aa": 167,
     "_api_id": 2244,
-    "_armor": null,
+    "_armor": 117,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Holiday Mode",
     "_cg_reference": "/Holiday Mode",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "estimation": true,
+        "size": 48
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 227,
+    "_hp": 1700,
     "_id": 2244,
     "_japanese_name": "港湾棲姫 休日mode",
     "_los": null,
     "_luck": null,
     "_name": "Harbour Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうわんせいき きゅうじつモード",
     "_speed": 0,
     "_suffix": "Holiday Mode II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Harbour Princess Holiday Mode II"
   },
