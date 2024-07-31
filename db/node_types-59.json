@@ -54,6 +54,7 @@
     "C3": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "E": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "F": { "color": 5, "id": 5, "kind": 1, "type": "Boss" },
+    "G": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "H": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "H1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "H2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
