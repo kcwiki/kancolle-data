@@ -33208,7 +33208,7 @@
     "_remodel_ammo": 480,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": false,
+    "_remodel_development_material": 10,
     "_remodel_from": "Mogador/",
     "_remodel_level": 42,
     "_remodel_report": false,
