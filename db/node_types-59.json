@@ -79,5 +79,6 @@
     "W": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "X": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   },
-  "594": { "undefined": { "color": 15, "id": 4, "kind": 1, "type": "Supported" } }
+  "594": { "undefined": { "color": 15, "id": 4, "kind": 1, "type": "Supported" } },
+  "595": { "undefined": { "color": 4, "id": 4, "kind": 1, "type": "Normal" } }
 }
