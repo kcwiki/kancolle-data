@@ -29520,7 +29520,7 @@
     "_availability": ["event_reward"],
     "_build_time": 330,
     "_buildable": false,
-    "_buildable_lsc": true,
+    "_buildable_lsc": false,
     "_class": "Lexington",
     "_class_number": 1,
     "_equipment": [
