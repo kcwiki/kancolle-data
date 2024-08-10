@@ -26291,132 +26291,144 @@
     "_full_name": "PT Imp Pack IV"
   },
   "Pacific Airfield Princess": {
-    "_aa": null,
+    "_aa": 70,
     "_api_id": 2247,
-    "_armor": null,
+    "_armor": 44,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 12
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 40,
+    "_hp": 300,
     "_id": 2247,
     "_installation": true,
     "_japanese_name": "太平洋飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Pacific Airfield Princess",
-    "_range": 1,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "たいへいようひこうじょうき",
     "_speed": 0,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Pacific Airfield Princess"
   },
   "Pacific Airfield Princess II": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2248,
-    "_armor": null,
+    "_armor": 66,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 12
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 54,
+    "_hp": 400,
     "_id": 2248,
     "_installation": true,
     "_japanese_name": "太平洋飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Pacific Airfield Princess",
-    "_range": 1,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "たいへいようひこうじょうき",
     "_speed": 0,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Pacific Airfield Princess II"
   },
   "Pacific Airfield Princess III": {
-    "_aa": null,
+    "_aa": 90,
     "_api_id": 2249,
-    "_armor": null,
+    "_armor": 88,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
+        "estimation": true,
+        "size": 12
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 80,
+    "_hp": 500,
     "_id": 2249,
     "_installation": true,
     "_japanese_name": "太平洋飛行場姫",
     "_los": null,
     "_luck": null,
     "_name": "Pacific Airfield Princess",
-    "_range": 1,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "たいへいようひこうじょうき",
     "_speed": 0,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 10,
     "_full_name": "Pacific Airfield Princess III"
   },
@@ -32758,266 +32770,278 @@
     "_full_name": "Supply Depot Princess D IV"
   },
   "Supply Depot Princess E Vacation Mode": {
-    "_aa": null,
+    "_aa": 50,
     "_api_id": 2250,
-    "_armor": null,
+    "_armor": 8,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "size": 50
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 70,
+    "_hp": 2300,
     "_id": 2250,
     "_japanese_name": "集積地棲姫V バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess E",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しゅうせきちせいき ファイブ バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode",
-    "_torpedo": null,
+    "_torpedo": 100,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode"
   },
   "Supply Depot Princess E Vacation Mode Damaged": {
-    "_aa": null,
+    "_aa": 70,
     "_api_id": 2251,
-    "_armor": null,
+    "_armor": 18,
     "_asw": null,
     "_back": -12,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "size": 74
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 110,
+    "_hp": 2300,
     "_id": 2251,
     "_japanese_name": "集積地棲姫V バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess E",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "しゅうせきちせいき ファイブ バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged",
-    "_torpedo": null,
+    "_torpedo": 120,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode Damaged"
   },
   "Supply Depot Princess E Vacation Mode Damaged II": {
-    "_aa": null,
+    "_aa": 100,
     "_api_id": 2253,
-    "_armor": null,
+    "_armor": 118,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "size": 0
+      },
+      {
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 160,
+    "_hp": 5200,
     "_id": 2253,
     "_japanese_name": "集積地棲姫V バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess E",
-    "_range": null,
+    "_range": 5,
     "_rarity": 8,
     "_reading": "しゅうせきちせいき ファイブ バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged II",
-    "_torpedo": null,
+    "_torpedo": 150,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode Damaged II"
   },
   "Supply Depot Princess E Vacation Mode Damaged III": {
-    "_aa": null,
+    "_aa": 140,
     "_api_id": 2255,
-    "_armor": null,
+    "_armor": 228,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Vacation Mode Damaged",
     "_cg_reference": "/Vacation Mode Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "size": 0
+      },
+      {
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 210,
+    "_hp": 8600,
     "_id": 2255,
     "_japanese_name": "集積地棲姫V バカンスmode-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess E",
-    "_range": null,
+    "_range": 5,
     "_rarity": 8,
     "_reading": "しゅうせきちせいき ファイブ バカンスモード-かい",
     "_speed": 0,
     "_suffix": "Vacation Mode Damaged III",
-    "_torpedo": null,
+    "_torpedo": 190,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode Damaged III"
   },
   "Supply Depot Princess E Vacation Mode II": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2252,
-    "_armor": null,
+    "_armor": 88,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Vacation Mode",
     "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "size": 0
+      },
+      {
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 120,
+    "_hp": 5200,
     "_id": 2252,
     "_japanese_name": "集積地棲姫V バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess E",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいき ファイブ バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode II",
-    "_torpedo": null,
+    "_torpedo": 130,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode II"
   },
   "Supply Depot Princess E Vacation Mode III": {
-    "_aa": null,
+    "_aa": 110,
     "_api_id": 2254,
-    "_armor": null,
+    "_armor": 188,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Vacation Mode",
     "_cg_reference": "/Vacation Mode",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "15inch Coastal Artillery",
+        "size": 0
+      },
+      {
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "size": 0
+      },
+      {
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
+        "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 170,
+    "_hp": 8600,
     "_id": 2254,
     "_japanese_name": "集積地棲姫V バカンスmode",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess E",
-    "_range": null,
+    "_range": 5,
     "_rarity": 8,
     "_reading": "しゅうせきちせいき ファイブ バカンスモード",
     "_speed": 0,
     "_suffix": "Vacation Mode III",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode III"
   },
