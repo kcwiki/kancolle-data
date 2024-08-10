@@ -268,6 +268,291 @@
     "_type": 2,
     "_full_name": "Abyssal Bamboo Princess III"
   },
+  "Abyssal Coral Sea Water Demon": {
+    "_aa": null,
+    "_api_id": 2256,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2256,
+    "_japanese_name": "深海珊瑚海水鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Coral Sea Water Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいさんごかいすいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Coral Sea Water Demon"
+  },
+  "Abyssal Coral Sea Water Demon Damaged": {
+    "_aa": null,
+    "_api_id": 2259,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2259,
+    "_japanese_name": "深海珊瑚海水鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Coral Sea Water Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいさんごかいすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Coral Sea Water Demon Damaged"
+  },
+  "Abyssal Coral Sea Water Demon Damaged II": {
+    "_aa": null,
+    "_api_id": 2260,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2260,
+    "_japanese_name": "深海珊瑚海水鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Coral Sea Water Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいさんごかいすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Coral Sea Water Demon Damaged II"
+  },
+  "Abyssal Coral Sea Water Demon Damaged III": {
+    "_aa": null,
+    "_api_id": 2261,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2261,
+    "_japanese_name": "深海珊瑚海水鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Coral Sea Water Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいさんごかいすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Coral Sea Water Demon Damaged III"
+  },
+  "Abyssal Coral Sea Water Demon II": {
+    "_aa": null,
+    "_api_id": 2257,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2257,
+    "_japanese_name": "深海珊瑚海水鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Coral Sea Water Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいさんごかいすいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Coral Sea Water Demon II"
+  },
+  "Abyssal Coral Sea Water Demon III": {
+    "_aa": null,
+    "_api_id": 2258,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2258,
+    "_japanese_name": "深海珊瑚海水鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Coral Sea Water Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいさんごかいすいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Coral Sea Water Demon III"
+  },
   "Abyssal Crane Princess": {
     "_aa": 88,
     "_air_power_estimation": true,
@@ -26005,6 +26290,136 @@
     "_type": 2,
     "_full_name": "PT Imp Pack IV"
   },
+  "Pacific Airfield Princess": {
+    "_aa": null,
+    "_api_id": 2247,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2247,
+    "_installation": true,
+    "_japanese_name": "太平洋飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Pacific Airfield Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "たいへいようひこうじょうき",
+    "_speed": 0,
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Pacific Airfield Princess"
+  },
+  "Pacific Airfield Princess II": {
+    "_aa": null,
+    "_api_id": 2248,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2248,
+    "_installation": true,
+    "_japanese_name": "太平洋飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Pacific Airfield Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "たいへいようひこうじょうき",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Pacific Airfield Princess II"
+  },
+  "Pacific Airfield Princess III": {
+    "_aa": null,
+    "_api_id": 2249,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2249,
+    "_installation": true,
+    "_japanese_name": "太平洋飛行場姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Pacific Airfield Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "たいへいようひこうじょうき",
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Pacific Airfield Princess III"
+  },
   "Pillbox Imp": {
     "_aa": 22,
     "_api_id": 2178,
@@ -32341,6 +32756,270 @@
     "_torpedo": 150,
     "_type": 10,
     "_full_name": "Supply Depot Princess D IV"
+  },
+  "Supply Depot Princess E Vacation Mode": {
+    "_aa": null,
+    "_api_id": 2250,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2250,
+    "_japanese_name": "集積地棲姫V バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess E",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき ファイブ バカンスモード",
+    "_speed": 0,
+    "_suffix": "Vacation Mode",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess E Vacation Mode"
+  },
+  "Supply Depot Princess E Vacation Mode Damaged": {
+    "_aa": null,
+    "_api_id": 2251,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2251,
+    "_japanese_name": "集積地棲姫V バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess E",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき ファイブ バカンスモード-かい",
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess E Vacation Mode Damaged"
+  },
+  "Supply Depot Princess E Vacation Mode Damaged II": {
+    "_aa": null,
+    "_api_id": 2253,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2253,
+    "_japanese_name": "集積地棲姫V バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess E",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき ファイブ バカンスモード-かい",
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess E Vacation Mode Damaged II"
+  },
+  "Supply Depot Princess E Vacation Mode Damaged III": {
+    "_aa": null,
+    "_api_id": 2255,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Vacation Mode Damaged",
+    "_cg_reference": "/Vacation Mode Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2255,
+    "_japanese_name": "集積地棲姫V バカンスmode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess E",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき ファイブ バカンスモード-かい",
+    "_speed": 0,
+    "_suffix": "Vacation Mode Damaged III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess E Vacation Mode Damaged III"
+  },
+  "Supply Depot Princess E Vacation Mode II": {
+    "_aa": null,
+    "_api_id": 2252,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2252,
+    "_japanese_name": "集積地棲姫V バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess E",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき ファイブ バカンスモード",
+    "_speed": 0,
+    "_suffix": "Vacation Mode II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess E Vacation Mode II"
+  },
+  "Supply Depot Princess E Vacation Mode III": {
+    "_aa": null,
+    "_api_id": 2254,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Vacation Mode",
+    "_cg_reference": "/Vacation Mode",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2254,
+    "_japanese_name": "集積地棲姫V バカンスmode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess E",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき ファイブ バカンスモード",
+    "_speed": 0,
+    "_suffix": "Vacation Mode III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess E Vacation Mode III"
   },
   "Supply Depot Princess Vacation Mode": {
     "_aa": 80,
