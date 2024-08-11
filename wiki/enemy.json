@@ -269,100 +269,110 @@
     "_full_name": "Abyssal Bamboo Princess III"
   },
   "Abyssal Coral Sea Water Demon": {
-    "_aa": null,
+    "_aa": 102,
     "_api_id": 2256,
-    "_armor": null,
+    "_armor": 202,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Buffalo Fighter Mk.II",
+        "estimation": true,
+        "size": 21
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
+        "estimation": true,
+        "size": 21
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
+        "estimation": true,
+        "size": 20
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 20
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 182,
+    "_hp": 850,
     "_id": 2256,
     "_japanese_name": "深海珊瑚海水鬼",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Coral Sea Water Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいさんごかいすいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Coral Sea Water Demon"
   },
   "Abyssal Coral Sea Water Demon Damaged": {
-    "_aa": null,
+    "_aa": 132,
     "_api_id": 2259,
-    "_armor": null,
+    "_armor": 242,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Buffalo Fighter Mk.II",
+        "estimation": true,
+        "size": 33
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
+        "estimation": true,
+        "size": 33
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
+        "estimation": true,
+        "size": 33
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 33
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 202,
+    "_hp": 850,
     "_id": 2259,
     "_japanese_name": "深海珊瑚海水鬼-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Coral Sea Water Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいさんごかいすいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Coral Sea Water Demon Damaged"
   },
   "Abyssal Coral Sea Water Demon Damaged II": {
-    "_aa": null,
+    "_aa": 152,
     "_api_id": 2260,
-    "_armor": null,
+    "_armor": 272,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -372,47 +382,52 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Buffalo Fighter Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 232,
+    "_hp": 1050,
     "_id": 2260,
     "_japanese_name": "深海珊瑚海水鬼-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Coral Sea Water Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいさんごかいすいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Coral Sea Water Demon Damaged II"
   },
   "Abyssal Coral Sea Water Demon Damaged III": {
-    "_aa": null,
+    "_aa": 192,
     "_api_id": 2261,
-    "_armor": null,
+    "_armor": 322,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -422,134 +437,149 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Buffalo Fighter Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 272,
+    "_hp": 1350,
     "_id": 2261,
     "_japanese_name": "深海珊瑚海水鬼-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Coral Sea Water Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいさんごかいすいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Coral Sea Water Demon Damaged III"
   },
   "Abyssal Coral Sea Water Demon II": {
-    "_aa": null,
+    "_aa": 122,
     "_api_id": 2257,
-    "_armor": null,
+    "_armor": 232,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Buffalo Fighter Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 212,
+    "_hp": 1050,
     "_id": 2257,
     "_japanese_name": "深海珊瑚海水鬼",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Coral Sea Water Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいさんごかいすいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Coral Sea Water Demon II"
   },
   "Abyssal Coral Sea Water Demon III": {
-    "_aa": null,
+    "_aa": 162,
     "_api_id": 2258,
-    "_armor": null,
+    "_armor": 282,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Buffalo Fighter Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 242,
+    "_hp": 1350,
     "_id": 2258,
     "_japanese_name": "深海珊瑚海水鬼",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Coral Sea Water Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいさんごかいすいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Coral Sea Water Demon III"
   },
@@ -32779,19 +32809,22 @@
     "_equipment": [
       {
         "equipment": "5inch Coastal Gun",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "5inch Coastal Gun",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "size": 50
+        "size": 48
       }
     ],
     "_evasion": null,
@@ -32821,19 +32854,22 @@
     "_equipment": [
       {
         "equipment": "5inch Coastal Gun",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "5inch Coastal Gun",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "size": 74
+        "size": 72
       }
     ],
     "_evasion": null,
@@ -32864,14 +32900,17 @@
     "_equipment": [
       {
         "equipment": "15inch Coastal Artillery",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
         "size": 0
       },
       {
@@ -32912,14 +32951,17 @@
     "_equipment": [
       {
         "equipment": "15inch Coastal Artillery",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
         "size": 0
       },
       {
@@ -32960,14 +33002,17 @@
     "_equipment": [
       {
         "equipment": "15inch Coastal Artillery",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
         "size": 0
       },
       {
@@ -33008,14 +33053,17 @@
     "_equipment": [
       {
         "equipment": "15inch Coastal Artillery",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
+        "estimation": true,
         "size": 0
       },
       {
         "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
         "size": 0
       },
       {
