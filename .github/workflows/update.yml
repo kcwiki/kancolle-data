@@ -1,8 +1,15 @@
 name: Update
 on:
   workflow_dispatch:
+    inputs:
+      db_query:
+        description: DB query
+        default: default
+      db_event_id:
+        description: DB event id
+        default: default
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
 jobs:
   report:
     runs-on: ubuntu-latest
@@ -15,6 +22,8 @@ jobs:
       - run: yarn --frozen-lockfile
       - run: yarn update
         env:
+          DB_QUERY: ${{github.event.inputs.db_query}}
+          DB_EVENT_ID: ${{github.event.inputs.db_event_id}}
           WIKI_HOST: ${{ secrets.WIKI_HOST }}
           WIKI_PATH: ${{ secrets.WIKI_PATH }}
           PGHOST: ${{ secrets.PGHOST }}

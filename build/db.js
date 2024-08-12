@@ -49,12 +49,9 @@ const queryPoi = q =>
       })
   })
 
-const eventIds = [59] // _.range(50, 60 + 1)
+const eventIds = [+process.env.DB_EVENT_ID || 59] // _.range(50, 60 + 1)
 
-const mapQuery = eventId =>
-  _.range(1, 10 + 1)
-    .map(n => `map='${eventId}-${n}'`)
-    .join(' or ')
+const mapQuery = (eventId, mapId) => `(${(mapId ? [mapId] : _.range(1, 10 + 1)).map(mapId => `map='${eventId}-${mapId}'`).join(' or ')})`
 
 const genNodeTypes = async eventId => {
   const nodeTypes = require(`../db/node_types_raw-${eventId}.json`)
@@ -77,7 +74,31 @@ const genNodeTypes = async eventId => {
 }
 
 const main = async () => {
-  // Tsun: N/A
+  if (process.env.DB_QUERY === 'ab') {
+    for (const eventId of eventIds) {
+      for (const mapId of _.range(5, 5 + 1)) {
+        await queryTsun({
+          query: `select * from enemycomp where (enemycomp->'isAirRaid') is not null and ${mapQuery(eventId, mapId)}`,
+          file: `ab-${eventId}${mapId}`,
+        })
+      }
+    }
+    return
+  }
+  if (process.env.DB_QUERY === 'gauge') {
+    for (const eventId of eventIds) {
+      for (const mapId of _.range(5, 5 + 1)) {
+        await queryTsun({
+          query: `select map, node, difficulty, enemycomp->>'ship' as ship1, enemycomp->>'shipEscort' as ship2, enemycomp->>'mapStats' as mapStats, count(*)::int as count from enemycomp where ${mapQuery(
+            eventId,
+            mapId,
+          )} and enemycomp#>>'{mapStats,gaugeNum}' is not null and enemycomp#>>'{mapStats,gaugeNum}' <> '-1' group by map, node, difficulty, enemycomp->>'ship', enemycomp->>'shipEscort', enemycomp->>'mapStats'`,
+          file: `gauge-${eventId}${mapId}`,
+        })
+      }
+    }
+    return
+  }
   await queryPoi({
     dump: 'reciperecords',
     file: 'improvement',
@@ -88,7 +109,6 @@ const main = async () => {
     reduce: e => _.mapValues(e, () => true),
   })
   await queryTsun(
-    // Poi: N/A
     {
       query: 'select * from equips',
       file: 'equipment',
@@ -98,7 +118,6 @@ const main = async () => {
           .map(e => _.omit(e, ['version', 'origin', 'datetime']))
           .value(),
     },
-    // Poi: createitemrecords, split
     {
       query: 'select result, count(*)::int from development where success = true and result > 0 group by result',
       file: 'development',
@@ -114,18 +133,16 @@ const main = async () => {
   for (const eventId of eventIds) {
     await queryTsun(
       {
-        query: `select map, edgeid[array_length(edgeid, 1)] as edge, (nodeinfo->>'flavorMessage') as message, count(*)::int from eventworld where (${mapQuery(
+        query: `select map, edgeid[array_length(edgeid, 1)] as edge, (nodeinfo->>'flavorMessage') as message, count(*)::int from eventworld where ${mapQuery(
           eventId,
-        )}) and (nodeinfo->>'flavorMessage') is not null and (nodeinfo->>'eventId')::int=6 group by map, edgeid[array_length(edgeid, 1)], nodeinfo->>'flavorMessage'`,
+        )} and (nodeinfo->>'flavorMessage') is not null and (nodeinfo->>'eventId')::int=6 group by map, edgeid[array_length(edgeid, 1)], nodeinfo->>'flavorMessage'`,
         file: `flavor-${eventId}`,
         reduce: data => data.filter(e => e.message && e.count > 1 && !e.message.includes('?????')).map(e => _.omit(e, ['count'])),
       },
-      // Poi: missing selectreward
       {
         query: `select map, difficulty, rewards, selectreward from eventreward where ${mapQuery(eventId)} group by map, difficulty`,
         file: `reward-${eventId}`,
       },
-      // Poi: N/A
       // `select count(*)::int, map, edgeid[array_length(edgeid, 1)] as edge, (nodeinfo->>'nodeType')::int as nodeColor, (nodeinfo->>'eventKind')::int as eventKind, (nodeinfo->>'eventId')::int as eventId from normalworld where ${mapQuery(eventId)} group by map, edgeid[array_length(edgeid, 1)], nodeinfo->>'nodeType', nodeinfo->>'eventKind', nodeinfo->>'eventId'`
       {
         query: `select count(*)::int, map, edgeid[array_length(edgeid, 1)] as edge, (nodeinfo->>'nodeColor')::int as nodeColor, (nodeinfo->>'eventKind')::int as eventKind, (nodeinfo->>'eventId')::int as eventId from eventworld where ${mapQuery(
@@ -134,12 +151,10 @@ const main = async () => {
         file: `node_types_raw-${eventId}`,
         reduce: data => data.filter(e => e.count > 1).map(e => _.omit(e, ['count'])),
       },
-      // Poi: N/A
-      // {
-      //   query: `select * from friendlyfleet where ${mapQuery(eventId)}`,
-      //   file: `ff-${eventId}`,
-      // },
-      // Poi: N/A
+      {
+        query: `select * from friendlyfleet where ${mapQuery(eventId)}`,
+        file: `ff-${eventId}`,
+      },
     )
     await genNodeTypes(eventId)
   }
