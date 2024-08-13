@@ -279,12 +279,12 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": 21
+        "size": 27
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": 21
+        "size": 20
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
@@ -294,7 +294,7 @@
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": 20
+        "size": 15
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -329,22 +329,22 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": 33
+        "size": 47
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": 33
+        "size": 30
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": 33
+        "size": 30
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": 33
+        "size": 25
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -439,22 +439,22 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": null
+        "size": 57
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": null
+        "size": 45
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": null
+        "size": 45
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": null
+        "size": 35
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -491,22 +491,22 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": null
+        "size": 38
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": null
+        "size": 27
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": null
+        "size": 27
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": null
+        "size": 20
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -543,22 +543,22 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": null
+        "size": 47
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": null
+        "size": 35
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": null
+        "size": 35
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": null
+        "size": 25
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -32915,7 +32915,7 @@
       },
       {
         "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
-        "size": null
+        "size": 72
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
@@ -32966,7 +32966,7 @@
       },
       {
         "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
-        "size": null
+        "size": 128
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
@@ -33017,7 +33017,7 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "size": null
+        "size": 96
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",
@@ -33068,7 +33068,7 @@
       },
       {
         "equipment": "Abyssal Breakthrough Assault Aircraft Ace",
-        "size": null
+        "size": 96
       },
       {
         "equipment": "4inch Twin Dual Purpose Gun Mount + CIC",

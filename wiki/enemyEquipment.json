@@ -1932,14 +1932,14 @@
     "_type": 8
   },
   "Abyssal Breakthrough Assault Aircraft Ace": {
-    "_aa": 4,
+    "_aa": 6,
     "_armor": false,
     "_asw": false,
     "_bombing": 16,
     "_buildable": false,
     "_cg_flying": "Abyssal Liberation Land-based Dive Bomber Ace Flying.png",
     "_cg_reference": "Abyssal Liberation Land-based Dive Bomber Ace",
-    "_evasion": 6,
+    "_evasion": false,
     "_firepower": 9,
     "_flight_cost": false,
     "_flight_range": false,
