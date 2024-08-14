@@ -201,6 +201,32 @@
   },
   {
     "map": "59-4",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 1 },
+      { "api_type": 7, "api_id": 431, "api_value": 1 },
+      { "api_type": 7, "api_id": 432, "api_value": 1 },
+      { "api_type": 7, "api_id": 433, "api_value": 1 },
+      { "api_type": 3, "api_id": 414, "api_value": 1, "api_slot_level": 7 },
+      { "api_type": 1, "api_id": 101, "api_value": 1 }
+    ],
+    "selectreward": {
+      "431": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 904, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 16 }
+      ],
+      "432": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 91, "api_value": 5 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 146, "api_value": 8 }
+      ],
+      "433": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 4, "api_value": 5 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 95, "api_value": 5 }
+      ]
+    }
+  },
+  {
+    "map": "59-4",
     "difficulty": 4,
     "rewards": [
       { "api_type": 1, "api_id": 57, "api_value": 2 },
