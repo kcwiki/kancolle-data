@@ -155,6 +155,7 @@
     "Y": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Z": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Z1": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
+    "Z2": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "ZZ": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   }
 }
