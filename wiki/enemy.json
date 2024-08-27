@@ -26424,7 +26424,7 @@
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": 36
+        "size": 40
       },
       {
         "equipment": "Abyssal Night Cat Fighter II",
@@ -26433,12 +26433,12 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 24
+        "size": 16
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk Kai Ni",
         "estimation": true,
-        "size": 12
+        "size": 16
       }
     ],
     "_evasion": null,
