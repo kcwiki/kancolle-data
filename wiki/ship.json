@@ -11228,7 +11228,7 @@
     "_torpedo_mod": 0,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": null,
+    "_voice_actor": "Tanibe Yumi",
     "_voice_flag": null,
     "_full_name": "Gloire"
   },
@@ -11308,7 +11308,7 @@
     "_voice_flag": null,
     "_full_name": "Gloire Kai",
     "_implementation_date": [2024, 7, 27],
-    "_voice_actor": null,
+    "_voice_actor": "Tanibe Yumi",
     "_artist": "Hoshi Akari",
     "_availability": ["event_drop"]
   },
@@ -29576,7 +29576,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 11,
-    "_voice_actor": null,
+    "_voice_actor": "Akiha Matsui",
     "_voice_flag": 1,
     "_wikipedia": "USS Lexington (CV-2)",
     "_full_name": "Lexington"
@@ -29654,7 +29654,7 @@
     "_voice_flag": 3,
     "_full_name": "Lexington Kai",
     "_implementation_date": [2024, 8, 8],
-    "_voice_actor": null,
+    "_voice_actor": "Akiha Matsui",
     "_artist": "Kia Asamiya",
     "_availability": ["event_reward"],
     "_wikipedia": "USS Lexington (CV-2)"
@@ -33381,7 +33381,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": null,
+    "_voice_actor": "Akiha Matsui",
     "_voice_flag": null,
     "_wikipedia": "French destroyer Mogador",
     "_full_name": "Mogador"
@@ -33462,7 +33462,7 @@
     "_voice_flag": null,
     "_full_name": "Mogador Kai",
     "_implementation_date": [2024, 7, 27],
-    "_voice_actor": null,
+    "_voice_actor": "Akiha Matsui",
     "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_wikipedia": "French destroyer Mogador"
