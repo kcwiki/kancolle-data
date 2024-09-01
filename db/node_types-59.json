@@ -130,6 +130,7 @@
     "H": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "I": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "J": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "K": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "L": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "M": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
     "M1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
