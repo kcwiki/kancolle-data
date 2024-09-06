@@ -172,6 +172,7 @@
   { "map": "59-5", "edge": 31, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "59-5", "edge": 32, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "59-5", "edge": 33, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
+  { "map": "59-5", "edge": 34, "nodecolor": 4, "eventkind": 1, "eventid": 6 },
   { "map": "59-5", "edge": 35, "nodecolor": 5, "eventkind": 5, "eventid": 5 },
   { "map": "59-5", "edge": 36, "nodecolor": 4, "eventkind": 0, "eventid": 6 },
   { "map": "59-5", "edge": 37, "nodecolor": 4, "eventkind": 2, "eventid": 6 },

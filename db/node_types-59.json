@@ -145,6 +145,7 @@
     "R": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "R1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "R2": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "R3": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "S": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "S1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "S2": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
