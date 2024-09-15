@@ -278,7 +278,7 @@
     "_equipment": [
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
-        "estimation": true,
+        "estimation": false,
         "size": 20
       },
       {
@@ -293,7 +293,7 @@
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
-        "estimation": true,
+        "estimation": false,
         "size": 14
       },
       {
@@ -329,22 +329,22 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": 58
+        "size": 34
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": 30
+        "size": 58
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": 30
+        "size": 20
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": 14
+        "size": 20
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -384,22 +384,22 @@
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
         "estimation": true,
-        "size": 68
+        "size": 38
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": 40
+        "size": 68
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": 40
+        "size": 28
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
         "estimation": true,
-        "size": 14
+        "size": 28
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -438,23 +438,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
-        "estimation": true,
-        "size": 72
+        "estimation": false,
+        "size": 42
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": 48
+        "size": 76
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": 48
+        "size": 32
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
-        "estimation": true,
-        "size": 14
+        "estimation": false,
+        "size": 32
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -490,23 +490,23 @@
     "_equipment": [
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
-        "estimation": true,
-        "size": 54
+        "estimation": false,
+        "size": 28
       },
       {
         "equipment": "Abyssal Dauntless Dive Bomber Mk.II",
         "estimation": true,
-        "size": 24
+        "size": 48
       },
       {
         "equipment": "Abyssal Devastation Torpedo Bomber Mk.II",
         "estimation": true,
-        "size": 24
+        "size": 18
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
-        "estimation": true,
-        "size": 10
+        "estimation": false,
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -542,7 +542,7 @@
     "_equipment": [
       {
         "equipment": "Abyssal Buffalo Fighter Mk.II",
-        "estimation": true,
+        "estimation": false,
         "size": 34
       },
       {
@@ -557,7 +557,7 @@
       },
       {
         "equipment": "Abyssal Combat Autogyro Seagull",
-        "estimation": true,
+        "estimation": false,
         "size": 24
       },
       {
@@ -26702,7 +26702,7 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 44
+        "size": 50
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -26712,7 +26712,7 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 42
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -26864,7 +26864,7 @@
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 44
+        "size": 50
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
@@ -26874,7 +26874,7 @@
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 42
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
