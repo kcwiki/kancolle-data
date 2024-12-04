@@ -3,6 +3,9 @@ const { padStart } = require('lodash')
 const { api_mst_shipgraph } = require('../api')
 const cgKeys = require('./cg')
 const voiceKeys = require('./voice')
+const servers = require('./server')
+
+const getServer = id => (+id ? servers[id] : id)
 
 const key = s => s.split('').reduce((a, e) => a + e.charCodeAt(0), 0)
 
@@ -10,7 +13,7 @@ const create = (id, type) => (((17 * (id + 7) * cgKeys[(key(type) + id * type.le
 
 const ship =
   type =>
-  (id, damaged, debuffed, server = '203.104.209.71') => {
+  (id, damaged, debuffed, server = 1) => {
     const part1 = [type, damaged && 'dmg'].filter(Boolean).join('_')
     const part2 = [
       padStart(id, 4, '0'),
@@ -20,7 +23,7 @@ const ship =
     ]
       .filter(Boolean)
       .join('_')
-    return `http://${server}/kcs2/resources/ship/${part1}/${part2}.png`
+    return `http://${getServer(server)}/kcs2/resources/ship/${part1}/${part2}.png`
   }
 
 const shipBanner = ship('banner')
@@ -51,23 +54,24 @@ const shipVoice = (id, lineId) => (id <= 1500 && lineId <= 53 ? 100000 + ((17 * 
 
 const equipment =
   type =>
-  (id, server = '203.104.209.71') =>
-    `http://${server}/kcs2/resources/slot/${type}/${padStart(id, 4, '0')}_${create(id, `slot_${type}`)}.png`
+  (id, server = 1) =>
+    `http://${getServer(server)}/kcs2/resources/slot/${type}/${padStart(id, 4, '0')}_${create(id, `slot_${type}`)}.png`
 
 const equipmentCard = equipment('card')
 const equipmentFull = equipment('item_on')
 const equipmentItem = equipment('item_up')
 const equipmentCharacter = equipment('item_character')
 
-const bgm = (id, type = 'port', server = '203.104.209.71') =>
-  `http://${server}/kcs2/resources/bgm/${type}/${padStart(id, 3, '0')}_${create(id, `bgm_${type}`)}.mp3`
+const bgm = (id, type = 'port', server = 1) =>
+  `http://${getServer(server)}/kcs2/resources/bgm/${type}/${padStart(id, 3, '0')}_${create(id, `bgm_${type}`)}.mp3`
 
 const furnitureTypes = ['normal', 'thumbnail', 'picture', 'card', 'reward', 'movable']
 
-const furniture = (id, type = 'normal', server = '203.104.209.71') =>
-  `http://${server}/kcs2/resources/furniture/${type}/${padStart(id, 3, '0')}_${create(id, `furniture_${type}`)}.png`
+const furniture = (id, type = 'normal', server = 1) =>
+  `http://${getServer(server)}/kcs2/resources/furniture/${type}/${padStart(id, 3, '0')}_${create(id, `furniture_${type}`)}.png`
 
 module.exports = {
+  getServer,
   key,
   create,
   ship,

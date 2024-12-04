@@ -31,13 +31,17 @@ const { toPairs } = require('lodash')
 const fetch = require('node-fetch')
 const gm = require('gm')
 
+const { getServer } = require('../asset')
+
+const server = getServer(1)
+
 const dir = process.argv[3] || 'img'
 
 const cachePng = async (folder, assets) =>
   !existsSync(`${dir}/${assets}.png`) &&
   outputFileSync(
     `${dir}/${assets}.png`,
-    await (await fetch(`http://203.104.209.71/${folder ? `kcs2/img/${folder}/${assets}.png` : `${assets}.png`}`)).buffer(),
+    await (await fetch(`http://${server}/${folder ? `kcs2/img/${folder}/${assets}.png` : `${assets}.png`}`)).buffer(),
   )
 
 map(
@@ -46,7 +50,7 @@ map(
     const folder = assets.startsWith('kcs2') ? null : assets.startsWith('battle_result') ? 'battle_result' : assets.split('_')[0]
     console.log(`${folder} ${assets}`)
     await cachePng(folder, assets)
-    const { frames } = await (await fetch(`http://203.104.209.71/${folder ? `kcs2/img/${folder}/${assets}.json` : `${assets}.json`}`)).json()
+    const { frames } = await (await fetch(`http://${server}/${folder ? `kcs2/img/${folder}/${assets}.json` : `${assets}.json`}`)).json()
     each(toPairs(frames), ([frame, { frame: f }]) =>
       gm(`${dir}/${assets}.png`)
         .crop(f.w, f.h, f.x, f.y)

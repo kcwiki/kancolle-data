@@ -3,6 +3,10 @@ const { range, size } = require('lodash')
 const { outputJsonSync } = require('fs-extra')
 const fetch = require('node-fetch')
 
+const { getServer } = require('../asset')
+
+const server = getServer(1)
+
 const world = +process.argv[2]
 
 map(
@@ -17,8 +21,8 @@ map(
         // eslint-disable-next-line no-constant-condition
         while (true) {
           try {
-            const url = `http://203.104.209.71/kcs2/resources/map/0${world}/0${map}_info${spots.length || ''}.json`
-            console.log(`<http://203.104.209.71/kcs2/resources/map/0${world}/0${map}_image${spots.length || ''}.png>`)
+            const url = `http://${server}/kcs2/resources/map/0${world}/0${map}_info${spots.length || ''}.json`
+            console.log(`<http://${server}/kcs2/resources/map/0${world}/0${map}_image${spots.length || ''}.png>`)
             const data = await (await fetch(url)).json()
             spots.push.apply(spots, data.spots)
             if (data.airbase) {

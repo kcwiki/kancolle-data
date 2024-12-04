@@ -29,6 +29,7 @@ api : object
   getItem : function
   shipPrevIds : object
 asset : object
+  getServer : function
   key : function
   create : function
   ship : function
