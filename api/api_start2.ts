@@ -115,13 +115,17 @@ export interface The10_APIShipIDS {
   '557'?: number
   '558'?: number
   '578'?: number
+  '591'?: number
+  '592'?: number
   '593'?: number
   '607'?: number
   '656'?: number
+  '694'?: number
   '911'?: number
   '916'?: number
   '954'?: number
   '955'?: number
+  '956'?: number
   '960'?: number
   '961'?: number
   '968'?: number
@@ -130,6 +134,7 @@ export interface The10_APIShipIDS {
   '975'?: number
   '976'?: number
   '977'?: number
+  '981'?: number
 }
 
 export interface The10_APIStypes {
@@ -169,10 +174,12 @@ export interface The106_APIShipIDS {
   '148'?: number
   '229'?: number
   '316'?: number
+  '426'?: number
   '546'?: number
   '591'?: number
   '592'?: number
   '593'?: number
+  '694'?: number
   '894'?: number
   '899'?: number
   '911'?: number
@@ -182,6 +189,7 @@ export interface The106_APIShipIDS {
   '961'?: number
   '975'?: number
   '979'?: number
+  '986'?: number
 }
 
 export interface The106_APIStypes {
@@ -313,7 +321,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
@@ -407,6 +415,8 @@ export interface APIMstShipgraph {
   api_version: string[]
   api_weda?: number[]
   api_wedb?: number[]
+  api_wedc?: number[]
+  api_wedd?: number[]
 }
 
 export interface APIMstShipupgrade {
