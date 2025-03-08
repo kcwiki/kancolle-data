@@ -9,7 +9,7 @@ on:
         description: DB event id
         default: default
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */6 * * *'
 jobs:
   report:
     runs-on: ubuntu-latest
