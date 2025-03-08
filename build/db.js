@@ -151,10 +151,12 @@ const main = async () => {
         file: `node_types_raw-${eventId}`,
         reduce: data => data.filter(e => e.count > 1).map(e => _.omit(e, ['count'])),
       },
+      /*
       {
         query: `select * from friendlyfleet where ${mapQuery(eventId)}`,
         file: `ff-${eventId}`,
       },
+      */
     )
     await genNodeTypes(eventId)
   }
