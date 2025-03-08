@@ -25044,6 +25044,291 @@
     "_type": 10,
     "_full_name": "Night Strait Princesses III"
   },
+  "Non-Treaty Cruiser Water Princess": {
+    "_aa": null,
+    "_api_id": 2282,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2282,
+    "_japanese_name": "条約外巡洋艦水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Non-Treaty Cruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じょうやくがいじゅんようかんすいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Non-Treaty Cruiser Water Princess"
+  },
+  "Non-Treaty Cruiser Water Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2285,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2285,
+    "_japanese_name": "条約外巡洋艦水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Non-Treaty Cruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じょうやくがいじゅんようかんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Non-Treaty Cruiser Water Princess Damaged"
+  },
+  "Non-Treaty Cruiser Water Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2286,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2286,
+    "_japanese_name": "条約外巡洋艦水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Non-Treaty Cruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じょうやくがいじゅんようかんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Non-Treaty Cruiser Water Princess Damaged II"
+  },
+  "Non-Treaty Cruiser Water Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2287,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2287,
+    "_japanese_name": "条約外巡洋艦水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Non-Treaty Cruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じょうやくがいじゅんようかんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Non-Treaty Cruiser Water Princess Damaged III"
+  },
+  "Non-Treaty Cruiser Water Princess II": {
+    "_aa": null,
+    "_api_id": 2283,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2283,
+    "_japanese_name": "条約外巡洋艦水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Non-Treaty Cruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じょうやくがいじゅんようかんすいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Non-Treaty Cruiser Water Princess II"
+  },
+  "Non-Treaty Cruiser Water Princess III": {
+    "_aa": null,
+    "_api_id": 2284,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2284,
+    "_japanese_name": "条約外巡洋艦水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Non-Treaty Cruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じょうやくがいじゅんようかんすいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "Non-Treaty Cruiser Water Princess III"
+  },
   "Northern Little Sister": {
     "_aa": 88,
     "_api_id": 1865,
@@ -29589,6 +29874,255 @@
     "_type": 13,
     "_full_name": "Submarine Princess Kai Flagship III"
   },
+  "Submarine Seerfish Water Demon": {
+    "_aa": null,
+    "_api_id": 2276,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2276,
+    "_japanese_name": "潜水鰆水鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Seerfish Water Demon",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "せんすいさわらすいき",
+    "_speed": 5,
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Submarine Seerfish Water Demon"
+  },
+  "Submarine Seerfish Water Demon Damaged": {
+    "_aa": null,
+    "_api_id": 2279,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2279,
+    "_japanese_name": "潜水鰆水鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Seerfish Water Demon",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "せんすいさわらすいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Submarine Seerfish Water Demon Damaged"
+  },
+  "Submarine Seerfish Water Demon Damaged II": {
+    "_aa": null,
+    "_api_id": 2280,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2280,
+    "_japanese_name": "潜水鰆水鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Seerfish Water Demon",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "せんすいさわらすいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Submarine Seerfish Water Demon Damaged II"
+  },
+  "Submarine Seerfish Water Demon Damaged III": {
+    "_aa": null,
+    "_api_id": 2281,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2281,
+    "_japanese_name": "潜水鰆水鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Seerfish Water Demon",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "せんすいさわらすいき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Submarine Seerfish Water Demon Damaged III"
+  },
+  "Submarine Seerfish Water Demon II": {
+    "_aa": null,
+    "_api_id": 2277,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2277,
+    "_japanese_name": "潜水鰆水鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Seerfish Water Demon",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "せんすいさわらすいき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Submarine Seerfish Water Demon II"
+  },
+  "Submarine Seerfish Water Demon III": {
+    "_aa": null,
+    "_api_id": 2278,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2278,
+    "_japanese_name": "潜水鰆水鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Submarine Seerfish Water Demon",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "せんすいさわらすいき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 13,
+    "_full_name": "Submarine Seerfish Water Demon III"
+  },
   "Submarine Shark Water Demon Flagship": {
     "_aa": 0,
     "_api_id": 2053,
@@ -33607,6 +34141,92 @@
     "_torpedo": 0,
     "_type": 15,
     "_full_name": "Transport Ship Wa-Class"
+  },
+  "Transport Ship Wa-Class B (Landing) Elite": {
+    "_aa": null,
+    "_api_id": 2268,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -5,
+    "_battle_card_reference": "/Elite",
+    "_cg_reference": "/Elite",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2268,
+    "_japanese_name": " 輸送ワ級II(揚陸中)elite",
+    "_los": null,
+    "_luck": null,
+    "_name": "Transport Ship Wa-Class",
+    "_range": null,
+    "_rarity": 4,
+    "_reading": "ゆそうワ級ツー（ようりくちゅう）エリート",
+    "_speed": 5,
+    "_suffix": "B (Landing) Elite",
+    "_torpedo": null,
+    "_type": 15,
+    "_full_name": "Transport Ship Wa-Class B (Landing) Elite"
+  },
+  "Transport Ship Wa-Class B (Landing) Flagship": {
+    "_aa": null,
+    "_api_id": 2269,
+    "_armor": null,
+    "_asw": null,
+    "_back": -6,
+    "_battle_card_reference": "/Flagship",
+    "_cg_reference": "/Flagship",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2269,
+    "_japanese_name": " 輸送ワ級II(揚陸中)flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Transport Ship Wa-Class",
+    "_range": null,
+    "_rarity": 6,
+    "_reading": "ゆそうワ級ツー（ようりくちゅう）フラグシップ",
+    "_speed": null,
+    "_suffix": "B (Landing) Flagship",
+    "_torpedo": null,
+    "_type": 15,
+    "_full_name": "Transport Ship Wa-Class B (Landing) Flagship"
   },
   "Transport Ship Wa-Class B Elite": {
     "_aa": 33,

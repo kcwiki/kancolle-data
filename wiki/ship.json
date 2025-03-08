@@ -27118,15 +27118,15 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "18cm/57 Triple Main Gun Mount",
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": "18cm/57 Triple Main Gun Mount",
         "size": 1
       },
       {
-        "equipment": false,
+        "equipment": "533mm Triple Torpedo Mount",
         "size": 2
       }
     ],
