@@ -27184,15 +27184,16 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "18cm/57 Triple Main Gun Mount",
+        "size": 1,
+        "stars": 2
+      },
+      {
+        "equipment": "10cm/56 Single High-angle Gun Mount (Concentrated Deployment)",
         "size": 1
       },
       {
-        "equipment": null,
-        "size": 1
-      },
-      {
-        "equipment": null,
+        "equipment": "533mm Triple Torpedo Mount",
         "size": 2
       },
       {
@@ -39653,11 +39654,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "7.7mm Machine Gun",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "7.7mm Machine Gun",
         "size": 0
       }
     ],

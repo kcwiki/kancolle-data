@@ -422,7 +422,7 @@
     "_types": [1, 1, 1, 16, 0],
     "_wikipedia": "10 cm/65 Type 98 naval gun"
   },
-  "10cm/56 Single High-angle Gun (Concentrated Deployment)": {
+  "10cm/56 Single High-angle Gun Mount (Concentrated Deployment)": {
     "_aa": 9,
     "_armor": false,
     "_asw": false,
@@ -438,7 +438,7 @@
     "_japanese_name": "10cm/56 単装高角砲(集中配備)",
     "_los": 1,
     "_luck": false,
-    "_name": "10cm/56 Single High-angle Gun (Concentrated Deployment)",
+    "_name": "10cm/56 Single High-angle Gun Mount (Concentrated Deployment)",
     "_range": 1,
     "_rarity": 3,
     "_reading": null,
