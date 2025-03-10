@@ -75,6 +75,7 @@
     ],
     "selectreward": null
   },
+  { "map": "60-2", "difficulty": 1, "rewards": [{ "api_type": 2, "api_id": 984, "api_value": 1 }], "selectreward": null },
   {
     "map": "60-2",
     "difficulty": 2,
