@@ -25045,100 +25045,100 @@
     "_full_name": "Night Strait Princesses III"
   },
   "Non-Treaty Cruiser Water Princess": {
-    "_aa": null,
+    "_aa": 99,
     "_api_id": 2282,
-    "_armor": null,
-    "_asw": 0,
+    "_armor": 159,
+    "_asw": null,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 129,
+    "_hp": 680,
     "_id": 2282,
     "_japanese_name": "条約外巡洋艦水姫",
     "_los": null,
     "_luck": null,
     "_name": "Non-Treaty Cruiser Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "じょうやくがいじゅんようかんすいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 89,
     "_type": 6,
     "_full_name": "Non-Treaty Cruiser Water Princess"
   },
   "Non-Treaty Cruiser Water Princess Damaged": {
-    "_aa": null,
+    "_aa": 109,
     "_api_id": 2285,
-    "_armor": null,
+    "_armor": 179,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai",
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 159,
+    "_hp": 680,
     "_id": 2285,
     "_japanese_name": "条約外巡洋艦水姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Non-Treaty Cruiser Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "じょうやくがいじゅんようかんすいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 99,
     "_type": 6,
     "_full_name": "Non-Treaty Cruiser Water Princess Damaged"
   },
   "Non-Treaty Cruiser Water Princess Damaged II": {
-    "_aa": null,
+    "_aa": 129,
     "_api_id": 2286,
-    "_armor": null,
+    "_armor": 239,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -25148,47 +25148,47 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai",
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 189,
+    "_hp": 720,
     "_id": 2286,
     "_japanese_name": "条約外巡洋艦水姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Non-Treaty Cruiser Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "じょうやくがいじゅんようかんすいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 119,
     "_type": 6,
     "_full_name": "Non-Treaty Cruiser Water Princess Damaged II"
   },
   "Non-Treaty Cruiser Water Princess Damaged III": {
-    "_aa": null,
+    "_aa": 149,
     "_api_id": 2287,
-    "_armor": null,
+    "_armor": 299,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -25198,134 +25198,134 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk Kai",
+        "size": 80
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 219,
+    "_hp": 760,
     "_id": 2287,
     "_japanese_name": "条約外巡洋艦水姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Non-Treaty Cruiser Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "じょうやくがいじゅんようかんすいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 149,
     "_type": 6,
     "_full_name": "Non-Treaty Cruiser Water Princess Damaged III"
   },
   "Non-Treaty Cruiser Water Princess II": {
-    "_aa": null,
+    "_aa": 109,
     "_api_id": 2283,
-    "_armor": null,
+    "_armor": 179,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 159,
+    "_hp": 720,
     "_id": 2283,
     "_japanese_name": "条約外巡洋艦水姫",
     "_los": null,
     "_luck": null,
     "_name": "Non-Treaty Cruiser Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "じょうやくがいじゅんようかんすいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 99,
     "_type": 6,
     "_full_name": "Non-Treaty Cruiser Water Princess II"
   },
   "Non-Treaty Cruiser Water Princess III": {
-    "_aa": null,
+    "_aa": 129,
     "_api_id": 2284,
-    "_armor": null,
+    "_armor": 239,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 189,
+    "_hp": 760,
     "_id": 2284,
     "_japanese_name": "条約外巡洋艦水姫",
     "_los": null,
     "_luck": null,
     "_name": "Non-Treaty Cruiser Water Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "じょうやくがいじゅんようかんすいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 119,
     "_type": 6,
     "_full_name": "Non-Treaty Cruiser Water Princess III"
   },
