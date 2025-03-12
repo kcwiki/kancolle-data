@@ -59,6 +59,7 @@
     "B": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "B1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "B2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "B3": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "B4": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "C": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "D": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
