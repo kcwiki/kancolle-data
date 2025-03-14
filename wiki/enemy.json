@@ -34143,88 +34143,88 @@
     "_full_name": "Transport Ship Wa-Class"
   },
   "Transport Ship Wa-Class B (Landing) Elite": {
-    "_aa": null,
+    "_aa": 33,
     "_api_id": 2268,
-    "_armor": null,
+    "_armor": 35,
     "_asw": 0,
     "_back": -5,
     "_battle_card_reference": "/Elite",
     "_cg_reference": "/Elite",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Single Gun Mount Mk.30",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Observation Barrage Balloon",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 33,
+    "_hp": 280,
     "_id": 2268,
     "_japanese_name": " 輸送ワ級II(揚陸中)elite",
     "_los": null,
     "_luck": null,
     "_name": "Transport Ship Wa-Class",
-    "_range": null,
+    "_range": 2,
     "_rarity": 4,
     "_reading": "ゆそうワ級ツー（ようりくちゅう）エリート",
     "_speed": 5,
     "_suffix": "B (Landing) Elite",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 15,
     "_full_name": "Transport Ship Wa-Class B (Landing) Elite"
   },
   "Transport Ship Wa-Class B (Landing) Flagship": {
-    "_aa": null,
+    "_aa": 55,
     "_api_id": 2269,
-    "_armor": null,
+    "_armor": 68,
     "_asw": null,
     "_back": -6,
     "_battle_card_reference": "/Flagship",
     "_cg_reference": "/Flagship",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Observation Barrage Balloon",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 66,
+    "_hp": 480,
     "_id": 2269,
     "_japanese_name": " 輸送ワ級II(揚陸中)flagship",
     "_los": null,
     "_luck": null,
     "_name": "Transport Ship Wa-Class",
-    "_range": null,
+    "_range": 2,
     "_rarity": 6,
     "_reading": "ゆそうワ級ツー（ようりくちゅう）フラグシップ",
     "_speed": null,
     "_suffix": "B (Landing) Flagship",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 15,
     "_full_name": "Transport Ship Wa-Class B (Landing) Flagship"
   },
