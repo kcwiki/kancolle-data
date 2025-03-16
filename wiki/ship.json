@@ -27115,6 +27115,8 @@
     "_asw_max": null,
     "_availability": ["event_drop"],
     "_build_time": 0,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Kirov",
     "_class_number": 1,
     "_equipment": [
@@ -27142,7 +27144,7 @@
     "_hp_max": 45,
     "_id": 601,
     "_implementation_date": [2025, 3, 7],
-    "_japanese_name": "Kirov",
+    "_japanese_name": "Киров",
     "_los": null,
     "_los_max": null,
     "_luck": 26,
@@ -27211,7 +27213,7 @@
     "_hp": 46,
     "_hp_max": 61,
     "_id": 606,
-    "_japanese_name": "Kirov改",
+    "_japanese_name": "Киров改",
     "_los": null,
     "_los_max": null,
     "_luck": 32,
@@ -39721,10 +39723,6 @@
       {
         "equipment": null,
         "size": 0
-      },
-      {
-        "equipment": null,
-        "size": 0
       }
     ],
     "_evasion": null,
@@ -43640,7 +43638,7 @@
   },
   "Scamp": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": false,
     "_ammo": 20,
     "_api_id": 299,
@@ -43703,7 +43701,7 @@
   },
   "Scamp Kai": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": false,
     "_ammo": 20,
     "_api_id": 715,
@@ -53561,7 +53559,7 @@
   },
   "Wahoo": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": false,
     "_ammo": 20,
     "_api_id": 984,
@@ -53624,7 +53622,7 @@
   },
   "Wahoo Kai": {
     "_aa": 0,
-    "_aa_max": 0,
+    "_aa_max": false,
     "_aa_mod": false,
     "_ammo": 20,
     "_api_id": 989,
@@ -53663,7 +53661,7 @@
     "_name": "Wahoo",
     "_range": 1,
     "_rarity": 7,
-    "_reading": "スキャンプかい",
+    "_reading": "ワフーかい",
     "_remodel_ammo": 200,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
