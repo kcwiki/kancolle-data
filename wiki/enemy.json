@@ -29875,29 +29875,29 @@
     "_full_name": "Submarine Princess Kai Flagship III"
   },
   "Submarine Seerfish Water Demon": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2276,
-    "_armor": null,
+    "_armor": 19,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 53,
+    "_hp": 288,
     "_id": 2276,
     "_japanese_name": "潜水鰆水鬼",
     "_los": null,
@@ -29907,34 +29907,34 @@
     "_rarity": 8,
     "_reading": "せんすいさわらすいき",
     "_speed": 5,
-    "_torpedo": null,
+    "_torpedo": 161,
     "_type": 13,
     "_full_name": "Submarine Seerfish Water Demon"
   },
   "Submarine Seerfish Water Demon Damaged": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2279,
-    "_armor": null,
+    "_armor": 29,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 59,
+    "_hp": 288,
     "_id": 2279,
     "_japanese_name": "潜水鰆水鬼-壊",
     "_los": null,
@@ -29945,14 +29945,14 @@
     "_reading": "せんすいさわらすいき-かい",
     "_speed": 5,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 191,
     "_type": 13,
     "_full_name": "Submarine Seerfish Water Demon Damaged"
   },
   "Submarine Seerfish Water Demon Damaged II": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2280,
-    "_armor": null,
+    "_armor": 51,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -29962,25 +29962,25 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 69,
+    "_hp": 488,
     "_id": 2280,
     "_japanese_name": "潜水鰆水鬼-壊",
     "_los": null,
@@ -29991,14 +29991,14 @@
     "_reading": "せんすいさわらすいき-かい",
     "_speed": 5,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 222,
     "_type": 13,
     "_full_name": "Submarine Seerfish Water Demon Damaged II"
   },
   "Submarine Seerfish Water Demon Damaged III": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2281,
-    "_armor": null,
+    "_armor": 93,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -30008,25 +30008,25 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 89,
+    "_hp": 588,
     "_id": 2281,
     "_japanese_name": "潜水鰆水鬼-壊",
     "_los": null,
@@ -30037,35 +30037,35 @@
     "_reading": "せんすいさわらすいき-かい",
     "_speed": 5,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 252,
     "_type": 13,
     "_full_name": "Submarine Seerfish Water Demon Damaged III"
   },
   "Submarine Seerfish Water Demon II": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2277,
-    "_armor": null,
+    "_armor": 41,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 63,
+    "_hp": 488,
     "_id": 2277,
     "_japanese_name": "潜水鰆水鬼",
     "_los": null,
@@ -30076,39 +30076,39 @@
     "_reading": "せんすいさわらすいき",
     "_speed": 5,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 191,
     "_type": 13,
     "_full_name": "Submarine Seerfish Water Demon II"
   },
   "Submarine Seerfish Water Demon III": {
-    "_aa": null,
+    "_aa": 0,
     "_api_id": 2278,
-    "_armor": null,
+    "_armor": 83,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Ambush Torpedo",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 83,
+    "_hp": 588,
     "_id": 2278,
     "_japanese_name": "潜水鰆水鬼",
     "_los": null,
@@ -30119,7 +30119,7 @@
     "_reading": "せんすいさわらすいき",
     "_speed": 5,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 222,
     "_type": 13,
     "_full_name": "Submarine Seerfish Water Demon III"
   },
