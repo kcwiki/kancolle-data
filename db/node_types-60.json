@@ -64,6 +64,7 @@
     "C": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "D": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "D1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "D2": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "D3": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "E": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "E1": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
