@@ -39717,11 +39717,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "25mm Single Autocannon Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "12.7mm Single Machine Gun Mount",
         "size": 0
       }
     ],
@@ -53635,7 +53635,7 @@
     "_class_number": 27,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       },
       {
