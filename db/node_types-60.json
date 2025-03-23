@@ -106,5 +106,7 @@
     "V": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "W": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "X": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
-  }
+  },
+  "604": { "undefined": { "color": 4, "id": 6, "kind": 2, "type": "Select" } },
+  "605": { "undefined": { "color": 4, "id": 6, "kind": 0, "type": "Empty" } }
 }

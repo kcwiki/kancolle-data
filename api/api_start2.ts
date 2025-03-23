@@ -206,6 +206,7 @@ export interface The106_APIShipIDS {
   '975'?: number
   '979'?: number
   '986'?: number
+  '987'?: number
 }
 
 export interface The106_APIStypes {
