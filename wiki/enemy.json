@@ -12721,6 +12721,276 @@
     "_type": 2,
     "_full_name": "Destroyer Ra-Class Damaged IV"
   },
+  "Destroyer Ra-Class Delta": {
+    "_aa": null,
+    "_api_id": 2292,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2292,
+    "_japanese_name": "駆逐ラ級δ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Delta",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Delta"
+  },
+  "Destroyer Ra-Class Delta II": {
+    "_aa": null,
+    "_api_id": 2293,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2293,
+    "_japanese_name": "駆逐ラ級δ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Delta II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Delta II"
+  },
+  "Destroyer Ra-Class Delta Initial Model": {
+    "_aa": null,
+    "_api_id": 2291,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2291,
+    "_japanese_name": "駆逐ラ級δ(初期型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Delta Initial Model",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Delta Initial Model"
+  },
+  "Destroyer Ra-Class Gamma": {
+    "_aa": null,
+    "_api_id": 2289,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2289,
+    "_japanese_name": "駆逐ラ級γ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Gamma",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Gamma"
+  },
+  "Destroyer Ra-Class Gamma II": {
+    "_aa": null,
+    "_api_id": 2290,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2290,
+    "_japanese_name": "駆逐ラ級γ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Gamma II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Gamma II"
+  },
+  "Destroyer Ra-Class Gamma Initial Model": {
+    "_aa": null,
+    "_api_id": 2288,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2288,
+    "_japanese_name": "駆逐ラ級γ(初期型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Gamma Initial Model",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Gamma Initial Model"
+  },
   "Destroyer Ra-Class II": {
     "_aa": null,
     "_api_id": 2264,
@@ -13035,6 +13305,276 @@
     "_torpedo": null,
     "_type": 2,
     "_full_name": "Destroyer Ra-Class Initial Model II"
+  },
+  "Destroyer Ra-Class Zeta": {
+    "_aa": null,
+    "_api_id": 2294,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2294,
+    "_japanese_name": "駆逐ラ級ζ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Zeta",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Zeta"
+  },
+  "Destroyer Ra-Class Zeta Damaged": {
+    "_aa": null,
+    "_api_id": 2297,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2297,
+    "_japanese_name": "駆逐ラ級ζ-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Zeta Damaged",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Zeta Damaged"
+  },
+  "Destroyer Ra-Class Zeta Damaged II": {
+    "_aa": null,
+    "_api_id": 2298,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2298,
+    "_japanese_name": "駆逐ラ級ζ-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Zeta Damaged II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Zeta Damaged II"
+  },
+  "Destroyer Ra-Class Zeta Damaged III": {
+    "_aa": null,
+    "_api_id": 2299,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2299,
+    "_japanese_name": "駆逐ラ級ζ-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Zeta Damaged III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Zeta Damaged III"
+  },
+  "Destroyer Ra-Class Zeta II": {
+    "_aa": null,
+    "_api_id": 2295,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2295,
+    "_japanese_name": "駆逐ラ級ζ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Zeta II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Zeta II"
+  },
+  "Destroyer Ra-Class Zeta III": {
+    "_aa": null,
+    "_api_id": 2296,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2296,
+    "_japanese_name": "駆逐ラ級ζ",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Zeta III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Zeta III"
   },
   "Destroyer Ro-Class": {
     "_aa": 7,
