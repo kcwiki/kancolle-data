@@ -12503,6 +12503,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Initial Model",
+    "_cg_reference": "/Initial Model",
     "_equipment": [
       {
         "equipment": null,
@@ -12547,6 +12549,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Initial Model Damaged",
+    "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
       {
         "equipment": null,
@@ -12592,6 +12596,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Initial Model Damaged",
+    "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
       {
         "equipment": null,
@@ -12637,6 +12643,11 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_damaged_reference": "/Initial Model Damaged II",
+    "_battle_card_reference": "/Initial Model Damaged II",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Initial Model Damaged II",
+    "_cg_reference": "/Initial Model Damaged II",
     "_equipment": [
       {
         "equipment": null,
@@ -12682,6 +12693,11 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_damaged_reference": "/Initial Model Damaged II",
+    "_battle_card_reference": "/Initial Model Damaged II",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Initial Model Damaged II",
+    "_cg_reference": "/Initial Model Damaged II",
     "_equipment": [
       {
         "equipment": null,
@@ -12727,6 +12743,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Delta Initial Model",
+    "_cg_reference": "/Delta Initial Model",
     "_equipment": [
       {
         "equipment": null,
@@ -12772,6 +12790,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Delta Initial Model",
+    "_cg_reference": "/Delta Initial Model",
     "_equipment": [
       {
         "equipment": null,
@@ -12862,6 +12882,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Gamma Initial Model",
+    "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
       {
         "equipment": null,
@@ -12907,6 +12929,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Gamma Initial Model",
+    "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
       {
         "equipment": null,
@@ -12997,6 +13021,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Initial Model",
+    "_cg_reference": "/Initial Model",
     "_equipment": [
       {
         "equipment": null,
@@ -13042,6 +13068,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Initial Model II",
+    "_cg_reference": "/Initial Model II",
     "_equipment": [
       {
         "equipment": null,
@@ -13087,6 +13115,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Initial Model II",
+    "_cg_reference": "/Initial Model II",
     "_equipment": [
       {
         "equipment": null,
@@ -13222,6 +13252,7 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": null,
@@ -13402,6 +13433,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Zeta Damaged",
+    "_cg_reference": "/Zeta Damaged",
     "_equipment": [
       {
         "equipment": null,
@@ -13447,6 +13480,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Zeta Damaged",
+    "_cg_reference": "/Zeta Damaged",
     "_equipment": [
       {
         "equipment": null,
@@ -13492,6 +13527,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Zeta",
+    "_cg_reference": "/Zeta",
     "_equipment": [
       {
         "equipment": null,
@@ -13537,6 +13574,8 @@
     "_armor": null,
     "_asw": null,
     "_back": null,
+    "_battle_card_reference": "/Zeta",
+    "_cg_reference": "/Zeta",
     "_equipment": [
       {
         "equipment": null,
