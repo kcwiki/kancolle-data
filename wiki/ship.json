@@ -47673,7 +47673,7 @@
     "_armor": 5,
     "_armor_max": 22,
     "_armor_mod": false,
-    "_artist": null,
+    "_artist": "Umihara Sakana",
     "_asw": null,
     "_asw_max": null,
     "_availability": ["event_reward"],
@@ -47800,7 +47800,7 @@
     "_full_name": "Sugi Kai",
     "_implementation_date": [2025, 3, 22],
     "_voice_actor": null,
-    "_artist": null,
+    "_artist": "Umihara Sakana",
     "_availability": ["event_reward"],
     "_build_time": 0
   },
