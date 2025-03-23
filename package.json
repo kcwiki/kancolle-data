@@ -26,8 +26,8 @@
   "scripts": {
     "fetch-api": "kancolle-browser --save-api-and-exit /tmp/api_start2",
     "pull-api": "node build/api",
+    "pull-map": "sh build/edge.sh ; node build/spot",
     "pull-db": "node build/db.js",
-    "pull-external": "sh build/external.sh",
     "pull-wiki": "node build/wiki/pull.js",
     "push-wiki": "node build/wiki/equipment.js",
     "type-api": "quicktype --alphabetize-properties --no-maps --no-enums --just-types --lang ts --top-level api api/api_start2.json -o api/api_start2.ts",
@@ -35,7 +35,7 @@
     "format": "prettier --ignore-path .gitignore --loglevel warn --write '**/*.{js,json,md,ts,yaml,yml}'",
     "lint": "eslint --ignore-path .gitignore --fix .",
     "test": "yarn type-api && node build/doc && yarn format && yarn lint && node test",
-    "update": "yarn pull-api && yarn pull-external && yarn pull-db && yarn pull-wiki && yarn test"
+    "update": "yarn pull-api && yarn pull-map && yarn pull-db && yarn pull-wiki && yarn test"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
