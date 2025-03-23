@@ -12497,6 +12497,545 @@
     "_type": 2,
     "_full_name": "Destroyer Princess II"
   },
+  "Destroyer Ra-Class": {
+    "_aa": null,
+    "_api_id": 2263,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2263,
+    "_japanese_name": "駆逐ラ級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class"
+  },
+  "Destroyer Ra-Class Damaged": {
+    "_aa": null,
+    "_api_id": 2266,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2266,
+    "_japanese_name": "駆逐ラ級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Damaged"
+  },
+  "Destroyer Ra-Class Damaged II": {
+    "_aa": null,
+    "_api_id": 2267,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2267,
+    "_japanese_name": "駆逐ラ級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Damaged II"
+  },
+  "Destroyer Ra-Class Damaged III": {
+    "_aa": null,
+    "_api_id": 2274,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2274,
+    "_japanese_name": "駆逐ラ級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Damaged III"
+  },
+  "Destroyer Ra-Class Damaged IV": {
+    "_aa": null,
+    "_api_id": 2275,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2275,
+    "_japanese_name": "駆逐ラ級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Damaged IV",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Damaged IV"
+  },
+  "Destroyer Ra-Class II": {
+    "_aa": null,
+    "_api_id": 2264,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2264,
+    "_japanese_name": "駆逐ラ級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class II"
+  },
+  "Destroyer Ra-Class III": {
+    "_aa": null,
+    "_api_id": 2271,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2271,
+    "_japanese_name": "駆逐ラ級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class III"
+  },
+  "Destroyer Ra-Class IV": {
+    "_aa": null,
+    "_api_id": 2272,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2272,
+    "_japanese_name": "駆逐ラ級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "IV",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class IV"
+  },
+  "Destroyer Ra-Class Initial Model": {
+    "_aa": null,
+    "_api_id": 2262,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2262,
+    "_japanese_name": "駆逐ラ級(初期型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Initial Model",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Initial Model"
+  },
+  "Destroyer Ra-Class Initial Model Damaged": {
+    "_aa": null,
+    "_api_id": 2265,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2265,
+    "_japanese_name": "駆逐ラ級(初期型)-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Initial Model Damaged",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Initial Model Damaged"
+  },
+  "Destroyer Ra-Class Initial Model Damaged II": {
+    "_aa": null,
+    "_api_id": 2273,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2273,
+    "_japanese_name": "駆逐ラ級(初期型)-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Initial Model Damaged II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Initial Model Damaged II"
+  },
+  "Destroyer Ra-Class Initial Model II": {
+    "_aa": null,
+    "_api_id": 2270,
+    "_armor": null,
+    "_asw": null,
+    "_back": null,
+    "_equipment": [
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "estimation": true,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2270,
+    "_japanese_name": "駆逐ラ級(初期型)",
+    "_los": null,
+    "_luck": null,
+    "_name": "Destroyer Ra-Class",
+    "_range": null,
+    "_rarity": null,
+    "_reading": null,
+    "_speed": 10,
+    "_suffix": "Initial Model II",
+    "_torpedo": null,
+    "_type": 2,
+    "_full_name": "Destroyer Ra-Class Initial Model II"
+  },
   "Destroyer Ro-Class": {
     "_aa": 7,
     "_api_id": 1502,
