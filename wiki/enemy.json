@@ -32344,6 +32344,284 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess III"
   },
+  "Supply Depot Princess Kai": {
+    "_aa": null,
+    "_api_id": 2301,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2301,
+    "_japanese_name": "集積地棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい",
+    "_speed": 0,
+    "_suffix": "Kai",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai"
+  },
+  "Supply Depot Princess Kai Damaged": {
+    "_aa": null,
+    "_api_id": 2304,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2304,
+    "_japanese_name": "集積地棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい-かい",
+    "_speed": 0,
+    "_suffix": "Kai Damaged",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai Damaged"
+  },
+  "Supply Depot Princess Kai Damaged II": {
+    "_aa": null,
+    "_api_id": 2305,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Kai Damaged",
+    "_battle_card_reference": "/Kai Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Kai Damaged",
+    "_cg_reference": "/Kai Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2305,
+    "_japanese_name": "集積地棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい-かい",
+    "_speed": 0,
+    "_suffix": "Kai Damaged II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai Damaged II"
+  },
+  "Supply Depot Princess Kai Damaged III": {
+    "_aa": null,
+    "_api_id": 2306,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Kai Damaged",
+    "_battle_card_reference": "/Kai Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Kai Damaged",
+    "_cg_reference": "/Kai Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2306,
+    "_japanese_name": "集積地棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess Kai",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい-かい",
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai Damaged III"
+  },
+  "Supply Depot Princess Kai II": {
+    "_aa": null,
+    "_api_id": 2302,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2302,
+    "_japanese_name": "集積地棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい",
+    "_speed": 0,
+    "_suffix": "Kai II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai II"
+  },
+  "Supply Depot Princess Kai III": {
+    "_aa": null,
+    "_api_id": 2303,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2303,
+    "_japanese_name": "集積地棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい",
+    "_speed": 0,
+    "_suffix": "Kai III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai III"
+  },
   "Supply Depot Princess B": {
     "_aa": 60,
     "_air_power_estimation": true,
