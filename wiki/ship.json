@@ -33446,8 +33446,8 @@
     "_aa_mod": false,
     "_ammo": 60,
     "_api_id": 1005,
-    "_armor": 34,
-    "_armor_max": 49,
+    "_armor": 35,
+    "_armor_max": 48,
     "_armor_mod": 2,
     "_artist": "Hoshi Akari",
     "_asw": 0,
@@ -33461,31 +33461,31 @@
     "_equipment": [
       {
         "equipment": null,
-        "size": 1
+        "size": 2
       },
       {
         "equipment": false,
-        "size": 1
+        "size": 2
       },
       {
         "equipment": false,
-        "size": 5
+        "size": 3
       }
     ],
     "_evasion": null,
     "_evasion_max": null,
     "_firepower": 36,
-    "_firepower_max": 52,
+    "_firepower_max": 53,
     "_firepower_mod": 2,
     "_fuel": 40,
-    "_hp": 43,
-    "_hp_max": 55,
+    "_hp": 44,
+    "_hp_max": 56,
     "_id": 605,
     "_implementation_date": [2025, 3, 23],
     "_japanese_name": "Minneapolis",
     "_los": null,
     "_los_max": null,
-    "_luck": 17,
+    "_luck": 15,
     "_luck_max": 77,
     "_luck_mod": false,
     "_name": "Minneapolis",
@@ -33502,7 +33502,7 @@
     "_speed": 10,
     "_suffix": false,
     "_torpedo": 0,
-    "_torpedo_max": 45,
+    "_torpedo_max": 46,
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 5,
@@ -33516,8 +33516,8 @@
     "_aa_mod": 1,
     "_ammo": 65,
     "_api_id": 1010,
-    "_armor": 41,
-    "_armor_max": 75,
+    "_armor": 42,
+    "_armor_max": 76,
     "_armor_mod": 2,
     "_asw": 0,
     "_asw_max": false,
@@ -33534,27 +33534,27 @@
       },
       {
         "equipment": null,
-        "size": 2
+        "size": 4
       },
       {
         "equipment": false,
-        "size": 5
+        "size": 2
       }
     ],
     "_evasion": null,
     "_evasion_max": null,
     "_firepower": 45,
-    "_firepower_max": 77,
+    "_firepower_max": 78,
     "_firepower_mod": 2,
     "_fuel": 40,
-    "_hp": 53,
+    "_hp": 54,
     "_hp_max": 65,
     "_id": 610,
     "_japanese_name": "Minneapolis改",
     "_los": null,
     "_los_max": null,
-    "_luck": 20,
-    "_luck_max": 90,
+    "_luck": 18,
+    "_luck_max": 92,
     "_luck_mod": false,
     "_name": "Minneapolis",
     "_range": 2,
@@ -33576,7 +33576,7 @@
     "_speed": 10,
     "_suffix": "Kai",
     "_torpedo": 0,
-    "_torpedo_max": 62,
+    "_torpedo_max": 63,
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 5,
