@@ -24670,6 +24670,291 @@
     "_type": 8,
     "_full_name": "New Battleship Princess III"
   },
+  "New Heavy Cruiser Princess": {
+    "_aa": null,
+    "_api_id": 2311,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2311,
+    "_japanese_name": "重巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんしんせいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "New Heavy Cruiser Princess"
+  },
+  "New Heavy Cruiser Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2314,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2314,
+    "_japanese_name": "重巡新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "New Heavy Cruiser Princess Damaged"
+  },
+  "New Heavy Cruiser Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2315,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2315,
+    "_japanese_name": "重巡新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "New Heavy Cruiser Princess Damaged II"
+  },
+  "New Heavy Cruiser Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2316,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2316,
+    "_japanese_name": "重巡新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "New Heavy Cruiser Princess Damaged III"
+  },
+  "New Heavy Cruiser Princess II": {
+    "_aa": null,
+    "_api_id": 2312,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2312,
+    "_japanese_name": "重巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんしんせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "New Heavy Cruiser Princess II"
+  },
+  "New Heavy Cruiser Princess III": {
+    "_aa": null,
+    "_api_id": 2313,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2313,
+    "_japanese_name": "重巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Heavy Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅうじゅんしんせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 6,
+    "_full_name": "New Heavy Cruiser Princess III"
+  },
   "New Light Cruiser Princess": {
     "_aa": 56,
     "_api_id": 2006,
@@ -27424,6 +27709,133 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "Northernmost Landing Princess III"
+  },
+  "Occupied Airfield Princess": {
+    "_aa": null,
+    "_api_id": 2307,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2307,
+    "_japanese_name": "飛行場棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Occupied Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうせいき",
+    "_speed": 0,
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Occupied Airfield Princess"
+  },
+  "Occupied Airfield Princess II": {
+    "_aa": null,
+    "_api_id": 2308,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2308,
+    "_japanese_name": "飛行場棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Occupied Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうせいき",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Occupied Airfield Princess II"
+  },
+  "Occupied Airfield Princess III": {
+    "_aa": null,
+    "_api_id": 2309,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2309,
+    "_japanese_name": "飛行場棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Occupied Airfield Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ひこうじょうせいき",
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Occupied Airfield Princess III"
   },
   "Outer Southern Sea Destroyer Princess": {
     "_aa": 88,
@@ -32522,12 +32934,12 @@
     "_japanese_name": "集積地棲姫改-壊",
     "_los": null,
     "_luck": null,
-    "_name": "Supply Depot Princess Kai",
+    "_name": "Supply Depot Princess",
     "_range": 1,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい-かい",
     "_speed": 0,
-    "_suffix": "Damaged III",
+    "_suffix": "Kai Damaged III",
     "_torpedo": null,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai Damaged III"
