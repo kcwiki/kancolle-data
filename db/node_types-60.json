@@ -170,6 +170,7 @@
     "U1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "U2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "U3": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "V": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "X": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Y": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
