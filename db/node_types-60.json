@@ -196,6 +196,7 @@
     "O": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "O1": { "color": 14, "id": 10, "kind": 0, "type": "Repair" },
     "P": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "Q": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "R": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "S": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "T": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
