@@ -145,6 +145,7 @@
     "D1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "D2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "E": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "E1": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "E2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "F": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "F1": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
