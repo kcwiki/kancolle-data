@@ -12502,7 +12502,7 @@
     "_api_id": 2263,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Initial Model",
     "_cg_reference": "/Initial Model",
     "_equipment": [
@@ -12537,8 +12537,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "α",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう",
     "_speed": 10,
     "_torpedo": null,
     "_type": 2,
@@ -12549,7 +12549,7 @@
     "_api_id": 2266,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_battle_card_reference": "/Initial Model Damaged",
     "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
@@ -12584,8 +12584,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "α Damaged",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう-かい",
     "_speed": 10,
     "_suffix": "Damaged",
     "_torpedo": null,
@@ -12597,7 +12597,7 @@
     "_api_id": 2267,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_battle_card_reference": "/Initial Model Damaged",
     "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
@@ -12632,8 +12632,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "α Damaged II",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
     "_torpedo": null,
@@ -12645,7 +12645,7 @@
     "_api_id": 2274,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_battle_card_damaged_reference": "/Initial Model Damaged II",
     "_battle_card_reference": "/Initial Model Damaged II",
     "_can_debuff": true,
@@ -12683,8 +12683,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "β Damaged",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
     "_torpedo": null,
@@ -12696,7 +12696,7 @@
     "_api_id": 2275,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_battle_card_damaged_reference": "/Initial Model Damaged II",
     "_battle_card_reference": "/Initial Model Damaged II",
     "_can_debuff": true,
@@ -12734,8 +12734,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "β Damaged II",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう-かい",
     "_speed": 10,
     "_suffix": "Damaged IV",
     "_torpedo": null,
@@ -12747,7 +12747,7 @@
     "_api_id": 2292,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Delta Initial Model",
     "_cg_reference": "/Delta Initial Model",
     "_equipment": [
@@ -12781,8 +12781,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　デルタ",
     "_speed": 10,
     "_suffix": "Delta",
     "_torpedo": null,
@@ -12794,7 +12794,7 @@
     "_api_id": 2293,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Delta Initial Model",
     "_cg_reference": "/Delta Initial Model",
     "_equipment": [
@@ -12828,8 +12828,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　デルタ",
     "_speed": 10,
     "_suffix": "Delta II",
     "_torpedo": null,
@@ -12841,7 +12841,7 @@
     "_api_id": 2291,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_equipment": [
       {
         "equipment": null,
@@ -12873,8 +12873,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　デルタ(しょきがた）",
     "_speed": 10,
     "_suffix": "Delta Initial Model",
     "_torpedo": null,
@@ -12886,7 +12886,7 @@
     "_api_id": 2289,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Gamma Initial Model",
     "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
@@ -12920,8 +12920,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ガンマ",
     "_speed": 10,
     "_suffix": "Gamma",
     "_torpedo": null,
@@ -12933,7 +12933,7 @@
     "_api_id": 2290,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Gamma Initial Model",
     "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
@@ -12967,8 +12967,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ガンマ",
     "_speed": 10,
     "_suffix": "Gamma II",
     "_torpedo": null,
@@ -12980,7 +12980,7 @@
     "_api_id": 2288,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_equipment": [
       {
         "equipment": null,
@@ -13012,8 +13012,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ガンマ(しょきがた）",
     "_speed": 10,
     "_suffix": "Gamma Initial Model",
     "_torpedo": null,
@@ -13025,7 +13025,7 @@
     "_api_id": 2264,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Initial Model",
     "_cg_reference": "/Initial Model",
     "_equipment": [
@@ -13060,8 +13060,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "α II",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう",
     "_speed": 10,
     "_suffix": "II",
     "_torpedo": null,
@@ -13073,7 +13073,7 @@
     "_api_id": 2271,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Initial Model II",
     "_cg_reference": "/Initial Model II",
     "_equipment": [
@@ -13108,8 +13108,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "β",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう",
     "_speed": 10,
     "_suffix": "III",
     "_torpedo": null,
@@ -13121,7 +13121,7 @@
     "_api_id": 2272,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Initial Model II",
     "_cg_reference": "/Initial Model II",
     "_equipment": [
@@ -13156,8 +13156,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "β II",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう",
     "_speed": 10,
     "_suffix": "IV",
     "_torpedo": null,
@@ -13169,7 +13169,7 @@
     "_api_id": 2262,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_equipment": [
       {
         "equipment": null,
@@ -13202,8 +13202,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "α Initial Model",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう(しょきがた）",
     "_speed": 10,
     "_suffix": "Initial Model",
     "_torpedo": null,
@@ -13215,7 +13215,7 @@
     "_api_id": 2265,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_equipment": [
       {
         "equipment": null,
@@ -13248,8 +13248,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "α Initial Model Damaged",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう(しょきがた）-かい",
     "_speed": 10,
     "_suffix": "Initial Model Damaged",
     "_torpedo": null,
@@ -13261,7 +13261,7 @@
     "_api_id": 2273,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -13295,8 +13295,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "β Initial Model Damaged",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう(しょきがた）-かい",
     "_speed": 10,
     "_suffix": "Initial Model Damaged II",
     "_torpedo": null,
@@ -13308,7 +13308,7 @@
     "_api_id": 2270,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_equipment": [
       {
         "equipment": null,
@@ -13341,8 +13341,8 @@
     "_name": "Destroyer Ra-Class",
     "_nick": "β Initial Model",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう(しょきがた）",
     "_speed": 10,
     "_suffix": "Initial Model II",
     "_torpedo": null,
@@ -13354,7 +13354,7 @@
     "_api_id": 2294,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_equipment": [
       {
         "equipment": null,
@@ -13386,8 +13386,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ゼータ",
     "_speed": 10,
     "_suffix": "Zeta",
     "_torpedo": null,
@@ -13399,7 +13399,7 @@
     "_api_id": 2297,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_equipment": [
       {
         "equipment": null,
@@ -13431,8 +13431,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ゼータ-かい",
     "_speed": 10,
     "_suffix": "Zeta Damaged",
     "_torpedo": null,
@@ -13444,7 +13444,7 @@
     "_api_id": 2298,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_battle_card_reference": "/Zeta Damaged",
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
@@ -13478,8 +13478,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ゼータ-かい",
     "_speed": 10,
     "_suffix": "Zeta Damaged II",
     "_torpedo": null,
@@ -13491,7 +13491,7 @@
     "_api_id": 2299,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 12,
     "_battle_card_reference": "/Zeta Damaged",
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
@@ -13525,8 +13525,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ゼータ-かい",
     "_speed": 10,
     "_suffix": "Zeta Damaged III",
     "_torpedo": null,
@@ -13538,7 +13538,7 @@
     "_api_id": 2295,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Zeta",
     "_cg_reference": "/Zeta",
     "_equipment": [
@@ -13572,8 +13572,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ゼータ",
     "_speed": 10,
     "_suffix": "Zeta II",
     "_torpedo": null,
@@ -13585,7 +13585,7 @@
     "_api_id": 2296,
     "_armor": null,
     "_asw": null,
-    "_back": null,
+    "_back": 11,
     "_battle_card_reference": "/Zeta",
     "_cg_reference": "/Zeta",
     "_equipment": [
@@ -13619,8 +13619,8 @@
     "_luck": null,
     "_name": "Destroyer Ra-Class",
     "_range": null,
-    "_rarity": null,
-    "_reading": null,
+    "_rarity": 8,
+    "_reading": "くちくラきゅう　ゼータ",
     "_speed": 10,
     "_suffix": "Zeta III",
     "_torpedo": null,
@@ -32514,526 +32514,6 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess"
   },
-  "Supply Depot Princess Damaged": {
-    "_aa": 70,
-    "_api_id": 1656,
-    "_armor": 130,
-    "_asw": 0,
-    "_back": -12,
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 12
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 4
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 130,
-    "_hp": 380,
-    "_id": 1656,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき-かい",
-    "_speed": 0,
-    "_suffix": "Damaged",
-    "_torpedo": 88,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess Damaged"
-  },
-  "Supply Depot Princess Damaged II": {
-    "_aa": 80,
-    "_api_id": 1657,
-    "_armor": 160,
-    "_asw": 0,
-    "_back": -12,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
-    "_battle_card_reference": "/Damaged",
-    "_cg_reference": "/Damaged",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 8
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 160,
-    "_hp": 430,
-    "_id": 1657,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき-かい",
-    "_speed": 0,
-    "_suffix": "Damaged II",
-    "_torpedo": 98,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess Damaged II"
-  },
-  "Supply Depot Princess Damaged III": {
-    "_aa": 90,
-    "_api_id": 1658,
-    "_armor": 190,
-    "_asw": 0,
-    "_back": -12,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
-    "_battle_card_reference": "/Damaged",
-    "_cg_reference": "/Damaged",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 32
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 32
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 8
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 190,
-    "_hp": 480,
-    "_id": 1658,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき-かい",
-    "_speed": 0,
-    "_suffix": "Damaged III",
-    "_torpedo": 118,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess Damaged III"
-  },
-  "Supply Depot Princess II": {
-    "_aa": 70,
-    "_api_id": 1654,
-    "_armor": 130,
-    "_asw": 0,
-    "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
-    "_battle_card_reference": "/",
-    "_cg_reference": "/",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 12
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 4
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 90,
-    "_hp": 600,
-    "_id": 1654,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき",
-    "_speed": 0,
-    "_suffix": "II",
-    "_torpedo": 98,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess II"
-  },
-  "Supply Depot Princess III": {
-    "_aa": 80,
-    "_api_id": 1655,
-    "_armor": 160,
-    "_asw": 0,
-    "_back": -11,
-    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
-    "_battle_card_reference": "/",
-    "_cg_reference": "/",
-    "_equipment": [
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 24
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 16
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber",
-        "estimation": true,
-        "size": 8
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 130,
-    "_hp": 600,
-    "_id": 1655,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいき",
-    "_speed": 0,
-    "_suffix": "III",
-    "_torpedo": 118,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess III"
-  },
-  "Supply Depot Princess Kai": {
-    "_aa": null,
-    "_api_id": 2301,
-    "_armor": null,
-    "_asw": 0,
-    "_back": -11,
-    "_can_debuff": false,
-    "_equipment": [
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      }
-    ],
-    "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
-    "_id": 2301,
-    "_japanese_name": "集積地棲姫改",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 1,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきかい",
-    "_speed": 0,
-    "_suffix": "Kai",
-    "_torpedo": null,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess Kai"
-  },
-  "Supply Depot Princess Kai Damaged": {
-    "_aa": null,
-    "_api_id": 2304,
-    "_armor": null,
-    "_asw": null,
-    "_back": -12,
-    "_can_debuff": true,
-    "_equipment": [
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      }
-    ],
-    "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
-    "_id": 2304,
-    "_japanese_name": "集積地棲姫改-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 1,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきかい-かい",
-    "_speed": 0,
-    "_suffix": "Kai Damaged",
-    "_torpedo": null,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess Kai Damaged"
-  },
-  "Supply Depot Princess Kai Damaged II": {
-    "_aa": null,
-    "_api_id": 2305,
-    "_armor": null,
-    "_asw": null,
-    "_back": -12,
-    "_battle_card_damaged_reference": "/Kai Damaged",
-    "_battle_card_reference": "/Kai Damaged",
-    "_can_debuff": true,
-    "_cg_damaged_reference": "/Kai Damaged",
-    "_cg_reference": "/Kai Damaged",
-    "_equipment": [
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      }
-    ],
-    "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
-    "_id": 2305,
-    "_japanese_name": "集積地棲姫改-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 1,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきかい-かい",
-    "_speed": 0,
-    "_suffix": "Kai Damaged II",
-    "_torpedo": null,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess Kai Damaged II"
-  },
-  "Supply Depot Princess Kai Damaged III": {
-    "_aa": null,
-    "_api_id": 2306,
-    "_armor": null,
-    "_asw": null,
-    "_back": -12,
-    "_battle_card_damaged_reference": "/Kai Damaged",
-    "_battle_card_reference": "/Kai Damaged",
-    "_can_debuff": true,
-    "_cg_damaged_reference": "/Kai Damaged",
-    "_cg_reference": "/Kai Damaged",
-    "_equipment": [
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      }
-    ],
-    "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
-    "_id": 2306,
-    "_japanese_name": "集積地棲姫改-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 1,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきかい-かい",
-    "_speed": 0,
-    "_suffix": "Kai Damaged III",
-    "_torpedo": null,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess Kai Damaged III"
-  },
-  "Supply Depot Princess Kai II": {
-    "_aa": null,
-    "_api_id": 2302,
-    "_armor": null,
-    "_asw": null,
-    "_back": -11,
-    "_battle_card_reference": "/Kai",
-    "_cg_reference": "/Kai",
-    "_equipment": [
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      }
-    ],
-    "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
-    "_id": 2302,
-    "_japanese_name": "集積地棲姫改",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 1,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきかい",
-    "_speed": 0,
-    "_suffix": "Kai II",
-    "_torpedo": null,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess Kai II"
-  },
-  "Supply Depot Princess Kai III": {
-    "_aa": null,
-    "_api_id": 2303,
-    "_armor": null,
-    "_asw": null,
-    "_back": -11,
-    "_battle_card_reference": "/Kai",
-    "_cg_reference": "/Kai",
-    "_equipment": [
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      },
-      {
-        "equipment": null,
-        "size": null
-      }
-    ],
-    "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
-    "_id": 2303,
-    "_japanese_name": "集積地棲姫改",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess",
-    "_range": 1,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきかい",
-    "_speed": 0,
-    "_suffix": "Kai III",
-    "_torpedo": null,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess Kai III"
-  },
   "Supply Depot Princess B": {
     "_aa": 60,
     "_air_power_estimation": true,
@@ -33421,6 +32901,291 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess B IV"
   },
+  "Supply Depot Princess B Summer Landing Mode": {
+    "_aa": 60,
+    "_api_id": 1933,
+    "_armor": 30,
+    "_asw": 0,
+    "_back": -11,
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 48
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 100,
+    "_hp": 600,
+    "_id": 1933,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
+    "_speed": 0,
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode"
+  },
+  "Supply Depot Princess B Summer Landing Mode Damaged": {
+    "_aa": 70,
+    "_api_id": 1936,
+    "_armor": 60,
+    "_asw": 0,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 64
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 160,
+    "_hp": 600,
+    "_id": 1936,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
+    "_speed": 0,
+    "_suffix": "Damaged",
+    "_torpedo": 98,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged"
+  },
+  "Supply Depot Princess B Summer Landing Mode Damaged II": {
+    "_aa": 80,
+    "_api_id": 1937,
+    "_armor": 160,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 88
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 200,
+    "_hp": 1200,
+    "_id": 1937,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
+    "_speed": 0,
+    "_suffix": "Damaged II",
+    "_torpedo": 108,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged II"
+  },
+  "Supply Depot Princess B Summer Landing Mode Damaged III": {
+    "_aa": 90,
+    "_api_id": 1938,
+    "_armor": 230,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 98
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 240,
+    "_hp": 2400,
+    "_id": 1938,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
+    "_references": ["https://twitter.com/syoukuretin/status/1276618053283745792"],
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": 128,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged III"
+  },
+  "Supply Depot Princess B Summer Landing Mode II": {
+    "_aa": 70,
+    "_api_id": 1934,
+    "_armor": 120,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 64
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 180,
+    "_hp": 1200,
+    "_id": 1934,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": 108,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode II"
+  },
+  "Supply Depot Princess B Summer Landing Mode III": {
+    "_aa": 80,
+    "_api_id": 1935,
+    "_armor": 170,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 88
+      },
+      {
+        "equipment": "Abyssal Cuttlefish Torpedo",
+        "estimation": true,
+        "size": 0
+      }
+    ],
+    "_evasion": 0,
+    "_firepower": 200,
+    "_hp": 2400,
+    "_id": 1935,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫II 夏季上陸mode",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess B Summer Landing Mode",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
+    "_references": ["https://twitter.com/syoukuretin/status/1276608442191409153"],
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 128,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess B Summer Landing Mode III"
+  },
   "Supply Depot Princess B Vacation Mode": {
     "_aa": 44,
     "_api_id": 2015,
@@ -33800,291 +33565,6 @@
     "_torpedo": 144,
     "_type": 10,
     "_full_name": "Supply Depot Princess B Vacation Mode IV"
-  },
-  "Supply Depot Princess B Summer Landing Mode": {
-    "_aa": 60,
-    "_api_id": 1933,
-    "_armor": 30,
-    "_asw": 0,
-    "_back": -11,
-    "_equipment": [
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 48
-      },
-      {
-        "equipment": "Abyssal Cuttlefish Torpedo",
-        "estimation": true,
-        "size": 0
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 100,
-    "_hp": 600,
-    "_id": 1933,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫II 夏季上陸mode",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
-    "_speed": 0,
-    "_torpedo": 98,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess B Summer Landing Mode"
-  },
-  "Supply Depot Princess B Summer Landing Mode Damaged": {
-    "_aa": 70,
-    "_api_id": 1936,
-    "_armor": 60,
-    "_asw": 0,
-    "_back": -12,
-    "_equipment": [
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 64
-      },
-      {
-        "equipment": "Abyssal Cuttlefish Torpedo",
-        "estimation": true,
-        "size": 0
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 160,
-    "_hp": 600,
-    "_id": 1936,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
-    "_speed": 0,
-    "_suffix": "Damaged",
-    "_torpedo": 98,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged"
-  },
-  "Supply Depot Princess B Summer Landing Mode Damaged II": {
-    "_aa": 80,
-    "_api_id": 1937,
-    "_armor": 160,
-    "_asw": 0,
-    "_back": -12,
-    "_battle_card_reference": "/Damaged",
-    "_cg_reference": "/Damaged",
-    "_equipment": [
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 88
-      },
-      {
-        "equipment": "Abyssal Cuttlefish Torpedo",
-        "estimation": true,
-        "size": 0
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 200,
-    "_hp": 1200,
-    "_id": 1937,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
-    "_speed": 0,
-    "_suffix": "Damaged II",
-    "_torpedo": 108,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged II"
-  },
-  "Supply Depot Princess B Summer Landing Mode Damaged III": {
-    "_aa": 90,
-    "_api_id": 1938,
-    "_armor": 230,
-    "_asw": 0,
-    "_back": -12,
-    "_battle_card_reference": "/Damaged",
-    "_cg_reference": "/Damaged",
-    "_equipment": [
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 98
-      },
-      {
-        "equipment": "Abyssal Cuttlefish Torpedo",
-        "estimation": true,
-        "size": 0
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 240,
-    "_hp": 2400,
-    "_id": 1938,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫II 夏季上陸mode-壊",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきツー かきじょうりくモード-かい",
-    "_references": ["https://twitter.com/syoukuretin/status/1276618053283745792"],
-    "_speed": 0,
-    "_suffix": "Damaged III",
-    "_torpedo": 128,
-    "_type": 9,
-    "_full_name": "Supply Depot Princess B Summer Landing Mode Damaged III"
-  },
-  "Supply Depot Princess B Summer Landing Mode II": {
-    "_aa": 70,
-    "_api_id": 1934,
-    "_armor": 120,
-    "_asw": 0,
-    "_back": -11,
-    "_battle_card_reference": "/",
-    "_cg_reference": "/",
-    "_equipment": [
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 64
-      },
-      {
-        "equipment": "Abyssal Cuttlefish Torpedo",
-        "estimation": true,
-        "size": 0
-      }
-    ],
-    "_evasion": null,
-    "_firepower": 180,
-    "_hp": 1200,
-    "_id": 1934,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫II 夏季上陸mode",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
-    "_speed": 0,
-    "_suffix": "II",
-    "_torpedo": 108,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess B Summer Landing Mode II"
-  },
-  "Supply Depot Princess B Summer Landing Mode III": {
-    "_aa": 80,
-    "_api_id": 1935,
-    "_armor": 170,
-    "_asw": 0,
-    "_back": -11,
-    "_battle_card_reference": "/",
-    "_cg_reference": "/",
-    "_equipment": [
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "5inch Coastal Gun",
-        "estimation": true,
-        "size": 0
-      },
-      {
-        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 88
-      },
-      {
-        "equipment": "Abyssal Cuttlefish Torpedo",
-        "estimation": true,
-        "size": 0
-      }
-    ],
-    "_evasion": 0,
-    "_firepower": 200,
-    "_hp": 2400,
-    "_id": 1935,
-    "_installation": true,
-    "_japanese_name": "集積地棲姫II 夏季上陸mode",
-    "_los": null,
-    "_luck": null,
-    "_name": "Supply Depot Princess B Summer Landing Mode",
-    "_range": 3,
-    "_rarity": 8,
-    "_reading": "しゅうせきちせいきツー かきじょうりくモード",
-    "_references": ["https://twitter.com/syoukuretin/status/1276608442191409153"],
-    "_speed": 0,
-    "_suffix": "III",
-    "_torpedo": 128,
-    "_type": 10,
-    "_full_name": "Supply Depot Princess B Summer Landing Mode III"
   },
   "Supply Depot Princess C": {
     "_aa": 53,
@@ -35150,6 +34630,150 @@
     "_type": 10,
     "_full_name": "Supply Depot Princess D IV"
   },
+  "Supply Depot Princess Damaged": {
+    "_aa": 70,
+    "_api_id": 1656,
+    "_armor": 130,
+    "_asw": 0,
+    "_back": -12,
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 380,
+    "_id": 1656,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき-かい",
+    "_speed": 0,
+    "_suffix": "Damaged",
+    "_torpedo": 88,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess Damaged"
+  },
+  "Supply Depot Princess Damaged II": {
+    "_aa": 80,
+    "_api_id": 1657,
+    "_armor": 160,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 160,
+    "_hp": 430,
+    "_id": 1657,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき-かい",
+    "_speed": 0,
+    "_suffix": "Damaged II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess Damaged II"
+  },
+  "Supply Depot Princess Damaged III": {
+    "_aa": 90,
+    "_api_id": 1658,
+    "_armor": 190,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 32
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 32
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 190,
+    "_hp": 480,
+    "_id": 1658,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき-かい",
+    "_speed": 0,
+    "_suffix": "Damaged III",
+    "_torpedo": 118,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess Damaged III"
+  },
   "Supply Depot Princess E Vacation Mode": {
     "_aa": 50,
     "_api_id": 2250,
@@ -35443,6 +35067,382 @@
     "_torpedo": 160,
     "_type": 10,
     "_full_name": "Supply Depot Princess E Vacation Mode III"
+  },
+  "Supply Depot Princess II": {
+    "_aa": 70,
+    "_api_id": 1654,
+    "_armor": 130,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 12
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 4
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 90,
+    "_hp": 600,
+    "_id": 1654,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき",
+    "_speed": 0,
+    "_suffix": "II",
+    "_torpedo": 98,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess II"
+  },
+  "Supply Depot Princess III": {
+    "_aa": 80,
+    "_api_id": 1655,
+    "_armor": 160,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_layers": ["liberation_ace_r1", "liberation_ace_r2"],
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
+        "estimation": true,
+        "size": 24
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 16
+      },
+      {
+        "equipment": "Abyssal Liberation Land-based Dive Bomber",
+        "estimation": true,
+        "size": 8
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 130,
+    "_hp": 600,
+    "_id": 1655,
+    "_installation": true,
+    "_japanese_name": "集積地棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 3,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいき",
+    "_speed": 0,
+    "_suffix": "III",
+    "_torpedo": 118,
+    "_type": 10,
+    "_full_name": "Supply Depot Princess III"
+  },
+  "Supply Depot Princess Kai": {
+    "_aa": null,
+    "_api_id": 2301,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2301,
+    "_japanese_name": "集積地棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい",
+    "_speed": 0,
+    "_suffix": "Kai",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai"
+  },
+  "Supply Depot Princess Kai Damaged": {
+    "_aa": null,
+    "_api_id": 2304,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2304,
+    "_japanese_name": "集積地棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい-かい",
+    "_speed": 0,
+    "_suffix": "Kai Damaged",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai Damaged"
+  },
+  "Supply Depot Princess Kai Damaged II": {
+    "_aa": null,
+    "_api_id": 2305,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Kai Damaged",
+    "_battle_card_reference": "/Kai Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Kai Damaged",
+    "_cg_reference": "/Kai Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2305,
+    "_japanese_name": "集積地棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい-かい",
+    "_speed": 0,
+    "_suffix": "Kai Damaged II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai Damaged II"
+  },
+  "Supply Depot Princess Kai Damaged III": {
+    "_aa": null,
+    "_api_id": 2306,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Kai Damaged",
+    "_battle_card_reference": "/Kai Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Kai Damaged",
+    "_cg_reference": "/Kai Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2306,
+    "_japanese_name": "集積地棲姫改-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい-かい",
+    "_speed": 0,
+    "_suffix": "Kai Damaged III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai Damaged III"
+  },
+  "Supply Depot Princess Kai II": {
+    "_aa": null,
+    "_api_id": 2302,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2302,
+    "_japanese_name": "集積地棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい",
+    "_speed": 0,
+    "_suffix": "Kai II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai II"
+  },
+  "Supply Depot Princess Kai III": {
+    "_aa": null,
+    "_api_id": 2303,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/Kai",
+    "_cg_reference": "/Kai",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2303,
+    "_japanese_name": "集積地棲姫改",
+    "_los": null,
+    "_luck": null,
+    "_name": "Supply Depot Princess",
+    "_range": 1,
+    "_rarity": 8,
+    "_reading": "しゅうせきちせいきかい",
+    "_speed": 0,
+    "_suffix": "Kai III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Supply Depot Princess Kai III"
   },
   "Supply Depot Princess Vacation Mode": {
     "_aa": 80,
