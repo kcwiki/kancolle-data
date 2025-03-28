@@ -283,5 +283,6 @@
       { "api_type": 3, "api_id": 557, "api_value": 1, "api_slot_level": 2 }
     ],
     "selectreward": null
-  }
+  },
+  { "map": "60-6", "difficulty": 1, "rewards": [{ "api_type": 2, "api_id": 1005, "api_value": 1 }], "selectreward": null }
 ]

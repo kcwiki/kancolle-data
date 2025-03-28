@@ -39919,6 +39919,7 @@
     "_scrap_fuel": 2,
     "_scrap_steel": 6,
     "_speed": 5,
+    "_suffix": false,
     "_torpedo": 0,
     "_torpedo_max": false,
     "_torpedo_mod": false,
@@ -47833,7 +47834,7 @@
     "_class_number": 7,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
         "size": 0
       },
       {
@@ -47894,15 +47895,16 @@
     "_class_number": 7,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12.7cm Single High-angle Gun Mount (Late Model)",
+        "size": 0,
+        "stars": 3
+      },
+      {
+        "equipment": "61cm Quadruple (Oxygen) Torpedo Mount",
         "size": 0
       },
       {
-        "equipment": null,
-        "size": 0
-      },
-      {
-        "equipment": null,
+        "equipment": "Type 13 Air Radar Kai",
         "size": 0
       }
     ],
