@@ -27665,22 +27665,22 @@
       {
         "equipment": "Abyssal Cat Fighter",
         "estimation": true,
-        "size": 18
+        "size": 21
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
         "estimation": true,
-        "size": 18
+        "size": 21
       },
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 11
+        "size": 8
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
         "estimation": true,
-        "size": 11
+        "size": 8
       }
     ],
     "_evasion": null,
@@ -27758,22 +27758,20 @@
       {
         "equipment": "Abyssal Cat Fighter",
         "estimation": true,
-        "size": 36
+        "size": 35
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
-        "size": 36
+        "size": 35
       },
       {
         "equipment": "Abyssal Night Cat Fighter II",
         "estimation": true,
-        "size": 23
+        "size": 24
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
-        "estimation": true,
-        "size": 23
+        "size": 24
       }
     ],
     "_evasion": null,
