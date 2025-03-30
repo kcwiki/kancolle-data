@@ -24615,100 +24615,102 @@
     "_full_name": "New Battleship Princess III"
   },
   "New Heavy Cruiser Princess": {
-    "_aa": null,
+    "_aa": 91,
     "_api_id": 2311,
-    "_armor": null,
+    "_armor": 149,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "size": 5
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 191,
+    "_hp": 830,
     "_id": 2311,
     "_japanese_name": "重巡新棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Heavy Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんしんせいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 81,
     "_type": 6,
     "_full_name": "New Heavy Cruiser Princess"
   },
   "New Heavy Cruiser Princess Damaged": {
-    "_aa": null,
+    "_aa": 121,
     "_api_id": 2314,
-    "_armor": null,
+    "_armor": 179,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "size": 5
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 232,
+    "_hp": 830,
     "_id": 2314,
     "_japanese_name": "重巡新棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Heavy Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんしんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 91,
     "_type": 6,
     "_full_name": "New Heavy Cruiser Princess Damaged"
   },
   "New Heavy Cruiser Princess Damaged II": {
-    "_aa": null,
+    "_aa": 141,
     "_api_id": 2315,
-    "_armor": null,
+    "_armor": 229,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -24718,47 +24720,48 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "size": 5
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 78
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 262,
+    "_hp": 930,
     "_id": 2315,
     "_japanese_name": "重巡新棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Heavy Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんしんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 121,
     "_type": 6,
     "_full_name": "New Heavy Cruiser Princess Damaged II"
   },
   "New Heavy Cruiser Princess Damaged III": {
-    "_aa": null,
+    "_aa": 161,
     "_api_id": 2316,
-    "_armor": null,
+    "_armor": 299,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -24768,134 +24771,137 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "size": 5
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 96
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 292,
+    "_hp": 1030,
     "_id": 2316,
     "_japanese_name": "重巡新棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Heavy Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんしんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 151,
     "_type": 6,
     "_full_name": "New Heavy Cruiser Princess Damaged III"
   },
   "New Heavy Cruiser Princess II": {
-    "_aa": null,
+    "_aa": 111,
     "_api_id": 2312,
-    "_armor": null,
+    "_armor": 189,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "size": 5
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 222,
+    "_hp": 930,
     "_id": 2312,
     "_japanese_name": "重巡新棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Heavy Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんしんせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 101,
     "_type": 6,
     "_full_name": "New Heavy Cruiser Princess II"
   },
   "New Heavy Cruiser Princess III": {
-    "_aa": null,
+    "_aa": 131,
     "_api_id": 2313,
-    "_armor": null,
+    "_armor": 239,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 8inch Triple Gun Mount Mk.9",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "size": 5
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 92
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 252,
+    "_hp": 1030,
     "_id": 2313,
     "_japanese_name": "重巡新棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Heavy Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "じゅうじゅんしんせいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 131,
     "_type": 6,
     "_full_name": "New Heavy Cruiser Princess III"
   },
@@ -25185,6 +25191,55 @@
     "_torpedo": 186,
     "_type": 3,
     "_full_name": "New Light Cruiser Princess III"
+  },
+  "New Light Cruiser Princess IV": {
+    "_aa": 53,
+    "_api_id": 2300,
+    "_armor": 77,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_damaged_reference": "/",
+    "_battle_card_reference": "/",
+    "_can_debuff": false,
+    "_cg_damaged_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": "Abyssal 6inch Triple Main Gun Mount Mk.16",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal 6inch Triple Main Gun Mount Mk.16",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "estimation": true,
+        "size": 0
+      },
+      {
+        "equipment": "Abyssal Seagull Reconnaissance Seaplane",
+        "estimation": true,
+        "size": 3
+      }
+    ],
+    "_evasion": null,
+    "_firepower": 126,
+    "_hp": 770,
+    "_id": 2300,
+    "_japanese_name": "軽巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Light Cruiser Princess",
+    "_range": 2,
+    "_rarity": 8,
+    "_reading": "けいじゅんしんせいき",
+    "_speed": 10,
+    "_torpedo": 106,
+    "_type": 3,
+    "_full_name": "New Light Cruiser Princess IV"
   },
   "New Mass-Produced Aircraft Carrier Princess": {
     "_aa": 120,
@@ -27715,7 +27770,6 @@
       },
       {
         "equipment": "Abyssal Liberation Land-based Dive Bomber Ace",
-        "estimation": true,
         "size": 28
       },
       {
@@ -27725,7 +27779,6 @@
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber II",
-        "estimation": true,
         "size": 16
       }
     ],
@@ -27740,6 +27793,7 @@
     "_range": 2,
     "_rarity": 8,
     "_reading": "ひこうじょうせいき",
+    "_references": ["https://x.com/noro_006/status/1905995963480883412"],
     "_speed": 0,
     "_suffix": "II",
     "_torpedo": 0,
@@ -27785,6 +27839,7 @@
     "_range": 2,
     "_rarity": 8,
     "_reading": "ひこうじょうせいき",
+    "_references": ["https://x.com/noro_006/status/1905994044557139979"],
     "_speed": 0,
     "_suffix": "III",
     "_torpedo": 0,
@@ -35121,97 +35176,107 @@
     "_full_name": "Supply Depot Princess III"
   },
   "Supply Depot Princess Kai": {
-    "_aa": null,
+    "_aa": 55,
     "_api_id": 2301,
-    "_armor": null,
+    "_armor": 4,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "size": 32
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 32
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 80,
+    "_hp": 3000,
     "_id": 2301,
     "_japanese_name": "集積地棲姫改",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess",
-    "_range": 1,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい",
     "_speed": 0,
     "_suffix": "Kai",
-    "_torpedo": null,
+    "_torpedo": 100,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai"
   },
   "Supply Depot Princess Kai Damaged": {
-    "_aa": null,
+    "_aa": 75,
     "_api_id": 2304,
-    "_armor": null,
+    "_armor": 9,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 48
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 160,
+    "_hp": 3000,
     "_id": 2304,
     "_japanese_name": "集積地棲姫改-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess",
-    "_range": 1,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい-かい",
     "_speed": 0,
     "_suffix": "Kai Damaged",
-    "_torpedo": null,
+    "_torpedo": 130,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai Damaged"
   },
   "Supply Depot Princess Kai Damaged II": {
-    "_aa": null,
+    "_aa": 95,
     "_api_id": 2305,
-    "_armor": null,
+    "_armor": 111,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Kai Damaged",
@@ -35221,47 +35286,50 @@
     "_cg_reference": "/Kai Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 64
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 170,
+    "_hp": 5900,
     "_id": 2305,
     "_japanese_name": "集積地棲姫改-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess",
-    "_range": 1,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい-かい",
     "_speed": 0,
     "_suffix": "Kai Damaged II",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai Damaged II"
   },
   "Supply Depot Princess Kai Damaged III": {
-    "_aa": null,
+    "_aa": 145,
     "_api_id": 2306,
-    "_armor": null,
+    "_armor": 248,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Kai Damaged",
@@ -35271,130 +35339,143 @@
     "_cg_reference": "/Kai Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "size": 82
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 82
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 210,
+    "_hp": 9800,
     "_id": 2306,
     "_japanese_name": "集積地棲姫改-壊",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess",
-    "_range": 1,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい-かい",
     "_speed": 0,
     "_suffix": "Kai Damaged III",
-    "_torpedo": null,
+    "_torpedo": 190,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai Damaged III"
   },
   "Supply Depot Princess Kai II": {
-    "_aa": null,
+    "_aa": 75,
     "_api_id": 2302,
-    "_armor": null,
+    "_armor": 88,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Kai",
     "_cg_reference": "/Kai",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "5inch Coastal Gun",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "size": 48
+      },
+      {
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 48
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 120,
+    "_hp": 5900,
     "_id": 2302,
     "_japanese_name": "集積地棲姫改",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess",
-    "_range": 1,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい",
     "_speed": 0,
     "_suffix": "Kai II",
-    "_torpedo": null,
+    "_torpedo": 120,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai II"
   },
   "Supply Depot Princess Kai III": {
-    "_aa": null,
+    "_aa": 95,
     "_api_id": 2303,
-    "_armor": null,
+    "_armor": 208,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Kai",
     "_cg_reference": "/Kai",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Coastal Ambush Semi-submersible Torpedo Boat",
+        "estimation": true,
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "size": 64
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 130,
+    "_hp": 9800,
     "_id": 2303,
     "_japanese_name": "集積地棲姫改",
     "_los": null,
     "_luck": null,
     "_name": "Supply Depot Princess",
-    "_range": 1,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "しゅうせきちせいきかい",
     "_speed": 0,
     "_suffix": "Kai III",
-    "_torpedo": null,
+    "_torpedo": 130,
     "_type": 9,
     "_full_name": "Supply Depot Princess Kai III"
   },
