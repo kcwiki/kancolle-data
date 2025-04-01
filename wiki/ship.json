@@ -45167,11 +45167,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount + 25mm Machine Guns Additions",
         "size": 10
       },
       {
-        "equipment": null,
+        "equipment": "25mm Triple Autocannon Mount",
         "size": 4
       }
     ],
@@ -45229,15 +45229,15 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Prototype Reppuu Late Model",
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": "25mm Triple Autocannon Mount",
         "size": 6
       },
       {
-        "equipment": null,
+        "equipment": "Type 13 Air Radar Kai",
         "size": 4
       }
     ],
@@ -45263,8 +45263,8 @@
     "_remodel_ammo": 70,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_construction_material": false,
-    "_remodel_development_material": false,
+    "_remodel_construction_material": 22,
+    "_remodel_development_material": 18,
     "_remodel_from": "Shimane Maru/",
     "_remodel_level": 60,
     "_remodel_report": false,
