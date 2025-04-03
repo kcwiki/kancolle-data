@@ -22,7 +22,7 @@ map(
         while (true) {
           try {
             const url = `http://${server}/kcs2/resources/map/0${world}/0${map}_info${spots.length || ''}.json`
-            console.log(`<http://${server}/kcs2/resources/map/0${world}/0${map}_image${spots.length || ''}.png>`)
+            // console.log(`<http://${server}/kcs2/resources/map/0${world}/0${map}_image${spots.length || ''}.png>`)
             const data = await (await fetch(url)).json()
             spots.push.apply(spots, data.spots)
             if (data.airbase) {
