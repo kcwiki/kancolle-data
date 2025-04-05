@@ -269,5 +269,6 @@
   { "map": "60-6", "edge": 49, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "60-6", "edge": 51, "nodecolor": 5, "eventkind": 5, "eventid": 5 },
   { "map": "60-6", "edge": 52, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
-  { "map": "60-6", "edge": 53, "nodecolor": 10, "eventkind": 6, "eventid": 4 }
+  { "map": "60-6", "edge": 53, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
+  { "map": "60-6", "edge": 54, "nodecolor": 4, "eventkind": 2, "eventid": 6 }
 ]
