@@ -20300,7 +20300,7 @@
     "_fuel": 10,
     "_hp": 17,
     "_hp_max": 29,
-    "_id": 1730,
+    "_id": 522,
     "_japanese_name": "稲木改",
     "_los": 4,
     "_los_max": 24,
@@ -20329,7 +20329,7 @@
     "_torpedo": 0,
     "_torpedo_max": false,
     "_torpedo_mod": false,
-    "_true_id": false,
+    "_true_id": 1730,
     "_type": 1,
     "_voice_flag": null,
     "_full_name": "Inagi Kai",
@@ -55421,7 +55421,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Special 2TL Type",
-    "_class_number": 1,
+    "_class_number": 2,
     "_equipment": [
       {
         "equipment": "Type 3 Command Liaison Aircraft (ASW)",
@@ -55484,7 +55484,7 @@
     "_asw_max": 82,
     "_back": 6,
     "_class": "Special 2TL Type",
-    "_class_number": 1,
+    "_class_number": 2,
     "_equipment": [
       {
         "equipment": "Type 3 Command Liaison Aircraft (ASW)",
