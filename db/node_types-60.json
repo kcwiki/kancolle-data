@@ -209,6 +209,7 @@
     "V": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "W": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "X": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "Y": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   }
 }
