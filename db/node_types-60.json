@@ -206,6 +206,7 @@
     "R": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "S": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "T": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "U": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "V": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "W": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "X": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
