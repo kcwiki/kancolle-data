@@ -867,7 +867,7 @@
   "Abyssal Heavy Cruiser Water Princess": {
     "_aa": 88,
     "_api_id": 2152,
-    "_armor": 148,
+    "_armor": 118,
     "_asw": null,
     "_back": -11,
     "_equipment": [
@@ -898,7 +898,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 188,
+    "_firepower": 138,
     "_hp": 740,
     "_id": 2152,
     "_japanese_name": "深海重巡水姫",
@@ -916,7 +916,7 @@
   "Abyssal Heavy Cruiser Water Princess Damaged": {
     "_aa": 118,
     "_api_id": 2155,
-    "_armor": 178,
+    "_armor": 148,
     "_asw": null,
     "_back": -12,
     "_can_debuff": true,
@@ -948,7 +948,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 228,
+    "_firepower": 178,
     "_hp": 740,
     "_id": 2155,
     "_japanese_name": "深海重巡水姫-壊",
@@ -967,7 +967,7 @@
   "Abyssal Heavy Cruiser Water Princess Damaged II": {
     "_aa": 138,
     "_api_id": 2156,
-    "_armor": 228,
+    "_armor": 198,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -1003,7 +1003,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 228,
+    "_firepower": 208,
     "_hp": 840,
     "_id": 2156,
     "_japanese_name": "深海重巡水姫-壊",
@@ -1022,7 +1022,7 @@
   "Abyssal Heavy Cruiser Water Princess Damaged III": {
     "_aa": 158,
     "_api_id": 2157,
-    "_armor": 298,
+    "_armor": 268,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -1058,7 +1058,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 288,
+    "_firepower": 238,
     "_hp": 940,
     "_id": 2157,
     "_japanese_name": "深海重巡水姫-壊",
@@ -1077,7 +1077,7 @@
   "Abyssal Heavy Cruiser Water Princess II": {
     "_aa": 108,
     "_api_id": 2153,
-    "_armor": 188,
+    "_armor": 158,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -1112,7 +1112,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 218,
+    "_firepower": 168,
     "_hp": 840,
     "_id": 2153,
     "_japanese_name": "深海重巡水姫",
@@ -1131,7 +1131,7 @@
   "Abyssal Heavy Cruiser Water Princess III": {
     "_aa": 128,
     "_api_id": 2154,
-    "_armor": 238,
+    "_armor": 208,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -1166,7 +1166,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 248,
+    "_firepower": 198,
     "_hp": 940,
     "_id": 2154,
     "_japanese_name": "深海重巡水姫",
@@ -1178,7 +1178,7 @@
     "_reading": "しんかいじゅうじゅんすいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": 238,
+    "_torpedo": 128,
     "_type": 6,
     "_full_name": "Abyssal Heavy Cruiser Water Princess III"
   },
