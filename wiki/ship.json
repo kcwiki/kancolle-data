@@ -33506,7 +33506,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 5,
-    "_voice_actor": null,
+    "_voice_actor": "Marena Kuranishi",
     "_voice_flag": 1,
     "_full_name": "Minneapolis"
   },
@@ -33583,7 +33583,7 @@
     "_voice_flag": 3,
     "_full_name": "Minneapolis Kai",
     "_implementation_date": [2025, 3, 23],
-    "_voice_actor": null,
+    "_voice_actor": "Marena Kuranishi",
     "_artist": "Hoshi Akari",
     "_availability": ["event_drop"],
     "_build_time": 0
