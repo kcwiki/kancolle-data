@@ -1465,7 +1465,7 @@
   "Abyssal Jade Princess": {
     "_aa": 80,
     "_api_id": 2073,
-    "_armor": 216,
+    "_armor": 116,
     "_asw": null,
     "_back": -11,
     "_can_debuff": true,
@@ -1492,7 +1492,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 190,
+    "_firepower": 110,
     "_hp": 730,
     "_id": 2073,
     "_japanese_name": "深海玉棲姫",
@@ -1510,7 +1510,7 @@
   "Abyssal Jade Princess Damaged": {
     "_aa": 88,
     "_api_id": 2075,
-    "_armor": 286,
+    "_armor": 186,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -1535,7 +1535,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 220,
+    "_firepower": 140,
     "_hp": 730,
     "_id": 2075,
     "_japanese_name": "深海玉棲姫-壊",
@@ -1554,7 +1554,7 @@
   "Abyssal Jade Princess Damaged II": {
     "_aa": 108,
     "_api_id": 2076,
-    "_armor": 366,
+    "_armor": 266,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -1581,7 +1581,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 260,
+    "_firepower": 180,
     "_hp": 830,
     "_id": 2076,
     "_japanese_name": "深海玉棲姫-壊",
@@ -1600,7 +1600,7 @@
   "Abyssal Jade Princess II": {
     "_aa": 88,
     "_api_id": 2074,
-    "_armor": 296,
+    "_armor": 196,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -1631,7 +1631,7 @@
       }
     ],
     "_evasion": null,
-    "_firepower": 220,
+    "_firepower": 140,
     "_hp": 830,
     "_id": 2074,
     "_japanese_name": "深海玉棲姫",
