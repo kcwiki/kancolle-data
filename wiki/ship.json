@@ -14394,8 +14394,8 @@
     "_armor": 15,
     "_armor_max": 50,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 27,
+    "_asw_max": 64,
     "_class": "Fubuki",
     "_class_number": 3,
     "_equipment": [
@@ -14414,8 +14414,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 48,
+    "_evasion_max": 91,
     "_firepower": 17,
     "_firepower_max": 59,
     "_firepower_mod": 2,
@@ -14424,8 +14424,8 @@
     "_hp_max": 49,
     "_id": 587,
     "_japanese_name": "初雪改二",
-    "_los": null,
-    "_los_max": null,
+    "_los": 14,
+    "_los_max": 52,
     "_luck": 18,
     "_luck_max": 78,
     "_luck_mod": false,
