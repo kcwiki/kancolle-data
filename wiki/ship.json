@@ -33460,7 +33460,7 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "8inch Triple Gun Mount Mk.9",
         "size": 2
       },
       {
@@ -33525,15 +33525,16 @@
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "8inch Triple Gun Mount Mk.9",
         "size": 1
       },
       {
-        "equipment": null,
-        "size": 1
+        "equipment": "5inch Single High-angle Gun Mount Battery",
+        "size": 1,
+        "stars": 2
       },
       {
-        "equipment": null,
+        "equipment": "SOC Seagull",
         "size": 4
       },
       {
