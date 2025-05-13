@@ -19177,7 +19177,7 @@
     "_availability": ["event_drop"],
     "_build_time": 200,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Sentoku Type (I-400 Class Submarine)",
     "_class_number": 1,
     "_equipment": [
@@ -22349,7 +22349,7 @@
     "_availability": ["event_reward"],
     "_build_time": 300,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Richelieu",
     "_class_number": 2,
     "_equipment": [
@@ -40748,7 +40748,7 @@
     "_availability": ["event_reward"],
     "_build_time": 70,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Zara",
     "_class_number": 3,
     "_equipment": [
@@ -41335,7 +41335,7 @@
     "_availability": ["event_reward"],
     "_build_time": 300,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Richelieu",
     "_class_number": 1,
     "_equipment": [
@@ -53924,7 +53924,7 @@
     "_availability": ["event_reward"],
     "_build_time": 280,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Queen Elizabeth",
     "_class_number": 3,
     "_equipment": [
