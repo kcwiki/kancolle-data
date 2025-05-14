@@ -26059,7 +26059,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": null,
+    "_voice_actor": "Satomi Akesaka",
     "_voice_flag": null,
     "_full_name": "Kaya"
   },
@@ -26134,7 +26134,7 @@
     "_voice_flag": null,
     "_full_name": "Kaya Kai",
     "_implementation_date": [2025, 3, 7],
-    "_voice_actor": null,
+    "_voice_actor": "Satomi Akesaka",
     "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_build_time": 0
@@ -27323,7 +27323,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": null,
+    "_voice_actor": "Satomi Akesaka",
     "_voice_flag": null,
     "_full_name": "Kirov"
   },
@@ -27403,7 +27403,7 @@
     "_voice_flag": null,
     "_full_name": "Kirov Kai",
     "_implementation_date": [2025, 3, 7],
-    "_voice_actor": null,
+    "_voice_actor": "Satomi Akesaka",
     "_artist": "Jiji",
     "_availability": ["event_drop"],
     "_build_time": 0
@@ -40004,7 +40004,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 22,
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_wikipedia": "Japanese icebreaker Ōtomari",
     "_full_name": "Ootomari"
   },
@@ -40072,7 +40072,7 @@
     "_type": 22,
     "_full_name": "Ootomari Kai",
     "_implementation_date": [2025, 3, 7],
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_artist": null,
     "_wikipedia": "Japanese icebreaker Ōtomari",
     "_build_time": 0
@@ -54347,7 +54347,7 @@
     "_torpedo_mod": 2,
     "_true_id": false,
     "_type": 13,
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_voice_flag": null,
     "_full_name": "Wahoo"
   },
@@ -54416,7 +54416,7 @@
     "_voice_flag": null,
     "_full_name": "Wahoo Kai",
     "_implementation_date": [2025, 3, 7],
-    "_voice_actor": null,
+    "_voice_actor": "Yuikawa Asaki",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
     "_build_time": 0
