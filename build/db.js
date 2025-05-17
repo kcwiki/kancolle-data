@@ -49,7 +49,7 @@ const queryPoi = q =>
       })
   })
 
-const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : [60]
+const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : []
 
 const mapQuery = (eventId, mapId) => `(${(mapId ? [mapId] : _.range(1, 10 + 1)).map(mapId => `map='${eventId}-${mapId}'`).join(' or ')})`
 
