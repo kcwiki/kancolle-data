@@ -150,6 +150,7 @@ export interface The10_APIShipIDS {
   '976'?: number
   '977'?: number
   '981'?: number
+  '983'?: number
   '995'?: number
 }
 
@@ -338,7 +339,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
@@ -428,7 +429,6 @@ export interface APIMstShipgraph {
   api_pa?: number[]
   api_pab?: number[]
   api_sortno?: number
-  api_sp_flag?: number
   api_version: string[]
   api_weda?: number[]
   api_wedb?: number[]

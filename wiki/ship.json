@@ -41194,6 +41194,8 @@
     "_asw_max": null,
     "_availability": null,
     "_build_time": 0,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Fletcher",
     "_class_number": 135,
     "_equipment": [
