@@ -709,7 +709,7 @@
     "_availability": ["drop", "event_reward"],
     "_build_time": 220,
     "_buildable": false,
-    "_buildable_lsc": false,
+    "_buildable_lsc": true,
     "_class": "Akashi",
     "_class_number": 1,
     "_equipment": [
