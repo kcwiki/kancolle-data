@@ -12791,6 +12791,7 @@
     "_asw_max": null,
     "_class": "Yuugumo",
     "_class_number": 13,
+    "_display_class": "Kai Yuugumo",
     "_equipment": [
       {
         "equipment": "12.7cm Twin Gun Mount Model D Kai 2",
@@ -27180,6 +27181,7 @@
     "_asw_max": false,
     "_class": "Kongou",
     "_class_number": 4,
+    "_display_class": "Kai Kongou",
     "_equipment": [
       {
         "equipment": "35.6cm Twin Gun Mount Kai",
@@ -41262,11 +41264,11 @@
     "_class_number": 135,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "5inch Single Gun Mount Mk.30 Kai",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "533mm Quintuple Torpedo Mount (Initial Model)",
         "size": 0
       },
       {
@@ -41412,6 +41414,7 @@
     "_cg_reference": "/",
     "_class": "Richelieu",
     "_class_number": 1,
+    "_display_class": "Kai Richelieu",
     "_equipment": [
       {
         "equipment": "38cm Quadruple Gun Mount Kai",
