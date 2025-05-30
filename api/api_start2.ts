@@ -429,6 +429,7 @@ export interface APIMstShipgraph {
   api_pa?: number[]
   api_pab?: number[]
   api_sortno?: number
+  api_sp_flag?: number
   api_version: string[]
   api_weda?: number[]
   api_wedb?: number[]
