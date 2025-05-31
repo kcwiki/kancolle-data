@@ -11135,8 +11135,8 @@
     "_icon": 6,
     "_id": 560,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "科学の国で開発/量産された主力戦闘機Bf109シリーズ。<br>メッサーシュミットの名でも知られる、ヨーロッパの空で活躍した名機。<br>本機はその改良型G型をベースにした艦上機バージョンのif改修艦上戦闘機隊です。<br>ドイツ艦などでの運用で大きな能力を発揮します。",
+    "_info_en": "The Bf109 series was a flagship fighter developed/mass-produced in the country of science.<br>Also known as the Messerschmitt, this famous aircraft was active in the skies of Europe.<br>This plane is a what if modified carrier-based fighter squadron based on the improved G type.<br>It demonstrates its great capabilities when used on German ships and other vessels.",
     "_japanese_name": "Bf109 T-3(G)",
     "_los": false,
     "_luck": false,
@@ -11155,7 +11155,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 14],
-    "_wikipedia": null
+    "_wikipedia": "Messerschmitt Bf 109 variants"
   },
   "Bf 109T Kai": {
     "_aa": 8,
@@ -13964,8 +13964,8 @@
     "_icon": 8,
     "_id": 559,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "科学の国の電撃戦を支えた急降下爆撃機、その改良型をベースに開発された艦上雷撃バージョンです。<br>「スツーカ」という呼称が有名な優れた急降下爆撃性能を誇る逆ガル式翼が特徴的な機体。<br>急降下時の風切音がサイレンに似ていることから「悪魔のサイレン」とも呼ばれました。<br>その試作艦載型とエース級の搭乗員で構成されたif艦上攻撃隊です。",
+    "_info_en": "This is a carrier-based torpedo attacker version developed based on an improved version of the dive bomber that supported the blitzkrieg of the land of science.<br>Famous for its \"Stuka\" designation, this aircraft featured inverted gull wings that gave it excellent dive bombing capabilities.<br>It was also nicknamed the \"Devil's Siren\" because the sound of the wind when it dived resembled a siren.<br>This is a \"what if\" carrier-based attacker force, composed of the prototype carrier-based type and ace crew members.",
     "_japanese_name": "Ju87 D-4(Fliegerass)",
     "_los": 3,
     "_luck": false,
@@ -13984,7 +13984,7 @@
     "_torpedo_accuracy": false,
     "_type": 8,
     "_types": [3, 5, 8, 8, 59],
-    "_wikipedia": null
+    "_wikipedia": "Junkers Ju 87"
   },
   "Ka Type Observation Autogyro": {
     "_aa": false,
