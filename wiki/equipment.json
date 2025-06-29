@@ -13786,9 +13786,10 @@
     "_icon": 59,
     "_id": 561,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "科学の国である兄弟によって開発された、時代を超越した未来的なフォルムを持つ、実在した全翼型戦闘爆撃機です。<br>現代ステルス爆撃機や高性能戦闘ドローンのような、無尾翼の全翼機で、1tもの爆弾を搭載、超高速飛行も可能。<br>さらに当時のレーダーに対して十分有効なステルス性まで備えた、極めて先進的な全翼型航空機です。<br>※if発展機も登場予定です。",
+    "_info_en": "Developed by a pair of brothers from a country of science, this is a real flying wing fighter-bomber with a timeless, futuristic look.<br>It is a tailless flying wing, similar to modern stealth bombers and high-performance combat drones, and can carry up to 1 t of bombs, and can also fly at ultra-high speeds.<br>Furthermore, it was an extremely advanced flying wing, equipped with stealth capabilities that were effective against the radars of the time.<br>※A \"what-if\" improved  version is also planned to be released.",
     "_japanese_name": "Ho229",
+    "_localized_name": "Horten Ho 229",
     "_los": 3,
     "_luck": false,
     "_name": "Ho 229",
@@ -13806,7 +13807,7 @@
     "_torpedo_accuracy": false,
     "_type": 91,
     "_types": [21, 51, 57, 59, 60],
-    "_wikipedia": null
+    "_wikipedia": "Horten Ho 229"
   },
   "Improved Kanhon Type Turbine": {
     "_aa": false,
