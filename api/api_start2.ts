@@ -3,7 +3,8 @@ export interface API {
   api_mst_const: APIMstConst
   api_mst_equip_exslot: number[]
   api_mst_equip_exslot_ship: APIMstEquipExslotShip
-  api_mst_equip_ship: APIMstEquipShip[]
+  api_mst_equip_limit_exslot: APIMstEquipLimitExslot
+  api_mst_equip_ship: APIMstEquipShip
   api_mst_furniture: APIMstFurniture[]
   api_mst_furnituregraph: APIMstFurnituregraph[]
   api_mst_item_shop: APIMstItemShop
@@ -285,9 +286,686 @@ export interface The220_APIStypes {
   '21': number
 }
 
+export interface APIMstEquipLimitExslot {
+  '100': number[]
+  '1000': number[]
+  '1001': number[]
+  '1006': number[]
+  '101': number[]
+  '114': number[]
+  '200': number[]
+  '290': number[]
+  '395': number[]
+  '511': number[]
+  '512': number[]
+  '513': number[]
+  '516': number[]
+  '574': number[]
+  '995': number[]
+}
+
 export interface APIMstEquipShip {
-  api_equip_type: number[]
-  api_ship_id: number
+  '100': The100
+  '1000': The100
+  '1001': The100
+  '1003': The1003
+  '1006': The100
+  '1008': The100
+  '101': The100
+  '114': The100
+  '131': The131
+  '136': The131
+  '143': The131
+  '146': The100
+  '147': The100
+  '148': The131
+  '166': The166
+  '178': The131
+  '179': The100
+  '180': The100
+  '198': The100
+  '199': The100
+  '200': The100
+  '216': The100
+  '217': The100
+  '260': The100
+  '275': The131
+  '276': The131
+  '290': The100
+  '305': The100
+  '306': The100
+  '307': The100
+  '314': The100
+  '330': The100
+  '343': The100
+  '346': The100
+  '352': The352
+  '356': The100
+  '357': The100
+  '358': The131
+  '361': The131
+  '372': The372
+  '380': The1003
+  '381': The100
+  '382': The1003
+  '392': The131
+  '395': The100
+  '411': The372
+  '412': The372
+  '418': The100
+  '419': The100
+  '421': The100
+  '422': The100
+  '423': The100
+  '434': The100
+  '435': The100
+  '445': The131
+  '446': The372
+  '447': The372
+  '450': The131
+  '460': The352
+  '464': The100
+  '466': The466
+  '467': The466
+  '468': The100
+  '469': The100
+  '470': The100
+  '477': The100
+  '478': The100
+  '487': The100
+  '488': The372
+  '489': The100
+  '490': The100
+  '491': The131
+  '496': The372
+  '497': The100
+  '498': The100
+  '500': The131
+  '501': The372
+  '502': The100
+  '506': The131
+  '507': The372
+  '511': The131
+  '512': The131
+  '513': The131
+  '516': The100
+  '521': The521
+  '522': The1003
+  '526': The100
+  '529': The1003
+  '530': The530
+  '532': The100
+  '533': The100
+  '534': The100
+  '536': The1003
+  '537': The100
+  '538': The100
+  '539': The530
+  '541': The372
+  '542': The100
+  '543': The100
+  '546': The131
+  '547': The372
+  '548': The100
+  '553': The131
+  '554': The372
+  '556': The100
+  '559': The100
+  '563': The100
+  '564': The100
+  '566': The100
+  '567': The100
+  '568': The100
+  '569': The100
+  '573': The131
+  '574': The372
+  '578': The100
+  '579': The100
+  '581': The131
+  '586': The372
+  '587': The100
+  '588': The100
+  '591': The131
+  '592': The372
+  '593': The100
+  '605': The530
+  '621': The621
+  '622': The372
+  '623': The100
+  '624': The372
+  '626': The131
+  '628': The100
+  '629': The372
+  '630': The131
+  '634': The621
+  '635': The621
+  '639': The100
+  '640': The100
+  '645': The645
+  '646': The466
+  '647': The100
+  '649': The100
+  '650': The645
+  '651': The100
+  '652': The372
+  '656': The100
+  '657': The131
+  '662': The372
+  '663': The372
+  '666': The100
+  '667': The100
+  '668': The100
+  '670': The100
+  '690': The131
+  '694': The372
+  '699': The100
+  '703': The100
+  '707': The1003
+  '713': The466
+  '716': The100
+  '717': The100
+  '718': The100
+  '720': The100
+  '724': The131
+  '725': The100
+  '727': The727
+  '731': The530
+  '733': The131
+  '877': The877
+  '878': The372
+  '879': The100
+  '884': The100
+  '885': The1003
+  '889': The100
+  '894': The1003
+  '899': The100
+  '900': The1003
+  '908': The100
+  '911': The131
+  '915': The372
+  '916': The100
+  '920': The372
+  '927': The131
+  '939': The530
+  '940': The530
+  '943': The1003
+  '945': The945
+  '948': The100
+  '951': The100
+  '954': The131
+  '955': The100
+  '956': The100
+  '959': The100
+  '960': The100
+  '961': The100
+  '967': The372
+  '968': The100
+  '969': The100
+  '975': The100
+  '979': The372
+  '981': The100
+  '983': The100
+  '986': The100
+  '987': The100
+  '995': The1003
+}
+
+export interface The100 {
+  api_equip_type: The100_APIEquipType
+}
+
+export interface The100_APIEquipType {
+  '1'?: number[] | null
+  '10'?: null
+  '11'?: null
+  '12': null
+  '13'?: number[] | null
+  '14'?: null
+  '15'?: null
+  '16'?: null
+  '17': null
+  '18'?: null
+  '19'?: null
+  '2'?: null
+  '20': null
+  '21': null
+  '22'?: null
+  '23': null
+  '24'?: null
+  '25'?: null
+  '26'?: null
+  '27'?: number[] | null
+  '28'?: null
+  '29'?: null
+  '3'?: null
+  '30'?: null
+  '33'?: null
+  '34'?: null
+  '35'?: null
+  '36': null
+  '37'?: null
+  '38'?: null
+  '39'?: null
+  '4'?: number[] | null
+  '40'?: null
+  '42'?: null
+  '43': null
+  '44'?: null
+  '45'?: null
+  '46'?: null
+  '5'?: null
+  '50'?: null
+  '54'?: null
+  '6'?: null
+  '7'?: null
+  '8'?: null
+  '9'?: null
+  '93'?: null
+  '95'?: null
+}
+
+export interface The1003 {
+  api_equip_type: The1003_APIEquipType
+}
+
+export interface The1003_APIEquipType {
+  '1'?: number[]
+  '12': null
+  '13'?: null
+  '14'?: null
+  '15'?: null
+  '16'?: null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '24'?: null
+  '25'?: null
+  '26'?: null
+  '27'?: number[] | null
+  '28'?: null
+  '29'?: null
+  '30'?: null
+  '33'?: null
+  '34'?: null
+  '35'?: null
+  '36'?: null
+  '39'?: null
+  '4'?: number[] | null
+  '40'?: null
+  '43': null
+  '44'?: null
+  '50': null
+  '54'?: null
+  '6'?: null
+  '7'?: null
+  '8'?: null
+  '9'?: null
+  '94'?: null
+  '95'?: null
+}
+
+export interface The131 {
+  api_equip_type: The131_APIEquipType
+}
+
+export interface The131_APIEquipType {
+  '1'?: null
+  '10'?: null
+  '11'?: number[] | null
+  '12': null
+  '13'?: null
+  '14'?: null
+  '15'?: null
+  '16'?: null
+  '17': null
+  '18'?: null
+  '19'?: null
+  '2'?: null
+  '20': null
+  '21': null
+  '22'?: null
+  '23': null
+  '24'?: null
+  '25'?: null
+  '26'?: null
+  '27'?: number[] | null
+  '28'?: null
+  '29': null
+  '3'?: null
+  '30'?: null
+  '31'?: null
+  '33'?: null
+  '34': null
+  '35'?: null
+  '36': null
+  '37'?: null
+  '38'?: null
+  '39': null
+  '4': null
+  '40'?: null
+  '41'?: null
+  '42'?: null
+  '43': null
+  '44'?: null
+  '45'?: null
+  '46'?: null
+  '5'?: null
+  '50'?: null
+  '54'?: null
+  '6'?: null
+  '7'?: null
+  '9'?: null
+  '93'?: null
+  '95'?: null
+}
+
+export interface The166 {
+  api_equip_type: The166_APIEquipType
+}
+
+export interface The166_APIEquipType {
+  '1': null
+  '12': null
+  '15': null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '24': null
+  '25': null
+  '26': null
+  '30': null
+  '34': null
+  '35': number[]
+  '36': null
+  '37': null
+  '4': null
+  '40': null
+  '43': null
+  '46': null
+  '50': null
+  '6': null
+}
+
+export interface The352 {
+  api_equip_type: The352_APIEquipType
+}
+
+export interface The352_APIEquipType {
+  '1': null
+  '10': null
+  '11': null
+  '12': null
+  '13'?: null
+  '14'?: null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '24'?: null
+  '25': null
+  '30': null
+  '35': null
+  '36': null
+  '4': number[]
+  '43': null
+  '44': null
+  '45': null
+  '46'?: null
+  '8'?: null
+}
+
+export interface The372 {
+  api_equip_type: The372_APIEquipType
+}
+
+export interface The372_APIEquipType {
+  '1'?: null
+  '10'?: null
+  '11'?: null
+  '12': null
+  '13'?: null
+  '14'?: null
+  '15'?: null
+  '16'?: null
+  '17': null
+  '18'?: null
+  '19'?: null
+  '2'?: null
+  '20': null
+  '21': null
+  '22'?: null
+  '23': null
+  '24'?: null
+  '25'?: null
+  '26'?: null
+  '27'?: number[] | null
+  '28'?: null
+  '29': null
+  '3'?: null
+  '30'?: null
+  '33': null
+  '34'?: null
+  '35'?: null
+  '36': null
+  '37'?: null
+  '38'?: null
+  '39': null
+  '4'?: null
+  '40'?: null
+  '41'?: null
+  '42'?: null
+  '43': null
+  '45'?: null
+  '46'?: null
+  '5'?: null
+  '50'?: null
+  '54'?: null
+  '6'?: null
+  '7'?: null
+  '9'?: null
+  '93'?: null
+  '95'?: null
+}
+
+export interface The466 {
+  api_equip_type: The466_APIEquipType
+}
+
+export interface The466_APIEquipType {
+  '12': null
+  '13': null
+  '14'?: null
+  '16': null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '25'?: null
+  '26'?: null
+  '28': null
+  '34': null
+  '35': null
+  '36': null
+  '4': null
+  '40': null
+  '43': null
+  '50': null
+  '56': null
+  '57': null
+  '58': null
+  '59': null
+  '6': null
+  '7': null
+  '8': null
+  '9': null
+  '94'?: null
+  '95': null
+}
+
+export interface The521 {
+  api_equip_type: The521_APIEquipType
+}
+
+export interface The521_APIEquipType {
+  '12': null
+  '16': null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '27': null
+  '35': null
+  '36': null
+  '4': null
+  '43': null
+  '50': null
+  '6': null
+  '7': null
+}
+
+export interface The530 {
+  api_equip_type: The530_APIEquipType
+}
+
+export interface The530_APIEquipType {
+  '14': null
+  '17': null
+  '21'?: null
+  '22'?: null
+  '23': null
+  '30': null
+  '32': null
+  '37': null
+  '43': null
+  '46': null
+  '5': null
+  '50': null
+  '51': null
+}
+
+export interface The621 {
+  api_equip_type: The621_APIEquipType
+}
+
+export interface The621_APIEquipType {
+  '1': null
+  '10': null
+  '12': null
+  '15'?: null
+  '16'?: null
+  '17': null
+  '2'?: null
+  '20': null
+  '21': null
+  '23': null
+  '24'?: null
+  '25'?: null
+  '27': null
+  '30'?: null
+  '33'?: null
+  '34': null
+  '36'?: null
+  '37': null
+  '39': null
+  '4': null
+  '40': null
+  '43': null
+  '45': null
+  '46'?: null
+}
+
+export interface The645 {
+  api_equip_type: The645_APIEquipType
+}
+
+export interface The645_APIEquipType {
+  '12': null
+  '13': null
+  '14': null
+  '17': null
+  '23': null
+  '24': null
+  '25'?: null
+  '27': null
+  '28'?: null
+  '29': null
+  '30': null
+  '34': null
+  '35'?: null
+  '40'?: null
+  '42'?: null
+  '43': null
+  '44': null
+  '50': null
+  '54': null
+}
+
+export interface The727 {
+  api_equip_type: The727_APIEquipType
+}
+
+export interface The727_APIEquipType {
+  '1': number[]
+  '12': null
+  '15': null
+  '17': null
+  '21': null
+  '23': null
+  '27': null
+  '29': null
+  '30': null
+  '33': null
+  '37': null
+  '4': number[]
+  '43': null
+  '46': null
+  '50': null
+  '52': null
+}
+
+export interface The877 {
+  api_equip_type: The877_APIEquipType
+}
+
+export interface The877_APIEquipType {
+  '10': null
+  '12': null
+  '16': null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '28': null
+  '29': null
+  '3': null
+  '33': null
+  '37': null
+  '39': null
+  '4': null
+  '42': null
+  '43': null
+  '5': null
+  '95': null
+}
+
+export interface The945 {
+  api_equip_type: The945_APIEquipType
+}
+
+export interface The945_APIEquipType {
+  '1': number[]
+  '15': null
+  '17': null
+  '21': null
+  '23': null
+  '30': null
+  '37': null
+  '43': null
+  '46': null
+  '50': null
+  '52': null
 }
 
 export interface APIMstFurniture {
@@ -491,7 +1169,7 @@ export interface APIMstSlotitemEquiptype {
 }
 
 export interface APIMstStype {
-  api_equip_type: APIEquipType
+  api_equip_type: APIMstStypeAPIEquipType
   api_id: number
   api_kcnt: number
   api_name: string
@@ -499,7 +1177,7 @@ export interface APIMstStype {
   api_sortno: number
 }
 
-export interface APIEquipType {
+export interface APIMstStypeAPIEquipType {
   '1': number
   '10': number
   '11': number
