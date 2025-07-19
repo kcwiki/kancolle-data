@@ -41258,8 +41258,8 @@
     "_armor": 16,
     "_armor_max": 52,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 83,
+    "_asw_max": 90,
     "_class": "Fletcher",
     "_class_number": 135,
     "_equipment": [
@@ -41276,8 +41276,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 45,
+    "_evasion_max": 89,
     "_firepower": 15,
     "_firepower_max": 53,
     "_firepower_mod": 1,
@@ -41286,8 +41286,8 @@
     "_hp_max": 50,
     "_id": 542,
     "_japanese_name": "Richard P.Leary改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 21,
+    "_los_max": 61,
     "_luck": 39,
     "_luck_max": 107,
     "_luck_mod": false,
