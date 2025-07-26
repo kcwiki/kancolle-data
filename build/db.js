@@ -110,12 +110,26 @@ const main = async () => {
   })
   await queryTsun(
     {
-      query: 'select * from equips',
+      query: 'select * from equips where id <= 1500',
       file: 'equipment',
       reduce: data =>
         _(data)
           .sortBy('id')
           .map(e => _.omit(e, ['version', 'origin', 'datetime']))
+          .value(),
+    },
+    {
+      query: 'select * from equips where id > 10000',
+      file: 'ship',
+      reduce: data =>
+        _(data)
+          .sortBy('id')
+          .map(e => _.omit(e, ['version', 'origin', 'datetime']))
+          .map(e => {
+            if (e.id) e.id -= 10000
+            if (e.index) e.index -= 10000
+            return e
+          })
           .value(),
     },
     {
