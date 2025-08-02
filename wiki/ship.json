@@ -45380,7 +45380,7 @@
     "_armor": 9,
     "_armor_max": 23,
     "_armor_mod": false,
-    "_artist": null,
+    "_artist": "Umihara Sakana",
     "_asw": 24,
     "_asw_max": 62,
     "_availability": ["event_reward"],
@@ -45509,7 +45509,7 @@
     "_full_name": "Shimane Maru Kai",
     "_implementation_date": [2025, 3, 22],
     "_voice_actor": null,
-    "_artist": null,
+    "_artist": "Umihara Sakana",
     "_availability": ["event_reward"],
     "_build_time": 0
   },
