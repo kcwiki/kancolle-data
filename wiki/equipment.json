@@ -13859,7 +13859,7 @@
     "_info": "空技廠が開発した最新鋭の高々度試作偵察機「景雲」。<br>新機軸を盛り込んだユニークかつ大型の試作偵察機「景雲」にターボジェット「ネ式エンジン」を搭載、噴式戦闘爆撃機化したのが本機「噴式景雲改」です。<br>※基地航空隊及び装甲甲板＆甲板カタパルトを装備する一部正規空母のみ運用可能です。<br>運用時には鋼材を消費します。",
     "_info_en": "Developed by Yokosuka Naval Air Technical Arsenal, \"Keiun\" is the latest state-of-the-art prototype high-altitude reconnaissance aircraft.<br>The \"Keiun\" is a unique design with all sorts of new innovations and now powered by the \"Ne turbojet engine\", the jet fighter-bomber version of this aircraft being the \"Jet Keiun Kai\".<br>※Can only be operated on land bases and some regular aircraft carriers equipped with armored decks and catapults.<br>Steel is consumed during airstrikes.",
     "_japanese_name": "噴式景雲改",
-    "_localized_name": "Jet Cirrus Cloud Mk.1",
+    "_localized_name": "Jet Cirrus Cloud Mk.2",
     "_los": 3,
     "_luck": false,
     "_name": "Jet Keiun Kai",
