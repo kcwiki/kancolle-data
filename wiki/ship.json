@@ -4087,7 +4087,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 21,
-    "_voice_actor": "Satomi Akesaka",
+    "_voice_actor": "Akesaka Satomi",
     "_full_name": "Asahi"
   },
   "Asahi Kai": {
@@ -4157,7 +4157,7 @@
     "_type": 19,
     "_full_name": "Asahi Kai",
     "_implementation_date": [2023, 8, 9],
-    "_voice_actor": "Satomi Akesaka",
+    "_voice_actor": "Akesaka Satomi",
     "_artist": "Akasaka Yuzu",
     "_availability": ["event_reward"],
     "_build_time": 220
@@ -11086,7 +11086,7 @@
     "_type": 3,
     "_voice_flag": 3,
     "_full_name": "General Belgrano",
-    "_voice_actor": "Fumika Hanazaki",
+    "_voice_actor": "Hanazaki Fumika",
     "_artist": "UGUME",
     "_availability": ["event_reward"],
     "_build_time": 70
@@ -15841,7 +15841,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": "Aira Iryou",
+    "_voice_actor": "Iryou Aira",
     "_voice_flag": 1,
     "_full_name": "Heywood L. Edwards"
   },
@@ -15915,7 +15915,7 @@
     "_voice_flag": 3,
     "_full_name": "Heywood L. Edwards Kai",
     "_implementation_date": [2023, 3, 1],
-    "_voice_actor": "Aira Iryou",
+    "_voice_actor": "Iryou Aira",
     "_artist": "zeco",
     "_availability": null,
     "_build_time": 23
@@ -26060,7 +26060,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": "Satomi Akesaka",
+    "_voice_actor": "Akesaka Satomi",
     "_voice_flag": null,
     "_full_name": "Kaya"
   },
@@ -26135,7 +26135,7 @@
     "_voice_flag": null,
     "_full_name": "Kaya Kai",
     "_implementation_date": [2025, 3, 7],
-    "_voice_actor": "Satomi Akesaka",
+    "_voice_actor": "Akesaka Satomi",
     "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_build_time": 0
@@ -27325,7 +27325,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": "Satomi Akesaka",
+    "_voice_actor": "Akesaka Satomi",
     "_voice_flag": null,
     "_full_name": "Kirov"
   },
@@ -27405,7 +27405,7 @@
     "_voice_flag": null,
     "_full_name": "Kirov Kai",
     "_implementation_date": [2025, 3, 7],
-    "_voice_actor": "Satomi Akesaka",
+    "_voice_actor": "Akesaka Satomi",
     "_artist": "Jiji",
     "_availability": ["event_drop"],
     "_build_time": 0
@@ -29480,7 +29480,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 17,
-    "_voice_actor": "Aira Iryou",
+    "_voice_actor": "Iryou Aira",
     "_voice_flag": 1,
     "_full_name": "Kumano Maru"
   },
@@ -29554,7 +29554,7 @@
     "_voice_flag": 3,
     "_full_name": "Kumano Maru Kai",
     "_implementation_date": [2023, 3, 3],
-    "_voice_actor": "Aira Iryou",
+    "_voice_actor": "Iryou Aira",
     "_artist": "Umihara Sakana",
     "_availability": ["event_reward"],
     "_build_time": 150
@@ -30216,7 +30216,7 @@
     "_armor": 40,
     "_armor_max": 64,
     "_armor_mod": 5,
-    "_artist": "Kia Asamiya",
+    "_artist": "Asamiya Kia",
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_reward"],
@@ -30278,7 +30278,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 11,
-    "_voice_actor": "Akiha Matsui",
+    "_voice_actor": "Matsui Akiha",
     "_voice_flag": 1,
     "_wikipedia": "USS Lexington (CV-2)",
     "_full_name": "Lexington"
@@ -30355,8 +30355,8 @@
     "_voice_flag": 3,
     "_full_name": "Lexington Kai",
     "_implementation_date": [2024, 8, 8],
-    "_voice_actor": "Akiha Matsui",
-    "_artist": "Kia Asamiya",
+    "_voice_actor": "Matsui Akiha",
+    "_artist": "Asamiya Kia",
     "_availability": ["event_reward"],
     "_wikipedia": "USS Lexington (CV-2)",
     "_build_time": 330
@@ -33586,7 +33586,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 5,
-    "_voice_actor": "Marena Kuranishi",
+    "_voice_actor": "Kuranishi Marena",
     "_voice_flag": 1,
     "_full_name": "Minneapolis"
   },
@@ -33664,7 +33664,7 @@
     "_voice_flag": 3,
     "_full_name": "Minneapolis Kai",
     "_implementation_date": [2025, 3, 23],
-    "_voice_actor": "Marena Kuranishi",
+    "_voice_actor": "Kuranishi Marena",
     "_artist": "Hoshi Akari",
     "_availability": ["event_drop"],
     "_build_time": 0
@@ -34232,7 +34232,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": "Akiha Matsui",
+    "_voice_actor": "Matsui Akiha",
     "_voice_flag": null,
     "_wikipedia": "French destroyer Mogador",
     "_full_name": "Mogador"
@@ -34312,7 +34312,7 @@
     "_voice_flag": null,
     "_full_name": "Mogador Kai",
     "_implementation_date": [2024, 7, 27],
-    "_voice_actor": "Akiha Matsui",
+    "_voice_actor": "Matsui Akiha",
     "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_wikipedia": "French destroyer Mogador",
@@ -40653,7 +40653,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": "Fumika Hanazaki",
+    "_voice_actor": "Hanazaki Fumika",
     "_voice_flag": 1,
     "_full_name": "Phoenix"
   },
@@ -40730,7 +40730,7 @@
     "_voice_flag": 3,
     "_full_name": "Phoenix Kai",
     "_implementation_date": [2024, 8, 8],
-    "_voice_actor": "Fumika Hanazaki",
+    "_voice_actor": "Hanazaki Fumika",
     "_artist": "UGUME",
     "_availability": ["event_reward"],
     "_build_time": 70
@@ -51741,7 +51741,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 5,
-    "_voice_actor": "Aira Iryou",
+    "_voice_actor": "Iryou Aira",
     "_voice_flag": 1,
     "_full_name": "Tuscaloosa"
   },
@@ -51819,7 +51819,7 @@
     "_voice_flag": 3,
     "_full_name": "Tuscaloosa Kai",
     "_implementation_date": [2023, 3, 18],
-    "_voice_actor": "Aira Iryou",
+    "_voice_actor": "Iryou Aira",
     "_artist": "Hoshi Akari",
     "_availability": ["event_drop"],
     "_build_time": 85
@@ -53983,7 +53983,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 9,
-    "_voice_actor": "Fumika Hanazaki",
+    "_voice_actor": "Hanazaki Fumika",
     "_wikipedia": "HMS Valiant (1914)",
     "_full_name": "Valiant"
   },
@@ -54060,7 +54060,7 @@
     "_type": 9,
     "_full_name": "Valiant Kai",
     "_implementation_date": [2024, 7, 27],
-    "_voice_actor": "Fumika Hanazaki",
+    "_voice_actor": "Hanazaki Fumika",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Valiant (1914)",
