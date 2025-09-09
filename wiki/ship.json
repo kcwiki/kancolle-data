@@ -45434,7 +45434,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 22,
-    "_voice_actor": null,
+    "_voice_actor": "Kitou Akari",
     "_voice_flag": null,
     "_full_name": "Shimane Maru"
   },
@@ -45508,7 +45508,7 @@
     "_voice_flag": null,
     "_full_name": "Shimane Maru Kai",
     "_implementation_date": [2025, 3, 22],
-    "_voice_actor": null,
+    "_voice_actor": "Kitou Akari",
     "_artist": "Umihara Sakana",
     "_availability": ["event_reward"],
     "_build_time": 0
@@ -48100,7 +48100,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": null,
+    "_voice_actor": "Kuranishi Marena‎ ",
     "_voice_flag": null,
     "_full_name": "Sugi"
   },
@@ -48175,7 +48175,7 @@
     "_voice_flag": null,
     "_full_name": "Sugi Kai",
     "_implementation_date": [2025, 3, 22],
-    "_voice_actor": null,
+    "_voice_actor": "Kuranishi Marena‎ ",
     "_artist": "Umihara Sakana",
     "_availability": ["event_reward"],
     "_build_time": 0
