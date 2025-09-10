@@ -48100,8 +48100,9 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": "Kuranishi Marena‎ ",
+    "_voice_actor": "Kuranishi Marena",
     "_voice_flag": null,
+    "_wikipedia": "Japanese destroyer Sugi (1944)",
     "_full_name": "Sugi"
   },
   "Sugi Kai": {
@@ -48175,9 +48176,10 @@
     "_voice_flag": null,
     "_full_name": "Sugi Kai",
     "_implementation_date": [2025, 3, 22],
-    "_voice_actor": "Kuranishi Marena‎ ",
+    "_voice_actor": "Kuranishi Marena",
     "_artist": "Umihara Sakana",
     "_availability": ["event_reward"],
+    "_wikipedia": "Japanese destroyer Sugi (1944)",
     "_build_time": 0
   },
   "Suzukaze": {
