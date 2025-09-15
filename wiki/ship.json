@@ -41245,7 +41245,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": null,
+    "_voice_actor": "Kuranishi Marena",
     "_voice_flag": 1,
     "_full_name": "Richard P. Leary"
   },
@@ -41319,7 +41319,7 @@
     "_voice_flag": 3,
     "_full_name": "Richard P. Leary Kai",
     "_implementation_date": [2025, 5, 12],
-    "_voice_actor": null,
+    "_voice_actor": "Kuranishi Marena",
     "_artist": "zeco",
     "_availability": null,
     "_build_time": 0
