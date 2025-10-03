@@ -145,50 +145,6 @@
     ["Udon", "/Oyakodon"],
     ["Kai Spring", "/Kai Spring Bouquet"]
   ],
-  "Akigumo": [
-    {
-      "_season": "Fall 2016",
-      "_suffix": "Oyakodon"
-    },
-    {
-      "_season": "Late Fall 2017",
-      "_suffix": "Autumn Casual"
-    },
-    {
-      "_season": "Christmas 2017",
-      "_suffix": "Crunch Time"
-    },
-    {
-      "_season": "End of Year 2017",
-      "_suffix": "Super Crunch Time"
-    },
-    {
-      "_season": "New Year 2018",
-      "_suffix": "Ending Celebration"
-    },
-    {
-      "_cg_damaged_reference": "/Crunch Time",
-      "_season": "Christmas 2018",
-      "_suffix": "Crunch Time 2018"
-    },
-    {
-      "_season": "Christmas 2018",
-      "_suffix": "Super Crunch Time 2018"
-    },
-    {
-      "_season": "Christmas 2018",
-      "_suffix": "Super Duper Crunch Time"
-    },
-    {
-      "_season": "New Year 2019",
-      "_suffix": "Ending Celebration 2018"
-    },
-    ["Katsudon", "/Oyakodon"],
-    ["Christmas", "/Crunch Time"],
-    ["End of Year", "/Super Crunch Time"],
-    ["New Year", "/Ending Celebration"],
-    ["Christmas 2018", "/Super Crunch Time 2018"]
-  ],
   "Akishimo": [
     {
       "_season": "Valentines 2020",
@@ -996,29 +952,6 @@
     ["Fall", "/Yukata"],
     ["Xmas", "/Christmas"]
   ],
-  "Kazagumo": [
-    {
-      "_season": "Early Summer 2016",
-      "_suffix": "Summer"
-    },
-    {
-      "_season": "Setsubun 2017",
-      "_suffix": "Setsubun"
-    },
-    {
-      "_season": "End of Year 2017",
-      "_suffix": "Booth Girl"
-    },
-    {
-      "_season": "New Year 2020",
-      "_suffix": "New Year"
-    },
-    {
-      "_season": "Summer 2020",
-      "_suffix": "Kai Ni Summer"
-    },
-    ["End of Year", "/Booth Girl"]
-  ],
   "Kinu": [
     {
       "_season": "Eve Of Battle 2018",
@@ -1440,17 +1373,6 @@
       "_season": "Eve Of Battle 2018",
       "_suffix": "Kai Winter 2018 Event"
     }
-  ],
-  "Mutsu": [
-    {
-      "_cg_damaged": false,
-      "_suffix": "Kai Ni Special"
-    },
-    {
-      "_season": "Fall 2016",
-      "_suffix": "Yukata"
-    },
-    ["Fall", "/Yukata"]
   ],
   "Mutsuki": [
     {

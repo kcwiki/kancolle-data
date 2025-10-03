@@ -1417,7 +1417,7 @@
     "_armor_max": 53,
     "_armor_mod": 1,
     "_asw": 28,
-    "_asw_max": 75,
+    "_asw_max": 77,
     "_class": "Kagerou",
     "_class_number": 19,
     "_equipment": [
@@ -1437,7 +1437,7 @@
       }
     ],
     "_evasion": 47,
-    "_evasion_max": 91,
+    "_evasion_max": 92,
     "_firepower": 18,
     "_firepower_max": 65,
     "_firepower_mod": 2,
@@ -26290,7 +26290,7 @@
     "_armor_max": 54,
     "_armor_mod": 1,
     "_asw": 29,
-    "_asw_max": 78,
+    "_asw_max": 79,
     "_class": "Yuugumo",
     "_class_number": 3,
     "_equipment": [
@@ -26309,7 +26309,7 @@
       }
     ],
     "_evasion": 48,
-    "_evasion_max": 92,
+    "_evasion_max": 93,
     "_firepower": 18,
     "_firepower_max": 67,
     "_firepower_mod": 2,
@@ -35633,7 +35633,7 @@
     "_implementation_date": [2019, 2, 27],
     "_japanese_name": "陸奥改二",
     "_los": 15,
-    "_los_max": 56,
+    "_los_max": 57,
     "_luck": 16,
     "_luck_max": 89,
     "_luck_mod": false,
