@@ -26092,7 +26092,7 @@
         "size": 0
       }
     ],
-    "_evasion": 57,
+    "_evasion": 36,
     "_evasion_max": 85,
     "_firepower": 7,
     "_firepower_max": 41,
@@ -26102,7 +26102,7 @@
     "_hp_max": 45,
     "_id": 594,
     "_japanese_name": "榧改",
-    "_los": 29,
+    "_los": 16,
     "_los_max": 48,
     "_luck": 21,
     "_luck_max": 82,
@@ -48134,7 +48134,7 @@
       }
     ],
     "_evasion": 34,
-    "_evasion_max": 81,
+    "_evasion_max": 82,
     "_firepower": 7,
     "_firepower_max": 43,
     "_firepower_mod": 1,
