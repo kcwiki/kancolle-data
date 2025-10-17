@@ -7302,71 +7302,13 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 21,
     "_gun_fit_group": "FR 38 cm",
     "_icon": 3,
     "_id": 245,
-    "_improvements": {
-      "_ammo": 420,
-      "_bauxite": 100,
-      "_fuel": 100,
-      "_products": {
-        "38cm Quadruple Gun Mount Kai": {
-          "0": {
-            "_development_material": 12,
-            "_development_material_x": 14,
-            "_equipment": {
-              "41cm Twin Gun Mount": 2
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 7
-          },
-          "6": {
-            "_development_material": 16,
-            "_development_material_x": 18,
-            "_equipment": {
-              "41cm Twin Gun Mount": 4
-            },
-            "_improvement_material": 8,
-            "_improvement_material_x": 9
-          },
-          "10": {
-            "_development_material": 20,
-            "_development_material_x": 40,
-            "_equipment": {
-              "46cm Triple Gun Mount": 2,
-              "New Model Gun Mount Improvement Material": 2
-            },
-            "_improvement_material": 13,
-            "_improvement_material_x": 17
-          },
-          "_ships": {
-            "Richelieu/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Richelieu/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 660
-    },
+    "_improvements": true,
     "_info": "トリコロールの国で開発された戦艦主砲です。<br>大口径38cm砲四門を一つの砲塔に収めたる迫力の四連装砲です。<br>「Richelieu」級戦艦に装備され、大火力を実現します。",
     "_info_en": "A battleship gun developed in the tricolor country.<br>A powerful quadruple mount that combines four 38 cm large caliber guns in one turret.<br>Equipped on the \"Richelieu-class\" battleships, it provides a large amount of firepower.",
     "_japanese_name": "38cm四連装砲",
@@ -13403,7 +13345,7 @@
     "_flight_range": 4,
     "_icon": 9,
     "_id": 423,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "偵察や攻撃も可能な多用途運用を目指した紅茶の国で開発された複座艦上戦闘機です。<br>空戦性能や速度に劣り、日本機動部隊の零戦隊にも圧倒されましたが、ナビゲーターが同乗する複座機であることから、洋上強行偵察や敵艦への触接などでは優れた運用も可能でした。<br>本機は熟練搭乗員ペアによる艦上戦闘偵察機です。<br>紅茶の国の航空母艦でその能力を発揮します。",
     "_info_en": "A twin-seater fighter developed by the country of tea for use as a scout and fighter.<br>Its combat ability and speed are inferior and it'd be overwhelmed by the IJN Combined Fleet's Zero squadrons.<br>But since it's a twin-seater with a navigator, it can be put to good use in reconnaissance-in-force or spotting and shadowing enemy ships.<br>This carrier-based fighter reconnaissance aircraft is piloted by a skilled crew.<br>It will show its abilities when equipped on carriers from the country of tea.",
     "_japanese_name": "Fulmar(戦闘偵察/熟練)",
@@ -16128,88 +16070,13 @@
     "_asw": false,
     "_back": 5,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 23,
     "_gun_fit_group": "46 cm Twin Proto",
     "_icon": 3,
     "_id": 117,
-    "_improvements": {
-      "_ammo": 420,
-      "_bauxite": 40,
-      "_fuel": 40,
-      "_products": {
-        "46cm Triple Gun Mount": {
-          "0": {
-            "_development_material": 5,
-            "_development_material_x": 6,
-            "_equipment": {
-              "41cm Twin Gun Mount": 2
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "6": {
-            "_development_material": 6,
-            "_development_material_x": 8,
-            "_equipment": {
-              "41cm Twin Gun Mount": 3
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 7
-          },
-          "10": {
-            "_development_material": 12,
-            "_development_material_x": 18,
-            "_equipment": {
-              "41cm Twin Gun Mount": 4
-            },
-            "_improvement_material": 8,
-            "_improvement_material_x": 14
-          },
-          "_ships": {
-            "Musashi/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Musashi/Kai": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yamato/": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Yamato/Kai": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          },
-          "_stars": 5
-        }
-      },
-      "_steel": 650
-    },
+    "_improvements": true,
     "_info": "海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その試作二連装砲です。<br>敵戦艦に対してアウトレンジが可能な最大射程40kmを超える巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量です。<br>主力戦艦群への搭載と同主兵装としての運用が可能です。 ",
     "_info_en": "The 46 cm twin gun mount is one of the main cannons developed in secrecy by the Naval Arsenal.<br>While it can outrange enemy battleships with its 40 km maximum range, it is also lighter than the 46 cm triple cannons of the Yamato-class.<br>It can be used as the main cannons on other frontline battleships.",
     "_japanese_name": "試製46cm連装砲",
@@ -17870,7 +17737,7 @@
     "_flight_range": 5,
     "_icon": 6,
     "_id": 53,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "名機「零戦」の後継機として開発された、最新鋭艦上戦闘機「烈風」。<br>その制式採用された量産機を装備した、新鋭の艦上戦闘機部隊です。<br>試製烈風からエンジンを換装強化、機体も熟成し、武装も20mm機銃四門と充実。<br>次世代の制空戦闘隊で、機動部隊の直掩や海域の制空権を！",
     "_info_en": "The state-of-the-art carrier-based fighter \"Reppuu\" was developed as the successor to the famous \"Zero\" fighter.<br>This is a state-of-the-art carrier-based fighter unit using the mass-produced plane that have been officially adopted.<br>The engine has been replaced and strengthened from the prototype Reppuu, the airframe has been refined, and the armament has been improved to include four 20 mm machine guns.<br>The next generation air superiority fighter squadron will provide direct escort for mobile forces and secure air superiority over the seas!",
     "_japanese_name": "烈風 一一型",
@@ -26751,105 +26618,12 @@
     "_armor": false,
     "_asw": 3,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 1,
     "_firepower": false,
     "_icon": 17,
     "_id": 346,
-    "_improvements": {
-      "_ammo": 120,
-      "_bauxite": 10,
-      "_fuel": 20,
-      "_products": {
-        "Type 2 12cm Mortar Kai (Concentrated Deployment)": {
-          "0": {
-            "_development_material": 2,
-            "_development_material_x": 3,
-            "_equipment": {
-              "Drum Canister (Transport Use)": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 2
-          },
-          "6": {
-            "_development_material": 4,
-            "_development_material_x": 6,
-            "_equipment": {
-              "Type 94 Depth Charge Projector": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 4
-          },
-          "10": {
-            "_development_material": 18,
-            "_development_material_x": 30,
-            "_equipment": {
-              "Action Report": 1,
-              "true": 2
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 9
-          },
-          "_ships": {
-            "Akitsu Maru/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Kamikaze/": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Kamikaze/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Nisshin/": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            },
-            "Nisshin/A": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            },
-            "Nisshin/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 30
-    },
+    "_improvements": true,
     "_info": "元々は大戦後半期に日本陸軍が開発した陸戦用の迫撃砲です。<br>十分な対潜装備のなかった陸軍の船舶などに搭載され、前方投射型の対潜火器としても運用されました。<br>本兵装は同迫撃砲をさらに改良した艦載用強化型です。<br>爆雷投射機の代替として、また限定的ながら対地攻撃も可能です。",
     "_info_en": "This mortar was originally developed by the Imperial Japanese Army in the latter half of the war.<br>It was mounted forwards for anti-submarine use on IJA ships that did not have sufficient anti-submarine equipment.<br>This is an improved shipborne model of that mortar.<br>It can substitute for a depth charge projector and is also capable of limited ground attacks.",
     "_japanese_name": "二式12cm迫撃砲改",
