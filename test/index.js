@@ -1,3 +1,4 @@
+const _ = require('lodash')
 const { equal, deepEqual } = require('assert')
 
 const data = require('..')
@@ -98,3 +99,15 @@ deepEqual(data.wiki.ship['Mutsuki Kai Ni']._implementation_date, [2015, 4, 23])
 equal(data.wiki.ship['Mutsuki Kai Ni']._voice_actor, 'Hidaka Rina')
 
 equal(data.wiki.quest.A1.title, 'はじめての「編成」！')
+
+const dups = _(data.wiki.equipment)
+  .values()
+  .groupBy('_id')
+  .filter(v => v.length > 1)
+  .map(xs => `  ${xs[0]._id} : ${xs.map(e => `${e._name} (${data.api.getEquipment({ name: e._japanese_name }).api_id})`).join(', ')}`)
+  .join('\n')
+
+if (dups.length) {
+  console.error('wiki equipment id dups:')
+  console.error(dups)
+}
