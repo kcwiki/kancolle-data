@@ -11,6 +11,11 @@ const ROOT = `${__dirname}/../..`
 
 const getLuaData = async title => parse(await (await fetch(`https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/${title}?action=raw`)).text())
 
+const saveWikiData = async (name, obj) => {
+  const data = typeof obj === 'string' ? await getLuaData(`Module:${obj}`) : obj
+  await outputJson(`${ROOT}/wiki/${name}.json`, data, { spaces: 2 })
+}
+
 const categories = {
   ship: 'Ship',
   enemy: 'Enemy',
@@ -207,6 +212,22 @@ const main = async () => {
   )
 
   await outputJson(`${ROOT}/wiki/enemy.json`, enemies, { spaces: 2 })
+
+  // misc data: https://en.kancollewiki.net/w/index.php?search=Misc+data+modules&ns828=1
+
+  const misc = require(`${ROOT}/wiki/misc.json`)
+
+  for (const name in misc) {
+    try {
+      misc[name] = await getLuaData(`Module:${name}`)
+    } catch (_) {
+      console.error(`missing module: ${name}`)
+    }
+  }
+
+  await saveWikiData('misc', misc)
+  await saveWikiData('refit', 'Data/EquipmentRefit')
+  await saveWikiData('refit-re', 'Data/EquipmentRefitRE')
 }
 
 main()
