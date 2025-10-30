@@ -471,8 +471,10 @@ export interface APIMstEquipShip {
   '727': The727
   '731': The530
   '733': The131
+  '738': The100
+  '739': The372
   '877': The877
-  '878': The372
+  '878': The131
   '879': The100
   '884': The100
   '885': The1003
@@ -481,8 +483,8 @@ export interface APIMstEquipShip {
   '899': The100
   '900': The1003
   '908': The100
-  '911': The131
-  '915': The372
+  '911': The372
+  '915': The131
   '916': The100
   '920': The372
   '927': The131
@@ -508,6 +510,8 @@ export interface APIMstEquipShip {
   '986': The100
   '987': The100
   '995': The1003
+  '998': The100
+  '999': The372
 }
 
 export interface The100 {
@@ -518,7 +522,7 @@ export interface The100_APIEquipType {
   '1'?: number[] | null
   '10'?: null
   '11'?: null
-  '12': null
+  '12'?: null
   '13'?: number[] | null
   '14'?: null
   '15'?: null
@@ -526,8 +530,8 @@ export interface The100_APIEquipType {
   '17': null
   '18'?: null
   '19'?: null
-  '2'?: null
-  '20': null
+  '2'?: number[] | null
+  '20'?: null
   '21': null
   '22'?: null
   '23': null
@@ -542,7 +546,7 @@ export interface The100_APIEquipType {
   '33'?: null
   '34'?: null
   '35'?: null
-  '36': null
+  '36'?: null
   '37'?: null
   '38'?: null
   '39'?: null
@@ -642,7 +646,7 @@ export interface The131_APIEquipType {
   '37'?: null
   '38'?: null
   '39': null
-  '4': null
+  '4'?: null
   '40'?: null
   '41'?: null
   '42'?: null
@@ -724,7 +728,7 @@ export interface The372_APIEquipType {
   '1'?: null
   '10'?: null
   '11'?: null
-  '12': null
+  '12'?: null
   '13'?: null
   '14'?: null
   '15'?: null
@@ -732,8 +736,8 @@ export interface The372_APIEquipType {
   '17': null
   '18'?: null
   '19'?: null
-  '2'?: null
-  '20': null
+  '2'?: number[] | null
+  '20'?: null
   '21': null
   '22'?: null
   '23': null
@@ -748,11 +752,11 @@ export interface The372_APIEquipType {
   '33': null
   '34'?: null
   '35'?: null
-  '36': null
+  '36'?: null
   '37'?: null
   '38'?: null
   '39': null
-  '4'?: null
+  '4'?: number[] | null
   '40'?: null
   '41'?: null
   '42'?: null
@@ -1017,7 +1021,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: null
+  api_max_maphp: number | null
   api_name: string
   api_no: number
   api_opetext: string
