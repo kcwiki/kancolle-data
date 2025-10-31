@@ -8812,11 +8812,11 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "21cm Single Main Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "15cm Single Secondary Gun Mount",
         "size": 0
       }
     ],
@@ -11551,11 +11551,11 @@
     "_display_suffix": "(BC)",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "38.1cm Mk.I Twin Gun Mount",
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": "10.2cm Triple Secondary Gun Mount",
         "size": 1
       },
       {
@@ -11623,15 +11623,15 @@
     "_display_suffix": "(CV)",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Sea Gladiator",
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": "Swordfish",
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": "Swordfish",
         "size": 12
       },
       {
@@ -38918,11 +38918,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "21cm Single Main Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "15cm Single Secondary Gun Mount",
         "size": 0
       }
     ],
