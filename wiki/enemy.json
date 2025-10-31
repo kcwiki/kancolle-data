@@ -2346,6 +2346,134 @@
     "_type": 2,
     "_full_name": "Abyssal Kushiro Cloud Princess III"
   },
+  "Abyssal Landing Imp": {
+    "_aa": null,
+    "_api_id": 2329,
+    "_armor": null,
+    "_asw": null,
+    "_back": -1,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2329,
+    "_installation": true,
+    "_japanese_name": "深海上陸小鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Landing Imp",
+    "_pillbox": true,
+    "_range": null,
+    "_rarity": 4,
+    "_reading": "しんかいじょうりくこおに",
+    "_speed": 0,
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Abyssal Landing Imp"
+  },
+  "Abyssal Landing Imp Elite": {
+    "_aa": null,
+    "_api_id": 2330,
+    "_armor": null,
+    "_asw": null,
+    "_back": -2,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2330,
+    "_installation": true,
+    "_japanese_name": "深海上陸小鬼elite",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Landing Imp",
+    "_pillbox": true,
+    "_range": null,
+    "_rarity": 4,
+    "_reading": "しんかいじょうりくこおにエリート",
+    "_speed": 0,
+    "_suffix": "Elite",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Abyssal Landing Imp Elite"
+  },
+  "Abyssal Landing Imp Flagship": {
+    "_aa": null,
+    "_api_id": 2331,
+    "_armor": null,
+    "_asw": null,
+    "_back": -2,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      },
+      {
+        "equipment": null,
+        "size": 0
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2331,
+    "_installation": true,
+    "_japanese_name": "深海上陸小鬼flagship",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Landing Imp",
+    "_pillbox": true,
+    "_range": null,
+    "_rarity": 4,
+    "_reading": "しんかいじょうりくこおにフラグシップ",
+    "_speed": 0,
+    "_suffix": "Flagship",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Abyssal Landing Imp Flagship"
+  },
   "Abyssal Mediterranean Princess": {
     "_aa": 70,
     "_api_id": 1877,
@@ -9753,6 +9881,291 @@
     "_type": 8,
     "_full_name": "Batavia Princess III"
   },
+  "Battlecruiser Water Princess": {
+    "_aa": null,
+    "_api_id": 2338,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2338,
+    "_japanese_name": "巡洋戦艦水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Battlecruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅんようせんかんすいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Battlecruiser Water Princess"
+  },
+  "Battlecruiser Water Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2341,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2341,
+    "_japanese_name": "巡洋戦艦水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Battlecruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅんようせんかんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Battlecruiser Water Princess Damaged"
+  },
+  "Battlecruiser Water Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2342,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2342,
+    "_japanese_name": "巡洋戦艦水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Battlecruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅんようせんかんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Battlecruiser Water Princess Damaged II"
+  },
+  "Battlecruiser Water Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2343,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2343,
+    "_japanese_name": "巡洋戦艦水姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Battlecruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅんようせんかんすいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Battlecruiser Water Princess Damaged III"
+  },
+  "Battlecruiser Water Princess II": {
+    "_aa": null,
+    "_api_id": 2339,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2339,
+    "_japanese_name": "巡洋戦艦水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Battlecruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅんようせんかんすいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Battlecruiser Water Princess II"
+  },
+  "Battlecruiser Water Princess III": {
+    "_aa": null,
+    "_api_id": 2340,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2340,
+    "_japanese_name": "巡洋戦艦水姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Battlecruiser Water Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "じゅんようせんかんすいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Battlecruiser Water Princess III"
+  },
   "Battleship Princess": {
     "_aa": 80,
     "_api_id": 1557,
@@ -16538,6 +16951,279 @@
     "_type": 7,
     "_full_name": "Fast Light Carrier Water Demon III"
   },
+  "Fjord Princesses": {
+    "_aa": null,
+    "_api_id": 2323,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2323,
+    "_japanese_name": "フィヨルド棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fjord Princesses",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドせいき",
+    "_speed": 5,
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Fjord Princesses"
+  },
+  "Fjord Princesses Damaged": {
+    "_aa": null,
+    "_api_id": 2326,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2326,
+    "_japanese_name": "フィヨルド棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fjord Princesses",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドせいき-かい",
+    "_speed": null,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Fjord Princesses Damaged"
+  },
+  "Fjord Princesses Damaged II": {
+    "_aa": null,
+    "_api_id": 2327,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2327,
+    "_japanese_name": "フィヨルド棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fjord Princesses",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドせいき-かい",
+    "_speed": null,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Fjord Princesses Damaged II"
+  },
+  "Fjord Princesses Damaged III": {
+    "_aa": null,
+    "_api_id": 2328,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2328,
+    "_japanese_name": "フィヨルド棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fjord Princesses",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドせいき-かい",
+    "_speed": null,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Fjord Princesses Damaged III"
+  },
+  "Fjord Princesses II": {
+    "_aa": null,
+    "_api_id": 2324,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2324,
+    "_japanese_name": "フィヨルド棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fjord Princesses",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドせいき",
+    "_speed": null,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Fjord Princesses II"
+  },
+  "Fjord Princesses III": {
+    "_aa": null,
+    "_api_id": 2325,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2325,
+    "_japanese_name": "フィヨルド棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fjord Princesses",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドせいき",
+    "_speed": null,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Fjord Princesses III"
+  },
   "Floating Fortress": {
     "_aa": 20,
     "_api_id": 1536,
@@ -22578,6 +23264,267 @@
     "_torpedo": 72,
     "_type": 3,
     "_full_name": "Light Cruiser Ho-Class Flagship"
+  },
+  "Light Cruiser Mu-Class": {
+    "_aa": null,
+    "_api_id": 2317,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2317,
+    "_japanese_name": "軽巡ム級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser Mu-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんムきゅう",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "Light Cruiser Mu-Class"
+  },
+  "Light Cruiser Mu-Class Damaged": {
+    "_aa": null,
+    "_api_id": 2320,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2320,
+    "_japanese_name": "軽巡ム級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser Mu-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんムきゅう-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "Light Cruiser Mu-Class Damaged"
+  },
+  "Light Cruiser Mu-Class Damaged II": {
+    "_aa": null,
+    "_api_id": 2321,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": false,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2321,
+    "_japanese_name": "軽巡ム級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser Mu-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんムきゅう-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "Light Cruiser Mu-Class Damaged II"
+  },
+  "Light Cruiser Mu-Class Damaged III": {
+    "_aa": null,
+    "_api_id": 2322,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": false,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2322,
+    "_japanese_name": "軽巡ム級-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser Mu-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんムきゅう-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "Light Cruiser Mu-Class Damaged III"
+  },
+  "Light Cruiser Mu-Class II": {
+    "_aa": null,
+    "_api_id": 2318,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2318,
+    "_japanese_name": "軽巡ム級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser Mu-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんムきゅう",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "Light Cruiser Mu-Class II"
+  },
+  "Light Cruiser Mu-Class III": {
+    "_aa": null,
+    "_api_id": 2319,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2319,
+    "_japanese_name": "軽巡ム級",
+    "_los": null,
+    "_luck": null,
+    "_name": "Light Cruiser Mu-Class",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "けいじゅんムきゅう",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "Light Cruiser Mu-Class III"
   },
   "Light Cruiser Princess": {
     "_aa": 50,
@@ -29515,6 +30462,279 @@
     "_torpedo": 110,
     "_type": 16,
     "_full_name": "Seaplane Tender Water Princess III"
+  },
+  "Solitary Fjord Princess": {
+    "_aa": null,
+    "_api_id": 2332,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2332,
+    "_japanese_name": "フィヨルド単騎",
+    "_los": null,
+    "_luck": null,
+    "_name": "Solitary Fjord Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドたんき",
+    "_speed": 5,
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Solitary Fjord Princess"
+  },
+  "Solitary Fjord Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2335,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2335,
+    "_japanese_name": "フィヨルド単騎-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Solitary Fjord Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドたんき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Solitary Fjord Princess Damaged"
+  },
+  "Solitary Fjord Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2336,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2336,
+    "_japanese_name": "フィヨルド単騎-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Solitary Fjord Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドたんき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Solitary Fjord Princess Damaged II"
+  },
+  "Solitary Fjord Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2337,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2337,
+    "_japanese_name": "フィヨルド単騎-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Solitary Fjord Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドたんき-かい",
+    "_speed": 5,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 10,
+    "_full_name": "Solitary Fjord Princess Damaged III"
+  },
+  "Solitary Fjord Princess II": {
+    "_aa": null,
+    "_api_id": 2333,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2333,
+    "_japanese_name": "フィヨルド単騎",
+    "_los": null,
+    "_luck": null,
+    "_name": "Solitary Fjord Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドたんき",
+    "_speed": 5,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Solitary Fjord Princess II"
+  },
+  "Solitary Fjord Princess III": {
+    "_aa": null,
+    "_api_id": 2334,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2334,
+    "_japanese_name": "フィヨルド単騎",
+    "_los": null,
+    "_luck": null,
+    "_name": "Solitary Fjord Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "フィヨルドたんき",
+    "_speed": 5,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 9,
+    "_full_name": "Solitary Fjord Princess III"
   },
   "South Pacific Aircraft Carrier Princess": {
     "_aa": 138,
