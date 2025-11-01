@@ -11559,11 +11559,11 @@
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       }
     ],
@@ -11635,7 +11635,7 @@
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 12
       }
     ],
@@ -11737,7 +11737,7 @@
     "_remodel_catapult": false,
     "_remodel_development_material": false,
     "_remodel_from": "Glorious/Kai (CV)",
-    "_remodel_level": 50,
+    "_remodel_level": 65,
     "_remodel_steel": 650,
     "_remodel_to": "Glorious/Kai (CV)",
     "_remodel_to_ammo": 650,
@@ -11824,7 +11824,7 @@
     "_remodel_catapult": false,
     "_remodel_development_material": false,
     "_remodel_from": "Glorious/(CV)",
-    "_remodel_level": 65,
+    "_remodel_level": 50,
     "_remodel_steel": 650,
     "_remodel_to": "Glorious/Kai (BC)",
     "_scrap_ammo": 9,
