@@ -7966,6 +7966,20 @@
     "range": 2
   },
   {
+    "id": 1022,
+    "name": "Glorious",
+    "description": "Courageous級巡洋戦艦Gloriousです。敵巡洋艦を圧<br>倒する軽巡洋戦艦として就役、海軍軍縮条約の戦艦枠<br>制限により航空母艦へ改装されました。英海軍の初期<br>主力空母として活躍、ノルウェー防衛戦に投入された<br>ものの水上艦の砲撃で撃沈されました。赤城や加賀の<br>ように戦艦から空母に改装された私、覚えていてね。",
+    "firepower": 65,
+    "torpedo": 16,
+    "armor": 49,
+    "aa": 24,
+    "bombing": 2,
+    "evasion": 32,
+    "asw": 0,
+    "los": -1,
+    "range": 3
+  },
+  {
     "id": 1496,
     "name": "Colorado改",
     "description": "私がステイツのBig7、Colorado級戦艦一番艦、USS <br>BB45 Coloradoよ。そう、ニューヨーク生まれ。太<br>平洋艦隊、真珠湾に配属されたわ。でも、本国で入渠<br>中に奇襲があって…まあ、いいわ。Big7の力、存分<br>に魅せてあげるわね！覚悟してて！",
