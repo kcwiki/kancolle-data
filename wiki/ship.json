@@ -8854,7 +8854,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 1,
-    "_voice_actor": null,
+    "_voice_actor": "Momoi Haruko",
     "_voice_flag": 1,
     "_full_name": "Eidsvold"
   },
@@ -8927,7 +8927,7 @@
     "_voice_flag": 1,
     "_full_name": "Eidsvold Kai",
     "_implementation_date": [2025, 10, 29],
-    "_voice_actor": null,
+    "_voice_actor": "Momoi Haruko",
     "_artist": null,
     "_availability": ["event_drop"],
     "_build_time": 0
@@ -38960,7 +38960,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 1,
-    "_voice_actor": null,
+    "_voice_actor": "Momoi Haruko",
     "_voice_flag": 1,
     "_full_name": "Norge"
   },
@@ -39033,7 +39033,7 @@
     "_voice_flag": 1,
     "_full_name": "Norge Kai",
     "_implementation_date": [2025, 10, 29],
-    "_voice_actor": null,
+    "_voice_actor": "Momoi Haruko",
     "_artist": null,
     "_availability": ["event_drop"],
     "_build_time": 0
