@@ -8873,15 +8873,15 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "21cm Single Main Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "15cm Single Secondary Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
@@ -38979,15 +38979,15 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "21cm Single Main Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "15cm Single Secondary Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
