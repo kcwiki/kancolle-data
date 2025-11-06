@@ -12918,7 +12918,7 @@
     "_api_id": 2263,
     "_armor": 119,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Initial Model",
     "_cg_reference": "/Initial Model",
     "_equipment": [
@@ -12962,7 +12962,7 @@
     "_api_id": 2266,
     "_armor": 139,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_battle_card_reference": "/Initial Model Damaged",
     "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
@@ -13007,7 +13007,7 @@
     "_api_id": 2267,
     "_armor": 269,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_battle_card_reference": "/Initial Model Damaged",
     "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
@@ -13052,7 +13052,7 @@
     "_api_id": 2274,
     "_armor": 137,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Initial Model Damaged II",
     "_battle_card_reference": "/Initial Model Damaged II",
     "_can_debuff": true,
@@ -13100,7 +13100,7 @@
     "_api_id": 2275,
     "_armor": 267,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_battle_card_damaged_reference": "/Initial Model Damaged II",
     "_battle_card_reference": "/Initial Model Damaged II",
     "_can_debuff": true,
@@ -13148,7 +13148,7 @@
     "_api_id": 2292,
     "_armor": 121,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Delta Initial Model",
     "_cg_reference": "/Delta Initial Model",
     "_equipment": [
@@ -13192,7 +13192,7 @@
     "_api_id": 2293,
     "_armor": 171,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Delta Initial Model",
     "_cg_reference": "/Delta Initial Model",
     "_equipment": [
@@ -13236,7 +13236,7 @@
     "_api_id": 2291,
     "_armor": 81,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13266,7 +13266,7 @@
     "_opening_asw": true,
     "_range": 2,
     "_rarity": 8,
-    "_reading": "くちくラきゅう デルタ(しょきがた）",
+    "_reading": "くちくラきゅう デルタ(しょきがた)",
     "_speed": 10,
     "_suffix": "Delta Initial Model",
     "_torpedo": 121,
@@ -13278,7 +13278,7 @@
     "_api_id": 2289,
     "_armor": 118,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Gamma Initial Model",
     "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
@@ -13322,7 +13322,7 @@
     "_api_id": 2290,
     "_armor": 168,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Gamma Initial Model",
     "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
@@ -13366,7 +13366,7 @@
     "_api_id": 2288,
     "_armor": 78,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13395,7 +13395,7 @@
     "_name": "Destroyer Ra-Class",
     "_range": 2,
     "_rarity": 8,
-    "_reading": "くちくラきゅう ガンマ(しょきがた）",
+    "_reading": "くちくラきゅう ガンマ(しょきがた)",
     "_speed": 10,
     "_suffix": "Gamma Initial Model",
     "_torpedo": 113,
@@ -13407,7 +13407,7 @@
     "_api_id": 2264,
     "_armor": 158,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Initial Model",
     "_cg_reference": "/Initial Model",
     "_equipment": [
@@ -13452,7 +13452,7 @@
     "_api_id": 2271,
     "_armor": 117,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Initial Model II",
     "_cg_reference": "/Initial Model II",
     "_equipment": [
@@ -13497,7 +13497,7 @@
     "_api_id": 2272,
     "_armor": 167,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Initial Model II",
     "_cg_reference": "/Initial Model II",
     "_equipment": [
@@ -13542,7 +13542,7 @@
     "_api_id": 2262,
     "_armor": 79,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13572,7 +13572,7 @@
     "_nick": "α Initial Model",
     "_range": 2,
     "_rarity": 8,
-    "_reading": "くちくラきゅう(しょきがた）",
+    "_reading": "くちくラきゅう(しょきがた)",
     "_speed": 10,
     "_suffix": "Initial Model",
     "_torpedo": 108,
@@ -13584,7 +13584,7 @@
     "_api_id": 2265,
     "_armor": 99,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13615,7 +13615,7 @@
     "_opening_asw": true,
     "_range": 2,
     "_rarity": 8,
-    "_reading": "くちくラきゅう(しょきがた）-かい",
+    "_reading": "くちくラきゅう(しょきがた)-かい",
     "_speed": 10,
     "_suffix": "Initial Model Damaged",
     "_torpedo": 128,
@@ -13627,7 +13627,7 @@
     "_api_id": 2273,
     "_armor": 97,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -13659,7 +13659,7 @@
     "_opening_asw": true,
     "_range": 2,
     "_rarity": 8,
-    "_reading": "くちくラきゅう(しょきがた）-かい",
+    "_reading": "くちくラきゅう(しょきがた)-かい",
     "_speed": 10,
     "_suffix": "Initial Model Damaged II",
     "_torpedo": 98,
@@ -13671,7 +13671,7 @@
     "_api_id": 2270,
     "_armor": 77,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13701,7 +13701,7 @@
     "_nick": "β Initial Model",
     "_range": 2,
     "_rarity": 8,
-    "_reading": "くちくラきゅう(しょきがた）",
+    "_reading": "くちくラきゅう(しょきがた)",
     "_speed": 10,
     "_suffix": "Initial Model II",
     "_torpedo": 111,
@@ -13713,7 +13713,7 @@
     "_api_id": 2294,
     "_armor": 111,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13755,7 +13755,7 @@
     "_api_id": 2297,
     "_armor": 131,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13797,7 +13797,7 @@
     "_api_id": 2298,
     "_armor": 181,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_battle_card_reference": "/Zeta Damaged",
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
@@ -13841,7 +13841,7 @@
     "_api_id": 2299,
     "_armor": 282,
     "_asw": null,
-    "_back": 12,
+    "_back": -12,
     "_battle_card_reference": "/Zeta Damaged",
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
@@ -13885,7 +13885,7 @@
     "_api_id": 2295,
     "_armor": 141,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Zeta",
     "_cg_reference": "/Zeta",
     "_equipment": [
@@ -13929,7 +13929,7 @@
     "_api_id": 2296,
     "_armor": 222,
     "_asw": null,
-    "_back": 11,
+    "_back": -11,
     "_battle_card_reference": "/Zeta",
     "_cg_reference": "/Zeta",
     "_equipment": [
