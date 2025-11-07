@@ -12920,6 +12920,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Initial Model",
+    "_boss": false,
     "_cg_reference": "/Initial Model",
     "_equipment": [
       {
@@ -12964,6 +12965,7 @@
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Initial Model Damaged",
+    "_boss": false,
     "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
       {
@@ -13009,6 +13011,7 @@
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Initial Model Damaged",
+    "_boss": false,
     "_cg_reference": "/Initial Model Damaged",
     "_equipment": [
       {
@@ -13055,6 +13058,7 @@
     "_back": -12,
     "_battle_card_damaged_reference": "/Initial Model Damaged II",
     "_battle_card_reference": "/Initial Model Damaged II",
+    "_boss": false,
     "_can_debuff": true,
     "_cg_damaged_reference": "/Initial Model Damaged II",
     "_cg_reference": "/Initial Model Damaged II",
@@ -13103,6 +13107,7 @@
     "_back": -12,
     "_battle_card_damaged_reference": "/Initial Model Damaged II",
     "_battle_card_reference": "/Initial Model Damaged II",
+    "_boss": false,
     "_can_debuff": true,
     "_cg_damaged_reference": "/Initial Model Damaged II",
     "_cg_reference": "/Initial Model Damaged II",
@@ -13150,6 +13155,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Delta Initial Model",
+    "_boss": false,
     "_cg_reference": "/Delta Initial Model",
     "_equipment": [
       {
@@ -13194,6 +13200,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Delta Initial Model",
+    "_boss": false,
     "_cg_reference": "/Delta Initial Model",
     "_equipment": [
       {
@@ -13237,6 +13244,7 @@
     "_armor": 81,
     "_asw": null,
     "_back": -11,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13280,6 +13288,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Gamma Initial Model",
+    "_boss": false,
     "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
       {
@@ -13324,6 +13333,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Gamma Initial Model",
+    "_boss": false,
     "_cg_reference": "/Gamma Initial Model",
     "_equipment": [
       {
@@ -13367,6 +13377,7 @@
     "_armor": 78,
     "_asw": null,
     "_back": -11,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13409,6 +13420,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Initial Model",
+    "_boss": false,
     "_cg_reference": "/Initial Model",
     "_equipment": [
       {
@@ -13454,6 +13466,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Initial Model II",
+    "_boss": false,
     "_cg_reference": "/Initial Model II",
     "_equipment": [
       {
@@ -13499,6 +13512,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Initial Model II",
+    "_boss": false,
     "_cg_reference": "/Initial Model II",
     "_equipment": [
       {
@@ -13543,6 +13557,7 @@
     "_armor": 79,
     "_asw": null,
     "_back": -11,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13585,6 +13600,7 @@
     "_armor": 99,
     "_asw": null,
     "_back": -12,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13628,6 +13644,7 @@
     "_armor": 97,
     "_asw": null,
     "_back": -12,
+    "_boss": false,
     "_can_debuff": true,
     "_equipment": [
       {
@@ -13672,6 +13689,7 @@
     "_armor": 77,
     "_asw": null,
     "_back": -11,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13714,6 +13732,7 @@
     "_armor": 111,
     "_asw": null,
     "_back": -11,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13756,6 +13775,7 @@
     "_armor": 131,
     "_asw": null,
     "_back": -12,
+    "_boss": false,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -13799,6 +13819,7 @@
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Zeta Damaged",
+    "_boss": false,
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
       {
@@ -13843,6 +13864,7 @@
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Zeta Damaged",
+    "_boss": false,
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
       {
@@ -13887,6 +13909,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Zeta",
+    "_boss": false,
     "_cg_reference": "/Zeta",
     "_equipment": [
       {
@@ -13931,6 +13954,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/Zeta",
+    "_boss": false,
     "_cg_reference": "/Zeta",
     "_equipment": [
       {
@@ -23274,6 +23298,7 @@
     "_armor": 99,
     "_asw": 0,
     "_back": -11,
+    "_boss": false,
     "_can_debuff": false,
     "_equipment": [
       {
@@ -23315,6 +23340,7 @@
     "_armor": 122,
     "_asw": null,
     "_back": -12,
+    "_boss": false,
     "_can_debuff": false,
     "_equipment": [
       {
@@ -23359,6 +23385,7 @@
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
+    "_boss": false,
     "_can_debuff": false,
     "_cg_damaged_reference": "/Damaged",
     "_cg_reference": "/Damaged",
@@ -23405,6 +23432,7 @@
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
+    "_boss": false,
     "_can_debuff": false,
     "_cg_damaged_reference": "/Damaged",
     "_cg_reference": "/Damaged",
@@ -23450,6 +23478,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
+    "_boss": false,
     "_cg_reference": "/",
     "_equipment": [
       {
@@ -23493,6 +23522,7 @@
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
+    "_boss": false,
     "_cg_reference": "/",
     "_equipment": [
       {
