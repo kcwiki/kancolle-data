@@ -38926,7 +38926,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 4,
     "_evasion_max": null,
     "_firepower": 18,
     "_firepower_max": 30,
@@ -38937,7 +38937,7 @@
     "_id": 598,
     "_implementation_date": [2025, 10, 29],
     "_japanese_name": "Norge",
-    "_los": null,
+    "_los": 3,
     "_los_max": null,
     "_luck": 3,
     "_luck_max": 18,
