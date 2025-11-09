@@ -11697,19 +11697,19 @@
     "_display_suffix": "Kai (BC)",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 1
       }
     ],
@@ -11784,19 +11784,19 @@
     "_display_suffix": "Kai (CV)",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": false,
         "size": 18
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 18
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 12
       }
     ],
