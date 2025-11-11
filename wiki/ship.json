@@ -8160,7 +8160,7 @@
     "_class_number": 36,
     "_equipment": [
       {
-        "equipment": false,
+        "equipment": null,
         "size": 0
       }
     ],
@@ -8218,11 +8218,11 @@
     "_class_number": 36,
     "_equipment": [
       {
-        "equipment": false,
+        "equipment": null,
         "size": 0
       },
       {
-        "equipment": false,
+        "equipment": null,
         "size": 0
       }
     ],
@@ -30941,7 +30941,7 @@
     "_ammo": 30,
     "_api_id": 1007,
     "_armor": 9,
-    "_armor_max": 22,
+    "_armor_max": 27,
     "_armor_mod": false,
     "_artist": "Shizuma Yoshinori",
     "_asw": 0,
@@ -38078,6 +38078,7 @@
     "_build_time": 0,
     "_class": "Nosaki",
     "_class_number": 1,
+    "_display_class": "Reefer Ship",
     "_equipment": [
       {
         "equipment": "Underway Replenishment",
