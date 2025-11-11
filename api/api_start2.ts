@@ -308,6 +308,7 @@ export interface APIMstEquipShip {
   '100': The100
   '1000': The100
   '1001': The100
+  '1002': The100
   '1003': The1003
   '1006': The100
   '1008': The100
@@ -509,7 +510,9 @@ export interface APIMstEquipShip {
   '983': The100
   '986': The100
   '987': The100
+  '988': The988
   '995': The1003
+  '996': The727
   '998': The100
   '999': The372
 }
@@ -913,20 +916,24 @@ export interface The727 {
 export interface The727_APIEquipType {
   '1': number[]
   '12': null
-  '15': null
+  '14'?: null
+  '15'?: null
   '17': null
   '21': null
   '23': null
-  '27': null
+  '27'?: null
   '29': null
   '30': null
   '33': null
   '37': null
+  '39'?: null
   '4': number[]
   '43': null
-  '46': null
+  '44'?: null
+  '46'?: null
   '50': null
-  '52': null
+  '52'?: null
+  '54'?: null
 }
 
 export interface The877 {
@@ -970,6 +977,20 @@ export interface The945_APIEquipType {
   '46': null
   '50': null
   '52': null
+}
+
+export interface The988 {
+  api_equip_type: The988_APIEquipType
+}
+
+export interface The988_APIEquipType {
+  '17': null
+  '21': null
+  '23': null
+  '29': null
+  '30': null
+  '43': null
+  '44': null
 }
 
 export interface APIMstFurniture {

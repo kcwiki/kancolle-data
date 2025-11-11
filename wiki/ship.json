@@ -8156,6 +8156,8 @@
     "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 0,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Gato",
     "_class_number": 36,
     "_equipment": [
@@ -25579,6 +25581,8 @@
     "_asw_max": null,
     "_availability": ["event_reward"],
     "_build_time": 0,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Matsu",
     "_class_number": 10,
     "_equipment": [
@@ -38076,6 +38080,8 @@
     "_asw": null,
     "_asw_max": null,
     "_build_time": 0,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Nosaki",
     "_class_number": 1,
     "_display_class": "Reefer Ship",
@@ -56015,6 +56021,8 @@
     "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 0,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Essex",
     "_class_number": 6,
     "_equipment": [
