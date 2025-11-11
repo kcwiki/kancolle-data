@@ -1,4 +1,289 @@
 {
+  "Abyssal Aircraft Carrier Wasp Princess": {
+    "_aa": null,
+    "_api_id": 2344,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2344,
+    "_japanese_name": "深海空母蜂姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Aircraft Carrier Wasp Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいくうぼはちき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Aircraft Carrier Wasp Princess"
+  },
+  "Abyssal Aircraft Carrier Wasp Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2347,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2347,
+    "_japanese_name": "深海空母蜂姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Aircraft Carrier Wasp Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいくうぼはちき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Aircraft Carrier Wasp Princess Damaged"
+  },
+  "Abyssal Aircraft Carrier Wasp Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2348,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2348,
+    "_japanese_name": "深海空母蜂姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Aircraft Carrier Wasp Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいくうぼはちき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Aircraft Carrier Wasp Princess Damaged II"
+  },
+  "Abyssal Aircraft Carrier Wasp Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2349,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2349,
+    "_japanese_name": "深海空母蜂姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Aircraft Carrier Wasp Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいくうぼはちき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Aircraft Carrier Wasp Princess Damaged III"
+  },
+  "Abyssal Aircraft Carrier Wasp Princess II": {
+    "_aa": null,
+    "_api_id": 2345,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2345,
+    "_japanese_name": "深海空母蜂姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Aircraft Carrier Wasp Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいくうぼはちき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Aircraft Carrier Wasp Princess II"
+  },
+  "Abyssal Aircraft Carrier Wasp Princess III": {
+    "_aa": null,
+    "_api_id": 2346,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2346,
+    "_japanese_name": "深海空母蜂姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "Abyssal Aircraft Carrier Wasp Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "しんかいくうぼはちき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 11,
+    "_full_name": "Abyssal Aircraft Carrier Wasp Princess III"
+  },
   "Abyssal Bamboo Princess": {
     "_aa": 90,
     "_api_id": 1988,
