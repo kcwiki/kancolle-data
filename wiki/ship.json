@@ -30951,7 +30951,6 @@
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_reward"],
-    "_build_time": 0,
     "_class": "Gato",
     "_class_number": 36,
     "_equipment": [
@@ -30989,7 +30988,7 @@
     "_rarity": 7,
     "_reading": "デイス",
     "_remodel_from": "Dace/Kai",
-    "_remodel_level": false,
+    "_remodel_level": 82,
     "_remodel_to": false,
     "_scrap_ammo": 2,
     "_scrap_baux": 3,
@@ -31004,7 +31003,8 @@
     "_type": 13,
     "_voice_actor": null,
     "_voice_flag": null,
-    "_full_name": "Leonardo da Vinci"
+    "_full_name": "Leonardo da Vinci",
+    "_build_time": 0
   },
   "Lexington": {
     "_aa": 36,
