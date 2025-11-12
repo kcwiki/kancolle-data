@@ -39609,11 +39609,11 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "7.7mm Machine Gun",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
@@ -39672,6 +39672,10 @@
     "_class": "Nosaki",
     "_class_number": 1,
     "_equipment": [
+      {
+        "equipment": null,
+        "size": 0
+      },
       {
         "equipment": null,
         "size": 0
