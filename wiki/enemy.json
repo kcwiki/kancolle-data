@@ -1,99 +1,109 @@
 {
   "Abyssal Aircraft Carrier Wasp Princess": {
-    "_aa": null,
+    "_aa": 118,
     "_api_id": 2344,
-    "_armor": null,
+    "_armor": 218,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 22
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 22
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 200,
+    "_hp": 900,
     "_id": 2344,
     "_japanese_name": "深海空母蜂姫",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Aircraft Carrier Wasp Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいくうぼはちき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Aircraft Carrier Wasp Princess"
   },
   "Abyssal Aircraft Carrier Wasp Princess Damaged": {
-    "_aa": null,
+    "_aa": 138,
     "_api_id": 2347,
-    "_armor": null,
+    "_armor": 281,
     "_asw": 0,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 34
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 22
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 240,
+    "_hp": 900,
     "_id": 2347,
     "_japanese_name": "深海空母蜂姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Aircraft Carrier Wasp Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいくうぼはちき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Aircraft Carrier Wasp Princess Damaged"
   },
   "Abyssal Aircraft Carrier Wasp Princess Damaged II": {
-    "_aa": null,
+    "_aa": 181,
     "_api_id": 2348,
-    "_armor": null,
+    "_armor": 318,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -103,47 +113,52 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 40
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 26
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 1000,
     "_id": 2348,
     "_japanese_name": "深海空母蜂姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Aircraft Carrier Wasp Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいくうぼはちき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Aircraft Carrier Wasp Princess Damaged II"
   },
   "Abyssal Aircraft Carrier Wasp Princess Damaged III": {
-    "_aa": null,
+    "_aa": 218,
     "_api_id": 2349,
-    "_armor": null,
+    "_armor": 381,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -153,134 +168,149 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 56
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 42
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 42
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 320,
+    "_hp": 1200,
     "_id": 2349,
     "_japanese_name": "深海空母蜂姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Aircraft Carrier Wasp Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいくうぼはちき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Aircraft Carrier Wasp Princess Damaged III"
   },
   "Abyssal Aircraft Carrier Wasp Princess II": {
-    "_aa": null,
+    "_aa": 160,
     "_api_id": 2345,
-    "_armor": null,
+    "_armor": 281,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
         "size": null
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 240,
+    "_hp": 1000,
     "_id": 2345,
     "_japanese_name": "深海空母蜂姫",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Aircraft Carrier Wasp Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいくうぼはちき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Aircraft Carrier Wasp Princess II"
   },
   "Abyssal Aircraft Carrier Wasp Princess III": {
-    "_aa": null,
+    "_aa": 181,
     "_api_id": 2346,
-    "_armor": null,
+    "_armor": 318,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Combat Autogyro Seagull",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 22
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "estimation": true,
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 1200,
     "_id": 2346,
     "_japanese_name": "深海空母蜂姫",
     "_los": null,
     "_luck": null,
     "_name": "Abyssal Aircraft Carrier Wasp Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "しんかいくうぼはちき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Abyssal Aircraft Carrier Wasp Princess III"
   },
