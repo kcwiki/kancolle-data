@@ -38087,7 +38087,7 @@
     "_display_class": "Reefer Ship",
     "_equipment": [
       {
-        "equipment": "Underway Replenishment",
+        "equipment": false,
         "size": 0
       }
     ],
