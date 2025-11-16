@@ -1,0 +1,370 @@
+[
+  { "map": "61-1", "difficulty": 1, "rewards": [{ "api_type": 2, "api_id": 998, "api_value": 1 }], "selectreward": null },
+  {
+    "map": "61-1",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 59, "api_value": 1 },
+      { "api_type": 7, "api_id": 121, "api_value": 1 },
+      { "api_type": 3, "api_id": 565, "api_value": 1, "api_slot_level": 3 },
+      { "api_type": 3, "api_id": 564, "api_value": 1, "api_slot_level": 3 },
+      { "api_type": 2, "api_id": 998, "api_value": 1 }
+    ],
+    "selectreward": {
+      "121": [
+        { "api_item_no": 1, "api_type": 3, "api_id": 513, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 8 }
+      ]
+    }
+  },
+  {
+    "map": "61-1",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 59, "api_value": 2 },
+      { "api_type": 7, "api_id": 131, "api_value": 1 },
+      { "api_type": 7, "api_id": 132, "api_value": 1 },
+      { "api_type": 3, "api_id": 565, "api_value": 1, "api_slot_level": 7 },
+      { "api_type": 3, "api_id": 564, "api_value": 1, "api_slot_level": 7 },
+      { "api_type": 2, "api_id": 998, "api_value": 1 }
+    ],
+    "selectreward": {
+      "131": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 54, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 57, "api_value": 1 }
+      ],
+      "132": [
+        { "api_item_no": 1, "api_type": 3, "api_id": 513, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 10 }
+      ]
+    }
+  },
+  {
+    "map": "61-1",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 1 },
+      { "api_type": 1, "api_id": 59, "api_value": 3 },
+      { "api_type": 7, "api_id": 141, "api_value": 1 },
+      { "api_type": 7, "api_id": 142, "api_value": 1 },
+      { "api_type": 7, "api_id": 143, "api_value": 1 },
+      { "api_type": 1, "api_id": 64, "api_value": 1 },
+      { "api_type": 3, "api_id": 565, "api_value": 1, "api_slot_level": 8 },
+      { "api_type": 3, "api_id": 564, "api_value": 1, "api_slot_level": 8 },
+      { "api_type": 2, "api_id": 998, "api_value": 1 }
+    ],
+    "selectreward": {
+      "141": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 54, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 57, "api_value": 1 }
+      ],
+      "142": [
+        { "api_item_no": 1, "api_type": 3, "api_id": 513, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 12 }
+      ],
+      "143": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 33, "api_value": 5000 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 560, "api_value": 1, "api_slot_level": 2 }
+      ]
+    }
+  },
+  {
+    "map": "61-2",
+    "difficulty": 1,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 1 },
+      { "api_type": 7, "api_id": 211, "api_value": 1 },
+      { "api_type": 7, "api_id": 212, "api_value": 1 }
+    ],
+    "selectreward": {
+      "211": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 902, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 10 }
+      ],
+      "212": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 1600 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 51, "api_value": 1 }
+      ]
+    }
+  },
+  {
+    "map": "61-2",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 1 },
+      { "api_type": 7, "api_id": 221, "api_value": 1 },
+      { "api_type": 7, "api_id": 222, "api_value": 1 },
+      { "api_type": 3, "api_id": 567, "api_value": 1, "api_slot_level": 3 },
+      { "api_type": 3, "api_id": 559, "api_value": 1 }
+    ],
+    "selectreward": {
+      "221": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 903, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 12 }
+      ],
+      "222": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 2400 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 51, "api_value": 1 }
+      ]
+    }
+  },
+  {
+    "map": "61-2",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 54, "api_value": 2 },
+      { "api_type": 7, "api_id": 231, "api_value": 1 },
+      { "api_type": 7, "api_id": 232, "api_value": 1 },
+      { "api_type": 7, "api_id": 233, "api_value": 1 },
+      { "api_type": 3, "api_id": 567, "api_value": 1, "api_slot_level": 7 },
+      { "api_type": 3, "api_id": 559, "api_value": 1, "api_slot_level": 1 }
+    ],
+    "selectreward": {
+      "231": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 904, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 16 }
+      ],
+      "232": [
+        { "api_item_no": 1, "api_type": 3, "api_id": 532, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 268, "api_value": 1, "api_slot_level": 6 }
+      ],
+      "233": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 3600 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 51, "api_value": 2 }
+      ]
+    }
+  },
+  {
+    "map": "61-2",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 2 },
+      { "api_type": 1, "api_id": 54, "api_value": 3 },
+      { "api_type": 7, "api_id": 241, "api_value": 1 },
+      { "api_type": 7, "api_id": 242, "api_value": 1 },
+      { "api_type": 7, "api_id": 243, "api_value": 1 },
+      { "api_type": 3, "api_id": 567, "api_value": 1, "api_slot_level": 8 },
+      { "api_type": 7, "api_id": 244, "api_value": 1 },
+      { "api_type": 3, "api_id": 559, "api_value": 1, "api_slot_level": 2 }
+    ],
+    "selectreward": {
+      "241": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 905, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 20 }
+      ],
+      "242": [
+        { "api_item_no": 1, "api_type": 3, "api_id": 532, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 268, "api_value": 1, "api_slot_level": 8 }
+      ],
+      "243": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 4800 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 51, "api_value": 2 }
+      ],
+      "244": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 100, "api_value": 2 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 514, "api_value": 1 }
+      ]
+    }
+  },
+  { "map": "61-3", "difficulty": 1, "rewards": [{ "api_type": 2, "api_id": 1022, "api_value": 1 }], "selectreward": null },
+  {
+    "map": "61-3",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 1 },
+      { "api_type": 7, "api_id": 321, "api_value": 1 },
+      { "api_type": 7, "api_id": 322, "api_value": 1 },
+      { "api_type": 3, "api_id": 566, "api_value": 1, "api_slot_level": 3 },
+      { "api_type": 2, "api_id": 1022, "api_value": 1 }
+    ],
+    "selectreward": {
+      "321": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 94, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 77, "api_value": 1 }
+      ],
+      "322": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 4, "api_value": 3 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 402, "api_value": 1 }
+      ]
+    }
+  },
+  {
+    "map": "61-3",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 2 },
+      { "api_type": 7, "api_id": 331, "api_value": 1 },
+      { "api_type": 3, "api_id": 562, "api_value": 1 },
+      { "api_type": 7, "api_id": 332, "api_value": 1 },
+      { "api_type": 3, "api_id": 566, "api_value": 1, "api_slot_level": 7 },
+      { "api_type": 2, "api_id": 1022, "api_value": 1 }
+    ],
+    "selectreward": {
+      "331": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 94, "api_value": 2 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 77, "api_value": 2 }
+      ],
+      "332": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 4, "api_value": 4 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 402, "api_value": 1 }
+      ]
+    }
+  },
+  {
+    "map": "61-3",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 3 },
+      { "api_type": 1, "api_id": 58, "api_value": 1 },
+      { "api_type": 7, "api_id": 341, "api_value": 1 },
+      { "api_type": 3, "api_id": 562, "api_value": 1, "api_slot_level": 1 },
+      { "api_type": 7, "api_id": 342, "api_value": 1 },
+      { "api_type": 3, "api_id": 192, "api_value": 1, "api_slot_level": 4 },
+      { "api_type": 3, "api_id": 566, "api_value": 1, "api_slot_level": 8 },
+      { "api_type": 2, "api_id": 1022, "api_value": 1 }
+    ],
+    "selectreward": {
+      "341": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 94, "api_value": 3 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 77, "api_value": 3 }
+      ],
+      "342": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 4, "api_value": 5 },
+        { "api_item_no": 2, "api_type": 3, "api_id": 402, "api_value": 1 }
+      ]
+    }
+  },
+  {
+    "map": "61-4",
+    "difficulty": 1,
+    "rewards": [
+      { "api_type": 7, "api_id": 411, "api_value": 1 },
+      { "api_type": 7, "api_id": 412, "api_value": 1 },
+      { "api_type": 3, "api_id": 205, "api_value": 1 }
+    ],
+    "selectreward": {
+      "411": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 903, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 15 }
+      ],
+      "412": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 2000 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 33, "api_value": 2000 }
+      ]
+    }
+  },
+  {
+    "map": "61-4",
+    "difficulty": 2,
+    "rewards": [
+      { "api_type": 1, "api_id": 98, "api_value": 1 },
+      { "api_type": 7, "api_id": 421, "api_value": 1 },
+      { "api_type": 7, "api_id": 422, "api_value": 1 },
+      { "api_type": 3, "api_id": 256, "api_value": 1 },
+      { "api_type": 3, "api_id": 205, "api_value": 1, "api_slot_level": 2 }
+    ],
+    "selectreward": {
+      "421": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 904, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 20 }
+      ],
+      "422": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 3000 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 33, "api_value": 3000 }
+      ]
+    }
+  },
+  {
+    "map": "61-4",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 1 },
+      { "api_type": 1, "api_id": 98, "api_value": 1 },
+      { "api_type": 7, "api_id": 431, "api_value": 1 },
+      { "api_type": 7, "api_id": 432, "api_value": 1 },
+      { "api_type": 3, "api_id": 256, "api_value": 1, "api_slot_level": 2 },
+      { "api_type": 3, "api_id": 254, "api_value": 1, "api_slot_level": 2 }
+    ],
+    "selectreward": {
+      "431": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 905, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 30 }
+      ],
+      "432": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 4000 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 33, "api_value": 4000 }
+      ]
+    }
+  },
+  {
+    "map": "61-4",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 2 },
+      { "api_type": 1, "api_id": 98, "api_value": 1 },
+      { "api_type": 7, "api_id": 441, "api_value": 1 },
+      { "api_type": 7, "api_id": 442, "api_value": 1 },
+      { "api_type": 3, "api_id": 519, "api_value": 1, "api_slot_level": 4 },
+      { "api_type": 1, "api_id": 64, "api_value": 1 },
+      { "api_type": 3, "api_id": 256, "api_value": 1, "api_slot_level": 6 },
+      { "api_type": 3, "api_id": 255, "api_value": 1, "api_slot_level": 2 }
+    ],
+    "selectreward": {
+      "441": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 906, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 40 }
+      ],
+      "442": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 31, "api_value": 5000 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 33, "api_value": 5000 }
+      ]
+    }
+  },
+  { "map": "61-5", "difficulty": 1, "rewards": [{ "api_type": 2, "api_id": 1025, "api_value": 1 }], "selectreward": null },
+  {
+    "map": "61-5",
+    "difficulty": 3,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 2 },
+      { "api_type": 1, "api_id": 4, "api_value": 8 },
+      { "api_type": 7, "api_id": 531, "api_value": 1 },
+      { "api_type": 7, "api_id": 532, "api_value": 1 },
+      { "api_type": 3, "api_id": 421, "api_value": 1 },
+      { "api_type": 2, "api_id": 1025, "api_value": 1 }
+    ],
+    "selectreward": {
+      "531": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 904, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 25 }
+      ],
+      "532": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 78, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 64, "api_value": 2 }
+      ]
+    }
+  },
+  {
+    "map": "61-5",
+    "difficulty": 4,
+    "rewards": [
+      { "api_type": 1, "api_id": 57, "api_value": 3 },
+      { "api_type": 1, "api_id": 4, "api_value": 10 },
+      { "api_type": 7, "api_id": 541, "api_value": 1 },
+      { "api_type": 7, "api_id": 542, "api_value": 1 },
+      { "api_type": 3, "api_id": 421, "api_value": 1, "api_slot_level": 3 },
+      { "api_type": 3, "api_id": 540, "api_value": 1 },
+      { "api_type": 1, "api_id": 61, "api_value": 1 },
+      { "api_type": 2, "api_id": 1025, "api_value": 1 }
+    ],
+    "selectreward": {
+      "541": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 905, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 3, "api_value": 30 }
+      ],
+      "542": [
+        { "api_item_no": 1, "api_type": 1, "api_id": 78, "api_value": 1 },
+        { "api_item_no": 2, "api_type": 1, "api_id": 64, "api_value": 2 }
+      ]
+    }
+  }
+]
