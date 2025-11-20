@@ -80,6 +80,8 @@ const getNodeLabels = mapId =>
       .sort(),
   )
 
+const lastEventId = 61
+
 module.exports = {
   edges,
   diffs,
@@ -93,4 +95,5 @@ module.exports = {
   getFormationId,
   getNodeLabel,
   getNodeLabels,
+  lastEventId,
 }

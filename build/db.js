@@ -9,7 +9,7 @@ const fetch = require('node-fetch')
 const StreamBSON = require('stream-bson')
 const { Client } = require('pg')
 
-const { getNodeLabel, getNodeType } = require('../map')
+const { getNodeLabel, getNodeType, lastEventId } = require('../map')
 
 const queryTsun = async (...qs) => {
   const result = []
@@ -49,7 +49,7 @@ const queryPoi = q =>
       })
   })
 
-const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : [61]
+const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : [lastEventId]
 
 const mapQuery = (eventId, mapId) => `(${(mapId ? [mapId] : _.range(1, 10 + 1)).map(mapId => `map='${eventId}-${mapId}'`).join(' or ')})`
 

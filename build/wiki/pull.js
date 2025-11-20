@@ -2,18 +2,38 @@ require('dotenv').config()
 
 const { map } = require('bluebird')
 const { outputJson } = require('fs-extra')
-const fetch = require('node-fetch')
+const fetch_ = require('node-fetch')
+const retry = require('async-retry')
 const { _, forEach, fromPairs, toPairs, values, flatten, keyBy } = require('lodash')
 const sortKeys = require('sort-keys')
 const { parse } = require('lua-json')
 
 const ROOT = `${__dirname}/../..`
 
-const getLuaData = async title => parse(await (await fetch(`https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/${title}?action=raw`)).text())
+let wiki_requests = 0
+let wiki_bytes = 0
 
-const saveWikiData = async (name, obj) => {
-  const data = typeof obj === 'string' ? await getLuaData(`Module:${obj}`) : obj
-  await outputJson(`${ROOT}/wiki/${name}.json`, data, { spaces: 2 })
+const fetch = (url, parser) =>
+  retry(async () => {
+    ++wiki_requests
+    const text = await (await fetch_(url)).text()
+    wiki_bytes += text.length
+    return parser(text)
+  })
+
+const getLuaData = async name => {
+  try {
+    return await fetch(`https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/Module:${name}?action=raw`, parse)
+  } catch (_) {
+    console.error(`getLuaData: ${name}`)
+  }
+}
+
+const saveWikiData = async (name, obj, type = 'wiki', sort = false) => {
+  const data = typeof obj === 'string' ? await getLuaData(obj) : obj
+  if (data) {
+    await outputJson(`${ROOT}/${type}/${name}.json`, sort ? sortKeys(data) : data, { spaces: 2 })
+  }
 }
 
 const categories = {
@@ -27,7 +47,7 @@ const categories = {
 
 const getLuaDataInCategory = async category => {
   const pages = []
-  const loop = async cont => {
+  const loop = async (cont, i = 1) => {
     const params = {
       action: 'query',
       format: 'json',
@@ -46,12 +66,20 @@ const getLuaDataInCategory = async category => {
       .toPairs()
       .map(([k, v]) => `${k}=${v}`)
       .join('&')}`
-    const data = await (await fetch(url)).json()
+    let data
+    try {
+      data = await fetch(url, JSON.parse)
+    } catch (_) {
+      console.error(`getLuaDataInCategory: ${category}:${i}`)
+    }
+    if (!data) {
+      return pages
+    }
     const morePages = values(data.query.pages)
       .filter(e => !e.title.includes('Vita:') && !e.title.includes('Mist:'))
       .map(e => [e.title.replace('Module:', '').replace(/Data\/.+?\//, ''), parse(e.revisions[0]['*'])])
     morePages.forEach(e => pages.push(e))
-    return data.continue ? loop(data.continue.gapcontinue) : pages
+    return data.continue ? loop(data.continue.gapcontinue, i + 1) : pages
   }
   return loop()
 }
@@ -115,7 +143,9 @@ const extractName = (context, type) => data => {
 
 const main = async () => {
   const data = fromPairs(
-    await map(toPairs(categories), async ([categoryName, category]) => [categoryName, fromPairs(await getLuaDataInCategory(category))]),
+    await map(toPairs(categories), async ([categoryName, category]) => [categoryName, fromPairs(await getLuaDataInCategory(category))], {
+      concurrency: 1,
+    }),
   )
   data.quest = keyBy(flatten(values(data.quest)), 'label')
   const dataSorted = sortKeys(data, { deep: true })
@@ -143,8 +173,8 @@ const main = async () => {
 
   await map(tls, async ([type, data]) => outputJson(`${ROOT}/tl/${_.kebabCase(type)}.json`, sortKeys(data), { spaces: 2 }))
 
-  await outputJson(`${ROOT}/tl/equipment-type.json`, sortKeys(await getLuaData('Module:Data/EquipmentTypeNames')), { spaces: 2 })
-  await outputJson(`${ROOT}/tl/ship-type.json`, sortKeys(await getLuaData('Module:Data/ShipTypeNames')), { spaces: 2 })
+  saveWikiData('equipment-type', 'Data/EquipmentTypeNames', 'tl', true)
+  saveWikiData('ship-type', 'Data/ShipTypeNames', 'tl', true)
 
   // seasonal data
 
@@ -218,16 +248,15 @@ const main = async () => {
   const misc = require(`${ROOT}/wiki/misc.json`)
 
   for (const name in misc) {
-    try {
-      misc[name] = await getLuaData(`Module:${name}`)
-    } catch (_) {
-      console.error(`missing module: ${name}`)
-    }
+    misc[name] = (await getLuaData(name)) || misc[name]
   }
 
   await saveWikiData('misc', misc)
   await saveWikiData('refit', 'Data/EquipmentRefit')
   await saveWikiData('refit-re', 'Data/EquipmentRefitRE')
+
+  console.log(`wiki requests: ${wiki_requests}`)
+  console.log(`wiki bytes: ${wiki_bytes}`)
 }
 
 main()
