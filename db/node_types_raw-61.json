@@ -130,12 +130,14 @@
   { "map": "61-4", "edge": 21, "nodecolor": 4, "eventkind": 1, "eventid": 6 },
   { "map": "61-4", "edge": 22, "nodecolor": 5, "eventkind": 1, "eventid": 5 },
   { "map": "61-4", "edge": 23, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
+  { "map": "61-4", "edge": 24, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "61-4", "edge": 25, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "61-4", "edge": 26, "nodecolor": 4, "eventkind": 1, "eventid": 6 },
   { "map": "61-4", "edge": 27, "nodecolor": 5, "eventkind": 5, "eventid": 5 },
   { "map": "61-4", "edge": 28, "nodecolor": 5, "eventkind": 5, "eventid": 5 },
   { "map": "61-4", "edge": 29, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "61-4", "edge": 30, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
+  { "map": "61-4", "edge": 31, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "61-4", "edge": 34, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "61-4", "edge": 35, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "61-4", "edge": 36, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
@@ -215,6 +217,7 @@
   { "map": "61-5", "edge": 58, "nodecolor": 15, "eventkind": 1, "eventid": 4 },
   { "map": "61-5", "edge": 59, "nodecolor": 4, "eventkind": 1, "eventid": 4 },
   { "map": "61-5", "edge": 60, "nodecolor": 15, "eventkind": 1, "eventid": 4 },
+  { "map": "61-5", "edge": 61, "nodecolor": 15, "eventkind": 1, "eventid": 4 },
   { "map": "61-5", "edge": 62, "nodecolor": 10, "eventkind": 6, "eventid": 4 },
   { "map": "61-5", "edge": 63, "nodecolor": 10, "eventkind": 6, "eventid": 4 }
 ]

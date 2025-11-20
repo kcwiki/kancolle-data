@@ -76,6 +76,7 @@ map : object
   getFormationId : function
   getNodeLabel : function
   getNodeLabels : function
+  lastEventId : number
 tl : function
   ship : object
   equipment : object
