@@ -38125,7 +38125,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 22,
-    "_voice_actor": null,
+    "_voice_actor": "Ozawa Ari",
     "_wikipedia": "Japanese food supply ship Nosaki",
     "_full_name": "Nankai"
   },
@@ -39653,7 +39653,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 22,
-    "_voice_actor": null,
+    "_voice_actor": "Ozawa Ari",
     "_wikipedia": "Japanese food supply ship Nosaki",
     "_full_name": "Nosaki"
   },
@@ -39723,7 +39723,7 @@
     "_voice_flag": null,
     "_full_name": "Nosaki Kai",
     "_implementation_date": [2025, 11, 10],
-    "_voice_actor": null,
+    "_voice_actor": "Ozawa Ari",
     "_artist": "Hoshi Akari",
     "_wikipedia": "Japanese food supply ship Nosaki"
   },
