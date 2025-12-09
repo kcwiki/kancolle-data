@@ -8165,7 +8165,7 @@
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_build_time": 22,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Gato",
@@ -8285,7 +8285,7 @@
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_drop"],
     "_wikipedia": "USS Dace (SS-247)",
-    "_build_time": 0
+    "_build_time": 22
   },
   "Daitou": {
     "_aa": 10,
@@ -8950,7 +8950,7 @@
     "_asw": 0,
     "_asw_max": 0,
     "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_build_time": 40,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Norge",
@@ -9078,7 +9078,7 @@
     "_artist": null,
     "_availability": ["event_drop"],
     "_wikipedia": "HNoMS Eidsvold",
-    "_build_time": 0
+    "_build_time": 40
   },
   "Etorofu": {
     "_aa": 7,
@@ -11693,7 +11693,7 @@
     "_asw": false,
     "_asw_max": false,
     "_availability": ["event_reward"],
-    "_build_time": 0,
+    "_build_time": 250,
     "_class": "Courageous",
     "_class_number": 2,
     "_display_suffix": "(BC)",
@@ -11766,7 +11766,7 @@
     "_armor_mod": 4,
     "_asw": false,
     "_asw_max": false,
-    "_build_time": 0,
+    "_build_time": 250,
     "_class": "Glorious",
     "_class_number": 1,
     "_display_suffix": "(CV)",
@@ -11916,7 +11916,7 @@
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Glorious",
-    "_build_time": 0
+    "_build_time": 250
   },
   "Glorious Kai (CV)": {
     "_aa": 36,
@@ -11995,7 +11995,7 @@
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Glorious",
-    "_build_time": 0
+    "_build_time": 250
   },
   "Gotland": {
     "_aa": 18,
@@ -25614,7 +25614,7 @@
     "_asw": null,
     "_asw_max": null,
     "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_build_time": 14,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Matsu",
@@ -25744,7 +25744,7 @@
     "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Kashi (1944)",
-    "_build_time": 0
+    "_build_time": 14
   },
   "Kashima": {
     "_aa": 15,
@@ -26777,7 +26777,7 @@
     "_asw": 27,
     "_asw_max": 74,
     "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_build_time": 14,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Matsu",
@@ -26907,7 +26907,7 @@
     "_artist": "Umihara Sakana",
     "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Kaya (1944)",
-    "_build_time": 0
+    "_build_time": 14
   },
   "Kazagumo": {
     "_aa": 10,
@@ -28039,8 +28039,8 @@
     "_artist": "Jiji",
     "_asw": 15,
     "_asw_max": 26,
-    "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_availability": ["event_reward"],
+    "_build_time": 70,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Kirov",
@@ -28065,7 +28065,7 @@
     "_firepower_max": 56,
     "_firepower_mod": 2,
     "_fuel": 30,
-    "_get_message": null,
+    "_get_message": "貴公がАдмирал。よろしい！<br>Киров級軽巡洋艦キーロフ。<br>我の力も貴公らに貸そう。よろしく……頼む。",
     "_hp": 31,
     "_hp_max": 45,
     "_id": 601,
@@ -28095,7 +28095,8 @@
     "_true_id": false,
     "_type": 3,
     "_voice_actor": "Akesaka Satomi",
-    "_voice_flag": null,
+    "_voice_flag": 1,
+    "_wikipedia": "Soviet cruiser Kirov",
     "_full_name": "Kirov"
   },
   "Kirov Kai": {
@@ -28171,13 +28172,14 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 3,
-    "_voice_flag": null,
+    "_voice_flag": 3,
     "_full_name": "Kirov Kai",
     "_implementation_date": [2025, 3, 7],
     "_voice_actor": "Akesaka Satomi",
     "_artist": "Jiji",
-    "_availability": ["event_drop"],
-    "_build_time": 0
+    "_availability": ["event_reward"],
+    "_wikipedia": "Soviet cruiser Kirov",
+    "_build_time": 70
   },
   "Kisaragi": {
     "_aa": 7,
@@ -31047,7 +31049,7 @@
     "_voice_flag": 3,
     "_full_name": "Leonardo da Vinci",
     "_wikipedia": "USS Dace (SS-247)",
-    "_build_time": 0
+    "_build_time": 22
   },
   "Lexington": {
     "_aa": 36,
@@ -34380,8 +34382,8 @@
     "_artist": "Hoshi Akari",
     "_asw": 0,
     "_asw_max": false,
-    "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_availability": ["event_reward"],
+    "_build_time": 85,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "New Orleans",
@@ -34406,6 +34408,7 @@
     "_firepower_max": 53,
     "_firepower_mod": 2,
     "_fuel": 40,
+    "_get_message": "Hi!  New Orleans class 重巡、その3番艦<br>Minneapolis!  着任したわ!  私が来たからには<br>もう大丈夫！安心よ！　ん…何？安心して？",
     "_hp": 44,
     "_hp_max": 56,
     "_id": 605,
@@ -34436,6 +34439,7 @@
     "_type": 5,
     "_voice_actor": "Kuranishi Marena",
     "_voice_flag": 1,
+    "_wikipedia": "USS Minneapolis (CA-36)",
     "_full_name": "Minneapolis"
   },
   "Minneapolis Kai": {
@@ -34514,8 +34518,9 @@
     "_implementation_date": [2025, 3, 23],
     "_voice_actor": "Kuranishi Marena",
     "_artist": "Hoshi Akari",
-    "_availability": ["event_drop"],
-    "_build_time": 0
+    "_availability": ["event_reward"],
+    "_wikipedia": "USS Minneapolis (CA-36)",
+    "_build_time": 85
   },
   "Miyuki": {
     "_aa": 10,
@@ -38132,7 +38137,7 @@
     "_asw": null,
     "_asw_max": null,
     "_availability": ["event_drop"],
-    "_build_time": 0,
+    "_build_time": 12,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Nosaki",
@@ -39375,7 +39380,7 @@
     "_asw": 0,
     "_asw_max": 0,
     "_availability": ["event_reward"],
-    "_build_time": 0,
+    "_build_time": 40,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Norge",
@@ -39503,7 +39508,7 @@
     "_artist": null,
     "_availability": ["event_reward"],
     "_wikipedia": "HNoMS Norge",
-    "_build_time": 0
+    "_build_time": 40
   },
   "Northampton": {
     "_aa": 20,
@@ -39665,7 +39670,7 @@
     "_artist": "Hoshi Akari",
     "_asw": null,
     "_asw_max": null,
-    "_build_time": 0,
+    "_build_time": 12,
     "_class": "Nosaki",
     "_class_number": 1,
     "_equipment": [
@@ -39731,7 +39736,7 @@
     "_armor_mod": 1,
     "_asw": null,
     "_asw_max": null,
-    "_build_time": 0,
+    "_build_time": 12,
     "_class": "Nosaki",
     "_class_number": 1,
     "_equipment": [
@@ -41162,7 +41167,8 @@
     "_artist": "Hozuka",
     "_asw": 12,
     "_asw_max": 18,
-    "_build_time": 0,
+    "_availability": ["event_drop"],
+    "_build_time": 60,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Ootomari",
@@ -41183,6 +41189,7 @@
     "_firepower_max": 8,
     "_firepower_mod": false,
     "_fuel": 15,
+    "_get_message": "ある悲劇をきっかけに日本で初めて建造された本格的な砕氷艦、<br>名前を「大泊」と申します。戦闘を目的とした艦ではありません<br>が、北方の漁業、航行、そして皆さんの生命をお護りします。",
     "_hp": 20,
     "_hp_max": 30,
     "_id": 595,
@@ -41212,6 +41219,7 @@
     "_true_id": false,
     "_type": 22,
     "_voice_actor": "Yuikawa Asaki",
+    "_voice_flag": 1,
     "_wikipedia": "Japanese icebreaker Ōtomari",
     "_full_name": "Ootomari"
   },
@@ -41277,12 +41285,14 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 22,
+    "_voice_flag": 3,
     "_full_name": "Ootomari Kai",
     "_implementation_date": [2025, 3, 7],
     "_voice_actor": "Yuikawa Asaki",
     "_artist": "Hozuka",
+    "_availability": ["event_drop"],
     "_wikipedia": "Japanese icebreaker Ōtomari",
-    "_build_time": 0
+    "_build_time": 60
   },
   "Ooyodo": {
     "_aa": 18,
@@ -42400,7 +42410,7 @@
     "_asw": 49,
     "_asw_max": 82,
     "_availability": null,
-    "_build_time": 0,
+    "_build_time": 23,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Fletcher",
@@ -42421,7 +42431,7 @@
     "_firepower_max": 30,
     "_firepower_mod": 1,
     "_fuel": 20,
-    "_get_message": "Hi！ 待ってた？ 私がFletcher級駆逐艦<br>Richard Phillips Learyよ<br>Learyでいいわ！ よろしくねっ！",
+    "_get_message": "Hi！ 待ってた？ 私がFletcher級駆逐艦<br>Richard Phillips Learyよ！<br>Learyでいいわ！ よろしくねっ！",
     "_hp": 17,
     "_hp_max": 35,
     "_id": 542,
@@ -42452,6 +42462,7 @@
     "_type": 2,
     "_voice_actor": "Kuranishi Marena",
     "_voice_flag": 1,
+    "_wikipedia": "USS Richard P. Leary",
     "_full_name": "Richard P. Leary"
   },
   "Richard P. Leary Kai": {
@@ -42527,7 +42538,8 @@
     "_voice_actor": "Kuranishi Marena",
     "_artist": "zeco",
     "_availability": null,
-    "_build_time": 0
+    "_wikipedia": "USS Richard P. Leary",
+    "_build_time": 23
   },
   "Richelieu": {
     "_aa": 22,
@@ -46588,8 +46600,8 @@
     "_artist": "Umihara Sakana",
     "_asw": 24,
     "_asw_max": 62,
-    "_availability": ["event_reward"],
-    "_build_time": 0,
+    "_availability": ["event_drop"],
+    "_build_time": 12,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Special 1TL Type",
@@ -46610,7 +46622,7 @@
     "_firepower_max": 26,
     "_firepower_mod": 1,
     "_fuel": 40,
-    "_get_message": "私、1TL型戦時標準船、しまね丸！　じゃなかった……特1TL型特設航空母艦、しまね丸です！　船団護衛用の特別な艦なの！　提督、あたし、働きたい、ですっ！",
+    "_get_message": "私、1TL型戦時標準船、しまね丸！　じゃなかった……<br>特1TL型特設航空母艦、しまね丸です！　船団護衛用の<br>特別な艦なの！　提督、あたし、働きたい、ですっ！",
     "_hp": 39,
     "_hp_max": 51,
     "_id": 603,
@@ -46640,7 +46652,7 @@
     "_true_id": false,
     "_type": 22,
     "_voice_actor": "Kitou Akari",
-    "_voice_flag": null,
+    "_voice_flag": 1,
     "_full_name": "Shimane Maru"
   },
   "Shimane Maru Kai": {
@@ -46710,13 +46722,13 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 22,
-    "_voice_flag": null,
+    "_voice_flag": 3,
     "_full_name": "Shimane Maru Kai",
     "_implementation_date": [2025, 3, 22],
     "_voice_actor": "Kitou Akari",
     "_artist": "Umihara Sakana",
-    "_availability": ["event_reward"],
-    "_build_time": 0
+    "_availability": ["event_drop"],
+    "_build_time": 12
   },
   "Shimushu": {
     "_aa": 7,
@@ -49267,8 +49279,8 @@
     "_artist": "Umihara Sakana",
     "_asw": 28,
     "_asw_max": 74,
-    "_availability": ["event_reward"],
-    "_build_time": 0,
+    "_availability": ["event_drop"],
+    "_build_time": 14,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Matsu",
@@ -49289,6 +49301,7 @@
     "_firepower_max": 24,
     "_firepower_mod": false,
     "_fuel": 15,
+    "_get_message": "提督、丁型の杉、着任したぜ。<br>あたしが来たからには、艦隊はもう万全だな。<br>……なんつってな！　いってみたかったのさ。",
     "_hp": 14,
     "_hp_max": 27,
     "_id": 592,
@@ -49318,7 +49331,7 @@
     "_true_id": false,
     "_type": 2,
     "_voice_actor": "Kuranishi Marena",
-    "_voice_flag": null,
+    "_voice_flag": 1,
     "_wikipedia": "Japanese destroyer Sugi (1944)",
     "_full_name": "Sugi"
   },
@@ -49390,14 +49403,14 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_flag": null,
+    "_voice_flag": 3,
     "_full_name": "Sugi Kai",
     "_implementation_date": [2025, 3, 22],
     "_voice_actor": "Kuranishi Marena",
     "_artist": "Umihara Sakana",
-    "_availability": ["event_reward"],
+    "_availability": ["event_drop"],
     "_wikipedia": "Japanese destroyer Sugi (1944)",
-    "_build_time": 0
+    "_build_time": 14
   },
   "Suzukaze": {
     "_aa": 9,
@@ -55536,7 +55549,7 @@
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_reward"],
-    "_build_time": 0,
+    "_build_time": 22,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Gato",
@@ -55553,7 +55566,7 @@
     "_firepower_max": 12,
     "_firepower_mod": false,
     "_fuel": 10,
-    "_get_message": null,
+    "_get_message": "Meが潜水艦Wahoo。Gato classだよ。<br>哨戒任務なら任せとけ！狩りは得意さ。 ……え？北海道？<br>んー。Meはやめとくわ。",
     "_hp": 13,
     "_hp_max": 18,
     "_id": 584,
@@ -55583,7 +55596,8 @@
     "_true_id": false,
     "_type": 13,
     "_voice_actor": "Yuikawa Asaki",
-    "_voice_flag": null,
+    "_voice_flag": 1,
+    "_wikipedia": "USS Wahoo (SS-238)",
     "_full_name": "Wahoo"
   },
   "Wahoo Kai": {
@@ -55648,13 +55662,14 @@
     "_torpedo_mod": 2,
     "_true_id": false,
     "_type": 13,
-    "_voice_flag": null,
+    "_voice_flag": 3,
     "_full_name": "Wahoo Kai",
     "_implementation_date": [2025, 3, 7],
     "_voice_actor": "Yuikawa Asaki",
     "_artist": "Shizuma Yoshinori",
     "_availability": ["event_reward"],
-    "_build_time": 0
+    "_wikipedia": "USS Wahoo (SS-238)",
+    "_build_time": 22
   },
   "Wakaba": {
     "_aa": 9,
@@ -56116,7 +56131,7 @@
     "_asw": 0,
     "_asw_max": false,
     "_availability": ["event_reward"],
-    "_build_time": 0,
+    "_build_time": 330,
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Essex",
@@ -56255,7 +56270,7 @@
     "_artist": "Shibafu",
     "_availability": ["event_reward"],
     "_wikipedia": "USS Wasp (CV-18)",
-    "_build_time": 0
+    "_build_time": 330
   },
   "Yahagi": {
     "_aa": 17,
