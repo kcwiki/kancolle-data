@@ -11952,7 +11952,7 @@
     ],
     "_evasion": null,
     "_evasion_max": null,
-    "_firepower": false,
+    "_firepower": 0,
     "_firepower_max": 30,
     "_firepower_mod": false,
     "_fuel": 50,
