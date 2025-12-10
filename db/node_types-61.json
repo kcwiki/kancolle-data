@@ -160,6 +160,7 @@
     "X2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Y": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "Z": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "Z1": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "Z2": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "ZZ": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   }
