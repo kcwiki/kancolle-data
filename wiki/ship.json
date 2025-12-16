@@ -8176,8 +8176,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 18,
+    "_evasion_max": 47,
     "_firepower": 2,
     "_firepower_max": 11,
     "_firepower_mod": false,
@@ -8188,7 +8188,7 @@
     "_id": 585,
     "_implementation_date": [2025, 11, 10],
     "_japanese_name": "Dace",
-    "_los": null,
+    "_los": 12,
     "_los_max": null,
     "_luck": 41,
     "_luck_max": 81,
@@ -8965,8 +8965,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 4,
+    "_evasion_max": 18,
     "_firepower": 18,
     "_firepower_max": 31,
     "_firepower_mod": 1,
@@ -8977,8 +8977,8 @@
     "_id": 599,
     "_implementation_date": [2025, 10, 29],
     "_japanese_name": "Eidsvold",
-    "_los": null,
-    "_los_max": null,
+    "_los": 4,
+    "_los_max": 8,
     "_luck": 3,
     "_luck_max": 19,
     "_luck_mod": false,
@@ -11715,8 +11715,8 @@
         "size": 1
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 32,
+    "_evasion_max": 55,
     "_firepower": 65,
     "_firepower_max": 86,
     "_firepower_mod": false,
@@ -11727,8 +11727,8 @@
     "_id": 612,
     "_implementation_date": [2025, 10, 29],
     "_japanese_name": "Glorious",
-    "_los": null,
-    "_los_max": null,
+    "_los": 12,
+    "_los_max": 40,
     "_luck": 6,
     "_luck_max": 39,
     "_luck_mod": false,
@@ -11788,8 +11788,8 @@
         "size": 12
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 34,
+    "_evasion_max": 56,
     "_firepower": 0,
     "_firepower_max": 26,
     "_firepower_mod": false,
@@ -11798,8 +11798,8 @@
     "_hp_max": 78,
     "_id": 617,
     "_japanese_name": "Glorious",
-    "_los": null,
-    "_los_max": null,
+    "_los": 37,
+    "_los_max": 65,
     "_luck": 6,
     "_luck_max": 39,
     "_luck_mod": false,
@@ -25629,7 +25629,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 30,
     "_evasion_max": null,
     "_firepower": 5,
     "_firepower_max": 23,
@@ -25641,7 +25641,7 @@
     "_id": 593,
     "_implementation_date": [2025, 11, 10],
     "_japanese_name": "樫",
-    "_los": null,
+    "_los": 7,
     "_los_max": null,
     "_luck": 16,
     "_luck_max": 72,
@@ -38149,8 +38149,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 2,
+    "_evasion_max": 12,
     "_firepower": 3,
     "_firepower_max": 7,
     "_firepower_mod": false,
@@ -38161,7 +38161,7 @@
     "_id": 588,
     "_implementation_date": [2025, 11, 10],
     "_japanese_name": "南海",
-    "_los": null,
+    "_los": 2,
     "_los_max": null,
     "_luck": 6,
     "_luck_max": 39,
@@ -39396,7 +39396,7 @@
       }
     ],
     "_evasion": 4,
-    "_evasion_max": null,
+    "_evasion_max": 17,
     "_firepower": 18,
     "_firepower_max": 30,
     "_firepower_mod": 1,
@@ -39408,7 +39408,7 @@
     "_implementation_date": [2025, 10, 29],
     "_japanese_name": "Norge",
     "_los": 3,
-    "_los_max": null,
+    "_los_max": 6,
     "_luck": 3,
     "_luck_max": 18,
     "_luck_mod": false,
@@ -39462,8 +39462,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 5,
+    "_evasion_max": 19,
     "_firepower": 19,
     "_firepower_max": 39,
     "_firepower_mod": 2,
@@ -39683,7 +39683,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 4,
     "_evasion_max": null,
     "_firepower": 3,
     "_firepower_max": 11,
@@ -39754,7 +39754,7 @@
       }
     ],
     "_evasion": null,
-    "_evasion_max": null,
+    "_evasion_max": 37,
     "_firepower": 4,
     "_firepower_max": 17,
     "_firepower_mod": 1,
@@ -39764,7 +39764,7 @@
     "_id": 602,
     "_japanese_name": "野埼改",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 12,
     "_luck": 8,
     "_luck_max": 58,
     "_luck_mod": false,
@@ -56154,8 +56154,8 @@
         "size": 6
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 39,
+    "_evasion_max": 62,
     "_firepower": 37,
     "_firepower_max": 57,
     "_firepower_mod": 2,
@@ -56166,8 +56166,8 @@
     "_id": 615,
     "_implementation_date": [2025, 11, 10],
     "_japanese_name": "Wasp",
-    "_los": null,
-    "_los_max": null,
+    "_los": 51,
+    "_los_max": 82,
     "_luck": 44,
     "_luck_max": 88,
     "_luck_mod": false,
@@ -56224,7 +56224,7 @@
         "size": 16
       }
     ],
-    "_evasion": null,
+    "_evasion": 43,
     "_evasion_max": null,
     "_firepower": 39,
     "_firepower_max": 60,
