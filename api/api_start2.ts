@@ -144,6 +144,7 @@ export interface The10_APIShipIDS {
   '956'?: number
   '960'?: number
   '961'?: number
+  '963'?: number
   '968'?: number
   '971'?: number
   '972'?: number
@@ -173,6 +174,7 @@ export interface The106_APICtypes {
   '112'?: number
   '114'?: number
   '122'?: number
+  '135'?: number
   '16'?: number
   '20'?: number
   '30'?: number
@@ -225,6 +227,7 @@ export interface The12 {
 
 export interface The12_APICtypes {
   '108': number
+  '134': number
   '67': number
   '88': number
 }
@@ -501,6 +504,7 @@ export interface APIMstEquipShip {
   '959': The100
   '960': The100
   '961': The100
+  '963': The100
   '967': The372
   '968': The100
   '969': The100
@@ -1042,7 +1046,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
