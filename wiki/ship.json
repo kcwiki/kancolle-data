@@ -4207,7 +4207,7 @@
         "size": 0
       }
     ],
-    "_evasion": 8,
+    "_evasion": 5,
     "_evasion_max": 17,
     "_firepower": 1,
     "_firepower_max": 6,
@@ -6415,7 +6415,7 @@
     "_id": 189,
     "_implementation_date": [2014, 4, 23],
     "_japanese_name": "筑摩改二",
-    "_los": 31,
+    "_los": 30,
     "_los_max": 94,
     "_luck": 14,
     "_luck_max": 70,
@@ -37002,7 +37002,7 @@
       }
     ],
     "_evasion": 47,
-    "_evasion_max": 87,
+    "_evasion_max": 88,
     "_firepower": 50,
     "_firepower_max": 82,
     "_firepower_mod": 3,
@@ -38145,7 +38145,7 @@
     "_armor_max": 68,
     "_armor_mod": 2,
     "_asw": 48,
-    "_asw_max": 85,
+    "_asw_max": 86,
     "_class": "Sendai",
     "_class_number": 3,
     "_equipment": [
@@ -39768,7 +39768,7 @@
       }
     ],
     "_evasion": 4,
-    "_evasion_max": null,
+    "_evasion_max": 19,
     "_firepower": 3,
     "_firepower_max": 11,
     "_firepower_mod": false,
@@ -39779,7 +39779,7 @@
     "_implementation_date": [2025, 11, 10],
     "_japanese_name": "野埼",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 7,
     "_luck": 7,
     "_luck_max": 48,
     "_luck_mod": false,
@@ -39837,7 +39837,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 18,
     "_evasion_max": 37,
     "_firepower": 4,
     "_firepower_max": 17,
@@ -52820,7 +52820,7 @@
     "_id": 188,
     "_implementation_date": [2014, 4, 23],
     "_japanese_name": "利根改二",
-    "_los": 31,
+    "_los": 30,
     "_los_max": 93,
     "_luck": 15,
     "_luck_max": 77,
@@ -58273,7 +58273,7 @@
     "_id": 5,
     "_japanese_name": "雪風改",
     "_los": 8,
-    "_los_max": 40,
+    "_los_max": 41,
     "_luck": 60,
     "_luck_max": 99,
     "_luck_mod": false,
