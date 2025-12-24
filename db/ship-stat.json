@@ -1,0 +1,4147 @@
+{
+  "Mutsuki": {
+    "evasion": [37, 79],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Kisaragi": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Nagatsuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Mikazuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Fubuki": {
+    "evasion": [40, 89],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Shirayuki": {
+    "evasion": [40, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Miyuki": {
+    "evasion": [40, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Isonami": {
+    "evasion": [40, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Ayanami": {
+    "evasion": [41, 89],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Shikinami": {
+    "evasion": [41, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Akebono": {
+    "evasion": [41, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Ushio": {
+    "evasion": [41, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Kagerou": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "Shiranui": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "Kuroshio": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "Yukikaze": {
+    "evasion": [50, 89],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "Nagara": {
+    "evasion": [37, 79],
+    "asw": [20, 59],
+    "los": [8, 39]
+  },
+  "Isuzu": {
+    "evasion": [37, 69],
+    "asw": [40, 79],
+    "los": [8, 39]
+  },
+  "Yura": {
+    "evasion": [37, 69],
+    "asw": [40, 79],
+    "los": [8, 39]
+  },
+  "Ooi": {
+    "evasion": [37, 77],
+    "asw": [19, 59],
+    "los": [8, 39]
+  },
+  "Kitakami": {
+    "evasion": [36, 69],
+    "asw": [19, 59],
+    "los": [8, 39]
+  },
+  "Fusou": {
+    "evasion": [19, 39],
+    "asw": [0, 0],
+    "los": [9, 33]
+  },
+  "Yamashiro": {
+    "evasion": [19, 39],
+    "asw": [0, 0],
+    "los": [9, 33]
+  },
+  "Satsuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Fumizuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Kikuzuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Mochizuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Hatsuyuki": {
+    "evasion": [40, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Murakumo": {
+    "evasion": [40, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Akatsuki": {
+    "evasion": [42, 89],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Hibiki": {
+    "evasion": [42, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Ikazuchi": {
+    "evasion": [42, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Inazuma": {
+    "evasion": [42, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Hatsuharu": {
+    "evasion": [43, 89],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Nenohi": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Wakaba": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Hatsushimo": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Shiratsuyu": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Shigure": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Murasame": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Yuudachi": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Samidare": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Suzukaze": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Arare": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Kasumi": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Shimakaze": {
+    "evasion": [50, 99],
+    "asw": [24, 49],
+    "los": [7, 19]
+  },
+  "Tenryuu": {
+    "evasion": [35, 69],
+    "asw": [18, 59],
+    "los": [7, 19]
+  },
+  "Tatsuta": {
+    "evasion": [35, 69],
+    "asw": [18, 59],
+    "los": [7, 19]
+  },
+  "Natori": {
+    "evasion": [37, 69],
+    "asw": [20, 59],
+    "los": [8, 39]
+  },
+  "Sendai": {
+    "evasion": [38, 79],
+    "asw": [20, 69],
+    "los": [8, 39]
+  },
+  "Jintsuu": {
+    "evasion": [38, 69],
+    "asw": [20, 69],
+    "los": [8, 39]
+  },
+  "Naka": {
+    "evasion": [38, 69],
+    "asw": [24, 69],
+    "los": [8, 39]
+  },
+  "Ooi/Kai": {
+    "evasion": [37, 77],
+    "asw": [25, 59],
+    "los": [8, 39]
+  },
+  "Kitakami/Kai": {
+    "evasion": [37, 77],
+    "asw": [25, 59],
+    "los": [8, 39]
+  },
+  "Furutaka": {
+    "evasion": [33, 69],
+    "asw": [0, 0],
+    "los": [10, 39]
+  },
+  "Kako": {
+    "evasion": [33, 59],
+    "asw": [0, 0],
+    "los": [10, 39]
+  },
+  "Aoba": {
+    "evasion": [33, 69],
+    "asw": [0, 0],
+    "los": [11, 39]
+  },
+  "Myoukou": {
+    "evasion": [34, 69],
+    "asw": [0, 0],
+    "los": [12, 39]
+  },
+  "Nachi": {
+    "evasion": [34, 59],
+    "asw": [0, 0],
+    "los": [12, 39]
+  },
+  "Ashigara": {
+    "evasion": [34, 59],
+    "asw": [0, 0],
+    "los": [12, 39]
+  },
+  "Haguro": {
+    "evasion": [34, 59],
+    "asw": [0, 0],
+    "los": [12, 39]
+  },
+  "Takao": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Atago": {
+    "evasion": [35, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Maya": {
+    "evasion": [35, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Choukai": {
+    "evasion": [35, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Mogami": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [14, 39]
+  },
+  "Tone": {
+    "evasion": [36, 69],
+    "asw": [0, 0],
+    "los": [20, 59]
+  },
+  "Chikuma": {
+    "evasion": [36, 69],
+    "asw": [0, 0],
+    "los": [20, 59]
+  },
+  "Mogami/Kai": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [22, 59]
+  },
+  "Shouhou": {
+    "evasion": [28, 49],
+    "asw": [0, 0],
+    "los": [34, 69]
+  },
+  "Hiyou": {
+    "evasion": [28, 54],
+    "asw": [0, 0],
+    "los": [38, 59]
+  },
+  "Ryuujou": {
+    "evasion": [27, 44],
+    "asw": [0, 0],
+    "los": [34, 69]
+  },
+  "Ise": {
+    "evasion": [22, 49],
+    "asw": [0, 0],
+    "los": [10, 36]
+  },
+  "Kongou": {
+    "evasion": [30, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Haruna": {
+    "evasion": [30, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Nagato": {
+    "evasion": [24, 49],
+    "asw": [0, 0],
+    "los": [12, 39]
+  },
+  "Mutsu": {
+    "evasion": [24, 49],
+    "asw": [0, 0],
+    "los": [12, 39]
+  },
+  "Ise/Kai": {
+    "evasion": [36, 77],
+    "asw": [0, 0],
+    "los": [24, 60]
+  },
+  "Akagi": {
+    "evasion": [28, 49],
+    "asw": [0, 0],
+    "los": [44, 69]
+  },
+  "Kaga": {
+    "evasion": [27, 49],
+    "asw": [0, 0],
+    "los": [40, 69]
+  },
+  "Kirishima": {
+    "evasion": [30, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Hiei": {
+    "evasion": [30, 59],
+    "asw": [0, 0],
+    "los": [13, 39]
+  },
+  "Hyuuga": {
+    "evasion": [22, 49],
+    "asw": [0, 0],
+    "los": [10, 36]
+  },
+  "Hyuuga/Kai": {
+    "evasion": [36, 77],
+    "asw": [0, 0],
+    "los": [24, 60]
+  },
+  "Houshou": {
+    "evasion": [24, 39],
+    "asw": [0, 0],
+    "los": [32, 69]
+  },
+  "Souryuu": {
+    "evasion": [33, 59],
+    "asw": [0, 0],
+    "los": [42, 69]
+  },
+  "Hiryuu": {
+    "evasion": [37, 69],
+    "asw": [0, 0],
+    "los": [42, 69]
+  },
+  "Junyou": {
+    "evasion": [28, 54],
+    "asw": [0, 0],
+    "los": [38, 59]
+  },
+  "Oboro": {
+    "evasion": [41, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Sazanami": {
+    "evasion": [41, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Asashio": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Ooshio": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Michishio": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Arashio": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Kuma": {
+    "evasion": [36, 79],
+    "asw": [19, 59],
+    "los": [8, 39]
+  },
+  "Tama": {
+    "evasion": [36, 69],
+    "asw": [19, 59],
+    "los": [8, 39]
+  },
+  "Kiso": {
+    "evasion": [36, 69],
+    "asw": [19, 59],
+    "los": [8, 39]
+  },
+  "Chitose": {
+    "evasion": [20, 39],
+    "asw": [0, 0],
+    "los": [34, 69]
+  },
+  "Chiyoda": {
+    "evasion": [20, 39],
+    "asw": [0, 0],
+    "los": [34, 69]
+  },
+  "Chitose/Kai": {
+    "evasion": [25, 44],
+    "asw": [0, 0],
+    "los": [36, 69]
+  },
+  "Chiyoda/Kai": {
+    "evasion": [25, 44],
+    "asw": [0, 0],
+    "los": [36, 69]
+  },
+  "Chitose/A": {
+    "evasion": [27, 49],
+    "asw": [0, 0],
+    "los": [30, 69]
+  },
+  "Chiyoda/A": {
+    "evasion": [27, 49],
+    "asw": [0, 0],
+    "los": [30, 69]
+  },
+  "Chitose/Kou": {
+    "evasion": [37, 67],
+    "asw": [0, 0],
+    "los": [36, 69]
+  },
+  "Chiyoda/Kou": {
+    "evasion": [37, 67],
+    "asw": [0, 0],
+    "los": [36, 69]
+  },
+  "Shoukaku": {
+    "evasion": [36, 59],
+    "asw": [0, 0],
+    "los": [44, 69]
+  },
+  "Zuikaku": {
+    "evasion": [39, 69],
+    "asw": [0, 0],
+    "los": [44, 69]
+  },
+  "Zuikaku/Kai": {
+    "evasion": [42, 79],
+    "asw": [0, 0],
+    "los": [48, 89]
+  },
+  "Kinu": {
+    "evasion": [38, 69],
+    "asw": [20, 59],
+    "los": [8, 39]
+  },
+  "Abukuma": {
+    "evasion": [39, 69],
+    "asw": [20, 59],
+    "los": [8, 39]
+  },
+  "Yuubari": {
+    "evasion": [42, 69],
+    "asw": [13, 39],
+    "los": [6, 39]
+  },
+  "Zuihou": {
+    "evasion": [29, 49],
+    "asw": [0, 0],
+    "los": [34, 69]
+  },
+  "Zuihou/Kai": {
+    "evasion": [29, 59],
+    "asw": [0, 0],
+    "los": [35, 79]
+  },
+  "Ooi/Kai Ni": {
+    "evasion": [43, 83],
+    "asw": [27, 79],
+    "los": [9, 43]
+  },
+  "Kitakami/Kai Ni": {
+    "evasion": [43, 83],
+    "asw": [27, 79],
+    "los": [9, 43]
+  },
+  "Mikuma": {
+    "evasion": [31, 62],
+    "asw": [0, 0],
+    "los": [14, 39]
+  },
+  "Mikuma/Kai": {
+    "evasion": [34, 69],
+    "asw": [0, 0],
+    "los": [22, 61]
+  },
+  "Maikaze": {
+    "evasion": [45, 79],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "Kinugasa": {
+    "evasion": [33, 69],
+    "asw": [0, 0],
+    "los": [11, 39]
+  },
+  "Suzuya": {
+    "evasion": [31, 62],
+    "asw": [0, 0],
+    "los": [14, 39]
+  },
+  "Kumano": {
+    "evasion": [31, 62],
+    "asw": [0, 0],
+    "los": [14, 39]
+  },
+  "I-168": {
+    "evasion": [15, 39],
+    "asw": [0, 0],
+    "los": [9, 29]
+  },
+  "I-58": {
+    "evasion": [13, 36],
+    "asw": [0, 0],
+    "los": [10, 39]
+  },
+  "I-8": {
+    "evasion": [14, 37],
+    "asw": [0, 0],
+    "los": [10, 39]
+  },
+  "Suzuya/Kai": {
+    "evasion": [34, 69],
+    "asw": [0, 0],
+    "los": [22, 59]
+  },
+  "Kumano/Kai": {
+    "evasion": [34, 69],
+    "asw": [0, 0],
+    "los": [22, 59]
+  },
+  "Yamato": {
+    "evasion": [27, 59],
+    "asw": [0, 0],
+    "los": [15, 39]
+  },
+  "Akigumo": {
+    "evasion": [45, 79],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "Yuugumo": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [6, 19]
+  },
+  "Makigumo": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [6, 19]
+  },
+  "Naganami": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [6, 19]
+  },
+  "Yamato/Kai": {
+    "evasion": [28, 64],
+    "asw": [0, 0],
+    "los": [17, 39]
+  },
+  "Agano": {
+    "evasion": [37, 72],
+    "asw": [25, 70],
+    "los": [12, 45]
+  },
+  "Noshiro": {
+    "evasion": [37, 72],
+    "asw": [25, 70],
+    "los": [12, 45]
+  },
+  "Yahagi": {
+    "evasion": [38, 72],
+    "asw": [25, 70],
+    "los": [13, 45]
+  },
+  "Sakawa": {
+    "evasion": [36, 72],
+    "asw": [27, 72],
+    "los": [12, 45]
+  },
+  "Isuzu/Kai Ni": {
+    "evasion": [42, 80],
+    "asw": [54, 94],
+    "los": [15, 59]
+  },
+  "Kinugasa/Kai Ni": {
+    "evasion": [38, 79],
+    "asw": [0, 0],
+    "los": [13, 58]
+  },
+  "Musashi": {
+    "evasion": [27, 59],
+    "asw": [0, 0],
+    "los": [16, 40]
+  },
+  "Yuudachi/Kai Ni": {
+    "evasion": [46, 89],
+    "asw": [28, 69],
+    "los": [12, 49]
+  },
+  "Shigure/Kai Ni": {
+    "evasion": [62, 94],
+    "asw": [31, 80],
+    "los": [9, 48]
+  },
+  "Kiso/Kai Ni": {
+    "evasion": [45, 85],
+    "asw": [32, 82],
+    "los": [13, 49]
+  },
+  "Verniy": {
+    "evasion": [47, 89],
+    "asw": [30, 77],
+    "los": [10, 44]
+  },
+  "Musashi/Kai": {
+    "evasion": [27, 63],
+    "asw": [0, 0],
+    "los": [18, 40]
+  },
+  "Kongou/Kai Ni": {
+    "evasion": [37, 73],
+    "asw": [0, 0],
+    "los": [16, 49]
+  },
+  "Hiei/Kai Ni": {
+    "evasion": [36, 72],
+    "asw": [0, 0],
+    "los": [16, 52]
+  },
+  "Haruna/Kai Ni": {
+    "evasion": [39, 76],
+    "asw": [0, 0],
+    "los": [17, 51]
+  },
+  "Kirishima/Kai Ni": {
+    "evasion": [34, 72],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Taihou": {
+    "evasion": [33, 57],
+    "asw": [0, 0],
+    "los": [47, 74]
+  },
+  "Katori": {
+    "evasion": [24, 49],
+    "asw": [12, 42],
+    "los": [10, 38]
+  },
+  "I-401": {
+    "evasion": [13, 35],
+    "asw": [0, 0],
+    "los": [15, 45]
+  },
+  "Taihou/Kai": {
+    "evasion": [34, 59],
+    "asw": [0, 0],
+    "los": [50, 77]
+  },
+  "Ryuujou/Kai Ni": {
+    "evasion": [36, 69],
+    "asw": [0, 0],
+    "los": [37, 79]
+  },
+  "Sendai/Kai Ni": {
+    "evasion": [43, 84],
+    "asw": [38, 74],
+    "los": [16, 55]
+  },
+  "Jintsuu/Kai Ni": {
+    "evasion": [41, 80],
+    "asw": [40, 80],
+    "los": [12, 54]
+  },
+  "Naka/Kai Ni": {
+    "evasion": [42, 82],
+    "asw": [48, 86],
+    "los": [15, 54]
+  },
+  "Akitsu Maru": {
+    "evasion": [15, 39],
+    "asw": [0, 0],
+    "los": [3, 13]
+  },
+  "Kamoi": {
+    "evasion": [13, 27],
+    "asw": [0, 0],
+    "los": [5, 15]
+  },
+  "Maruyu": {
+    "evasion": [9, 19],
+    "asw": [0, 0],
+    "los": [1, 9]
+  },
+  "Yayoi": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Uzuki": {
+    "evasion": [37, 69],
+    "asw": [16, 39],
+    "los": [4, 17]
+  },
+  "Akitsu Maru/Kai": {
+    "evasion": [17, 49],
+    "asw": [0, 0],
+    "los": [13, 59]
+  },
+  "Isokaze": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [8, 19]
+  },
+  "Urakaze": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [7, 19]
+  },
+  "Tanikaze": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [7, 19]
+  },
+  "Hamakaze": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [7, 19]
+  },
+  "Bismarck": {
+    "evasion": [33, 63],
+    "asw": [0, 0],
+    "los": [16, 42]
+  },
+  "Bismarck/Kai": {
+    "evasion": [38, 69],
+    "asw": [0, 0],
+    "los": [18, 52]
+  },
+  "Bismarck/Zwei": {
+    "evasion": [39, 72],
+    "asw": [0, 0],
+    "los": [19, 54]
+  },
+  "Z1": {
+    "evasion": [36, 76],
+    "asw": [32, 64],
+    "los": [6, 24]
+  },
+  "Z3": {
+    "evasion": [36, 76],
+    "asw": [32, 64],
+    "los": [6, 24]
+  },
+  "Prinz Eugen": {
+    "evasion": [34, 68],
+    "asw": [0, 0],
+    "los": [15, 40]
+  },
+  "Prinz Eugen/Kai": {
+    "evasion": [40, 74],
+    "asw": [0, 0],
+    "los": [16, 50]
+  },
+  "Bismarck/Drei": {
+    "evasion": [40, 74],
+    "asw": [0, 0],
+    "los": [22, 59]
+  },
+  "Z1/Zwei": {
+    "evasion": [43, 84],
+    "asw": [37, 69],
+    "los": [9, 43]
+  },
+  "Z3/Zwei": {
+    "evasion": [43, 84],
+    "asw": [37, 69],
+    "los": [9, 43]
+  },
+  "Amatsukaze": {
+    "evasion": [48, 89],
+    "asw": [26, 54],
+    "los": [8, 19]
+  },
+  "Akashi": {
+    "evasion": [8, 29],
+    "asw": [0, 0],
+    "los": [1, 5]
+  },
+  "Ooyodo": {
+    "evasion": [35, 70],
+    "asw": [0, 39],
+    "los": [24, 80]
+  },
+  "Taigei": {
+    "evasion": [24, 39],
+    "asw": [0, 0],
+    "los": [24, 48]
+  },
+  "Ryuuhou": {
+    "evasion": [27, 49],
+    "asw": [0, 0],
+    "los": [28, 64]
+  },
+  "Tokitsukaze": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [7, 19]
+  },
+  "Akashi/Kai": {
+    "evasion": [10, 39],
+    "asw": [0, 0],
+    "los": [2, 6]
+  },
+  "Tone/Kai Ni": {
+    "evasion": [42, 83],
+    "asw": [0, 0],
+    "los": [30, 93]
+  },
+  "Chikuma/Kai Ni": {
+    "evasion": [42, 80],
+    "asw": [0, 0],
+    "los": [30, 94]
+  },
+  "Hatsukaze": {
+    "evasion": [45, 79],
+    "asw": [24, 49],
+    "los": [6, 19]
+  },
+  "I-19": {
+    "evasion": [12, 36],
+    "asw": [0, 0],
+    "los": [10, 39]
+  },
+  "Nachi/Kai Ni": {
+    "evasion": [44, 83],
+    "asw": [0, 0],
+    "los": [20, 63]
+  },
+  "Ashigara/Kai Ni": {
+    "evasion": [44, 85],
+    "asw": [0, 0],
+    "los": [17, 57]
+  },
+  "Haguro/Kai Ni": {
+    "evasion": [45, 86],
+    "asw": [0, 0],
+    "los": [18, 58]
+  },
+  "Ayanami/Kai Ni": {
+    "evasion": [50, 90],
+    "asw": [25, 63],
+    "los": [13, 51]
+  },
+  "Hiryuu/Kai Ni": {
+    "evasion": [40, 87],
+    "asw": [0, 0],
+    "los": [52, 89]
+  },
+  "Souryuu/Kai Ni": {
+    "evasion": [36, 75],
+    "asw": [0, 0],
+    "los": [55, 93]
+  },
+  "Arare/Kai Ni": {
+    "evasion": [46, 91],
+    "asw": [33, 81],
+    "los": [11, 53]
+  },
+  "Ooshio/Kai Ni": {
+    "evasion": [47, 90],
+    "asw": [26, 64],
+    "los": [12, 54]
+  },
+  "Abukuma/Kai Ni": {
+    "evasion": [45, 83],
+    "asw": [48, 82],
+    "los": [16, 60]
+  },
+  "Fubuki/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Shirayuki/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Hatsuyuki/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Miyuki/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 42]
+  },
+  "Murakumo/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Isonami/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Ayanami/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Shikinami/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Kongou/Kai": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Hiei/Kai": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Haruna/Kai": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Kirishima/Kai": {
+    "evasion": [35, 69],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Tenryuu/Kai": {
+    "evasion": [42, 79],
+    "asw": [24, 69],
+    "los": [10, 49]
+  },
+  "Tatsuta/Kai": {
+    "evasion": [42, 79],
+    "asw": [24, 69],
+    "los": [10, 49]
+  },
+  "Kuma/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Tama/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Kiso/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Nagara/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Isuzu/Kai": {
+    "evasion": [40, 79],
+    "asw": [48, 79],
+    "los": [10, 49]
+  },
+  "Yura/Kai": {
+    "evasion": [40, 79],
+    "asw": [48, 79],
+    "los": [10, 49]
+  },
+  "Natori/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Sendai/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Jintsuu/Kai": {
+    "evasion": [40, 79],
+    "asw": [24, 79],
+    "los": [10, 49]
+  },
+  "Naka/Kai": {
+    "evasion": [40, 79],
+    "asw": [32, 79],
+    "los": [10, 49]
+  },
+  "Kagerou/Kai": {
+    "evasion": [47, 89],
+    "asw": [27, 59],
+    "los": [8, 39]
+  },
+  "Shiranui/Kai": {
+    "evasion": [47, 89],
+    "asw": [27, 59],
+    "los": [8, 39]
+  },
+  "Kuroshio/Kai": {
+    "evasion": [47, 89],
+    "asw": [27, 59],
+    "los": [8, 39]
+  },
+  "Yukikaze/Kai": {
+    "evasion": [67, 99],
+    "asw": [27, 60],
+    "los": [8, 41]
+  },
+  "Shimakaze/Kai": {
+    "evasion": [55, 99],
+    "asw": [27, 59],
+    "los": [9, 39]
+  },
+  "Oboro/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Akebono/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Sazanami/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Ushio/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Akatsuki/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Hibiki/Kai": {
+    "evasion": [45, 91],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Ikazuchi/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Inazuma/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Hatsuharu/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Nenohi/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Wakaba/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Hatsushimo/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Shiratsuyu/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Shigure/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Murasame/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Yuudachi/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Samidare/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Suzukaze/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Asashio/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 39]
+  },
+  "Ooshio/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 39]
+  },
+  "Michishio/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 39]
+  },
+  "Arashio/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 39]
+  },
+  "Arare/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 39]
+  },
+  "Kasumi/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 39]
+  },
+  "Mutsuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Kisaragi/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Satsuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Fumizuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Nagatsuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Kikuzuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Mikazuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Mochizuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Furutaka/Kai": {
+    "evasion": [38, 75],
+    "asw": [0, 0],
+    "los": [12, 49]
+  },
+  "Kako/Kai": {
+    "evasion": [38, 75],
+    "asw": [0, 0],
+    "los": [12, 49]
+  },
+  "Aoba/Kai": {
+    "evasion": [38, 81],
+    "asw": [0, 0],
+    "los": [12, 49]
+  },
+  "Myoukou/Kai": {
+    "evasion": [39, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Nachi/Kai": {
+    "evasion": [39, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Ashigara/Kai": {
+    "evasion": [39, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Haguro/Kai": {
+    "evasion": [39, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Takao/Kai": {
+    "evasion": [40, 80],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Atago/Kai": {
+    "evasion": [40, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Maya/Kai": {
+    "evasion": [40, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Choukai/Kai": {
+    "evasion": [40, 79],
+    "asw": [0, 0],
+    "los": [14, 49]
+  },
+  "Tone/Kai": {
+    "evasion": [41, 79],
+    "asw": [0, 0],
+    "los": [24, 79]
+  },
+  "Chikuma/Kai": {
+    "evasion": [41, 79],
+    "asw": [0, 0],
+    "los": [24, 79]
+  },
+  "Nagato/Kai": {
+    "evasion": [24, 69],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Mutsu/Kai": {
+    "evasion": [24, 69],
+    "asw": [0, 0],
+    "los": [15, 49]
+  },
+  "Akagi/Kai": {
+    "evasion": [28, 69],
+    "asw": [0, 0],
+    "los": [50, 89]
+  },
+  "Kaga/Kai": {
+    "evasion": [27, 69],
+    "asw": [0, 0],
+    "los": [50, 89]
+  },
+  "Souryuu/Kai": {
+    "evasion": [33, 69],
+    "asw": [0, 0],
+    "los": [46, 89]
+  },
+  "Hiryuu/Kai": {
+    "evasion": [37, 79],
+    "asw": [0, 0],
+    "los": [46, 89]
+  },
+  "Ryuujou/Kai": {
+    "evasion": [27, 59],
+    "asw": [0, 0],
+    "los": [35, 79]
+  },
+  "Shouhou/Kai": {
+    "evasion": [28, 59],
+    "asw": [0, 0],
+    "los": [35, 79]
+  },
+  "Hiyou/Kai": {
+    "evasion": [28, 69],
+    "asw": [0, 0],
+    "los": [40, 79]
+  },
+  "Junyou/Kai": {
+    "evasion": [28, 69],
+    "asw": [0, 0],
+    "los": [40, 79]
+  },
+  "Houshou/Kai": {
+    "evasion": [24, 59],
+    "asw": [0, 0],
+    "los": [35, 79]
+  },
+  "Fusou/Kai": {
+    "evasion": [33, 67],
+    "asw": [0, 0],
+    "los": [18, 49]
+  },
+  "Yamashiro/Kai": {
+    "evasion": [33, 67],
+    "asw": [0, 0],
+    "los": [18, 49]
+  },
+  "Shoukaku/Kai": {
+    "evasion": [38, 79],
+    "asw": [0, 0],
+    "los": [48, 89]
+  },
+  "Kinu/Kai": {
+    "evasion": [42, 79],
+    "asw": [48, 79],
+    "los": [10, 49]
+  },
+  "Abukuma/Kai": {
+    "evasion": [44, 79],
+    "asw": [48, 79],
+    "los": [10, 49]
+  },
+  "Chitose/Kou Kai": {
+    "evasion": [37, 69],
+    "asw": [0, 0],
+    "los": [42, 79]
+  },
+  "Chiyoda/Kou Kai": {
+    "evasion": [37, 69],
+    "asw": [0, 0],
+    "los": [42, 79]
+  },
+  "Yuubari/Kai": {
+    "evasion": [42, 69],
+    "asw": [24, 69],
+    "los": [8, 44]
+  },
+  "Maikaze/Kai": {
+    "evasion": [47, 89],
+    "asw": [27, 72],
+    "los": [8, 39]
+  },
+  "Kinugasa/Kai": {
+    "evasion": [38, 75],
+    "asw": [0, 0],
+    "los": [12, 49]
+  },
+  "Chitose/Kou Kai Ni": {
+    "evasion": [38, 69],
+    "asw": [0, 0],
+    "los": [42, 79]
+  },
+  "Chiyoda/Kou Kai Ni": {
+    "evasion": [38, 69],
+    "asw": [0, 0],
+    "los": [42, 79]
+  },
+  "Scamp": {
+    "evasion": [17, 43],
+    "asw": [0, 0],
+    "los": [11, 41]
+  },
+  "Hatsukaze/Kai": {
+    "evasion": [47, 89],
+    "asw": [27, 64],
+    "los": [8, 39]
+  },
+  "Akigumo/Kai": {
+    "evasion": [47, 89],
+    "asw": [27, 64],
+    "los": [8, 39]
+  },
+  "Yuugumo/Kai": {
+    "evasion": [48, 90],
+    "asw": [29, 67],
+    "los": [9, 42]
+  },
+  "Makigumo/Kai": {
+    "evasion": [48, 90],
+    "asw": [29, 67],
+    "los": [9, 42]
+  },
+  "Naganami/Kai": {
+    "evasion": [48, 90],
+    "asw": [29, 67],
+    "los": [9, 42]
+  },
+  "Agano/Kai": {
+    "evasion": [42, 80],
+    "asw": [26, 82],
+    "los": [14, 59]
+  },
+  "Noshiro/Kai": {
+    "evasion": [42, 80],
+    "asw": [26, 82],
+    "los": [14, 59]
+  },
+  "Yahagi/Kai": {
+    "evasion": [43, 84],
+    "asw": [26, 82],
+    "los": [14, 59]
+  },
+  "Yayoi/Kai": {
+    "evasion": [40, 89],
+    "asw": [18, 59],
+    "los": [6, 39]
+  },
+  "Uzuki/Kai": {
+    "evasion": [40, 89],
+    "asw": [21, 65],
+    "los": [6, 39]
+  },
+  "Z1/Kai": {
+    "evasion": [41, 79],
+    "asw": [36, 69],
+    "los": [8, 42]
+  },
+  "Z3/Kai": {
+    "evasion": [41, 79],
+    "asw": [36, 69],
+    "los": [8, 42]
+  },
+  "Hamakaze/Kai": {
+    "evasion": [46, 88],
+    "asw": [27, 68],
+    "los": [8, 39]
+  },
+  "Tanikaze/Kai": {
+    "evasion": [46, 88],
+    "asw": [28, 69],
+    "los": [8, 39]
+  },
+  "Sakawa/Kai": {
+    "evasion": [41, 81],
+    "asw": [30, 85],
+    "los": [14, 59]
+  },
+  "Amatsukaze/Kai": {
+    "evasion": [50, 94],
+    "asw": [28, 59],
+    "los": [9, 39]
+  },
+  "Urakaze/Kai": {
+    "evasion": [46, 88],
+    "asw": [29, 69],
+    "los": [8, 39]
+  },
+  "Ryuuhou/Kai": {
+    "evasion": [30, 62],
+    "asw": [0, 0],
+    "los": [30, 74]
+  },
+  "Myoukou/Kai Ni": {
+    "evasion": [47, 88],
+    "asw": [0, 0],
+    "los": [19, 61]
+  },
+  "Isokaze/Kai": {
+    "evasion": [47, 88],
+    "asw": [27, 68],
+    "los": [9, 49]
+  },
+  "Ooyodo/Kai": {
+    "evasion": [40, 78],
+    "asw": [0, 39],
+    "los": [28, 84]
+  },
+  "Tokitsukaze/Kai": {
+    "evasion": [46, 88],
+    "asw": [26, 64],
+    "los": [8, 39]
+  },
+  "Harusame/Kai": {
+    "evasion": [45, 89],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Hayashimo/Kai": {
+    "evasion": [48, 90],
+    "asw": [29, 67],
+    "los": [9, 42]
+  },
+  "Kiyoshimo/Kai": {
+    "evasion": [48, 90],
+    "asw": [29, 67],
+    "los": [9, 42]
+  },
+  "Hatsuharu/Kai Ni": {
+    "evasion": [48, 90],
+    "asw": [30, 69],
+    "los": [10, 45]
+  },
+  "Asagumo/Kai": {
+    "evasion": [46, 90],
+    "asw": [24, 60],
+    "los": [8, 40]
+  },
+  "Yamagumo/Kai": {
+    "evasion": [46, 89],
+    "asw": [27, 65],
+    "los": [8, 40]
+  },
+  "Nowaki/Kai": {
+    "evasion": [46, 88],
+    "asw": [28, 68],
+    "los": [8, 39]
+  },
+  "Akizuki/Kai": {
+    "evasion": [48, 88],
+    "asw": [30, 72],
+    "los": [10, 49]
+  },
+  "Amagi": {
+    "evasion": [33, 59],
+    "asw": [0, 0],
+    "los": [38, 74]
+  },
+  "Katsuragi": {
+    "evasion": [34, 59],
+    "asw": [0, 0],
+    "los": [36, 70]
+  },
+  "U-511/Kai": {
+    "evasion": [20, 59],
+    "asw": [0, 0],
+    "los": [9, 29]
+  },
+  "Katori/Kai": {
+    "evasion": [26, 52],
+    "asw": [22, 62],
+    "los": [12, 48]
+  },
+  "Asashimo/Kai": {
+    "evasion": [49, 92],
+    "asw": [35, 79],
+    "los": [10, 43]
+  },
+  "Takanami/Kai": {
+    "evasion": [48, 90],
+    "asw": [29, 67],
+    "los": [13, 54]
+  },
+  "Teruzuki/Kai": {
+    "evasion": [48, 87],
+    "asw": [30, 72],
+    "los": [10, 49]
+  },
+  "Libeccio/Kai": {
+    "evasion": [50, 92],
+    "asw": [40, 80],
+    "los": [10, 46]
+  },
+  "Mizuho/Kai": {
+    "evasion": [24, 42],
+    "asw": [0, 0],
+    "los": [38, 94]
+  },
+  "Kazagumo/Kai": {
+    "evasion": [48, 90],
+    "asw": [30, 69],
+    "los": [9, 42]
+  },
+  "Umikaze/Kai": {
+    "evasion": [46, 89],
+    "asw": [27, 63],
+    "los": [8, 40]
+  },
+  "Kawakaze/Kai": {
+    "evasion": [46, 89],
+    "asw": [24, 59],
+    "los": [8, 40]
+  },
+  "Hayasui/Kai": {
+    "evasion": [10, 33],
+    "asw": [12, 36],
+    "los": [18, 59]
+  },
+  "Graf Zeppelin/Kai": {
+    "evasion": [29, 69],
+    "asw": [0, 0],
+    "los": [46, 75]
+  },
+  "Arashi/Kai": {
+    "evasion": [46, 87],
+    "asw": [30, 70],
+    "los": [8, 39]
+  },
+  "Hagikaze/Kai": {
+    "evasion": [46, 87],
+    "asw": [28, 68],
+    "los": [8, 39]
+  },
+  "Kashima/Kai": {
+    "evasion": [27, 54],
+    "asw": [24, 69],
+    "los": [10, 50]
+  },
+  "Hatsuzuki/Kai": {
+    "evasion": [49, 89],
+    "asw": [30, 72],
+    "los": [10, 49]
+  },
+  "Zara/Kai": {
+    "evasion": [37, 72],
+    "asw": [0, 0],
+    "los": [12, 46]
+  },
+  "Okinami/Kai": {
+    "evasion": [48, 90],
+    "asw": [32, 70],
+    "los": [9, 42]
+  },
+  "Iowa/Kai": {
+    "evasion": [36, 70],
+    "asw": [0, 0],
+    "los": [30, 71]
+  },
+  "Pola/Kai": {
+    "evasion": [36, 71],
+    "asw": [0, 0],
+    "los": [11, 47]
+  },
+  "Oyashio/Kai": {
+    "evasion": [46, 87],
+    "asw": [27, 67],
+    "los": [9, 40]
+  },
+  "Harukaze/Kai": {
+    "evasion": [55, 91],
+    "asw": [22, 76],
+    "los": [8, 46]
+  },
+  "Warspite/Kai": {
+    "evasion": [28, 67],
+    "asw": [0, 0],
+    "los": [20, 60]
+  },
+  "Aquila/Kai": {
+    "evasion": [30, 73],
+    "asw": [0, 0],
+    "los": [36, 72]
+  },
+  "Minazuki/Kai": {
+    "evasion": [41, 89],
+    "asw": [19, 61],
+    "los": [6, 39]
+  },
+  "I-26/Kai": {
+    "evasion": [14, 52],
+    "asw": [0, 0],
+    "los": [17, 41]
+  },
+  "Uranami/Kai": {
+    "evasion": [47, 93],
+    "asw": [24, 59],
+    "los": [8, 43]
+  },
+  "Yamakaze/Kai": {
+    "evasion": [44, 88],
+    "asw": [30, 73],
+    "los": [7, 42]
+  },
+  "Asakaze/Kai": {
+    "evasion": [50, 88],
+    "asw": [18, 68],
+    "los": [9, 47]
+  },
+  "Matsukaze/Kai": {
+    "evasion": [49, 87],
+    "asw": [20, 70],
+    "los": [9, 47]
+  },
+  "Commandant Teste/Kai": {
+    "evasion": [25, 44],
+    "asw": [0, 0],
+    "los": [34, 88]
+  },
+  "Fujinami/Kai": {
+    "evasion": [47, 89],
+    "asw": [28, 66],
+    "los": [12, 56]
+  },
+  "I-13/Kai": {
+    "evasion": [12, 47],
+    "asw": [0, 0],
+    "los": [13, 43]
+  },
+  "I-14/Kai": {
+    "evasion": [15, 53],
+    "asw": [0, 0],
+    "los": [14, 44]
+  },
+  "Shimushu/Kai": {
+    "evasion": [58, 92],
+    "asw": [35, 77],
+    "los": [5, 28]
+  },
+  "Kunashiri/Kai": {
+    "evasion": [57, 91],
+    "asw": [34, 75],
+    "los": [6, 29]
+  },
+  "Hachijou/Kai": {
+    "evasion": [58, 93],
+    "asw": [34, 76],
+    "los": [5, 29]
+  },
+  "Ishigaki/Kai": {
+    "evasion": [57, 92],
+    "asw": [36, 79],
+    "los": [6, 30]
+  },
+  "Taiyou/Kai": {
+    "evasion": [24, 49],
+    "asw": [65, 79],
+    "los": [33, 64]
+  },
+  "Shinyou/Kai": {
+    "evasion": [23, 50],
+    "asw": [66, 80],
+    "los": [29, 60]
+  },
+  "Unyou/Kai": {
+    "evasion": [23, 49],
+    "asw": [64, 79],
+    "los": [31, 61]
+  },
+  "Etorofu/Kai": {
+    "evasion": [56, 92],
+    "asw": [37, 79],
+    "los": [5, 28]
+  },
+  "Matsuwa/Kai": {
+    "evasion": [54, 89],
+    "asw": [36, 79],
+    "los": [5, 28]
+  },
+  "Sado/Kai": {
+    "evasion": [54, 88],
+    "asw": [37, 79],
+    "los": [6, 29]
+  },
+  "Tsushima/Kai": {
+    "evasion": [55, 93],
+    "asw": [36, 81],
+    "los": [5, 28]
+  },
+  "Hatakaze/Kai": {
+    "evasion": [51, 89],
+    "asw": [21, 70],
+    "los": [8, 46]
+  },
+  "Amagiri/Kai": {
+    "evasion": [45, 90],
+    "asw": [24, 59],
+    "los": [7, 39]
+  },
+  "Sagiri/Kai": {
+    "evasion": [44, 88],
+    "asw": [24, 59],
+    "los": [7, 41]
+  },
+  "Richelieu/Kai": {
+    "evasion": [39, 74],
+    "asw": [0, 0],
+    "los": [16, 54]
+  },
+  "Ark Royal/Kai": {
+    "evasion": [34, 68],
+    "asw": [0, 0],
+    "los": [42, 84]
+  },
+  "Jervis/Kai": {
+    "evasion": [49, 90],
+    "asw": [55, 92],
+    "los": [12, 52]
+  },
+  "Tashkent/Kai": {
+    "evasion": [50, 94],
+    "asw": [40, 73],
+    "los": [10, 48]
+  },
+  "Gambier Bay/Kai": {
+    "evasion": [20, 46],
+    "asw": [30, 68],
+    "los": [38, 68]
+  },
+  "Intrepid/Kai": {
+    "evasion": [44, 68],
+    "asw": [0, 0],
+    "los": [52, 90]
+  },
+  "I-168/Kai": {
+    "evasion": [16, 49],
+    "asw": [0, 0],
+    "los": [10, 29]
+  },
+  "I-58/Kai": {
+    "evasion": [15, 49],
+    "asw": [0, 0],
+    "los": [15, 39]
+  },
+  "I-8/Kai": {
+    "evasion": [15, 49],
+    "asw": [0, 0],
+    "los": [16, 39]
+  },
+  "I-19/Kai": {
+    "evasion": [13, 49],
+    "asw": [0, 0],
+    "los": [15, 39]
+  },
+  "Maruyu/Kai": {
+    "evasion": [9, 29],
+    "asw": [0, 0],
+    "los": [1, 19]
+  },
+  "I-401/Kai": {
+    "evasion": [12, 44],
+    "asw": [0, 0],
+    "los": [15, 45]
+  },
+  "Unryuu": {
+    "evasion": [32, 59],
+    "asw": [0, 0],
+    "los": [40, 72]
+  },
+  "Harusame": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Unryuu/Kai": {
+    "evasion": [35, 72],
+    "asw": [0, 0],
+    "los": [48, 82]
+  },
+  "Ushio/Kai Ni": {
+    "evasion": [65, 95],
+    "asw": [32, 75],
+    "los": [11, 48]
+  },
+  "Junyou/Kai Ni": {
+    "evasion": [41, 84],
+    "asw": [0, 0],
+    "los": [44, 79]
+  },
+  "Hayashimo": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [6, 19]
+  },
+  "Kiyoshimo": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [6, 19]
+  },
+  "Fusou/Kai Ni": {
+    "evasion": [34, 69],
+    "asw": [8, 28],
+    "los": [22, 59]
+  },
+  "Yamashiro/Kai Ni": {
+    "evasion": [35, 69],
+    "asw": [8, 29],
+    "los": [23, 59]
+  },
+  "Asagumo": {
+    "evasion": [43, 79],
+    "asw": [21, 49],
+    "los": [5, 19]
+  },
+  "Yamagumo": {
+    "evasion": [43, 79],
+    "asw": [23, 50],
+    "los": [5, 19]
+  },
+  "Nowaki": {
+    "evasion": [44, 79],
+    "asw": [24, 49],
+    "los": [8, 19]
+  },
+  "Furutaka/Kai Ni": {
+    "evasion": [39, 77],
+    "asw": [0, 0],
+    "los": [13, 54]
+  },
+  "Kako/Kai Ni": {
+    "evasion": [38, 76],
+    "asw": [0, 0],
+    "los": [14, 55]
+  },
+  "Satsuki/Kai Ni": {
+    "evasion": [60, 96],
+    "asw": [30, 81],
+    "los": [10, 45]
+  },
+  "Hatsushimo/Kai Ni": {
+    "evasion": [64, 95],
+    "asw": [28, 72],
+    "los": [11, 49]
+  },
+  "Murakumo/Kai Ni": {
+    "evasion": [50, 90],
+    "asw": [28, 69],
+    "los": [9, 42]
+  },
+  "Akizuki": {
+    "evasion": [47, 84],
+    "asw": [27, 63],
+    "los": [9, 29]
+  },
+  "Teruzuki": {
+    "evasion": [47, 83],
+    "asw": [27, 63],
+    "los": [9, 29]
+  },
+  "Hatsuzuki": {
+    "evasion": [48, 85],
+    "asw": [26, 62],
+    "los": [8, 28]
+  },
+  "Takanami": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [9, 24]
+  },
+  "Asashimo": {
+    "evasion": [47, 80],
+    "asw": [35, 70],
+    "los": [6, 19]
+  },
+  "Fubuki/Kai Ni": {
+    "evasion": [49, 92],
+    "asw": [26, 68],
+    "los": [14, 54]
+  },
+  "Choukai/Kai Ni": {
+    "evasion": [41, 80],
+    "asw": [0, 0],
+    "los": [22, 62]
+  },
+  "Maya/Kai Ni": {
+    "evasion": [42, 81],
+    "asw": [0, 0],
+    "los": [16, 55]
+  },
+  "Amagi/Kai": {
+    "evasion": [36, 73],
+    "asw": [0, 0],
+    "los": [46, 80]
+  },
+  "Katsuragi/Kai": {
+    "evasion": [37, 75],
+    "asw": [0, 0],
+    "los": [44, 78]
+  },
+  "U-511": {
+    "evasion": [18, 44],
+    "asw": [0, 0],
+    "los": [8, 28]
+  },
+  "Graf Zeppelin": {
+    "evasion": [29, 49],
+    "asw": [0, 0],
+    "los": [40, 69]
+  },
+  "Saratoga": {
+    "evasion": [21, 42],
+    "asw": [0, 0],
+    "los": [40, 68]
+  },
+  "Mutsuki/Kai Ni": {
+    "evasion": [51, 90],
+    "asw": [28, 69],
+    "los": [8, 43]
+  },
+  "Kisaragi/Kai Ni": {
+    "evasion": [50, 91],
+    "asw": [27, 69],
+    "los": [9, 44]
+  },
+  "Ro-500": {
+    "evasion": [24, 68],
+    "asw": [0, 0],
+    "los": [12, 34]
+  },
+  "Akatsuki/Kai Ni": {
+    "evasion": [46, 89],
+    "asw": [28, 66],
+    "los": [17, 60]
+  },
+  "Saratoga/Kai": {
+    "evasion": [23, 53],
+    "asw": [0, 0],
+    "los": [48, 80]
+  },
+  "Warspite": {
+    "evasion": [26, 54],
+    "asw": [0, 0],
+    "los": [14, 48]
+  },
+  "Iowa": {
+    "evasion": [34, 67],
+    "asw": [0, 0],
+    "los": [24, 64]
+  },
+  "Littorio": {
+    "evasion": [28, 54],
+    "asw": [0, 0],
+    "los": [15, 44]
+  },
+  "Roma": {
+    "evasion": [27, 52],
+    "asw": [0, 0],
+    "los": [17, 46]
+  },
+  "Libeccio": {
+    "evasion": [48, 82],
+    "asw": [30, 60],
+    "los": [7, 20]
+  },
+  "Aquila": {
+    "evasion": [34, 58],
+    "asw": [0, 0],
+    "los": [30, 52]
+  },
+  "Akitsushima": {
+    "evasion": [32, 57],
+    "asw": [0, 0],
+    "los": [22, 42]
+  },
+  "Italia": {
+    "evasion": [35, 76],
+    "asw": [0, 0],
+    "los": [17, 52]
+  },
+  "Roma/Kai": {
+    "evasion": [32, 71],
+    "asw": [0, 0],
+    "los": [17, 52]
+  },
+  "Zara": {
+    "evasion": [33, 59],
+    "asw": [0, 0],
+    "los": [10, 36]
+  },
+  "Pola": {
+    "evasion": [32, 58],
+    "asw": [0, 0],
+    "los": [9, 35]
+  },
+  "Akitsushima/Kai": {
+    "evasion": [35, 64],
+    "asw": [0, 0],
+    "los": [24, 54]
+  },
+  "Mizuho": {
+    "evasion": [19, 37],
+    "asw": [0, 0],
+    "los": [36, 74]
+  },
+  "Okinami": {
+    "evasion": [47, 80],
+    "asw": [28, 53],
+    "los": [7, 21]
+  },
+  "Kazagumo": {
+    "evasion": [47, 80],
+    "asw": [27, 52],
+    "los": [6, 19]
+  },
+  "Arashi": {
+    "evasion": [44, 79],
+    "asw": [28, 62],
+    "los": [6, 19]
+  },
+  "Hagikaze": {
+    "evasion": [44, 79],
+    "asw": [26, 59],
+    "los": [6, 19]
+  },
+  "Oyashio": {
+    "evasion": [44, 79],
+    "asw": [23, 47],
+    "los": [8, 19]
+  },
+  "Yamakaze": {
+    "evasion": [42, 77],
+    "asw": [19, 42],
+    "los": [5, 18]
+  },
+  "Umikaze": {
+    "evasion": [44, 79],
+    "asw": [23, 50],
+    "los": [6, 19]
+  },
+  "Kawakaze": {
+    "evasion": [44, 79],
+    "asw": [21, 49],
+    "los": [6, 19]
+  },
+  "Hayasui": {
+    "evasion": [9, 28],
+    "asw": [5, 20],
+    "los": [15, 40]
+  },
+  "Shoukaku/Kai Ni": {
+    "evasion": [39, 84],
+    "asw": [0, 0],
+    "los": [53, 93]
+  },
+  "Zuikaku/Kai Ni": {
+    "evasion": [48, 89],
+    "asw": [0, 0],
+    "los": [52, 92]
+  },
+  "Asashio/Kai Ni": {
+    "evasion": [49, 90],
+    "asw": [26, 59],
+    "los": [11, 57]
+  },
+  "Kasumi/Kai Ni": {
+    "evasion": [52, 90],
+    "asw": [28, 68],
+    "los": [14, 55]
+  },
+  "Kashima": {
+    "evasion": [25, 51],
+    "asw": [13, 43],
+    "los": [9, 36]
+  },
+  "Shoukaku/Kai Ni A": {
+    "evasion": [36, 81],
+    "asw": [0, 0],
+    "los": [50, 90]
+  },
+  "Zuikaku/Kai Ni A": {
+    "evasion": [44, 85],
+    "asw": [0, 0],
+    "los": [50, 90]
+  },
+  "Asashio/Kai Ni D": {
+    "evasion": [47, 88],
+    "asw": [45, 89],
+    "los": [10, 55]
+  },
+  "Kawakaze/Kai Ni": {
+    "evasion": [51, 89],
+    "asw": [25, 63],
+    "los": [13, 53]
+  },
+  "Kasumi/Kai Ni B": {
+    "evasion": [56, 92],
+    "asw": [28, 68],
+    "los": [15, 56]
+  },
+  "Kamikaze": {
+    "evasion": [39, 80],
+    "asw": [20, 60],
+    "los": [5, 18]
+  },
+  "Asakaze": {
+    "evasion": [37, 72],
+    "asw": [17, 55],
+    "los": [6, 19]
+  },
+  "Harukaze": {
+    "evasion": [38, 74],
+    "asw": [18, 56],
+    "los": [4, 17]
+  },
+  "Matsukaze": {
+    "evasion": [36, 73],
+    "asw": [21, 62],
+    "los": [4, 18]
+  },
+  "Hatakaze": {
+    "evasion": [37, 75],
+    "asw": [17, 56],
+    "los": [4, 17]
+  },
+  "Kamikaze/Kai": {
+    "evasion": [60, 98],
+    "asw": [24, 77],
+    "los": [7, 42]
+  },
+  "Tenryuu/Kai Ni": {
+    "evasion": [42, 82],
+    "asw": [24, 70],
+    "los": [12, 53]
+  },
+  "Tatsuta/Kai Ni": {
+    "evasion": [42, 84],
+    "asw": [50, 82],
+    "los": [10, 52]
+  },
+  "Amagiri": {
+    "evasion": [41, 80],
+    "asw": [20, 49],
+    "los": [5, 20]
+  },
+  "Sagiri": {
+    "evasion": [40, 79],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Minazuki": {
+    "evasion": [37, 69],
+    "asw": [17, 41],
+    "los": [4, 17]
+  },
+  "I-26": {
+    "evasion": [13, 37],
+    "asw": [0, 0],
+    "los": [10, 39]
+  },
+  "Hamanami": {
+    "evasion": [46, 80],
+    "asw": [26, 52],
+    "los": [9, 24]
+  },
+  "Fujinami": {
+    "evasion": [46, 79],
+    "asw": [26, 53],
+    "los": [9, 24]
+  },
+  "Uranami": {
+    "evasion": [42, 84],
+    "asw": [20, 49],
+    "los": [5, 19]
+  },
+  "Kinu/Kai Ni": {
+    "evasion": [44, 82],
+    "asw": [49, 87],
+    "los": [15, 60]
+  },
+  "Yura/Kai Ni": {
+    "evasion": [43, 84],
+    "asw": [49, 83],
+    "los": [17, 64]
+  },
+  "Michishio/Kai Ni": {
+    "evasion": [51, 90],
+    "asw": [26, 60],
+    "los": [10, 55]
+  },
+  "Arashio/Kai Ni": {
+    "evasion": [50, 90],
+    "asw": [26, 59],
+    "los": [11, 52]
+  },
+  "Commandant Teste": {
+    "evasion": [20, 43],
+    "asw": [0, 0],
+    "los": [32, 70]
+  },
+  "Richelieu": {
+    "evasion": [36, 67],
+    "asw": [0, 0],
+    "los": [14, 50]
+  },
+  "I-400": {
+    "evasion": [13, 34],
+    "asw": [0, 0],
+    "los": [15, 46]
+  },
+  "I-13": {
+    "evasion": [11, 36],
+    "asw": [0, 0],
+    "los": [13, 43]
+  },
+  "I-14": {
+    "evasion": [14, 39],
+    "asw": [0, 0],
+    "los": [14, 44]
+  },
+  "Zara/Due": {
+    "evasion": [38, 73],
+    "asw": [0, 0],
+    "los": [19, 64]
+  },
+  "Shiratsuyu/Kai Ni": {
+    "evasion": [50, 91],
+    "asw": [30, 83],
+    "los": [10, 50]
+  },
+  "Murasame/Kai Ni": {
+    "evasion": [48, 90],
+    "asw": [29, 77],
+    "los": [9, 47]
+  },
+  "Kamoi/Kai": {
+    "evasion": [13, 27],
+    "asw": [0, 0],
+    "los": [22, 48]
+  },
+  "Kamoi/Kai Bo": {
+    "evasion": [16, 38],
+    "asw": [10, 30],
+    "los": [24, 54]
+  },
+  "Mogami/Kai Ni": {
+    "evasion": [39, 83],
+    "asw": [0, 0],
+    "los": [28, 86]
+  },
+  "Mikuma/Kai Ni": {
+    "evasion": [38, 80],
+    "asw": [0, 0],
+    "los": [25, 82]
+  },
+  "Suzuya/Kai Ni": {
+    "evasion": [41, 82],
+    "asw": [0, 0],
+    "los": [26, 83]
+  },
+  "Kumano/Kai Ni": {
+    "evasion": [40, 81],
+    "asw": [0, 0],
+    "los": [25, 81]
+  },
+  "Mogami/Kai Ni Toku": {
+    "evasion": [39, 81],
+    "asw": [0, 0],
+    "los": [24, 80]
+  },
+  "Mikuma/Kai Ni Toku": {
+    "evasion": [35, 75],
+    "asw": [0, 0],
+    "los": [32, 89]
+  },
+  "Suzuya/Kou Kai Ni": {
+    "evasion": [42, 83],
+    "asw": [0, 0],
+    "los": [46, 85]
+  },
+  "Kumano/Kou Kai Ni": {
+    "evasion": [41, 82],
+    "asw": [0, 0],
+    "los": [45, 83]
+  },
+  "Gangut": {
+    "evasion": [23, 47],
+    "asw": [0, 0],
+    "los": [8, 30]
+  },
+  "Oktyabrskaya Revolyutsiya": {
+    "evasion": [30, 66],
+    "asw": [0, 0],
+    "los": [10, 36]
+  },
+  "Gangut/Dva": {
+    "evasion": [33, 68],
+    "asw": [0, 0],
+    "los": [14, 38]
+  },
+  "Sheffield": {
+    "evasion": [32, 65],
+    "asw": [38, 70],
+    "los": [22, 68]
+  },
+  "Ark Royal": {
+    "evasion": [32, 57],
+    "asw": [0, 0],
+    "los": [40, 72]
+  },
+  "Tashkent": {
+    "evasion": [48, 90],
+    "asw": [33, 55],
+    "los": [7, 36]
+  },
+  "Shimushu": {
+    "evasion": [42, 83],
+    "asw": [32, 72],
+    "los": [3, 13]
+  },
+  "Kunashiri": {
+    "evasion": [41, 82],
+    "asw": [31, 70],
+    "los": [4, 14]
+  },
+  "Jervis": {
+    "evasion": [46, 79],
+    "asw": [40, 82],
+    "los": [10, 22]
+  },
+  "Janus": {
+    "evasion": [44, 76],
+    "asw": [40, 83],
+    "los": [10, 20]
+  },
+  "Kasuga Maru": {
+    "evasion": [24, 39],
+    "asw": [0, 0],
+    "los": [28, 48]
+  },
+  "Yawata Maru": {
+    "evasion": [24, 38],
+    "asw": [0, 0],
+    "los": [28, 47]
+  },
+  "Etorofu": {
+    "evasion": [40, 83],
+    "asw": [35, 72],
+    "los": [3, 14]
+  },
+  "Matsuwa": {
+    "evasion": [39, 81],
+    "asw": [35, 72],
+    "los": [3, 15]
+  },
+  "Taiyou": {
+    "evasion": [24, 39],
+    "asw": [35, 59],
+    "los": [30, 52]
+  },
+  "Kishinami": {
+    "evasion": [46, 80],
+    "asw": [26, 54],
+    "los": [9, 24]
+  },
+  "Hayanami": {
+    "evasion": [44, 79],
+    "asw": [25, 54],
+    "los": [9, 23]
+  },
+  "Taiyou/Kai Ni": {
+    "evasion": [36, 54],
+    "asw": [75, 89],
+    "los": [40, 68]
+  },
+  "I-504": {
+    "evasion": [22, 64],
+    "asw": [0, 0],
+    "los": [10, 32]
+  },
+  "Sado": {
+    "evasion": [39, 81],
+    "asw": [36, 73],
+    "los": [3, 15]
+  },
+  "Suzutsuki": {
+    "evasion": [45, 83],
+    "asw": [25, 61],
+    "los": [8, 27]
+  },
+  "Fuyutsuki": {
+    "evasion": [44, 84],
+    "asw": [24, 60],
+    "los": [8, 28]
+  },
+  "Shinyou": {
+    "evasion": [22, 37],
+    "asw": [36, 60],
+    "los": [28, 48]
+  },
+  "Luigi Torelli": {
+    "evasion": [17, 42],
+    "asw": [0, 0],
+    "los": [6, 24]
+  },
+  "Shinyou/Kai Ni": {
+    "evasion": [34, 53],
+    "asw": [73, 88],
+    "los": [32, 64]
+  },
+  "Suzutsuki/Kai": {
+    "evasion": [51, 91],
+    "asw": [28, 71],
+    "los": [9, 49]
+  },
+  "Fuyutsuki/Kai": {
+    "evasion": [50, 92],
+    "asw": [29, 71],
+    "los": [9, 49]
+  },
+  "UIT-25": {
+    "evasion": [20, 62],
+    "asw": [0, 0],
+    "los": [9, 30]
+  },
+  "Tsushima": {
+    "evasion": [41, 84],
+    "asw": [35, 72],
+    "los": [3, 13]
+  },
+  "Nagato/Kai Ni": {
+    "evasion": [25, 70],
+    "asw": [0, 0],
+    "los": [16, 55]
+  },
+  "Yuugumo/Kai Ni": {
+    "evasion": [48, 93],
+    "asw": [30, 77],
+    "los": [12, 46]
+  },
+  "Naganami/Kai Ni": {
+    "evasion": [48, 92],
+    "asw": [30, 68],
+    "los": [10, 45]
+  },
+  "Gambier Bay": {
+    "evasion": [18, 36],
+    "asw": [20, 60],
+    "los": [36, 60]
+  },
+  "Saratoga/Mk.II": {
+    "evasion": [27, 60],
+    "asw": [0, 0],
+    "los": [54, 93]
+  },
+  "Musashi/Kai Ni": {
+    "evasion": [28, 65],
+    "asw": [0, 0],
+    "los": [18, 58]
+  },
+  "Tama/Kai Ni": {
+    "evasion": [43, 82],
+    "asw": [43, 85],
+    "los": [14, 61]
+  },
+  "Fumizuki/Kai Ni": {
+    "evasion": [56, 93],
+    "asw": [30, 81],
+    "los": [11, 47]
+  },
+  "Intrepid": {
+    "evasion": [40, 64],
+    "asw": [0, 0],
+    "los": [50, 80]
+  },
+  "Saratoga/Mk.II Mod.2": {
+    "evasion": [26, 56],
+    "asw": [0, 0],
+    "los": [56, 95]
+  },
+  "Hiburi": {
+    "evasion": [39, 83],
+    "asw": [40, 78],
+    "los": [3, 15]
+  },
+  "Daitou": {
+    "evasion": [40, 81],
+    "asw": [40, 77],
+    "los": [3, 12]
+  },
+  "Ise/Kai Ni": {
+    "evasion": [50, 82],
+    "asw": [0, 0],
+    "los": [30, 72]
+  },
+  "Hyuuga/Kai Ni": {
+    "evasion": [49, 83],
+    "asw": [68, 85],
+    "los": [32, 75]
+  },
+  "Zuihou/Kai Ni": {
+    "evasion": [37, 74],
+    "asw": [0, 0],
+    "los": [40, 80]
+  },
+  "Urakaze/D Kai": {
+    "evasion": [49, 88],
+    "asw": [45, 88],
+    "los": [10, 48]
+  },
+  "Isokaze/B Kai": {
+    "evasion": [52, 91],
+    "asw": [31, 71],
+    "los": [10, 52]
+  },
+  "Hamakaze/B Kai": {
+    "evasion": [50, 89],
+    "asw": [32, 73],
+    "los": [9, 47]
+  },
+  "Tanikaze/D Kai": {
+    "evasion": [53, 94],
+    "asw": [44, 86],
+    "los": [8, 42]
+  },
+  "Zuihou/Kai Ni B": {
+    "evasion": [35, 67],
+    "asw": [32, 48],
+    "los": [40, 77]
+  },
+  "Samuel B. Roberts": {
+    "evasion": [38, 80],
+    "asw": [48, 80],
+    "los": [12, 20]
+  },
+  "Johnston": {
+    "evasion": [45, 81],
+    "asw": [50, 82],
+    "los": [20, 32]
+  },
+  "Makigumo/Kai Ni": {
+    "evasion": [48, 89],
+    "asw": [30, 72],
+    "los": [11, 43]
+  },
+  "Kazagumo/Kai Ni": {
+    "evasion": [48, 93],
+    "asw": [29, 79],
+    "los": [10, 45]
+  },
+  "Fukae": {
+    "evasion": [41, 84],
+    "asw": [35, 72],
+    "los": [3, 13]
+  },
+  "Kagerou/Kai Ni": {
+    "evasion": [49, 90],
+    "asw": [30, 67],
+    "los": [10, 42]
+  },
+  "Shiranui/Kai Ni": {
+    "evasion": [49, 90],
+    "asw": [30, 68],
+    "los": [11, 43]
+  },
+  "Kuroshio/Kai Ni": {
+    "evasion": [48, 90],
+    "asw": [31, 70],
+    "los": [11, 41]
+  },
+  "Okinami/Kai Ni": {
+    "evasion": [48, 93],
+    "asw": [29, 80],
+    "los": [10, 44]
+  },
+  "Hirato": {
+    "evasion": [39, 82],
+    "asw": [34, 74],
+    "los": [3, 15]
+  },
+  "Nelson": {
+    "evasion": [22, 44],
+    "asw": [0, 0],
+    "los": [12, 42]
+  },
+  "Rodney": {
+    "evasion": [21, 44],
+    "asw": [0, 0],
+    "los": [12, 43]
+  },
+  "Mutsu/Kai Ni": {
+    "evasion": [24, 71],
+    "asw": [0, 0],
+    "los": [15, 57]
+  },
+  "Gotland": {
+    "evasion": [36, 68],
+    "asw": [36, 58],
+    "los": [45, 70]
+  },
+  "Maestrale": {
+    "evasion": [48, 82],
+    "asw": [30, 60],
+    "los": [7, 20]
+  },
+  "Nelson/Kai": {
+    "evasion": [23, 58],
+    "asw": [0, 0],
+    "los": [14, 48]
+  },
+  "Rodney/Kai": {
+    "evasion": [22, 59],
+    "asw": [0, 0],
+    "los": [13, 48]
+  },
+  "Asashimo/Kai Ni": {
+    "evasion": [47, 94],
+    "asw": [29, 76],
+    "los": [10, 44]
+  },
+  "Gotland/Kai": {
+    "evasion": [37, 77],
+    "asw": [38, 62],
+    "los": [18, 55]
+  },
+  "Maestrale/Kai": {
+    "evasion": [49, 93],
+    "asw": [40, 80],
+    "los": [10, 46]
+  },
+  "Nisshin": {
+    "evasion": [26, 45],
+    "asw": [0, 0],
+    "los": [40, 80]
+  },
+  "Natsugumo": {
+    "evasion": [40, 76],
+    "asw": [21, 48],
+    "los": [5, 19]
+  },
+  "Minegumo": {
+    "evasion": [41, 78],
+    "asw": [21, 49],
+    "los": [5, 18]
+  },
+  "Hachijou": {
+    "evasion": [42, 83],
+    "asw": [31, 72],
+    "los": [3, 13]
+  },
+  "Ishigaki": {
+    "evasion": [41, 82],
+    "asw": [32, 75],
+    "los": [4, 15]
+  },
+  "Nisshin/A": {
+    "evasion": [36, 63],
+    "asw": [0, 0],
+    "los": [48, 96]
+  },
+  "Umikaze/Kai Ni": {
+    "evasion": [49, 90],
+    "asw": [28, 82],
+    "los": [11, 51]
+  },
+  "Yamakaze/Kai Ni": {
+    "evasion": [50, 87],
+    "asw": [30, 86],
+    "los": [8, 41]
+  },
+  "Duca degli Abruzzi": {
+    "evasion": [34, 64],
+    "asw": [20, 39],
+    "los": [12, 41]
+  },
+  "Giuseppe Garibaldi": {
+    "evasion": [34, 65],
+    "asw": [20, 40],
+    "los": [12, 40]
+  },
+  "Kongou/Kai Ni C": {
+    "evasion": [40, 75],
+    "asw": [0, 0],
+    "los": [17, 51]
+  },
+  "Hiei/Kai Ni C": {
+    "evasion": [39, 73],
+    "asw": [0, 0],
+    "los": [17, 53]
+  },
+  "Haruna/Kai Ni B": {
+    "evasion": [38, 75],
+    "asw": [0, 0],
+    "los": [16, 53]
+  },
+  "Akagi/Kai Ni": {
+    "evasion": [33, 73],
+    "asw": [0, 0],
+    "los": [51, 91]
+  },
+  "Houston": {
+    "evasion": [36, 60],
+    "asw": [0, 0],
+    "los": [15, 50]
+  },
+  "Fletcher": {
+    "evasion": [45, 82],
+    "asw": [50, 83],
+    "los": [20, 33]
+  },
+  "Atlanta": {
+    "evasion": [34, 67],
+    "asw": [10, 20],
+    "los": [11, 40]
+  },
+  "Honolulu": {
+    "evasion": [32, 66],
+    "asw": [0, 35],
+    "los": [17, 65]
+  },
+  "Akagi/Kai Ni E": {
+    "evasion": [33, 75],
+    "asw": [0, 0],
+    "los": [50, 90]
+  },
+  "Houston/Kai": {
+    "evasion": [36, 76],
+    "asw": [0, 0],
+    "los": [16, 53]
+  },
+  "Colorado": {
+    "evasion": [19, 43],
+    "asw": [0, 0],
+    "los": [9, 37]
+  },
+  "South Dakota": {
+    "evasion": [28, 59],
+    "asw": [0, 0],
+    "los": [15, 48]
+  },
+  "Hornet": {
+    "evasion": [30, 57],
+    "asw": [0, 0],
+    "los": [45, 70]
+  },
+  "De Ruyter": {
+    "evasion": [35, 68],
+    "asw": [10, 40],
+    "los": [10, 42]
+  },
+  "Luigi Torelli/Kai": {
+    "evasion": [18, 56],
+    "asw": [0, 0],
+    "los": [8, 28]
+  },
+  "I-400/Kai": {
+    "evasion": [12, 43],
+    "asw": [0, 0],
+    "los": [16, 46]
+  },
+  "I-47/Kai": {
+    "evasion": [14, 50],
+    "asw": [0, 0],
+    "los": [11, 30]
+  },
+  "De Ruyter/Kai": {
+    "evasion": [39, 73],
+    "asw": [15, 50],
+    "los": [12, 55]
+  },
+  "Kaga/Kai Ni E": {
+    "evasion": [28, 71],
+    "asw": [0, 0],
+    "los": [50, 89]
+  },
+  "Mikura": {
+    "evasion": [40, 80],
+    "asw": [40, 78],
+    "los": [3, 14]
+  },
+  "Yashiro": {
+    "evasion": [39, 81],
+    "asw": [40, 79],
+    "los": [3, 15]
+  },
+  "Perth": {
+    "evasion": [33, 67],
+    "asw": [15, 50],
+    "los": [9, 40]
+  },
+  "Grecale": {
+    "evasion": [47, 84],
+    "asw": [30, 60],
+    "los": [7, 20]
+  },
+  "Helena": {
+    "evasion": [33, 65],
+    "asw": [0, 36],
+    "los": [18, 64]
+  },
+  "Mikura/Kai": {
+    "evasion": [54, 89],
+    "asw": [40, 84],
+    "los": [5, 29]
+  },
+  "Yashiro/Kai": {
+    "evasion": [53, 90],
+    "asw": [39, 85],
+    "los": [5, 30]
+  },
+  "Perth/Kai": {
+    "evasion": [36, 72],
+    "asw": [20, 55],
+    "los": [10, 50]
+  },
+  "Grecale/Kai": {
+    "evasion": [19, 95],
+    "asw": [38, 79],
+    "los": [10, 46]
+  },
+  "Helena/Kai": {
+    "evasion": [39, 75],
+    "asw": [0, 40],
+    "los": [24, 77]
+  },
+  "Shinshuu Maru": {
+    "evasion": [13, 38],
+    "asw": [20, 40],
+    "los": [20, 52]
+  },
+  "Yuubari/Kai Ni": {
+    "evasion": [40, 83],
+    "asw": [49, 83],
+    "los": [11, 52]
+  },
+  "Yuubari/Kai Ni Toku": {
+    "evasion": [39, 81],
+    "asw": [27, 70],
+    "los": [10, 50]
+  },
+  "Yuubari/Kai Ni D": {
+    "evasion": [40, 85],
+    "asw": [50, 89],
+    "los": [12, 54]
+  },
+  "Akishimo": {
+    "evasion": [46, 81],
+    "asw": [27, 53],
+    "los": [6, 20]
+  },
+  "Shinshuu Maru/Kai": {
+    "evasion": [14, 48],
+    "asw": [30, 48],
+    "los": [24, 58]
+  },
+  "Shikinami/Kai Ni": {
+    "evasion": [58, 93],
+    "asw": [30, 79],
+    "los": [11, 48]
+  },
+  "Fletcher/Kai Mod.2": {
+    "evasion": [47, 92],
+    "asw": [52, 93],
+    "los": [22, 64]
+  },
+  "Fletcher/Mk.II": {
+    "evasion": [47, 94],
+    "asw": [55, 97],
+    "los": [23, 66]
+  },
+  "Gotland/Andra": {
+    "evasion": [37, 78],
+    "asw": [36, 60],
+    "los": [46, 72]
+  },
+  "Usugumo": {
+    "evasion": [39, 80],
+    "asw": [19, 49],
+    "los": [4, 19]
+  },
+  "Ariake": {
+    "evasion": [43, 80],
+    "asw": [21, 50],
+    "los": [5, 19]
+  },
+  "Yuugure": {
+    "evasion": [43, 79],
+    "asw": [21, 50],
+    "los": [5, 20]
+  },
+  "Jingei": {
+    "evasion": [13, 28],
+    "asw": [0, 0],
+    "los": [20, 38]
+  },
+  "Chougei": {
+    "evasion": [12, 30],
+    "asw": [0, 0],
+    "los": [20, 37]
+  },
+  "I-47": {
+    "evasion": [13, 39],
+    "asw": [0, 0],
+    "los": [7, 27]
+  },
+  "Kaiboukan No.4": {
+    "evasion": [39, 79],
+    "asw": [30, 67],
+    "los": [2, 11]
+  },
+  "Kaiboukan No.30": {
+    "evasion": [38, 77],
+    "asw": [30, 65],
+    "los": [2, 11]
+  },
+  "Jingei/Kai": {
+    "evasion": [15, 39],
+    "asw": [0, 0],
+    "los": [22, 44]
+  },
+  "Chougei/Kai": {
+    "evasion": [14, 44],
+    "asw": [0, 0],
+    "los": [22, 43]
+  },
+  "Matsu": {
+    "evasion": [35, 70],
+    "asw": [30, 75],
+    "los": [10, 25]
+  },
+  "Take": {
+    "evasion": [34, 71],
+    "asw": [29, 74],
+    "los": [9, 24]
+  },
+  "Ume": {
+    "evasion": [33, 69],
+    "asw": [26, 76],
+    "los": [11, 24]
+  },
+  "Momo": {
+    "evasion": [31, 69],
+    "asw": [27, 76],
+    "los": [8, 24]
+  },
+  "Souya/(AGL)": {
+    "evasion": [26, 79],
+    "asw": [0, 2],
+    "los": [9, 18]
+  },
+  "Kaga/Kai Ni Go": {
+    "evasion": [26, 68],
+    "asw": [72, 84],
+    "los": [54, 93]
+  },
+  "Uranami/Kai Ni": {
+    "evasion": [47, 93],
+    "asw": [25, 66],
+    "los": [12, 44]
+  },
+  "Akigumo/Kai Ni": {
+    "evasion": [47, 92],
+    "asw": [28, 77],
+    "los": [10, 42]
+  },
+  "Takanami/Kai Ni": {
+    "evasion": [48, 90],
+    "asw": [30, 72],
+    "los": [14, 62]
+  },
+  "Souya/(AGB)": {
+    "evasion": [27, 88],
+    "asw": [0, 4],
+    "los": [16, 32]
+  },
+  "Dan Yang": {
+    "evasion": [65, 97],
+    "asw": [26, 60],
+    "los": [15, 50]
+  },
+  "Kuma/Kai Ni": {
+    "evasion": [42, 82],
+    "asw": [40, 80],
+    "los": [13, 58]
+  },
+  "Scirocco": {
+    "evasion": [48, 81],
+    "asw": [29, 60],
+    "los": [7, 20]
+  },
+  "Washington": {
+    "evasion": [26, 59],
+    "asw": [0, 0],
+    "los": [14, 46]
+  },
+  "Northampton": {
+    "evasion": [36, 61],
+    "asw": [0, 0],
+    "los": [14, 51]
+  },
+  "Yukikaze/Kai Ni": {
+    "evasion": [66, 100],
+    "asw": [28, 74],
+    "los": [14, 48]
+  },
+  "Kuma/Kai Ni D": {
+    "evasion": [41, 81],
+    "asw": [48, 84],
+    "los": [13, 53]
+  },
+  "Scirocco/Kai": {
+    "evasion": [47, 92],
+    "asw": [39, 80],
+    "los": [10, 46]
+  },
+  "Washington/Kai": {
+    "evasion": [35, 66],
+    "asw": [0, 0],
+    "los": [18, 62]
+  },
+  "Northampton/Kai": {
+    "evasion": [34, 75],
+    "asw": [0, 0],
+    "los": [15, 52]
+  },
+  "Noshiro/Kai Ni": {
+    "evasion": [43, 83],
+    "asw": [32, 84],
+    "los": [15, 61]
+  },
+  "Yahagi/Kai Ni": {
+    "evasion": [45, 88],
+    "asw": [31, 83],
+    "los": [15, 60]
+  },
+  "Akebono/Kai Ni": {
+    "evasion": [62, 91],
+    "asw": [30, 74],
+    "los": [10, 46]
+  },
+  "Isonami/Kai Ni": {
+    "evasion": [45, 90],
+    "asw": [28, 75],
+    "los": [9, 43]
+  },
+  "Yamakaze/Kai Ni D": {
+    "evasion": [49, 85],
+    "asw": [28, 82],
+    "los": [8, 41]
+  },
+  "Yahagi/Kai Ni B": {
+    "evasion": [42, 86],
+    "asw": [30, 80],
+    "los": [15, 60]
+  },
+  "Oyashio/Kai Ni": {
+    "evasion": [48, 90],
+    "asw": [30, 69],
+    "los": [9, 42]
+  },
+  "Makinami": {
+    "evasion": [43, 77],
+    "asw": [24, 54],
+    "los": [9, 23]
+  },
+  "Tamanami": {
+    "evasion": [46, 78],
+    "asw": [22, 53],
+    "los": [9, 23]
+  },
+  "Suzunami": {
+    "evasion": [42, 74],
+    "asw": [24, 55],
+    "los": [9, 22]
+  },
+  "Hiburi/Kai": {
+    "evasion": [53, 87],
+    "asw": [40, 83],
+    "los": [6, 29]
+  },
+  "Daitou/Kai": {
+    "evasion": [54, 90],
+    "asw": [40, 85],
+    "los": [5, 28]
+  },
+  "Hamanami/Kai": {
+    "evasion": [47, 90],
+    "asw": [28, 65],
+    "los": [12, 56]
+  },
+  "Samuel B. Roberts/Kai": {
+    "evasion": [48, 88],
+    "asw": [50, 88],
+    "los": [14, 48]
+  },
+  "Hirato/Kai": {
+    "evasion": [53, 89],
+    "asw": [35, 81],
+    "los": [5, 29]
+  },
+  "Fukae/Kai": {
+    "evasion": [55, 92],
+    "asw": [37, 80],
+    "los": [5, 27]
+  },
+  "Kishinami/Kai": {
+    "evasion": [48, 90],
+    "asw": [30, 72],
+    "los": [10, 44]
+  },
+  "Minegumo/Kai": {
+    "evasion": [44, 88],
+    "asw": [24, 58],
+    "los": [8, 37]
+  },
+  "Hayanami/Kai": {
+    "evasion": [45, 88],
+    "asw": [26, 70],
+    "los": [12, 55]
+  },
+  "Johnston/Kai": {
+    "evasion": [46, 89],
+    "asw": [52, 90],
+    "los": [20, 60]
+  },
+  "Nisshin/Kai": {
+    "evasion": [32, 58],
+    "asw": [0, 0],
+    "los": [48, 95]
+  },
+  "Giuseppe Garibaldi/Kai": {
+    "evasion": [38, 78],
+    "asw": [25, 60],
+    "los": [13, 48]
+  },
+  "Fletcher/Kai": {
+    "evasion": [46, 90],
+    "asw": [52, 91],
+    "los": [20, 62]
+  },
+  "Duca degli Abruzzi/Kai": {
+    "evasion": [38, 77],
+    "asw": [25, 59],
+    "los": [13, 49]
+  },
+  "Kirishima/Kai Ni C": {
+    "evasion": [39, 74],
+    "asw": [0, 0],
+    "los": [16, 52]
+  },
+  "Akishimo/Kai": {
+    "evasion": [47, 91],
+    "asw": [28, 68],
+    "los": [9, 43]
+  },
+  "Atlanta/Kai": {
+    "evasion": [38, 76],
+    "asw": [12, 32],
+    "los": [11, 50]
+  },
+  "South Dakota/Kai": {
+    "evasion": [36, 65],
+    "asw": [0, 0],
+    "los": [18, 60]
+  },
+  "Kaga/Kai Ni": {
+    "evasion": [28, 70],
+    "asw": [0, 0],
+    "los": [51, 90]
+  },
+  "Souya": {
+    "evasion": [27, 77],
+    "asw": [8, 32],
+    "los": [2, 12]
+  },
+  "Usugumo/Kai": {
+    "evasion": [44, 89],
+    "asw": [22, 60],
+    "los": [7, 41]
+  },
+  "Kaiboukan No.4/Kai": {
+    "evasion": [49, 91],
+    "asw": [32, 76],
+    "los": [4, 20]
+  },
+  "Matsu/Kai": {
+    "evasion": [38, 83],
+    "asw": [35, 80],
+    "los": [15, 45]
+  },
+  "Ariake/Kai": {
+    "evasion": [44, 89],
+    "asw": [16, 59],
+    "los": [6, 39]
+  },
+  "Hornet/Kai": {
+    "evasion": [38, 73],
+    "asw": [0, 0],
+    "los": [49, 90]
+  },
+  "Sheffield/Kai": {
+    "evasion": [38, 79],
+    "asw": [40, 77],
+    "los": [24, 72]
+  },
+  "Take/Kai": {
+    "evasion": [37, 83],
+    "asw": [34, 79],
+    "los": [14, 43]
+  },
+  "Gambier Bay/Mk.II": {
+    "evasion": [28, 63],
+    "asw": [40, 77],
+    "los": [39, 70]
+  },
+  "Momo/Kai": {
+    "evasion": [36, 82],
+    "asw": [33, 81],
+    "los": [13, 43]
+  },
+  "Makinami/Kai": {
+    "evasion": [35, 85],
+    "asw": [27, 66],
+    "los": [11, 54]
+  },
+  "Suzunami/Kai": {
+    "evasion": [37, 79],
+    "asw": [26, 69],
+    "los": [10, 54]
+  },
+  "Honolulu/Kai": {
+    "evasion": [38, 79],
+    "asw": [0, 43],
+    "los": [22, 76]
+  },
+  "Kaiboukan No.30/Kai": {
+    "evasion": [46, 89],
+    "asw": [30, 74],
+    "los": [4, 19]
+  },
+  "Victorious/Kai": {
+    "evasion": [32, 67],
+    "asw": [0, 0],
+    "los": [46, 85]
+  },
+  "Shounan/Kai": {
+    "evasion": [53, 88],
+    "asw": [38, 81],
+    "los": [6, 28]
+  },
+  "Scamp/Kai": {
+    "evasion": [18, 55],
+    "asw": [0, 0],
+    "los": [13, 43]
+  },
+  "Ume/Kai": {
+    "evasion": [37, 81],
+    "asw": [33, 80],
+    "los": [16, 45]
+  },
+  "Yamashio Maru/Kai": {
+    "evasion": [14, 28],
+    "asw": [32, 82],
+    "los": [23, 63]
+  },
+  "Tamanami/Kai": {
+    "evasion": [46, 87],
+    "asw": [25, 66],
+    "los": [12, 53]
+  },
+  "I-201/Kai": {
+    "evasion": [43, 80],
+    "asw": [0, 0],
+    "los": [13, 48]
+  },
+  "Hayashio/Kai": {
+    "evasion": [44, 85],
+    "asw": [26, 65],
+    "los": [9, 41]
+  },
+  "Natsugumo/Kai": {
+    "evasion": [42, 87],
+    "asw": [24, 57],
+    "los": [6, 36]
+  },
+  "Brooklyn/Kai": {
+    "evasion": [37, 81],
+    "asw": [0, 43],
+    "los": [22, 77]
+  },
+  "Ranger/Kai": {
+    "evasion": [34, 66],
+    "asw": [0, 0],
+    "los": [40, 82]
+  },
+  "Jean Bart/Kai": {
+    "evasion": [38, 74],
+    "asw": [0, 0],
+    "los": [15, 53]
+  },
+  "Yuugure/Kai": {
+    "evasion": [43, 90],
+    "asw": [16, 59],
+    "los": [6, 40]
+  },
+  "Heywood L. Edwards/Kai": {
+    "evasion": [45, 89],
+    "asw": [52, 90],
+    "los": [20, 61]
+  },
+  "No.101 Transport Ship/Kai": {
+    "evasion": [36, 67],
+    "asw": [0, 0],
+    "los": [3, 13]
+  },
+  "Kaiboukan No.22/Kai": {
+    "evasion": [47, 92],
+    "asw": [33, 79],
+    "los": [4, 22]
+  },
+  "Shirakumo/Kai": {
+    "evasion": [43, 89],
+    "asw": [24, 67],
+    "los": [5, 40]
+  },
+  "Inagi/Kai": {
+    "evasion": [46, 86],
+    "asw": [46, 85],
+    "los": [4, 24]
+  },
+  "C.Cappellini/Kai": {
+    "evasion": [18, 58],
+    "asw": [0, 0],
+    "los": [7, 28]
+  },
+  "Drum/Kai": {
+    "evasion": [18, 59],
+    "asw": [0, 0],
+    "los": [12, 43]
+  },
+  "Valiant/Kai": {
+    "evasion": [29, 69],
+    "asw": [0, 0],
+    "los": [18, 59]
+  },
+  "Phoenix/Kai": {
+    "evasion": [37, 82],
+    "asw": [0, 42],
+    "los": [22, 78]
+  },
+  "Lexington/Kai": {
+    "evasion": [22, 51],
+    "asw": [0, 0],
+    "los": [46, 80]
+  },
+  "Kaya/Kai": {
+    "evasion": [36, 83],
+    "asw": [32, 78],
+    "los": [16, 47]
+  },
+  "Richard P. Leary/Kai": {
+    "evasion": [45, 89],
+    "asw": [53, 90],
+    "los": [21, 61]
+  },
+  "Norge/Kai": {
+    "evasion": [5, 19],
+    "asw": [0, 0],
+    "los": [4, 7]
+  },
+  "Eidsvold/Kai": {
+    "evasion": [5, 20],
+    "asw": [0, 0],
+    "los": [5, 9]
+  },
+  "Glorious/Kai (BC)": {
+    "evasion": [35, 66],
+    "asw": [0, 0],
+    "los": [14, 46]
+  },
+  "Glorious/Kai (CV)": {
+    "evasion": [37, 66],
+    "asw": [0, 0],
+    "los": [42, 86]
+  },
+  "Kashi/Kai": {
+    "evasion": [36, 83],
+    "asw": [32, 79],
+    "los": [16, 47]
+  },
+  "Conte di Cavour": {
+    "evasion": [21, 40],
+    "asw": [0, 0],
+    "los": [6, 29]
+  },
+  "Conte di Cavour/Kai": {
+    "evasion": [29, 67],
+    "asw": [0, 0],
+    "los": [11, 40]
+  },
+  "Conte di Cavour/Nuovo": {
+    "evasion": [31, 70],
+    "asw": [0, 0],
+    "los": [18, 58]
+  },
+  "I-201": {
+    "evasion": [39, 70],
+    "asw": [0, 0],
+    "los": [8, 39]
+  },
+  "I-203": {
+    "evasion": [40, 70],
+    "asw": [0, 0],
+    "los": [8, 38]
+  },
+  "Ryuuhou/Kai Ni E": {
+    "evasion": [40, 79],
+    "asw": [36, 50],
+    "los": [30, 77]
+  },
+  "Unyou": {
+    "evasion": [23, 39],
+    "asw": [34, 59],
+    "los": [29, 52]
+  },
+  "Victorious": {
+    "evasion": [31, 58],
+    "asw": [0, 0],
+    "los": [39, 73]
+  },
+  "Hayashio": {
+    "evasion": [42, 78],
+    "asw": [22, 46],
+    "los": [9, 19]
+  },
+  "I-203/Kai": {
+    "evasion": [44, 80],
+    "asw": [0, 0],
+    "los": [14, 48]
+  },
+  "Ryuuhou/Kai Ni": {
+    "evasion": [37, 75],
+    "asw": [32, 46],
+    "los": [33, 80]
+  },
+  "Unyou/Kai Ni": {
+    "evasion": [35, 54],
+    "asw": [74, 89],
+    "los": [37, 66]
+  },
+  "Salmon": {
+    "evasion": [15, 44],
+    "asw": [0, 0],
+    "los": [10, 42]
+  },
+  "Drum": {
+    "evasion": [17, 47],
+    "asw": [0, 0],
+    "los": [11, 43]
+  },
+  "Janus/Kai": {
+    "evasion": [47, 86],
+    "asw": [53, 93],
+    "los": [12, 52]
+  },
+  "Houshou/Kai Ni": {
+    "evasion": [36, 77],
+    "asw": [33, 69],
+    "los": [43, 82]
+  },
+  "Shounan": {
+    "evasion": [39, 82],
+    "asw": [38, 76],
+    "los": [3, 14]
+  },
+  "Brooklyn": {
+    "evasion": [31, 67],
+    "asw": [0, 35],
+    "los": [18, 67]
+  },
+  "Salmon/Kai": {
+    "evasion": [16, 57],
+    "asw": [0, 0],
+    "los": [12, 45]
+  },
+  "Kaiboukan No.22": {
+    "evasion": [39, 81],
+    "asw": [30, 71],
+    "los": [2, 13]
+  },
+  "Houshou/Kai Ni Sen": {
+    "evasion": [33, 73],
+    "asw": [34, 71],
+    "los": [36, 76]
+  },
+  "Yamashio Maru": {
+    "evasion": [14, 25],
+    "asw": [23, 63],
+    "los": [13, 53]
+  },
+  "Javelin": {
+    "evasion": [44, 77],
+    "asw": [40, 81],
+    "los": [10, 21]
+  },
+  "Amagiri/Kai Ni": {
+    "evasion": [54, 92],
+    "asw": [27, 76],
+    "los": [10, 44]
+  },
+  "Noumi": {
+    "evasion": [41, 80],
+    "asw": [38, 80],
+    "los": [3, 13]
+  },
+  "Kurahashi": {
+    "evasion": [40, 81],
+    "asw": [40, 80],
+    "los": [3, 14]
+  },
+  "Javelin/Kai": {
+    "evasion": [47, 87],
+    "asw": [53, 92],
+    "los": [12, 53]
+  },
+  "Amagiri/Kai Ni D": {
+    "evasion": [53, 90],
+    "asw": [25, 79],
+    "los": [10, 44]
+  },
+  "Noumi/Kai": {
+    "evasion": [52, 89],
+    "asw": [39, 87],
+    "los": [5, 28]
+  },
+  "Kurahashi/Kai": {
+    "evasion": [54, 91],
+    "asw": [40, 86],
+    "los": [5, 29]
+  },
+  "Yamato/Kai Ni": {
+    "evasion": [28, 67],
+    "asw": [0, 0],
+    "los": [18, 59]
+  },
+  "Maryland": {
+    "evasion": [19, 44],
+    "asw": [0, 0],
+    "los": [9, 36]
+  },
+  "Hayashio/Kai Ni": {
+    "evasion": [47, 87],
+    "asw": [30, 65],
+    "los": [10, 41]
+  },
+  "Yamato/Kai Ni Juu": {
+    "evasion": [25, 60],
+    "asw": [16, 48],
+    "los": [20, 68]
+  },
+  "Maryland/Kai": {
+    "evasion": [22, 53],
+    "asw": [0, 0],
+    "los": [16, 51]
+  },
+  "Samuel B. Roberts/Mk.II": {
+    "evasion": [48, 90],
+    "asw": [51, 90],
+    "los": [15, 52]
+  },
+  "Ukuru": {
+    "evasion": [38, 84],
+    "asw": [42, 84],
+    "los": [3, 14]
+  },
+  "Inagi": {
+    "evasion": [37, 81],
+    "asw": [41, 83],
+    "los": [3, 13]
+  },
+  "Tuscaloosa": {
+    "evasion": [36, 63],
+    "asw": [0, 0],
+    "los": [15, 55]
+  },
+  "Nevada": {
+    "evasion": [20, 47],
+    "asw": [0, 0],
+    "los": [8, 36]
+  },
+  "Langley": {
+    "evasion": [22, 43],
+    "asw": [16, 52],
+    "los": [40, 68]
+  },
+  "Ukuru/Kai": {
+    "evasion": [52, 91],
+    "asw": [48, 88],
+    "los": [5, 27]
+  },
+  "Valiant": {
+    "evasion": [25, 54],
+    "asw": [0, 0],
+    "los": [15, 47]
+  },
+  "Tuscaloosa/Kai": {
+    "evasion": [37, 77],
+    "asw": [0, 0],
+    "los": [16, 57]
+  },
+  "Nevada/Kai": {
+    "evasion": [27, 58],
+    "asw": [0, 0],
+    "los": [13, 50]
+  },
+  "Langley/Kai": {
+    "evasion": [30, 57],
+    "asw": [18, 58],
+    "los": [50, 80]
+  },
+  "Ranger": {
+    "evasion": [28, 54],
+    "asw": [0, 0],
+    "los": [38, 68]
+  },
+  "Massachusetts": {
+    "evasion": [27, 59],
+    "asw": [0, 0],
+    "los": [15, 47]
+  },
+  "C.Cappellini": {
+    "evasion": [17, 44],
+    "asw": [0, 0],
+    "los": [5, 24]
+  },
+  "Jean Bart": {
+    "evasion": [35, 67],
+    "asw": [0, 0],
+    "los": [12, 48]
+  },
+  "Nevada/Kai Mod.2": {
+    "evasion": [27, 67],
+    "asw": [0, 0],
+    "los": [15, 52]
+  },
+  "Massachusetts/Kai": {
+    "evasion": [35, 66],
+    "asw": [0, 0],
+    "los": [18, 59]
+  },
+  "UIT-24": {
+    "evasion": [21, 65],
+    "asw": [0, 0],
+    "los": [9, 31]
+  },
+  "I-503": {
+    "evasion": [23, 68],
+    "asw": [0, 0],
+    "los": [10, 33]
+  },
+  "Heywood L. Edwards": {
+    "evasion": [43, 80],
+    "asw": [49, 83],
+    "los": [20, 33]
+  },
+  "Richard P. Leary": {
+    "evasion": [43, 80],
+    "asw": [49, 82],
+    "los": [20, 32]
+  },
+  "Kumano Maru": {
+    "evasion": [14, 37],
+    "asw": [22, 64],
+    "los": [13, 56]
+  },
+  "Heian Maru": {
+    "evasion": [14, 27],
+    "asw": [0, 0],
+    "los": [11, 30]
+  },
+  "No.101 Transport Ship": {
+    "evasion": [29, 57],
+    "asw": [0, 0],
+    "los": [2, 9]
+  },
+  "Kumano Maru/Kai": {
+    "evasion": [16, 50],
+    "asw": [30, 74],
+    "los": [15, 60]
+  },
+  "Heian Maru/Kai": {
+    "evasion": [16, 37],
+    "asw": [0, 0],
+    "los": [18, 39]
+  },
+  "Amatsukaze/Kai Ni": {
+    "evasion": [56, 99],
+    "asw": [29, 67],
+    "los": [10, 44]
+  },
+  "Phoenix": {
+    "evasion": [31, 68],
+    "asw": [0, 34],
+    "los": [18, 68]
+  },
+  "Asahi": {
+    "evasion": [6, 16],
+    "asw": [0, 0],
+    "los": [1, 3]
+  },
+  "Haruna/Kai Ni C": {
+    "evasion": [38, 73],
+    "asw": [0, 0],
+    "los": [16, 52]
+  },
+  "Kiyoshimo/Kai Ni": {
+    "evasion": [45, 93],
+    "asw": [28, 76],
+    "los": [9, 43]
+  },
+  "Hayashimo/Kai Ni": {
+    "evasion": [49, 91],
+    "asw": [28, 75],
+    "los": [11, 42]
+  },
+  "General Belgrano": {
+    "evasion": [38, 83],
+    "asw": [0, 45],
+    "los": [40, 90]
+  },
+  "Asahi/Kai": {
+    "evasion": [5, 17],
+    "asw": [0, 0],
+    "los": [1, 4]
+  },
+  "Miyuki/Kai Ni": {
+    "evasion": [48, 90],
+    "asw": [25, 65],
+    "los": [13, 51]
+  },
+  "Kiyoshimo/Kai Ni D": {
+    "evasion": [45, 95],
+    "asw": [27, 74],
+    "los": [12, 50]
+  },
+  "Shigure/Kai San": {
+    "evasion": [63, 98],
+    "asw": [39, 88],
+    "los": [12, 51]
+  },
+  "Mogador": {
+    "evasion": [53, 87],
+    "asw": [32, 52],
+    "los": [8, 38]
+  },
+  "Akizuki/Kai Ni": {
+    "evasion": [52, 92],
+    "asw": [33, 76],
+    "los": [14, 56]
+  },
+  "Shirakumo": {
+    "evasion": [37, 82],
+    "asw": [19, 48],
+    "los": [3, 19]
+  },
+  "Gloire": {
+    "evasion": [32, 74],
+    "asw": [0, 36],
+    "los": [20, 64]
+  },
+  "Lexington": {
+    "evasion": [21, 40],
+    "asw": [0, 0],
+    "los": [40, 67]
+  },
+  "Mogador/Kai": {
+    "evasion": [58, 91],
+    "asw": [38, 63],
+    "los": [11, 50]
+  },
+  "Hatsuzuki/Kai Ni": {
+    "evasion": [54, 93],
+    "asw": [32, 75],
+    "los": [12, 54]
+  },
+  "Richelieu/Deux": {
+    "evasion": [40, 74],
+    "asw": [0, 0],
+    "los": [19, 58]
+  },
+  "Gloire/Kai": {
+    "evasion": [38, 83],
+    "asw": [0, 45],
+    "los": [24, 76]
+  },
+  "I-36": {
+    "evasion": [10, 38],
+    "asw": [0, 0],
+    "los": [9, 31]
+  },
+  "I-41": {
+    "evasion": [12, 37],
+    "asw": [0, 0],
+    "los": [10, 30]
+  },
+  "Harusame/Kai Ni": {
+    "evasion": [49, 91],
+    "asw": [29, 78],
+    "los": [10, 51]
+  },
+  "I-36/Kai": {
+    "evasion": [12, 49],
+    "asw": [0, 0],
+    "los": [10, 33]
+  },
+  "I-41/Kai": {
+    "evasion": [14, 46],
+    "asw": [0, 0],
+    "los": [11, 33]
+  },
+  "Inagi/Kai Ni": {
+    "evasion": [47, 93],
+    "asw": [47, 87],
+    "los": [5, 42]
+  },
+  "Fujinami/Kai Ni": {
+    "evasion": [47, 90],
+    "asw": [30, 78],
+    "los": [12, 56]
+  },
+  "Hamanami/Kai Ni": {
+    "evasion": [46, 90],
+    "asw": [30, 80],
+    "los": [10, 55]
+  },
+  "Wahoo": {
+    "evasion": [17, 45],
+    "asw": [0, 0],
+    "los": [12, 44]
+  },
+  "Dace": {
+    "evasion": [18, 47],
+    "asw": [0, 0],
+    "los": [12, 45]
+  },
+  "Shirayuki/Kai Ni": {
+    "evasion": [49, 91],
+    "asw": [26, 65],
+    "los": [13, 54]
+  },
+  "Hatsuyuki/Kai Ni": {
+    "evasion": [48, 91],
+    "asw": [27, 64],
+    "los": [14, 52]
+  },
+  "Nankai": {
+    "evasion": [2, 12],
+    "asw": [0, 0],
+    "los": [2, 4]
+  },
+  "Wahoo/Kai": {
+    "evasion": [18, 57],
+    "asw": [0, 0],
+    "los": [14, 46]
+  },
+  "Dace/Kai": {
+    "evasion": [19, 59],
+    "asw": [0, 0],
+    "los": [14, 47]
+  },
+  "Sugi": {
+    "evasion": [29, 70],
+    "asw": [28, 74],
+    "los": [8, 26]
+  },
+  "Kashi": {
+    "evasion": [30, 70],
+    "asw": [28, 75],
+    "los": [7, 26]
+  },
+  "Kaya": {
+    "evasion": [30, 70],
+    "asw": [27, 74],
+    "los": [8, 25]
+  },
+  "Ootomari": {
+    "evasion": [14, 48],
+    "asw": [12, 18],
+    "los": [7, 14]
+  },
+  "Nosaki": {
+    "evasion": [4, 19],
+    "asw": [0, 0],
+    "los": [3, 7]
+  },
+  "Sugi/Kai": {
+    "evasion": [34, 82],
+    "asw": [32, 77],
+    "los": [16, 47]
+  },
+  "Norge": {
+    "evasion": [4, 17],
+    "asw": [0, 0],
+    "los": [3, 6]
+  },
+  "Eidsvold": {
+    "evasion": [4, 18],
+    "asw": [0, 0],
+    "los": [4, 8]
+  },
+  "Ootomari/Kai": {
+    "evasion": [18, 68],
+    "asw": [14, 35],
+    "los": [8, 16]
+  },
+  "Kirov": {
+    "evasion": [32, 68],
+    "asw": [15, 26],
+    "los": [13, 42]
+  },
+  "Nosaki/Kai": {
+    "evasion": [18, 37],
+    "asw": [4, 8],
+    "los": [4, 12]
+  },
+  "Shimane Maru": {
+    "evasion": [14, 29],
+    "asw": [24, 62],
+    "los": [13, 57]
+  },
+  "Minneapolis": {
+    "evasion": [33, 62],
+    "asw": [0, 0],
+    "los": [15, 56]
+  },
+  "Kirov/Kai": {
+    "evasion": [39, 78],
+    "asw": [26, 50],
+    "los": [14, 45]
+  },
+  "Leonardo da Vinci": {
+    "evasion": [22, 64],
+    "asw": [0, 0],
+    "los": [15, 50]
+  },
+  "Shimane Maru/Kai": {
+    "evasion": [15, 45],
+    "asw": [28, 68],
+    "los": [22, 66]
+  },
+  "Minneapolis/Kai": {
+    "evasion": [34, 76],
+    "asw": [0, 0],
+    "los": [16, 58]
+  },
+  "Glorious": {
+    "evasion": [32, 55],
+    "asw": [0, 0],
+    "los": [12, 40]
+  },
+  "Wasp": {
+    "evasion": [39, 62],
+    "asw": [0, 0],
+    "los": [51, 82]
+  },
+  "Glorious/(CV)": {
+    "evasion": [34, 56],
+    "asw": [0, 0],
+    "los": [37, 65]
+  },
+  "Wasp/Kai": {
+    "evasion": [43, 67],
+    "asw": [0, 0],
+    "los": [53, 92]
+  },
+  "Colorado/Kai": {
+    "evasion": [22, 54],
+    "asw": [0, 0],
+    "los": [16, 52]
+  }
+}
