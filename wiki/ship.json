@@ -11924,7 +11924,7 @@
     "_armor": 57,
     "_armor_max": 77,
     "_armor_mod": 4,
-    "_asw": false,
+    "_asw": 0,
     "_asw_max": 0,
     "_class": "Courageous",
     "_class_number": 2,
@@ -12011,7 +12011,7 @@
     "_armor": 43,
     "_armor_max": 63,
     "_armor_mod": 4,
-    "_asw": false,
+    "_asw": 0,
     "_asw_max": 0,
     "_class": "Glorious",
     "_class_number": 1,
@@ -52504,6 +52504,8 @@
     "_asw_max": 0,
     "_availability": ["Limited_drop"],
     "_build_time": 22,
+    "_buildable": false,
+    "_buildable_lsc": false,
     "_class": "Thonburi",
     "_class_number": 1,
     "_equipment": [
@@ -52517,7 +52519,7 @@
       }
     ],
     "_evasion": null,
-    "_evasion_max": null,
+    "_evasion_max": 18,
     "_firepower": 26,
     "_firepower_max": 46,
     "_firepower_mod": 2,
@@ -52529,7 +52531,7 @@
     "_implementation_date": [2025, 12, 27],
     "_japanese_name": "Thonburi",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 38,
     "_luck": 8,
     "_luck_max": 48,
     "_luck_mod": false,
@@ -52571,12 +52573,14 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
-        "size": 0
+        "equipment": "20.3cm Twin Gun Mount",
+        "size": 0,
+        "stars": 4
       },
       {
-        "equipment": null,
-        "size": 0
+        "equipment": "20.3cm Twin Gun Mount",
+        "size": 0,
+        "stars": 4
       },
       {
         "equipment": false,
@@ -52605,7 +52609,8 @@
     "_remodel_ammo": 300,
     "_remodel_blueprint": false,
     "_remodel_catapult": false,
-    "_remodel_development_material": false,
+    "_remodel_construction_material": 10,
+    "_remodel_development_material": 20,
     "_remodel_from": "Thonburi/",
     "_remodel_level": 40,
     "_remodel_report": false,

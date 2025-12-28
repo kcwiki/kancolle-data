@@ -508,7 +508,9 @@ export interface APIMstEquipShip {
   '967': The372
   '968': The100
   '969': The100
+  '973': The727
   '975': The100
+  '978': The131
   '979': The372
   '981': The100
   '983': The100
@@ -516,9 +518,9 @@ export interface APIMstEquipShip {
   '987': The100
   '988': The988
   '995': The1003
-  '996': The727
-  '998': The100
-  '999': The372
+  '996': The100
+  '998': The727
+  '999': The131
 }
 
 export interface The100 {
@@ -529,7 +531,7 @@ export interface The100_APIEquipType {
   '1'?: number[] | null
   '10'?: null
   '11'?: null
-  '12'?: null
+  '12': null
   '13'?: number[] | null
   '14'?: null
   '15'?: null
@@ -624,7 +626,7 @@ export interface The131_APIEquipType {
   '1'?: null
   '10'?: null
   '11'?: number[] | null
-  '12': null
+  '12'?: null
   '13'?: null
   '14'?: null
   '15'?: null
@@ -632,8 +634,8 @@ export interface The131_APIEquipType {
   '17': null
   '18'?: null
   '19'?: null
-  '2'?: null
-  '20': null
+  '2'?: number[] | null
+  '20'?: null
   '21': null
   '22'?: null
   '23': null
@@ -649,11 +651,11 @@ export interface The131_APIEquipType {
   '33'?: null
   '34': null
   '35'?: null
-  '36': null
+  '36'?: null
   '37'?: null
   '38'?: null
   '39': null
-  '4'?: null
+  '4'?: number[] | null
   '40'?: null
   '41'?: null
   '42'?: null
@@ -735,7 +737,7 @@ export interface The372_APIEquipType {
   '1'?: null
   '10'?: null
   '11'?: null
-  '12'?: null
+  '12': null
   '13'?: null
   '14'?: null
   '15'?: null
@@ -918,24 +920,25 @@ export interface The727 {
 }
 
 export interface The727_APIEquipType {
-  '1': number[]
-  '12': null
-  '14'?: null
+  '1': number[] | null
+  '12'?: null
   '15'?: null
   '17': null
+  '2'?: number[]
   '21': null
   '23': null
   '27'?: null
   '29': null
   '30': null
   '33': null
+  '34'?: null
   '37': null
   '39'?: null
   '4': number[]
   '43': null
-  '44'?: null
   '46'?: null
-  '50': null
+  '5'?: null
+  '50'?: null
   '52'?: null
   '54'?: null
 }
