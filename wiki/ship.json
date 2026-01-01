@@ -9365,7 +9365,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 2,
-    "_voice_actor": "Utami Yuki",
+    "_voice_actor": "Utami Yuuki",
     "_voice_flag": 1,
     "_full_name": "Fletcher"
   },
@@ -9439,7 +9439,7 @@
     "_voice_flag": 3,
     "_full_name": "Fletcher Kai",
     "_implementation_date": [2019, 5, 25],
-    "_voice_actor": "Utami Yuki",
+    "_voice_actor": "Utami Yuuki",
     "_artist": "zeco",
     "_availability": ["event_drop"],
     "_build_time": 23
@@ -9515,7 +9515,7 @@
     "_type": 2,
     "_voice_flag": 3,
     "_full_name": "Fletcher Kai Mod.2",
-    "_voice_actor": "Utami Yuki",
+    "_voice_actor": "Utami Yuuki",
     "_artist": "zeco",
     "_availability": ["event_drop"],
     "_build_time": 23
@@ -9599,7 +9599,7 @@
     "_voice_flag": 3,
     "_full_name": "Fletcher Mk.II",
     "_implementation_date": [2020, 5, 20],
-    "_voice_actor": "Utami Yuki",
+    "_voice_actor": "Utami Yuuki",
     "_artist": "zeco",
     "_availability": ["event_drop"],
     "_build_time": 23
@@ -11458,7 +11458,7 @@
     "_type": 3,
     "_voice_flag": 3,
     "_full_name": "General Belgrano",
-    "_voice_actor": "Hanazaki Fumika",
+    "_voice_actor": "Hanasaki Ayaka",
     "_artist": "UGUME",
     "_availability": ["event_reward"],
     "_build_time": 70
@@ -41952,7 +41952,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 3,
-    "_voice_actor": "Hanazaki Fumika",
+    "_voice_actor": "Hanasaki Ayaka",
     "_voice_flag": 1,
     "_full_name": "Phoenix"
   },
@@ -42029,7 +42029,7 @@
     "_voice_flag": 3,
     "_full_name": "Phoenix Kai",
     "_implementation_date": [2024, 8, 8],
-    "_voice_actor": "Hanazaki Fumika",
+    "_voice_actor": "Hanasaki Ayaka",
     "_artist": "UGUME",
     "_availability": ["event_reward"],
     "_build_time": 70
@@ -55456,7 +55456,7 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 9,
-    "_voice_actor": "Hanazaki Fumika",
+    "_voice_actor": "Hanasaki Ayaka",
     "_wikipedia": "HMS Valiant (1914)",
     "_full_name": "Valiant"
   },
@@ -55533,7 +55533,7 @@
     "_type": 9,
     "_full_name": "Valiant Kai",
     "_implementation_date": [2024, 7, 27],
-    "_voice_actor": "Hanazaki Fumika",
+    "_voice_actor": "Hanasaki Ayaka",
     "_artist": "Konishi",
     "_availability": ["event_reward"],
     "_wikipedia": "HMS Valiant (1914)",
