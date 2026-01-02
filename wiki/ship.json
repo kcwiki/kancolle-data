@@ -52587,7 +52587,7 @@
         "size": 0
       }
     ],
-    "_evasion": null,
+    "_evasion": 7,
     "_evasion_max": 22,
     "_firepower": 32,
     "_firepower_max": 62,
@@ -52597,7 +52597,7 @@
     "_hp_max": 41,
     "_id": 578,
     "_japanese_name": "Thonburi改",
-    "_los": null,
+    "_los": 10,
     "_los_max": 41,
     "_luck": 12,
     "_luck_max": 77,
