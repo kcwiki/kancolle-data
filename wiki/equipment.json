@@ -9064,7 +9064,7 @@
     "_firepower": 4,
     "_icon": 16,
     "_id": 172,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "米国で開発・運用された優秀な小口径両用砲の改良型です。<br>本装備は連装タイプの両用砲で、大型艦の対空火力としても運用されました。<br>バランスに優れた新型両用砲です。",
     "_info_en": "This is the improved version of a great-performing small-caliber dual-purpose gun developed and utilized by the USA.<br>This is a twin-gun dual-purpose gun, and it was utilized by capital ships as anti-air armament.<br>This is a new type of dual-purpose gun with a good balance of performance.",
     "_japanese_name": "5inch連装砲 Mk.28 mod.2",
@@ -16873,7 +16873,7 @@
     "_flight_range": 2,
     "_icon": 57,
     "_id": 546,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "九州飛行機と海軍航空技術廠が生み出した未完の翼、先進的なエンテ型の試作局地戦闘機「震電」。<br>推進プロペラを後方に配置し重火力を機体前部に集中させた後進翼の前翼型の機体は、まさに未来と希望を感じさせるもの。<br>本機をベースにif艦載機型「震電改」戦歴により、今後さらなる「震電」発展系の戦力化準備も進められています。<br>ぜひ、提督の未来の航空戦力に！",
     "_info_en": "The unfinished advanced canard-type winged prototype land-based fighter \"Shinden\" was created by Kyushu Aircraft Company and the Naval Air Technical Arsenal.<br>The plane with a forward-winged, rear-swept wings has propellers placed at the rear and heavy firepower is concentrated at the front, gives a sense of the future and hope.<br>Based on this machine, and based on the combat history of the what-it \"Shinden Kai\" carrier-based version, preparations are underway to further develop the \"Shinden\" into a fighting force.<br>Be sure to join the Admiral's future air force!",
     "_japanese_name": "試製 震電(局地戦闘機)",
@@ -20319,6 +20319,43 @@
     "_special": false,
     "_speed": false,
     "_stars": 5,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 6,
+    "_types": [3, 5, 6, 6, 20],
+    "_version": 3,
+    "_wikipedia": "Kyushu J7W Shinden"
+  },
+  "Shinden Kai 2 (Carrier-based Fighter Model Kai 2)": {
+    "_aa": 16,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 1,
+    "_firepower": false,
+    "_flight_cost": 9,
+    "_flight_range": 3,
+    "_icon": 6,
+    "_id": 547,
+    "_improvements": false,
+    "_info": null,
+    "_info_en": null,
+    "_japanese_name": "震電改二(艦戦型改二)",
+    "_localized_name": "Magnificent Lightning Kai 2",
+    "_los": 1,
+    "_luck": false,
+    "_name": "Shinden Kai 2 (Carrier-based Fighter Model Kai 2)",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": "しんでんかいにかんせんけいあらために",
+    "_scrap_ammo": 3,
+    "_scrap_bauxite": 29,
+    "_scrap_fuel": 3,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 6,
@@ -27984,88 +28021,7 @@
     "_firepower": false,
     "_icon": 18,
     "_id": 47,
-    "_improvements": {
-      "_ammo": false,
-      "_bauxite": 50,
-      "_fuel": 10,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 4,
-            "_development_material_x": 5,
-            "_equipment": false,
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 5,
-            "_development_material_x": 7,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "_ships": {
-            "Isuzu/Kai Ni": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuubari/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuubari/Kai": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuubari/Kai Ni": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuubari/Kai Ni D": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuubari/Kai Ni Toku": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 30
-    },
+    "_improvements": true,
     "_info": "対潜兵装です。<br>いわゆるアクティブソナーです。<br>性能は残念ながら、ものすごく高くはありません。<br>それでも、他兵装と組み合わせて、練度の高い駆逐艦で敵潜水艦隊を文字通り駆逐してください！",
     "_info_en": "An anti-submarine weapon.<br>Also called the active SONAR.<br>It does not have impressive performance.<br>However, when used in tandem with other equipment, a veteran destroyer will surely put enemy submarines down!",
     "_japanese_name": "三式水中探信儀",
@@ -28362,108 +28318,14 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 3,
     "_firepower": false,
     "_flight_cost": 7,
     "_flight_range": 3,
     "_icon": 44,
     "_id": 176,
-    "_improvements": {
-      "_ammo": 150,
-      "_bauxite": 330,
-      "_fuel": 100,
-      "_products": {
-        "Type 3 Fighter Hien Model 1D": {
-          "0": {
-            "_development_material": 6,
-            "_development_material_x": 7,
-            "_equipment": {
-              "Type 0 Fighter Model 21": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 8,
-            "_development_material_x": 10,
-            "_equipment": {
-              "Type 0 Fighter Model 32": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "10": {
-            "_development_material": 12,
-            "_development_material_x": 20,
-            "_equipment": {
-              "New Model Aerial Armament Material": 1,
-              "Type 0 Fighter Model 52": 3
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 10
-          },
-          "_ships": {
-            "Akitsu Maru/": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Akitsu Maru/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Kasuga Maru/": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Taiyou/": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Taiyou/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Taiyou/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 0
-    },
+    "_improvements": true,
     "_info": "かの国で開発された液冷エンジンを参考に開発された、液冷エンジンを装備した陸軍戦闘機、三式戦「飛燕」です。<br>残念ながら信頼性に難があり、その実力を十分に発揮できませんでしたが、万全な状態であれば高い潜在力を持っています。",
     "_info_en": "The “Hien” or Army Type 3 Fighter, was equipped with a liquid-cooled engine developed using the liquid-cooled engine from that country as a reference.<br>Although under test conditions it was very promising, unfortunately, its lack of reliability prevented it from ever achieving the high potential of its abilities in action.",
     "_japanese_name": "三式戦 飛燕",
