@@ -28193,72 +28193,9 @@
     "_firepower": false,
     "_icon": 17,
     "_id": 45,
-    "_improvements": {
-      "_ammo": 80,
-      "_bauxite": 30,
-      "_fuel": 10,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 3,
-            "_development_material_x": 3,
-            "_equipment": false,
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 3,
-            "_development_material_x": 5,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 4
-          },
-          "_ships": {
-            "Daitou/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Hiburi/Kai": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Isuzu/Kai Ni": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            },
-            "Kuroshio/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 20
-    },
+    "_improvements": true,
     "_info": "対潜兵装です。<br>九四式にかわる新型の爆雷投射機です。<br>新鋭の海防艦などに装備されました。<br>大量装備すれば、発見さえできれば、敵潜水艦の面制圧も…きっと可能です。",
-    "_info_en": "An anti-submarine weapon.<br>A new type of depth-charge intended to replace the Type-94.<br>It was deployed on the latest ships.<br>With a bunch of these equipped, as long as you can find the enemy, you'll be sure to wipe them out.",
+    "_info_en": "An anti-submarine weapon.<br>A new type of depth charge projector intended to replace the Type 94.<br>It was deployed on the latest coastal defense ships and other vessels.<br>If we equip a large number of them and can detect them... it will definitely be possible to suppress enemy submarines.",
     "_japanese_name": "三式爆雷投射機",
     "_los": false,
     "_luck": false,
