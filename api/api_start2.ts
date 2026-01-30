@@ -87,6 +87,7 @@ export interface APIMstEquipExslotShip {
   '526': The106
   '527': The12
   '528': The10
+  '569': The45
   '66': The220
   '71': The106
   '87': The106

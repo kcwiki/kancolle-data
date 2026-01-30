@@ -509,7 +509,9 @@
     "33": true,
     "36": true,
     "43": true,
-    "50": true
+    "50": true,
+    "Type 2 12cm Mortar Kai": "Only: Akashi Kai, Asahi Kai",
+    "Type 2 12cm Mortar Kai (Concentrated Deployment)": "Only: Akashi Kai, Asahi Kai"
   },
   "20": {
     "1": true,
