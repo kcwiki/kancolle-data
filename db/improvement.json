@@ -79,6 +79,7 @@
   "91": true,
   "92": true,
   "93": true,
+  "94": true,
   "95": true,
   "96": true,
   "98": true,
@@ -345,6 +346,7 @@
   "543": true,
   "544": true,
   "546": true,
+  "547": true,
   "549": true,
   "550": true,
   "551": true,
@@ -352,5 +354,6 @@
   "553": true,
   "555": true,
   "564": true,
-  "565": true
+  "565": true,
+  "570": true
 }
