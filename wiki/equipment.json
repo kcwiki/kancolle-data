@@ -8720,54 +8720,7 @@
     "_firepower": false,
     "_icon": 5,
     "_id": 174,
-    "_improvements": {
-      "_ammo": 60,
-      "_bauxite": 20,
-      "_fuel": 40,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 1,
-            "_development_material_x": 2,
-            "_equipment": {
-              "61cm Triple Torpedo Mount": 1
-            },
-            "_improvement_material": 1,
-            "_improvement_material_x": 1
-          },
-          "6": {
-            "_development_material": 2,
-            "_development_material_x": 4,
-            "_equipment": {
-              "61cm Quadruple (Oxygen) Torpedo Mount": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "_ships": {
-            "Kamikaze/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            },
-            "Tatsuta/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 40
-    },
+    "_improvements": true,
     "_info": "旧式の53cm魚雷の連装発射管です。<br>新型の61cm酸素魚雷と比較すると、射程・威力共に陳腐化は否めませんが、近距離魚雷戦ではまだまだ現役です。<br>やや旧式の艦隊型駆逐艦「神風」型などに装備されました。",
     "_info_en": "This is the firing tube of the older 53 cm Torpedo.<br>When compared with the newer 61 cm oxygen torpedo, the range and power are outclassed, but it is serviceable in close-range torpedo combat.<br>This was equipped by the slightly older-class destroyers such as the \"Kamikaze-class\".",
     "_japanese_name": "53cm連装魚雷",
@@ -8789,6 +8742,39 @@
     "_type": 5,
     "_types": [2, 3, 5, 5, 0],
     "_version": 2
+  },
+  "53cm Twin Torpedo Mount Kai (Oxygen Torpedoes)": {
+    "_aa": false,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 2,
+    "_firepower": false,
+    "_icon": 5,
+    "_id": 571,
+    "_improvements": false,
+    "_info": "近代化改修された53cm連装魚雷の改良型です。<br>61cm酸素魚雷と比較すると炸薬量は抑え目ですが、あらゆる点で改良された運用性の高い小型軽量の魚雷兵装です。<br>魚雷自体も酸素魚雷に換装され、装備適正の高い一部の艦艇では特に高い運用性を発揮、魚雷戦及び夜戦火力向上が図れます。",
+    "_info_en": "This is an improved version of the modernized 53 cm twin torpedo mount.<br>Although the explosive charge is lower than that of the 61 cm oxygen torpedo, it is a small, lightweight torpedo armament that has been improved in every way and is highly operational.<br>The torpedoes themselves have also been replaced with oxygen torpedoes, making them particularly useful on some ships with high equipment suitability, and improving torpedo battle and night battle firepower.",
+    "_japanese_name": "53cm連装魚雷改(酸素魚雷)",
+    "_los": false,
+    "_luck": false,
+    "_name": "53cm Twin Torpedo Mount Kai (Oxygen Torpedoes)",
+    "_range": 1,
+    "_rarity": 3,
+    "_reading": null,
+    "_scrap_ammo": 2,
+    "_scrap_bauxite": 1,
+    "_scrap_fuel": 2,
+    "_scrap_steel": 1,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": 7,
+    "_torpedo_accuracy": false,
+    "_type": 5,
+    "_types": [2, 3, 5, 5, 0],
+    "_wikipedia": "Type 95 torpedo"
   },
   "5inch Single Gun Mount Mk.30": {
     "_aa": 6,
