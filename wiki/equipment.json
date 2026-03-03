@@ -26222,7 +26222,7 @@
     "_flight_range": 4,
     "_icon": 22,
     "_id": 489,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "最も量産された陸軍主力戦闘機、一式戦「隼」、その改良二型です。<br>機体の基本設計自体は旧式となりつつありましたが、使い慣れた機体を洋上迷彩で塗装、対潜爆弾を装備、さらに本機は陸軍特設空母などでの運用に特化したif改良艦載対潜哨戒機です。<br>※基地航空隊戦力としても、展開＆運用可能です。",
     "_info_en": "The mass-produced Type 1 Fighter \"Hayabusa\" was the main fighter of the IJA. This is the upgraded Model II variant.<br>Though its basic design was becoming obsolete, the mature design was given a maritime camouflage and anti-submarine bombs. This what-if variant is an upgraded anti-submarine patrol aircraft designed for operating off certain IJA carriers.<br>※This aircraft can be deployed on land bases.",
     "_japanese_name": "一式戦 隼II型改(20戦隊)",
