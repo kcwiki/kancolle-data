@@ -51722,8 +51722,8 @@
     "_armor": 16,
     "_armor_max": 54,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 29,
+    "_asw_max": 82,
     "_class": "Yuugumo",
     "_class_number": 9,
     "_equipment": [
@@ -51742,8 +51742,8 @@
         "stars": 4
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 43,
+    "_evasion_max": 89,
     "_firepower": 18,
     "_firepower_max": 64,
     "_firepower_mod": 2,
@@ -51752,8 +51752,8 @@
     "_hp_max": 56,
     "_id": 623,
     "_japanese_name": "玉波改二",
-    "_los": null,
-    "_los_max": null,
+    "_los": 11,
+    "_los_max": 56,
     "_luck": 21,
     "_luck_max": 88,
     "_luck_mod": false,
