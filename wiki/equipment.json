@@ -1619,64 +1619,7 @@
     "_firepower": 3,
     "_icon": 1,
     "_id": 267,
-    "_improvements": {
-      "_ammo": 70,
-      "_bauxite": 20,
-      "_fuel": 20,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 6,
-            "_development_material_x": 7,
-            "_equipment": {
-              "10cm Twin High-angle Gun Mount": 2
-            },
-            "_improvement_material": 5,
-            "_improvement_material_x": 6
-          },
-          "6": {
-            "_development_material": 7,
-            "_development_material_x": 10,
-            "_equipment": {
-              "12.7cm Twin Gun Mount Model C Kai 2": 1
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 9
-          },
-          "_ships": {
-            "Naganami/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuugumo/Kai": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            },
-            "Yuugumo/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 90
-    },
+    "_improvements": true,
     "_info": "夕雲型駆逐艦などに搭載された駆逐艦主砲のif改修型です。<br>最大仰角を大きく設定しましたが、装填システムの基本構造は従来通りのため対空能力は限定的です。<br>ただし、数々の実戦の戦訓を取り入れた改修により、甲型及び丙型駆逐艦での運用において、優れた砲戦能力を発揮します。",
     "_info_en": "A what-if upgrade of the destroyer main gun that was mounted on the Yuugumo-class destroyers.<br>It has a much higher maximum elevation but because the loading system is more or less the same, its anti-air capabilities are limited.<br>However, thanks to the improvements made by incorporating lessons learned in live combat, it will display excellent shelling power when equipped on Type-A and Type-C destroyers.",
     "_japanese_name": "12.7cm連装砲D型改二",
@@ -3482,7 +3425,7 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": 1,
     "_firepower": 7,
     "_icon": 2,
@@ -3520,7 +3463,7 @@
     "_firepower": 8,
     "_icon": 2,
     "_id": 537,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "トリコロールの国で建造された軽巡級の主砲兵装です。<br>後に特徴ある迷彩仕様となる「Gloire」などのLa Galissonnière級軽巡の主砲兵装として運用されました。<br>改修して、特徴ある迷彩仕様にするのもいいですね。",
     "_info_en": "This is a light cruiser main gun armament built in the Tricolor country.<br>It is a later version used as the main gun armament for La Galissonnière-class light cruisers such as the \"Gloire\", which was given a distinctive camouflage design.<br>It would also be nice to renovate her and give her a distinctive camouflage design.",
     "_japanese_name": "15.2cm三連装主砲改",
@@ -4235,7 +4178,7 @@
     "_armor": 1,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 8,
     "_icon": 2,
@@ -9772,7 +9715,7 @@
     "_firepower": 7,
     "_icon": 2,
     "_id": 399,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "紅茶の国で開発された、ロンドン海軍軍縮条約下で建造された、大型軽巡洋艦用主砲です。<br>軍縮条約下で総排水量制限を回避するために、重巡クラスの大型軽巡用に6inchの三連装主砲として構成された主砲兵装です。<br>多くの軽巡を配備した紅茶の国、そのTown級軽巡などに装備運用されました。",
     "_info_en": "A gun for large-sized light cruisers developed in the country of tea under the London Naval Treaty.<br>In order to get around the displacement limits set by the Treaty, these 6 inch triple-mounted guns were deployed as the main guns of heavy-cruiser-sized light cruisers.<br>It was deployed on many light cruisers from the country of tea, such as the Town-class light cruiser.",
     "_japanese_name": "6inch Mk.XXIII三連装砲",
@@ -10103,108 +10046,7 @@
     "_firepower": 1,
     "_icon": 16,
     "_id": 220,
-    "_improvements": {
-      "_ammo": 80,
-      "_bauxite": 300,
-      "_fuel": 130,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 6,
-            "_development_material_x": 8,
-            "_equipment": {
-              "10cm Twin High-angle Gun Mount": 2
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 5
-          },
-          "6": {
-            "_development_material": 8,
-            "_development_material_x": 15,
-            "_equipment": {
-              "25mm Single Autocannon Mount": 2
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 8
-          },
-          "_ships": {
-            "Kumano/Carrier Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Kumano/Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Sakawa/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Sakawa/Kai": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Suzuya/Carrier Kai Ni": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Suzuya/Kai Ni": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yahagi/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yahagi/Kai": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": false
-    },
+    "_improvements": true,
     "_info": "新開発の長8cm高角砲の改良型です。<br>秋月型に装備された長10cm高角砲の小型軽量化を図った対空用副砲バージョンです。<br>微妙な出来という評価もありますが、新型艦艇装備の防空兵装として期待されていました。<br>本装備は小型軽量に特徴のある超8cm砲を熟成した改良型と単装機銃集中配備の組み合わせによる対空兵装パッケージです。",
     "_info_en": "The improved version of the newly developed long 8 cm high angle gun.<br>It is a miniaturized and lightened anti-air secondary gun version of the Akizuki class's long 10 cm high angle gun.<br>While it is evaluated to be of little improvement, it was anticipated by the warships built later into the war.<br>This piece of anti-air equipment is the combination package of an improved model of the aging lightweight, miniature super 8 cm gun with a concentration of single-barreled machine guns.",
     "_japanese_name": "8cm高角砲改+増設機銃",
