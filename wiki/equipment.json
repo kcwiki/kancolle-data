@@ -10075,70 +10075,12 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": -1,
     "_firepower": 11,
     "_icon": 2,
     "_id": 356,
-    "_improvements": {
-      "_ammo": 120,
-      "_bauxite": 10,
-      "_fuel": 20,
-      "_products": {
-        "8inch Triple Gun Mount Mk.9 mod.2": {
-          "0": {
-            "_development_material": 5,
-            "_development_material_x": 6,
-            "_equipment": {
-              "20.3cm Twin Gun Mount": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 6,
-            "_development_material_x": 9,
-            "_equipment": {
-              "20.3cm Twin Gun Mount": 2
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "10": {
-            "_development_material": 12,
-            "_development_material_x": 30,
-            "_equipment": {
-              "20.3cm (No.2) Twin Gun Mount": 1,
-              "New Model Gun Mount Improvement Material": 1
-            },
-            "_improvement_material": 7,
-            "_improvement_material_x": 12
-          },
-          "_ships": {
-            "Houston/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Houston/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 160
-    },
+    "_improvements": true,
     "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡洋艦群に装備された三連装主砲兵装です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、大火力を備えた主砲兵装です。<br>米海軍の条約型重巡Pensacola級やNorthampton級の主兵装として運用されました。",
     "_info_en": "Developed by the United States Navy as the main gun of their treaty heavy cruisers, it was equipped on them in a triple mount.<br>It possesses great firepower even though it is just a basic mounting of three 20 cm guns in a single turret.<br>It was used as the main gun of the USN's Pensacola and Northampton classes treaty heavy cruisers.",
     "_japanese_name": "8inch三連装砲 Mk.9",
@@ -10171,55 +10113,7 @@
     "_firepower": 12,
     "_icon": 2,
     "_id": 357,
-    "_improvements": {
-      "_ammo": 160,
-      "_bauxite": 20,
-      "_fuel": 30,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 6,
-            "_development_material_x": 7,
-            "_equipment": {
-              "20.3cm Twin Gun Mount": 2
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 4
-          },
-          "6": {
-            "_development_material": 9,
-            "_development_material_x": 15,
-            "_equipment": {
-              "20.3cm (No.2) Twin Gun Mount": 1
-            },
-            "_improvement_material": 5,
-            "_improvement_material_x": 8
-          },
-          "_ships": {
-            "Houston/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Houston/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 190
-    },
+    "_improvements": true,
     "_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡洋艦群に装備された三連装主砲兵装の改修後期型です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、大火力の主砲兵装として米海軍条約型重巡Northampton級などで運用された三連装重巡主砲、その熟成改良型です。",
     "_info_en": "This is a late model upgrade of the gun developed by the USN for their treaty heavy cruisers that was mounted on them in triple mounts.<br>It possesses great firepower even though it is just a basic mounting of three 20 cm guns in a single turret, with this refined and upgraded model being used as the main gun of the USN's Northampton-class treaty heavy cruisers.",
     "_japanese_name": "8inch三連装砲 Mk.9 mod.2",
@@ -17446,7 +17340,7 @@
     "_flight_range": 5,
     "_icon": 6,
     "_id": 110,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。<br>用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦。<br>本航空隊は同新鋭機材を定数受領して、再建を目指す空母機動部隊、その戦闘機部隊の中核を担います。 ",
     "_info_en": "The \"Reppuu\" is a state-of-the-art, carrier-borne fighter designed to replace the \"Zero\" fighter.<br>Despite difficulties in engine selection, preoccupied design teams, and factories, this new type of carrier-borne fighter was finally completed.<br>This new fighter will form the backbone of carrier air groups of rebuilt carrier task groups.",
     "_japanese_name": "烈風(六〇一空)",
@@ -32504,7 +32398,7 @@
     "_flight_range": 6,
     "_icon": 6,
     "_id": 492,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "零戦の最終的な量産型「零式艦上戦闘機52丙型」です。<br>武装及び防御力が強化されました。その分、若干機動性は失われています。<br>「八幡部隊」は、洋上の敵航空母艦への空襲による撃破を目指して編成され、硫黄島に進出した部隊です。<br>圧倒的な米艦載機の前に、対抗できず硫黄島にて壊滅しました。",
     "_info_en": "The \"Zero Fighter Model 52C\" was the last mass-produced variant of the Zero.<br>Its armaments and armor have been upgraded in exchange for some mobility.<br>The \"Hachiman Squadron\" was formed and deployed to Iwo Jima to attack and destroy enemy carriers from the air.<br>Faced with overwhelming numbers of US carrier aircraft, it was destroyed without offering much resistance.",
     "_japanese_name": "零戦52型丙(八幡部隊)",
