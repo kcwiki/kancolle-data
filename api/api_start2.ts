@@ -90,6 +90,7 @@ export interface APIMstEquipExslotShip {
   '528': The106
   '569': The45
   '571': The12
+  '572': The10
   '66': The220
   '71': The106
   '87': The106
@@ -131,6 +132,8 @@ export interface The10_APIShipIDS {
   '101'?: number
   '1031'?: number
   '1033'?: number
+  '1035'?: number
+  '1040'?: number
   '114'?: number
   '144'?: number
   '145'?: number
@@ -187,6 +190,8 @@ export interface The106_APICtypes {
 
 export interface The106_APIShipIDS {
   '1031'?: number
+  '1035'?: number
+  '1040'?: number
   '136'?: number
   '148'?: number
   '229'?: number
@@ -235,6 +240,8 @@ export interface The12 {
 export interface The12_APIShipIDS {
   '1031'?: number
   '1033'?: number
+  '1035'?: number
+  '1040'?: number
   '147'?: number
   '235'?: number
   '399'?: number
@@ -334,8 +341,11 @@ export interface The45_APICtypes {
 
 export interface The45_APIShipIDS {
   '1033': number
+  '1035': number
+  '1040': number
   '564': number
   '648': number
+  '961': number
   '982': number
 }
 
@@ -372,6 +382,8 @@ export interface APIMstEquipShip {
   '101': The100
   '1031': The1031
   '1033': The100
+  '1035': The100
+  '1040': The100
   '114': The100
   '131': The131
   '136': The131
