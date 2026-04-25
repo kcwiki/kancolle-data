@@ -722,8 +722,8 @@
     "_icon": 16,
     "_id": 572,
     "_improvements": true,
-    "_info": null,
-    "_info_en": null,
+    "_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された単装両用砲です。<br>運用実績の豊富な八九式12.7cm連装高角砲を単装化、防盾付きの艦載両用砲としたシンプルな兵装ですが、本改修型は戦訓を元に発射速度と精度を磨き上げ、電探連携の射撃も可能となった、同砲のif近代化改修バージョンです。",
+    "_info_en": "This is a single-mount dual-purpose gun developed for the Type D destroyers, the last mass-produced destroyers of the Imperial Japanese Navy.<br>The Type 89 12.7 cm twin anti-aircraft gun, which has a proven track record, has been converted into a single-mount, dual-purpose ship-mounted gun with a gun shield. While this is a simple armament, this modified version is a \"what-if\" modernized version of the gun, with improved rate of fire and accuracy based on combat experience, and the ability to fire in conjunction with radar.",
     "_japanese_name": "12.7cm単装高角砲改三",
     "_los": false,
     "_luck": false,
@@ -16244,8 +16244,8 @@
     "_icon": 11,
     "_id": 573,
     "_improvements": true,
-    "_info": null,
-    "_info_en": null,
+    "_info": "欧米に比べてその重要性の認識が遅れ、前線での実用化が大きく立ち遅れた日本海軍の電探技術。<br>それでも電探技術者たちは努力を続け、従来のラッパ型ではなく、近代的なパラボラアンテナによる艦船用対水上射撃用電探を2号3型電探として実用化を目指します。<br>本電探はその試作機のif改良能力向上型です。",
+    "_info_en": "Compared to Europe and the United States, the Japanese Navy's radar technology lagged behind in recognizing its importance, resulting in a significant delay in its practical application on the front lines.<br>Nevertheless, radar engineers continued their efforts, aiming to commercialize a shipborne anti-surface fire control radar using a modern parabolic antenna instead of the conventional trumpet-shaped antenna, which they called the Type 2 Model 3 radar.<br>This radar is a \"what-if\" improved version of the prototype with enhanced capabilities.",
     "_japanese_name": "試製 23号電探改三",
     "_los": 6,
     "_luck": false,
@@ -18316,8 +18316,8 @@
     "_icon": 11,
     "_id": 574,
     "_improvements": true,
-    "_info": null,
-    "_info_en": null,
+    "_info": "大型艦用の大型探索レーダー、SKタイプ。<br>大きすぎて駆逐艦等には搭載できなかった本機を改良小型化した、SCタイプ。<br>戦後米国からの技術導入も進み、我が国の電探技術と戦訓を採り入れ、さらに改良と調整を加えた戦後型if小型改良電探です。",
+    "_info_en": "The SK type is a large-scale search radar for large ships.<br>This SC type is an improved, smaller version of the original radar, which was too large to be mounted on destroyers and other smaller vessels.<br>This \"what-if\" post-war, improved, small-scale radar incorporates technology imported from the United States, along with Japan's radar technology and lessons learned from the war, and further refines and adjusts it.",
     "_japanese_name": "SCレーダー改(後期調整型)",
     "_los": 10,
     "_luck": false,
@@ -18481,54 +18481,7 @@
     "_firepower": false,
     "_icon": 11,
     "_id": 278,
-    "_improvements": {
-      "_ammo": false,
-      "_bauxite": 200,
-      "_fuel": 10,
-      "_products": {
-        "SK + SG Radar": {
-          "0": {
-            "_development_material": 20,
-            "_development_material_x": 24,
-            "_equipment": {
-              "Type 21 Air Radar": 1
-            },
-            "_improvement_material": 5,
-            "_improvement_material_x": 6
-          },
-          "6": {
-            "_development_material": 28,
-            "_development_material_x": 36,
-            "_equipment": {
-              "Type 13 Air Radar Kai": 1
-            },
-            "_improvement_material": 7,
-            "_improvement_material_x": 9
-          },
-          "10": {
-            "_development_material": 50,
-            "_development_material_x": 100,
-            "_equipment": {
-              "SG Radar (Initial Model)": 1
-            },
-            "_improvement_material": 18,
-            "_improvement_material_x": 30
-          },
-          "_ships": {
-            "Gambier Bay/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 270
-    },
+    "_improvements": true,
     "_info": "米国で開発・運営された対空早期監視レーダーです。<br>探知距離も大きく優れた能力を持っています。<br>本レーダーと迎撃戦闘機隊の連携、そしてエセックス級などの新型かつ強力な航空母艦の投入は、圧倒的な艦隊防空網を発揮します。",
     "_info_en": "This is an anti-aircraft early surveillance radar developed and operated in the United States.<br>It also has a long detection range and excellent abilities.<br>The combination of this radar and the interception fighter squadron, as well as the introduction of new and powerful aircraft carriers such as the Essex class, will provide an overwhelming fleet air defense network.",
     "_japanese_name": "SK レーダー",
@@ -26137,72 +26090,7 @@
     "_firepower": false,
     "_icon": 11,
     "_id": 106,
-    "_improvements": {
-      "_ammo": false,
-      "_bauxite": 40,
-      "_fuel": 10,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 5,
-            "_development_material_x": 7,
-            "_equipment": {
-              "Type 13 Air Radar": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 4
-          },
-          "6": {
-            "_development_material": 7,
-            "_development_material_x": 9,
-            "_equipment": {
-              "Type 13 Air Radar": 2
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 8
-          },
-          "_ships": {
-            "Hatsushimo/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Isokaze/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Yukikaze/": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yukikaze/Kai": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 30
-    },
+    "_improvements": true,
     "_info": "艦載用対空電探の改良調整版です。<br>比較的信頼性も高く、小型軽量で駆逐艦等への装備も可能だった「13号対空電探」に、技術者達がさらに改良を加えた対空電探です。<br>水雷戦隊の眼として活躍します。",
     "_info_en": "This is an improved version of the radar intended for use aboard warships.<br>While the \"Type 13 Air Radar\" is reliable, this small class of air search radar intended for use in destroyers was further improved by engineers.<br>This radar is basically the eyes of the Destroyer Squadron.",
     "_japanese_name": "13号対空電探改",
@@ -27234,63 +27122,7 @@
     "_firepower": false,
     "_icon": 11,
     "_id": 88,
-    "_improvements": {
-      "_ammo": false,
-      "_bauxite": 40,
-      "_fuel": 10,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 5,
-            "_development_material_x": 8,
-            "_equipment": {
-              "Type 22 Surface Radar": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 4
-          },
-          "6": {
-            "_development_material": 8,
-            "_development_material_x": 10,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 8
-          },
-          "_ships": {
-            "Haguro/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Kongou/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Myoukou/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          }
-        }
-      },
-      "_steel": 40
-    },
+    "_improvements": true,
     "_info": "実戦運用された電探二号電波探信儀二型の改良型です。<br>新型受信機や様々な改良により、性能と安定性が向上、<br>実効力のあるレーダー射撃精度も可能となりました。",
     "_info_en": "This radar is a newer version of the Type 22 surface radar.<br>It received a new receiver plus other things, making its performance and reliability better.<br>It also became an improved fire control system allowing more accurate shooting.",
     "_japanese_name": "22号対水上電探改四",
