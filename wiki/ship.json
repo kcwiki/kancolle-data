@@ -9826,8 +9826,8 @@
     "_armor": 15,
     "_armor_max": 54,
     "_armor_mod": 2,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 46,
+    "_asw_max": 88,
     "_class": "Fubuki",
     "_class_number": 1,
     "_equipment": [
@@ -9848,8 +9848,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 53,
+    "_evasion_max": 95,
     "_firepower": 18,
     "_firepower_max": 67,
     "_firepower_mod": 2,
@@ -9859,8 +9859,8 @@
     "_id": 625,
     "_implementation_date": [2026, 4, 23],
     "_japanese_name": "吹雪改三",
-    "_los": null,
-    "_los_max": null,
+    "_los": 15,
+    "_los_max": 56,
     "_luck": 30,
     "_luck_max": 93,
     "_luck_mod": false,
@@ -9906,8 +9906,8 @@
     "_armor": 17,
     "_armor_max": 57,
     "_armor_mod": 2,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 52,
+    "_asw_max": 93,
     "_class": "Fubuki",
     "_class_number": 1,
     "_equipment": [
@@ -9930,8 +9930,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 56,
+    "_evasion_max": 99,
     "_firepower": 19,
     "_firepower_max": 69,
     "_firepower_mod": 2,
@@ -9941,8 +9941,8 @@
     "_id": 630,
     "_implementation_date": [2026, 4, 23],
     "_japanese_name": "吹雪改三護(六式)",
-    "_los": null,
-    "_los_max": null,
+    "_los": 20,
+    "_los_max": 62,
     "_luck": 39,
     "_luck_max": 107,
     "_luck_mod": false,
@@ -9952,13 +9952,14 @@
     "_reading": "ふぶきかいさんご(ろくしき)",
     "_remodel_ammo": 1680,
     "_remodel_armament": false,
+    "_remodel_arsenal": 5,
     "_remodel_blueprint": 1,
     "_remodel_catapult": false,
     "_remodel_construction_material": 1946,
     "_remodel_development_material": 320,
     "_remodel_from": "Fubuki/Kai San",
     "_remodel_level": 95,
-    "_remodel_overseas": true,
+    "_remodel_overseas": 5,
     "_remodel_report": false,
     "_remodel_steel": 780,
     "_remodel_to": false,
@@ -46601,6 +46602,10 @@
       },
       {
         "equipment": "Radar Equipment Mast (Type 13 Kai + Type 22 Radar Kai 4)",
+        "size": 0
+      },
+      {
+        "equipment": false,
         "size": 0
       }
     ],
