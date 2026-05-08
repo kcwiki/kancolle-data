@@ -8601,7 +8601,7 @@
     "_armor": 15,
     "_armor_max": 31,
     "_armor_mod": 2,
-    "_artist": "沙良",
+    "_artist": "Sara",
     "_asw": 10,
     "_asw_max": 40,
     "_availability": ["event_drop"],
@@ -8735,7 +8735,7 @@
     "_full_name": "De Ruyter Kai",
     "_implementation_date": [2019, 11, 30],
     "_voice_actor": "Moriyama Yurika",
-    "_artist": "沙良",
+    "_artist": "Sara",
     "_availability": ["event_drop"],
     "_build_time": 60
   },
