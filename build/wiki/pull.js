@@ -6,26 +6,64 @@ const fetch_ = require('node-fetch')
 const retry = require('async-retry')
 const { _, forEach, fromPairs, toPairs, values, flatten, keyBy } = require('lodash')
 const sortKeys = require('sort-keys')
-const { parse } = require('lua-json')
+const { parse: parseLua } = require('lua-json')
 
 const ROOT = `${__dirname}/../..`
 
-let wiki_requests = 0
-let wiki_bytes = 0
+const host = process.env.WIKI_HOST || 'en.kancollewiki.net'
+const username = process.env.WIKI_USERNAME
+const password = process.env.WIKI_PASSWORD
 
-const fetch = (url, parser) =>
+let requests = 0
+let bytes = 0
+
+const headers = {
+  'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36',
+  cookie: process.env.WIKI_COOKIE,
+}
+
+const fetch = (url, parser = x => x, method = 'GET') =>
   retry(async () => {
-    ++wiki_requests
-    const text = await (await fetch_(url)).text()
-    wiki_bytes += text.length
-    return parser(text)
+    ++requests
+    const res = await fetch_(url, { method, headers })
+    const text = await res.text()
+    bytes += text.length
+    return { data: parser(text), headers: res.headers }
   })
+
+const stringify = params =>
+  _(params)
+    .toPairs()
+    .map(([k, v]) => `${k}=${v}`)
+    .join('&')
+
+const post = async (action, args) => {
+  const params = { action, ...args, format: 'json' }
+  const url = `https://${host}/w/api.php?${stringify(params)}`
+  const { data, headers } = await fetch(url)
+  if (action === 'login') {
+    cookie = (headers['set-cookie'] || []).map(e => e.split(';')[0]).join(';') || null
+  }
+  return data
+}
+
+const login = async () => {
+  try {
+    const { login } = await post('login', { lgname: username, lgpassword: password })
+    const { login: login2 } = await post('login', { lgname: username, lgpassword: password, lgtoken: login.token })
+    if (login2.result !== 'Success' || login2.lgusername !== username) {
+      console.error('FAILED: login')
+    }
+  } catch (_) {
+    console.error('FAILED: login')
+  }
+}
 
 const getLuaData = async name => {
   try {
-    return await fetch(`https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/Module:${name}?action=raw`, parse)
+    return (await fetch(`https://${host}/Module:${name}?action=raw`, parseLua)).data
   } catch (_) {
-    console.error(`getLuaData: ${name}`)
+    console.error(`FAILED: getLuaData on ${name}`)
   }
 }
 
@@ -62,22 +100,19 @@ const getLuaDataInCategory = async category => {
     if (cont) {
       params.gapcontinue = cont
     }
-    const url = `https://${process.env.WIKI_HOST || 'en.kancollewiki.net'}/w/api.php?${_(params)
-      .toPairs()
-      .map(([k, v]) => `${k}=${v}`)
-      .join('&')}`
+    const url = `https://${host}/w/api.php?${stringify(params)}`
     let data
     try {
-      data = await fetch(url, JSON.parse)
+      data = (await fetch(url, JSON.parse)).data
     } catch (_) {
-      console.error(`getLuaDataInCategory: ${category}:${i}`)
+      console.error(`FAILED: getLuaDataInCategory on ${category}:${i}`)
     }
     if (!data) {
       return pages
     }
     const morePages = values(data.query.pages)
       .filter(e => !e.title.includes('Vita:') && !e.title.includes('Mist:'))
-      .map(e => [e.title.replace('Module:', '').replace(/Data\/.+?\//, ''), parse(e.revisions[0]['*'])])
+      .map(e => [e.title.replace('Module:', '').replace(/Data\/.+?\//, ''), parseLua(e.revisions[0]['*'])])
     morePages.forEach(e => pages.push(e))
     return data.continue ? loop(data.continue.gapcontinue, i + 1) : pages
   }
@@ -134,7 +169,7 @@ const extractName = (context, type) => data => {
   // warn about global conflicts
   const globalContext = context.global
   if (globalContext[jpName] && globalContext[jpName] !== name) {
-    console.error(`global name conflict for ${jpName}`)
+    console.error(`WARNING: global name conflict for ${jpName}`)
   }
   globalContext[jpName] = name
   // no conflicts
@@ -255,8 +290,8 @@ const main = async () => {
   await saveWikiData('refit', 'Data/EquipmentRefit')
   await saveWikiData('refit-re', 'Data/EquipmentRefitRE')
 
-  console.log(`wiki requests: ${wiki_requests}`)
-  console.log(`wiki bytes: ${wiki_bytes}`)
+  console.log(`wiki requests: ${requests}`)
+  console.log(`wiki bytes: ${bytes}`)
 }
 
 main()

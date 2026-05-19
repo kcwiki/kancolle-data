@@ -27,6 +27,8 @@ jobs:
           DB_EVENT_ID: ${{github.event.inputs.db_event_id}}
           WIKI_HOST: ${{ secrets.WIKI_HOST }}
           WIKI_PATH: ${{ secrets.WIKI_PATH }}
+          WIKI_USERNAME: ${{ secrets.WIKI_USERNAME }}
+          WIKI_PASSWORD: ${{ secrets.WIKI_PASSWORD }}
           PGHOST: ${{ secrets.PGHOST }}
           PGPORT: ${{ secrets.PGPORT }}
           PGDATABASE: ${{ secrets.PGDATABASE }}
