@@ -9,15 +9,16 @@ on:
         description: DB event id
         default: default
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0 * * *'
 jobs:
-  report:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: '20'
+          node-version: '24'
           cache: 'yarn'
       - run: yarn --frozen-lockfile
       - run: yarn update
