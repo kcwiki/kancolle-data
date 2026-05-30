@@ -33,23 +33,22 @@ const queryTsun = async (...qs) => {
   return result.length === 1 ? result[0] : result
 }
 
-const queryPoi = q =>
-  new Promise(async resolve => {
-    const data = {}
-    console.log(`queryPoi: ${q.file}`)
-    Readable.from(gunzipSync(await (await fetch(`https://api.poi.moe/dump/${q.dump}.gz`)).buffer()))
-      .pipe(new StreamBSON({ archive: true }))
-      .on('data', e => q.map(data, e))
-      .on('finish', () => {
-        const reducedData = q.reduce ? q.reduce(data) : data
-        if (q.file) {
-          outputJsonSync(`${__dirname}/../db/${q.file}.json`, reducedData)
-        }
-        resolve(reducedData)
-      })
-  })
+const queryPoi = q => async resolve => {
+  const data = {}
+  console.log(`queryPoi: ${q.file}`)
+  Readable.from(gunzipSync(await (await fetch(`https://api.poi.moe/dump/${q.dump}.gz`)).buffer()))
+    .pipe(new StreamBSON({ archive: true }))
+    .on('data', e => q.map(data, e))
+    .on('finish', () => {
+      const reducedData = q.reduce ? q.reduce(data) : data
+      if (q.file) {
+        outputJsonSync(`${__dirname}/../db/${q.file}.json`, reducedData)
+      }
+      resolve(reducedData)
+    })
+}
 
-const eventIds = [] // +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : [lastEventId]
+const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : +process.env.DB_LAST_EVENT ? [lastEventId] : []
 
 const mapQuery = (eventId, mapId) => `(${(mapId ? [mapId] : _.range(1, 10 + 1)).map(mapId => `map='${eventId}-${mapId}'`).join(' or ')})`
 

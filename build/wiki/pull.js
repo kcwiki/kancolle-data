@@ -1,45 +1,24 @@
 require('dotenv').config()
 
 const { map } = require('bluebird')
-const { outputJson, existsSync, readJsonSync } = require('fs-extra')
-const fetch__ = require('node-fetch')
-const retry_ = require('async-retry')
+const { outputJson } = require('fs-extra')
+const fetch_ = require('node-fetch')
+const retry = require('async-retry')
 const { _, forEach, fromPairs, toPairs, flatten, keyBy } = require('lodash')
 const sortKeys = require('sort-keys')
-const { parse: parseLua_ } = require('lua-json')
+const { parse: parseLua } = require('lua-json')
 
 const ROOT = `${__dirname}/../..`
 
-// browser
-
-const isBrowser = typeof window === 'object'
-
-const cache = !isBrowser && existsSync('/tmp/wiki_responses.json') ? readJsonSync('/tmp/wiki_responses.json') : {}
-
-const headers = isBrowser
-  ? undefined
-  : {
-      'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36',
-      cookie: process.env.WIKI_COOKIE,
-    }
-
-const host = (!isBrowser && process.env.WIKI_HOST) || 'en.kancollewiki.net'
-
 let requests = 0
 let bytes = 0
-const responses = {}
-
-const retry = isBrowser ? f => f() : retry_
-const fetch_ = isBrowser ? fetch : fetch__
 
 const fetchRetry = (url, parser = x => x, method = 'GET') =>
   retry(async () => {
-    if (cache[url]) return parser(cache[url])
     ++requests
-    const res = await fetch_(url, { method, headers })
-    console.debug(res.status, url)
+    const res = await fetch_(url, { method })
+    // console.debug(res.status, url)
     const text = await res.text()
-    responses[url] = text
     bytes += text.length
     return parser(text)
   })
@@ -49,13 +28,18 @@ const stringify = params =>
     .map(([k, v]) => `${k}=${v}`)
     .join('&')
 
-const parseLua = typeof window === 'object' ? x => x : parseLua_
-
 const getLuaData = async name => {
   try {
-    return await fetchRetry(`https://${host}/Module:${name}?action=raw`, parseLua)
+    return await fetchRetry(`${process.env.WIKI_HOST}/Module:${name}?action=raw`, parseLua)
   } catch (_) {
     console.error(`FAILED: getLuaData on ${name}`)
+  }
+}
+
+const saveWikiData = async (name, obj, type = 'wiki', sort = false) => {
+  const data = typeof obj === 'string' ? await getLuaData(obj) : obj
+  if (data) {
+    await outputJson(`${ROOT}/${type}/${name}.json`, sort ? sortKeys(data) : data, { spaces: 2 })
   }
 }
 
@@ -76,7 +60,7 @@ const getLuaDataInCategory = async category => {
     if (cont) {
       params.gapcontinue = cont
     }
-    const url = `https://${host}/w/api.php?${stringify(params)}`
+    const url = `${process.env.WIKI_HOST}/w/api.php?${stringify(params)}`
     let data
     try {
       data = await fetchRetry(url, JSON.parse)
@@ -95,48 +79,6 @@ const getLuaDataInCategory = async category => {
     return data.continue ? loop(data.continue.gapcontinue, i + 1) : pages
   }
   return loop()
-}
-
-const categories = {
-  ship: 'Ship',
-  enemy: 'Enemy',
-  equipment: 'Equipment',
-  enemyEquipment: 'EnemyEquipment',
-  item: 'Item',
-  quest: 'Quest',
-}
-
-const fetchMisc = async () => {
-  const misc = isBrowser
-    ? await fetchRetry('https://raw.githubusercontent.com/kcwiki/kancolle-data/refs/heads/master/wiki/misc.json', JSON.parse)
-    : require(`${ROOT}/wiki/misc.json`)
-  for (const name in misc) {
-    console.log(name)
-    misc[name] = (await getLuaData(name)) || misc[name]
-  }
-  return {
-    misc,
-    refit: await getLuaData('Data/EquipmentRefit'),
-    refitRe: await getLuaData('Data/EquipmentRefitRE'),
-    equipmentType: await getLuaData('Data/EquipmentTypeNames'),
-    shipType: await getLuaData('Data/ShipTypeNames'),
-  }
-}
-
-const mainBrowser = async () => {
-  for (const category of Object.values(categories)) {
-    await getLuaDataInCategory(category)
-  }
-  await fetchMisc()
-}
-
-// /browser
-
-const saveWikiData = async (name, obj, type = 'wiki', sort = false) => {
-  const data = typeof obj === 'string' ? await getLuaData(obj) : obj
-  if (data) {
-    await outputJson(`${ROOT}/${type}/${name}.json`, sort ? sortKeys(data) : data, { spaces: 2 })
-  }
 }
 
 const fixApiYomi = name => name.replace(/\s?flagship/i, '').replace(/\s?elite/i, '')
@@ -196,6 +138,15 @@ const extractName = (context, type) => data => {
   return [[jpName, name]]
 }
 
+const categories = {
+  ship: 'Ship',
+  enemy: 'Enemy',
+  equipment: 'Equipment',
+  enemyEquipment: 'EnemyEquipment',
+  item: 'Item',
+  quest: 'Quest',
+}
+
 const main = async () => {
   const data = fromPairs(
     await map(toPairs(categories), async ([categoryName, category]) => [categoryName, fromPairs(await getLuaDataInCategory(category))], {
@@ -228,8 +179,8 @@ const main = async () => {
 
   await map(tls, async ([type, data]) => outputJson(`${ROOT}/tl/${_.kebabCase(type)}.json`, sortKeys(data), { spaces: 2 }))
 
-  saveWikiData('equipment-type', 'Data/EquipmentTypeNames', 'tl', true)
-  saveWikiData('ship-type', 'Data/ShipTypeNames', 'tl', true)
+  await saveWikiData('equipment-type', 'Data/EquipmentTypeNames', 'tl', true)
+  await saveWikiData('ship-type', 'Data/ShipTypeNames', 'tl', true)
 
   // seasonal data
 
@@ -300,11 +251,15 @@ const main = async () => {
 
   // misc data: https://en.kancollewiki.net/w/index.php?search=Misc+data+modules&ns828=1
 
-  const misc = await fetchMisc()
+  const misc = require(`${ROOT}/wiki/misc.json`)
 
-  saveWikiData('misc', misc.misc)
-  saveWikiData('refit', misc.refit)
-  saveWikiData('refit-re', misc.refitRe)
+  for (const name in misc) {
+    misc[name] = (await getLuaData(name)) || misc[name]
+  }
+
+  await saveWikiData('misc', misc)
+  await saveWikiData('refit', 'Data/EquipmentRefit')
+  await saveWikiData('refit-re', 'Data/EquipmentRefitRE')
 
   console.log(`wiki requests: ${requests}`)
   console.log(`wiki bytes: ${bytes}`)
@@ -318,7 +273,7 @@ const password = process.env.WIKI_PASSWORD
 
 const post = async (action, args) => {
   const params = { action, ...args, format: 'json' }
-  const url = `https://${host}/w/api.php?${stringify(params)}`
+  const url = `${process.env.WIKI_HOST}/w/api.php?${stringify(params)}`
   const { data, headers } = await fetch(url)
   if (action === 'login') {
     cookie = (headers['set-cookie'] || []).map(e => e.split(';')[0]).join(';') || null
