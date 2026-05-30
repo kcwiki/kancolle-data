@@ -6,7 +6,6 @@ export interface API {
   api_mst_equip_limit_exslot: APIMstEquipLimitExslot
   api_mst_equip_ship: APIMstEquipShip
   api_mst_furniture: APIMstFurniture[]
-  api_mst_furnituregraph: APIMstFurnituregraph[]
   api_mst_item_shop: APIMstItemShop
   api_mst_maparea: APIMstMaparea[]
   api_mst_mapbgm: APIMstMapbgm[]
@@ -240,6 +239,7 @@ export interface The12 {
 export interface The12_APIShipIDS {
   '1031'?: number
   '1033'?: number
+  '1034'?: number
   '1035'?: number
   '1040'?: number
   '147'?: number
@@ -261,6 +261,9 @@ export interface The12_APIShipIDS {
   '607'?: number
   '656'?: number
   '694'?: number
+  '743'?: number
+  '744'?: number
+  '745'?: number
   '911'?: number
   '916'?: number
   '954'?: number
@@ -382,6 +385,7 @@ export interface APIMstEquipShip {
   '101': The100
   '1031': The1031
   '1033': The100
+  '1034': The100
   '1035': The100
   '1040': The100
   '114': The100
@@ -546,6 +550,9 @@ export interface APIMstEquipShip {
   '733': The131
   '738': The100
   '739': The372
+  '743': The100
+  '744': The100
+  '745': The100
   '877': The877
   '878': The131
   '879': The100
@@ -1117,14 +1124,6 @@ export interface APIMstFurniture {
   api_title: string
   api_type: number
   api_version: number
-}
-
-export interface APIMstFurnituregraph {
-  api_filename: string
-  api_id: number
-  api_no: number
-  api_type: number
-  api_version: string
 }
 
 export interface APIMstItemShop {

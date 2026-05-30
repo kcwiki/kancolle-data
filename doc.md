@@ -9,7 +9,6 @@ api : object
   api_mst_equip_limit_exslot : object
   api_mst_equip_ship : object
   api_mst_furniture : array
-  api_mst_furnituregraph : array
   api_mst_item_shop : object
   api_mst_maparea : array
   api_mst_mapbgm : array
@@ -117,7 +116,6 @@ api_mst_equip_exslot_ship : object
 api_mst_equip_limit_exslot : object
 api_mst_equip_ship : object
 api_mst_furniture : array
-api_mst_furnituregraph : array
 api_mst_item_shop : object
 api_mst_maparea : array
 api_mst_mapbgm : array
