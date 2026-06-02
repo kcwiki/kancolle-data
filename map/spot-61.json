@@ -369,7 +369,96 @@
       "offsets": { "10": { "x": 10, "y": -7 } },
       "color": -1
     },
-    { "no": 33, "x": 568, "y": 136, "color": -3 }
+    { "no": 33, "x": 568, "y": 136, "color": -3 },
+    { "no": 34, "x": 985, "y": 194, "route": { "img": "route_34_1" }, "line": { "x": -80, "y": -40 }, "color": -1 },
+    {
+      "no": 35,
+      "x": 1013,
+      "y": 299,
+      "route": { "img": "route_35_1" },
+      "line": { "x": -24, "y": -81 },
+      "offsets": { "10": { "x": 11, "y": -9 } },
+      "color": -1
+    },
+    { "no": 36, "x": 924, "y": 292, "route": { "img": "route_36_1" }, "line": { "x": 12, "y": -76 }, "color": -1, "direction": "L" },
+    { "no": 37, "x": 785, "y": 396, "route": { "img": "route_37_1" }, "line": { "x": 18, "y": -93 }, "color": -1, "direction": "L" },
+    {
+      "no": 38,
+      "x": 713,
+      "y": 451,
+      "route": { "img": "route_38_1" },
+      "line": { "x": 17, "y": -40 },
+      "offsets": { "10": { "x": 10, "y": -9 } },
+      "color": -1,
+      "direction": "L"
+    },
+    { "no": 39, "x": 790, "y": 498, "route": { "img": "route_39_1" }, "line": { "x": -7, "y": -80 }, "color": -1 },
+    {
+      "no": 40,
+      "x": 934,
+      "y": 472,
+      "route": { "img": "route_40_1" },
+      "line": { "x": -123, "y": -1 },
+      "offsets": { "10": { "x": 11, "y": -9 } },
+      "comment": { "type": "LT", "x": 0, "y": 0 },
+      "color": -1
+    },
+    { "no": 41, "x": 1033, "y": 454, "route": { "img": "route_41_1" }, "line": { "x": -78, "y": -3 }, "color": -2 },
+    { "no": 42, "x": 924, "y": 292, "route": { "img": "route_42_1" }, "line": { "x": 25, "y": -1 }, "color": -1, "direction": "L" },
+    { "no": 43, "x": 924, "y": 292, "route": { "img": "route_43_1" }, "line": { "x": -45, "y": -119 }, "color": -1 },
+    { "no": 44, "x": 790, "y": 498, "route": { "img": "route_44_1" }, "line": { "x": -57, "y": -36 }, "color": -1 },
+    {
+      "no": 45,
+      "x": 934,
+      "y": 472,
+      "route": { "img": "route_45_1" },
+      "line": { "x": -12, "y": -154 },
+      "offsets": { "10": { "x": 11, "y": -9 } },
+      "color": -1
+    },
+    { "no": 46, "x": 814, "y": 305, "route": { "img": "route_46_1" }, "line": { "x": 5, "y": -125 }, "color": -1, "direction": "L" },
+    { "no": 47, "x": 785, "y": 396, "route": { "img": "route_47_1" }, "line": { "x": 5, "y": -64 }, "color": -1, "direction": "L" },
+    { "no": 48, "x": 891, "y": 541, "route": { "img": "route_48_1" }, "line": { "x": 14, "y": -49 }, "color": -1, "direction": "L" },
+    { "no": 49, "x": 868, "y": 139, "color": -3 },
+    { "no": 50, "x": 497, "y": 371, "route": { "img": "route_50_1" }, "line": { "x": -2, "y": 26 }, "color": -1, "direction": "L" },
+    {
+      "no": 51,
+      "x": 348,
+      "y": 339,
+      "route": { "img": "route_51_1" },
+      "line": { "x": 22, "y": 1 },
+      "offsets": { "10": { "x": 8, "y": -6 } },
+      "color": -1,
+      "direction": "L"
+    },
+    { "no": 52, "x": 273, "y": 278, "route": { "img": "route_52_1" }, "line": { "x": 13, "y": 9 }, "color": -1, "direction": "L" },
+    {
+      "no": 53,
+      "x": 296,
+      "y": 378,
+      "route": { "img": "route_53_1" },
+      "line": { "x": 27, "y": -9 },
+      "comment": { "type": "RT", "x": 0, "y": 0 },
+      "color": -1,
+      "direction": "L"
+    },
+    { "no": 54, "x": 315, "y": 462, "route": { "img": "route_54_1" }, "line": { "x": -20, "y": -66 }, "color": -1 },
+    { "no": 55, "x": 224, "y": 432, "route": { "img": "route_55_1" }, "line": { "x": 30, "y": -44 }, "color": -2, "direction": "L" },
+    { "no": 56, "x": 296, "y": 378, "route": { "img": "route_56_1" }, "line": { "x": 20, "y": -28 }, "color": -1, "direction": "L" },
+    { "no": 57, "x": 296, "y": 378, "route": { "img": "route_57_1" }, "line": { "x": -21, "y": -80 }, "color": -1 },
+    { "no": 58, "x": 399, "y": 428, "route": { "img": "route_58_1" }, "line": { "x": 21, "y": -45 }, "color": -1, "direction": "L" },
+    {
+      "no": 59,
+      "x": 348,
+      "y": 339,
+      "route": { "img": "route_59_1" },
+      "line": { "x": 9, "y": 18 },
+      "offsets": { "10": { "x": 8, "y": -6 } },
+      "color": -1,
+      "direction": "L"
+    },
+    { "no": 60, "x": 507, "y": 482, "route": { "img": "route_60_1" }, "line": { "x": 5, "y": 17 }, "color": -1, "direction": "L" },
+    { "no": 61, "x": 531, "y": 538, "color": -3, "direction": "L" }
   ],
   "5": [
     { "no": 0, "x": 290, "y": 536 },
