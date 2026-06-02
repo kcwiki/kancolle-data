@@ -35,8 +35,7 @@
     "format": "prettier --ignore-path .gitignore --log-level warn --write '**/*.{js,json,md,ts,yaml,yml}'",
     "lint": "eslint --ignore-path .gitignore --fix .",
     "test": "yarn type-api && node build/doc && yarn format && yarn lint && node test",
-    "update2": "yarn pull-map && yarn pull-db && yarn pull-wiki && yarn test",
-    "update": "yarn pull-api && yarn pull-map && yarn pull-db && yarn pull-wiki && yarn test"
+    "update": "yarn pull-api && yarn pull-map && yarn pull-db && yarn test"
   },
   "dependencies": {
     "bluebird": "^3.7.2",

@@ -31094,23 +31094,22 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 22
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 22
+        "size": 18
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 22
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 11
+        "size": 15
       }
     ],
     "_evasion": null,
@@ -31122,7 +31121,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": 2,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
     "_speed": 10,
@@ -31142,22 +31141,22 @@
       {
         "equipment": "Abyssal Night Cat Fighter",
         "estimation": true,
-        "size": 23
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 23
+        "size": 22
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 22
+        "size": 16
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 22
+        "size": 16
       }
     ],
     "_evasion": null,
@@ -31169,7 +31168,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": 2,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
     "_speed": 10,
@@ -31221,7 +31220,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": 2,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
     "_speed": 10,
@@ -31293,23 +31292,22 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
-        "size": 23
+        "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 23
+        "size": 22
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 22
+        "size": 16
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 22
+        "size": 16
       }
     ],
     "_evasion": null,
@@ -31321,7 +31319,7 @@
     "_luck": null,
     "_name": "South Pacific Aircraft Carrier Princess",
     "_night_aviation_personnel": true,
-    "_range": 2,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
     "_speed": 10,
