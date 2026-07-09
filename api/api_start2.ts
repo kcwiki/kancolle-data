@@ -242,6 +242,7 @@ export interface The12_APIShipIDS {
   '1034'?: number
   '1035'?: number
   '1040'?: number
+  '1046'?: number
   '147'?: number
   '235'?: number
   '399'?: number
@@ -387,7 +388,10 @@ export interface APIMstEquipShip {
   '1033': The100
   '1034': The100
   '1035': The100
+  '1036': The1031
   '1040': The100
+  '1041': The100
+  '1046': The100
   '114': The100
   '131': The131
   '136': The131
@@ -423,8 +427,8 @@ export interface APIMstEquipShip {
   '361': The131
   '372': The372
   '380': The1003
-  '381': The100
-  '382': The1003
+  '381': The1031
+  '382': The100
   '392': The131
   '395': The100
   '411': The372
@@ -468,13 +472,13 @@ export interface APIMstEquipShip {
   '516': The100
   '521': The521
   '522': The1003
-  '526': The100
-  '529': The1031
+  '526': The1031
+  '529': The100
   '530': The530
   '532': The100
   '533': The100
   '534': The1003
-  '536': The1031
+  '536': The100
   '537': The100
   '538': The100
   '539': The530
@@ -556,7 +560,7 @@ export interface APIMstEquipShip {
   '877': The877
   '878': The131
   '879': The100
-  '884': The100
+  '884': The1031
   '885': The1003
   '889': The1031
   '894': The100
@@ -719,12 +723,13 @@ export interface The1031_APIEquipType {
   '27'?: null
   '28'?: null
   '29'?: null
+  '30'?: null
   '34'?: null
   '35': null
   '36': null
   '39'?: null
   '4': null
-  '40': null
+  '40'?: null
   '43': null
   '44'?: null
   '46'?: null
@@ -1152,7 +1157,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: null
+  api_max_maphp: number | null
   api_name: string
   api_no: number
   api_opetext: string
@@ -1307,6 +1312,7 @@ export interface APIMstStype {
   api_equip_type: APIMstStypeAPIEquipType
   api_id: number
   api_kcnt: number
+  api_max_slotplus: number
   api_name: string
   api_scnt: number
   api_sortno: number

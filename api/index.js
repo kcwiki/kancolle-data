@@ -17,8 +17,10 @@ const getItem = get('api_mst_useitem')
 const shipPrevIds = _(api.api_mst_ship)
   .filter(e => +e.api_aftershipid)
   .groupBy('api_aftershipid')
-  .mapValues((es, e1) => (es.length === 1 ? es[0].api_id : es.filter(e2 => api.api_mst_ship[e1].api_aftershipid !== e2.api_id)[0].api_id))
+  .mapValues(es => es[0].api_id)
   .value()
+
+const isBaseShip = id => id <= 1500 && (id === 699 || !shipPrevIds[id])
 
 module.exports = {
   ...api,
@@ -28,4 +30,5 @@ module.exports = {
   getEquipmentType,
   getItem,
   shipPrevIds,
+  isBaseShip,
 }

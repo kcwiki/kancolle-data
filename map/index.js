@@ -54,7 +54,7 @@ const regularMaps = [
   ...range(21, 25 + 1),
   ...range(31, 35 + 1),
   ...range(41, 45 + 1),
-  ...range(51, 55 + 1),
+  ...range(51, 56 + 1),
   ...range(61, 65 + 1),
   ...range(71, 75 + 1),
 ]
@@ -71,7 +71,7 @@ const getFormation = id => formations[id]
 
 const getFormationId = name => parseInt(Object.keys(formations).find(k => formations[k] === name))
 
-const getNodeLabel = (mapId, nodeId) => ((edges[mapId] || {})[nodeId] || {})[1]
+const getNodeLabel = (mapId, nodeId) => edges[mapId]?.[nodeId]?.[1]
 
 const getNodeLabels = mapId =>
   uniq(
@@ -80,7 +80,7 @@ const getNodeLabels = mapId =>
       .sort(),
   )
 
-const lastEventId = 61
+const lastEventId = 62
 
 module.exports = {
   edges,

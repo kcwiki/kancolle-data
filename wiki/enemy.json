@@ -31086,7 +31086,6 @@
   },
   "South Pacific Aircraft Carrier Princess": {
     "_aa": 138,
-    "_air_power_estimation": true,
     "_api_id": 1971,
     "_armor": 218,
     "_asw": 0,
@@ -31124,6 +31123,7 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき",
+    "_references": ["https://x.com/twillwave1024/status/2068311689251188983"],
     "_speed": 10,
     "_torpedo": 0,
     "_type": 11,
@@ -31131,7 +31131,6 @@
   },
   "South Pacific Aircraft Carrier Princess Damaged": {
     "_aa": 158,
-    "_air_power_estimation": true,
     "_api_id": 1974,
     "_armor": 268,
     "_asw": 0,
@@ -31140,18 +31139,17 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
-        "estimation": true,
         "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 22
+        "size": 20
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 16
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -31171,6 +31169,7 @@
     "_range": 4,
     "_rarity": 8,
     "_reading": "みなみたいへいようくうぼせいき-かい",
+    "_references": ["https://x.com/twillwave1024/status/2068361246311866879"],
     "_speed": 10,
     "_suffix": "Damaged",
     "_torpedo": 0,
@@ -31198,17 +31197,17 @@
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 32
+        "size": 24
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 16
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 16
+        "size": 22
       }
     ],
     "_evasion": null,
@@ -31292,17 +31291,18 @@
     "_equipment": [
       {
         "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
         "size": 36
       },
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 22
+        "size": 20
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 16
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
@@ -31344,17 +31344,17 @@
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 32
+        "size": 24
       },
       {
         "equipment": "Abyssal Hell Dive Bomber Kai",
         "estimation": true,
-        "size": 16
+        "size": 18
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 16
+        "size": 22
       }
     ],
     "_evasion": null,

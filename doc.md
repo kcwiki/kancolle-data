@@ -28,6 +28,7 @@ api : object
   getEquipmentType : function
   getItem : function
   shipPrevIds : object
+  isBaseShip : function
 asset : object
   getServer : function
   key : function

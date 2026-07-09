@@ -48,7 +48,7 @@ const queryPoi = q => async resolve => {
     })
 }
 
-const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : +process.env.DB_LAST_EVENT ? [lastEventId] : []
+const eventIds = +process.env.DB_EVENT_ID ? [+process.env.DB_EVENT_ID] : [lastEventId]
 
 const mapQuery = (eventId, mapId) => `(${(mapId ? [mapId] : _.range(1, 10 + 1)).map(mapId => `map='${eventId}-${mapId}'`).join(' or ')})`
 

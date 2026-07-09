@@ -98,10 +98,10 @@ const extractName = (context, type) => data => {
     return []
   }
   // extract data from the module
-  const { _name, _japanese_name: _jpName, _suffix, _display_suffix, _api_id: _apiId, _id } = data
+  const { _name, _japanese_name: _jpName, _suffix, _api_id: _apiId, _id } = data
   const isEnemy = type === 'enemy'
   const id = isEnemy && _apiId && _apiId < 1501 ? _apiId + 1000 : _apiId || _id
-  const suffix = isEnemy ? _suffix && fixEnemySuffix(_suffix) : _display_suffix || _suffix
+  const suffix = isEnemy ? _suffix && fixEnemySuffix(_suffix) : _suffix
   const name = suffix ? `${_name} ${suffix}` : _name
   const fullEnemyName = isEnemy && (_suffix ? `${_name} ${_suffix.replace('- Damaged', 'Damaged')}` : _name)
   const jpName = isEnemy ? _jpName && fixApiYomi(_jpName) : _jpName
