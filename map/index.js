@@ -45,6 +45,7 @@ const nodeTypes = {
   '6-2-4': 'Select',
   '9-0-6': 'Landing',
   '9-0-8': 'Landing',
+  '0-0-8': 'Landing',
   '10-0-14': 'Repair',
   '10-0-8': 'Repair',
 }

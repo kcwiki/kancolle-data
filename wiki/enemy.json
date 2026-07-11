@@ -14091,6 +14091,7 @@
     "_asw": null,
     "_back": -12,
     "_boss": false,
+    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
@@ -14133,8 +14134,11 @@
     "_armor": 181,
     "_asw": null,
     "_back": -12,
+    "_battle_card_damaged_reference": "/Zeta Damaged",
     "_battle_card_reference": "/Zeta Damaged",
     "_boss": false,
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Zeta Damaged",
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
       {
@@ -14178,8 +14182,11 @@
     "_armor": 282,
     "_asw": null,
     "_back": -12,
+    "_battle_card_damaged_reference": "/Zeta Damaged",
     "_battle_card_reference": "/Zeta Damaged",
     "_boss": false,
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Zeta Damaged",
     "_cg_reference": "/Zeta Damaged",
     "_equipment": [
       {
@@ -16975,6 +16982,291 @@
     "_torpedo": 0,
     "_type": 10,
     "_full_name": "European Water Princess III"
+  },
+  "Fast Light Carrier Head Demon": {
+    "_aa": null,
+    "_api_id": 2368,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2368,
+    "_japanese_name": "高速軽空母首鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fast Light Carrier Head Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうそくけいくうぼしゅき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 7,
+    "_full_name": "Fast Light Carrier Head Demon"
+  },
+  "Fast Light Carrier Head Demon Damaged": {
+    "_aa": null,
+    "_api_id": 2371,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2371,
+    "_japanese_name": "高速軽空母首鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fast Light Carrier Head Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうそくけいくうぼしゅき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 7,
+    "_full_name": "Fast Light Carrier Head Demon Damaged"
+  },
+  "Fast Light Carrier Head Demon Damaged II": {
+    "_aa": null,
+    "_api_id": 2372,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2372,
+    "_japanese_name": "高速軽空母首鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fast Light Carrier Head Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうそくけいくうぼしゅき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 7,
+    "_full_name": "Fast Light Carrier Head Demon Damaged II"
+  },
+  "Fast Light Carrier Head Demon Damaged III": {
+    "_aa": null,
+    "_api_id": 2373,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2373,
+    "_japanese_name": "高速軽空母首鬼-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fast Light Carrier Head Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうそくけいくうぼしゅき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 7,
+    "_full_name": "Fast Light Carrier Head Demon Damaged III"
+  },
+  "Fast Light Carrier Head Demon II": {
+    "_aa": null,
+    "_api_id": 2369,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2369,
+    "_japanese_name": "高速軽空母首鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fast Light Carrier Head Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうそくけいくうぼしゅき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 7,
+    "_full_name": "Fast Light Carrier Head Demon II"
+  },
+  "Fast Light Carrier Head Demon III": {
+    "_aa": null,
+    "_api_id": 2370,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2370,
+    "_japanese_name": "高速軽空母首鬼",
+    "_los": null,
+    "_luck": null,
+    "_name": "Fast Light Carrier Head Demon",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "こうそくけいくうぼしゅき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 7,
+    "_full_name": "Fast Light Carrier Head Demon III"
   },
   "Fast Light Carrier Water Demon": {
     "_aa": 100,
@@ -25645,6 +25937,267 @@
     "_torpedo": 118,
     "_type": 10,
     "_full_name": "Modernized Battleship Princess III"
+  },
+  "New Anti-Air Cruiser Princess": {
+    "_aa": null,
+    "_api_id": 2362,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2362,
+    "_japanese_name": "防空巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんしんせいき",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "New Anti-Air Cruiser Princess"
+  },
+  "New Anti-Air Cruiser Princess Damaged": {
+    "_aa": null,
+    "_api_id": 2365,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": true,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2365,
+    "_japanese_name": "防空巡新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "New Anti-Air Cruiser Princess Damaged"
+  },
+  "New Anti-Air Cruiser Princess Damaged II": {
+    "_aa": null,
+    "_api_id": 2366,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2366,
+    "_japanese_name": "防空巡新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "New Anti-Air Cruiser Princess Damaged II"
+  },
+  "New Anti-Air Cruiser Princess Damaged III": {
+    "_aa": null,
+    "_api_id": 2367,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_damaged_reference": "/Damaged",
+    "_battle_card_reference": "/Damaged",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2367,
+    "_japanese_name": "防空巡新棲姫-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんしんせいき-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "New Anti-Air Cruiser Princess Damaged III"
+  },
+  "New Anti-Air Cruiser Princess II": {
+    "_aa": null,
+    "_api_id": 2363,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2363,
+    "_japanese_name": "防空巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんしんせいき",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "New Anti-Air Cruiser Princess II"
+  },
+  "New Anti-Air Cruiser Princess III": {
+    "_aa": null,
+    "_api_id": 2364,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2364,
+    "_japanese_name": "防空巡新棲姫",
+    "_los": null,
+    "_luck": null,
+    "_name": "New Anti-Air Cruiser Princess",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "ぼうくうじゅんしんせいき",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 3,
+    "_full_name": "New Anti-Air Cruiser Princess III"
   },
   "New Battleship Princess": {
     "_aa": 115,
@@ -37832,6 +38385,541 @@
     "_torpedo": 0,
     "_type": 15,
     "_full_name": "Transport Ship Wa-Class Flagship"
+  },
+  "Twilight Water Demon Eldest Daughter": {
+    "_aa": null,
+    "_api_id": 2350,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2350,
+    "_japanese_name": "層間棲艦水鬼長女",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Eldest Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき ちょうじょ",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Eldest Daughter"
+  },
+  "Twilight Water Demon Eldest Daughter Damaged": {
+    "_aa": null,
+    "_api_id": 2353,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2353,
+    "_japanese_name": "層間棲艦水鬼長女-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Eldest Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき ちょうじょ-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Eldest Daughter Damaged"
+  },
+  "Twilight Water Demon Eldest Daughter Damaged II": {
+    "_aa": null,
+    "_api_id": 2354,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2354,
+    "_japanese_name": "層間棲艦水鬼長女-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Eldest Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき ちょうじょ-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Eldest Daughter Damaged II"
+  },
+  "Twilight Water Demon Eldest Daughter Damaged III": {
+    "_aa": null,
+    "_api_id": 2355,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2355,
+    "_japanese_name": "層間棲艦水鬼長女-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Eldest Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき ちょうじょ-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Eldest Daughter Damaged III"
+  },
+  "Twilight Water Demon Eldest Daughter II": {
+    "_aa": null,
+    "_api_id": 2351,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2351,
+    "_japanese_name": "層間棲艦水鬼長女",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Eldest Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき ちょうじょ",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Eldest Daughter II"
+  },
+  "Twilight Water Demon Eldest Daughter III": {
+    "_aa": null,
+    "_api_id": 2352,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2352,
+    "_japanese_name": "層間棲艦水鬼長女",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Eldest Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき ちょうじょ",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Eldest Daughter III"
+  },
+  "Twilight Water Demon Second Daughter": {
+    "_aa": null,
+    "_api_id": 2356,
+    "_armor": null,
+    "_asw": 0,
+    "_back": -11,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2356,
+    "_japanese_name": "層間棲艦水鬼次女",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Second Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき じじょ",
+    "_speed": 10,
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Second Daughter"
+  },
+  "Twilight Water Demon Second Daughter Damaged": {
+    "_aa": null,
+    "_api_id": 2359,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_can_debuff": false,
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2359,
+    "_japanese_name": "層間棲艦水鬼次女-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Second Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき じじょ-かい",
+    "_speed": 10,
+    "_suffix": "Damaged",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Second Daughter Damaged"
+  },
+  "Twilight Water Demon Second Daughter Damaged II": {
+    "_aa": null,
+    "_api_id": 2360,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_damaged_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2360,
+    "_japanese_name": "層間棲艦水鬼次女-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Second Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき じじょ-かい",
+    "_speed": 10,
+    "_suffix": "Damaged II",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Second Daughter Damaged II"
+  },
+  "Twilight Water Demon Second Daughter Damaged III": {
+    "_aa": null,
+    "_api_id": 2361,
+    "_armor": null,
+    "_asw": null,
+    "_back": -12,
+    "_battle_card_reference": "/Damaged",
+    "_cg_reference": "/Damaged",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2361,
+    "_japanese_name": "層間棲艦水鬼次女-壊",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Second Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき じじょ-かい",
+    "_speed": 10,
+    "_suffix": "Damaged III",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Second Daughter Damaged III"
+  },
+  "Twilight Water Demon Second Daughter II": {
+    "_aa": null,
+    "_api_id": 2357,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2357,
+    "_japanese_name": "層間棲艦水鬼次女",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Second Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき じじょ",
+    "_speed": 10,
+    "_suffix": "II",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Second Daughter II"
+  },
+  "Twilight Water Demon Second Daughter III": {
+    "_aa": null,
+    "_api_id": 2358,
+    "_armor": null,
+    "_asw": null,
+    "_back": -11,
+    "_battle_card_reference": "/",
+    "_cg_reference": "/",
+    "_equipment": [
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      },
+      {
+        "equipment": null,
+        "size": null
+      }
+    ],
+    "_evasion": null,
+    "_firepower": null,
+    "_hp": null,
+    "_id": 2358,
+    "_japanese_name": "層間棲艦水鬼次女",
+    "_los": null,
+    "_luck": null,
+    "_name": "Twilight Water Demon Second Daughter",
+    "_range": null,
+    "_rarity": 8,
+    "_reading": "そうかんせいかんすいき じじょ",
+    "_speed": 10,
+    "_suffix": "III",
+    "_torpedo": null,
+    "_type": 8,
+    "_full_name": "Twilight Water Demon Second Daughter III"
   },
   "Yokohama Wharf Princess": {
     "_aa": 50,

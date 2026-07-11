@@ -7896,6 +7896,20 @@
     "range": 1
   },
   {
+    "id": 991,
+    "name": "Reno",
+    "description": "Name’s Reno, AA-Cruiser. Glad to be aboard!<br>そうさ、あのAtlanta級だぜ。任務部隊に随伴する防空<br>戦力の中核として活躍したさ。そうだな、空に関しては<br>問題ない！　海の中には注意が必要だな。<br>Watching the deep end too. Got it covered！",
+    "firepower": 16,
+    "torpedo": 22,
+    "armor": 15,
+    "aa": 80,
+    "bombing": 6,
+    "evasion": 34,
+    "asw": 10,
+    "los": -1,
+    "range": 1
+  },
+  {
     "id": 992,
     "name": "杉",
     "description": "松型…ま、丁型でいっか、駆逐艦、杉だ。あの大戦後<br>期に生まれたけれど、結構いろンな作戦に参加したぜ。<br>中でも礼号作戦、あれは忘れねぇ。戦局はもう最低の<br>最低だったけど、それでも小さな小さな勝利は掴み<br>とった。後は皆、繋いでくれよ？頼んだぜ。",
@@ -8256,6 +8270,20 @@
     "bombing": 1,
     "evasion": 56,
     "asw": 52,
+    "los": -1,
+    "range": 1
+  },
+  {
+    "id": 1041,
+    "name": "花月",
+    "description": "秋月型防空駆逐艦、その十三番艦、舞鶴生れ、花月と<br>申します。私が就役した時は、戦局は、既に最終局面<br>となりつつありました。第二艦隊の覚悟の出撃を、豊<br>後水道で見送り、その後、最後の水上決戦部隊に配備<br>されます。戦後は、復員輸送に務めました。<br>花月のこと、覚えていてくださいね。",
+    "firepower": 16,
+    "torpedo": 16,
+    "armor": 10,
+    "aa": 68,
+    "bombing": 13,
+    "evasion": 43,
+    "asw": 26,
     "los": -1,
     "range": 1
   },

@@ -2,7 +2,7 @@
 #
 # run as python api.py --new, make sure to login, pass captchas, etc.
 #
-# then use http://localhost:8888 for api, etc.
+# then use http://localhost:6767 for api, etc.
 
 import json
 import sys
@@ -75,4 +75,4 @@ class Handler(BaseHTTPRequestHandler):
 
 print("running server...")
 
-HTTPServer(("0.0.0.0", 8888), Handler).serve_forever()
+HTTPServer(("0.0.0.0", 6767), Handler).serve_forever()
