@@ -65,11 +65,13 @@
     "Q": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
     "S": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
     "T": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "U": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "V": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "W": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "W2": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "X": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "X1": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "X2": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "Y": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   },
   "623": {
@@ -106,10 +108,12 @@
     "T": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "U": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "V": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "W": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "X": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "Y": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Y1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Y2": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
+    "Y3": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   }
 }

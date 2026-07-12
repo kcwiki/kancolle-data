@@ -7168,6 +7168,20 @@
     "range": 1
   },
   {
+    "id": 932,
+    "name": "Indiana",
+    "description": "South Dakota級戦艦の二番艦、あたしがその<br>Indiana。太平洋戦域で空母機動部隊の直衛はもちろ<br>ん、活躍したんだから！今でも私の一部と魂は、イン<br>ディアナにメモリアルとして遺されているの。<br>逢いに来る？　いいわ、待ってる。　See!",
+    "firepower": 80,
+    "torpedo": 0,
+    "armor": 77,
+    "aa": 40,
+    "bombing": 2,
+    "evasion": 29,
+    "asw": 0,
+    "los": -1,
+    "range": 3
+  },
+  {
     "id": 933,
     "name": "Massachusetts",
     "description": "South Dakota class USS Battleship <br>Massachusettsだ。就役してまもなく、大西洋から<br>トーチ作戦に参加、当時枢軸側だった仏戦艦らと撃<br>ち合ったさ。いつか…いつか会いに来てくれよな。<br>Come see me！",
@@ -8162,6 +8176,20 @@
     "range": 3
   },
   {
+    "id": 1023,
+    "name": "Independence",
+    "description": "USS Independence, at your service. <br>新鋭軽巡として設計され、途中から高速軽空母へと<br>改装。Essex級と共に、空母機動部隊の中核として、<br>ラバウル空襲を始め、太平洋戦域で活躍。夜間作戦<br>空母としても運用されました。<br>Bear this in mind.……please.",
+    "firepower": 14,
+    "torpedo": 0,
+    "armor": 14,
+    "aa": 32,
+    "bombing": 1,
+    "evasion": 22,
+    "asw": 16,
+    "los": -1,
+    "range": 2
+  },
+  {
     "id": 1025,
     "name": "Wasp",
     "description": "Essex級航空母艦6番艦、Waspです。そう、あの空母<br>の名前を継いだ、あの戦い最強の量産型正規空母の一<br>隻。日本の本当に本土近くまで進出して攻撃を実施し<br>たわ。もちろん、反撃も凄かったけど。<br>現代では強力な戦力を投射する強襲揚陸艦にその名は<br>継がれているの。",
@@ -8284,6 +8312,20 @@
     "bombing": 13,
     "evasion": 43,
     "asw": 26,
+    "los": -1,
+    "range": 1
+  },
+  {
+    "id": 1044,
+    "name": "桐",
+    "description": "松型駆逐艦の六番艦「桐」だよ。負けの空気が色濃く<br>なってから、その最前線で出来ることをやり抜いたさ。<br>機動部隊の最期、あの地獄のような多号作戦、そして、<br>その後も戦い抜いたんだ。戦後は、遠い北の海で標的<br>艦や工作艦なんて経験も……な。<br>第三十一戦隊の「桐」。覚えておきなよ！",
+    "firepower": 5,
+    "torpedo": 16,
+    "armor": 5,
+    "aa": 20,
+    "bombing": 6,
+    "evasion": 33,
+    "asw": 30,
     "los": -1,
     "range": 1
   },
