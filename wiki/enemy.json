@@ -9646,7 +9646,7 @@
   "Atoll Aircraft Carrier Anchorage Princess": {
     "_aa": 85,
     "_api_id": 2210,
-    "_armor": 150,
+    "_armor": 105,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": true,
@@ -9691,7 +9691,7 @@
   "Atoll Aircraft Carrier Anchorage Princess Damaged": {
     "_aa": 115,
     "_api_id": 2213,
-    "_armor": 180,
+    "_armor": 135,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -9739,7 +9739,7 @@
   "Atoll Aircraft Carrier Anchorage Princess Damaged II": {
     "_aa": 135,
     "_api_id": 2214,
-    "_armor": 230,
+    "_armor": 185,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -9789,7 +9789,7 @@
   "Atoll Aircraft Carrier Anchorage Princess Damaged III": {
     "_aa": 165,
     "_api_id": 2215,
-    "_armor": 290,
+    "_armor": 245,
     "_asw": null,
     "_back": -12,
     "_battle_card_damaged_reference": "/",
@@ -9839,7 +9839,7 @@
   "Atoll Aircraft Carrier Anchorage Princess II": {
     "_aa": 105,
     "_api_id": 2211,
-    "_armor": 190,
+    "_armor": 145,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -9889,7 +9889,7 @@
   "Atoll Aircraft Carrier Anchorage Princess III": {
     "_aa": 135,
     "_api_id": 2212,
-    "_armor": 230,
+    "_armor": 195,
     "_asw": null,
     "_back": -11,
     "_battle_card_damaged_reference": "/",
@@ -16984,100 +16984,108 @@
     "_full_name": "European Water Princess III"
   },
   "Fast Light Carrier Head Demon": {
-    "_aa": null,
+    "_aa": 100,
     "_api_id": 2368,
-    "_armor": null,
+    "_armor": 165,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 56
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 18
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 178,
+    "_hp": 900,
     "_id": 2368,
     "_japanese_name": "高速軽空母首鬼",
     "_los": null,
     "_luck": null,
     "_name": "Fast Light Carrier Head Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうそくけいくうぼしゅき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 7,
     "_full_name": "Fast Light Carrier Head Demon"
   },
   "Fast Light Carrier Head Demon Damaged": {
-    "_aa": null,
+    "_aa": 140,
     "_api_id": 2371,
-    "_armor": null,
+    "_armor": 195,
     "_asw": 0,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 46
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 20
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 228,
+    "_hp": 900,
     "_id": 2371,
     "_japanese_name": "高速軽空母首鬼-壊",
     "_los": null,
     "_luck": null,
     "_name": "Fast Light Carrier Head Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうそくけいくうぼしゅき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 7,
     "_full_name": "Fast Light Carrier Head Demon Damaged"
   },
   "Fast Light Carrier Head Demon Damaged II": {
-    "_aa": null,
+    "_aa": 180,
     "_api_id": 2372,
-    "_armor": null,
+    "_armor": 225,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -17087,47 +17095,51 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 288,
+    "_hp": 950,
     "_id": 2372,
     "_japanese_name": "高速軽空母首鬼-壊",
     "_los": null,
     "_luck": null,
     "_name": "Fast Light Carrier Head Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうそくけいくうぼしゅき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 7,
     "_full_name": "Fast Light Carrier Head Demon Damaged II"
   },
   "Fast Light Carrier Head Demon Damaged III": {
-    "_aa": null,
+    "_aa": 200,
     "_api_id": 2373,
-    "_armor": null,
+    "_armor": 295,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -17137,134 +17149,146 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 72
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 36
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 318,
+    "_hp": 1150,
     "_id": 2373,
     "_japanese_name": "高速軽空母首鬼-壊",
     "_los": null,
     "_luck": null,
     "_name": "Fast Light Carrier Head Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうそくけいくうぼしゅき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 7,
     "_full_name": "Fast Light Carrier Head Demon Damaged III"
   },
   "Fast Light Carrier Head Demon II": {
-    "_aa": null,
+    "_aa": 130,
     "_api_id": 2369,
-    "_armor": null,
+    "_armor": 195,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 56
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 20
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 198,
+    "_hp": 950,
     "_id": 2369,
     "_japanese_name": "高速軽空母首鬼",
     "_los": null,
     "_luck": null,
     "_name": "Fast Light Carrier Head Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうそくけいくうぼしゅき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 7,
     "_full_name": "Fast Light Carrier Head Demon II"
   },
   "Fast Light Carrier Head Demon III": {
-    "_aa": null,
+    "_aa": 160,
     "_api_id": 2370,
-    "_armor": null,
+    "_armor": 245,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Patrolling Attack Hawk",
+        "estimation": true,
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber",
+        "estimation": true,
+        "size": 28
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter",
+        "estimation": true,
+        "size": 24
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 218,
+    "_hp": 1150,
     "_id": 2370,
     "_japanese_name": "高速軽空母首鬼",
     "_los": null,
     "_luck": null,
     "_name": "Fast Light Carrier Head Demon",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "こうそくけいくうぼしゅき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 7,
     "_full_name": "Fast Light Carrier Head Demon III"
   },
@@ -25939,92 +25963,92 @@
     "_full_name": "Modernized Battleship Princess III"
   },
   "New Anti-Air Cruiser Princess": {
-    "_aa": null,
+    "_aa": 230,
     "_api_id": 2362,
-    "_armor": null,
+    "_armor": 160,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 175,
+    "_hp": 770,
     "_id": 2362,
     "_japanese_name": "防空巡新棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんしんせいき",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 130,
     "_type": 3,
     "_full_name": "New Anti-Air Cruiser Princess"
   },
   "New Anti-Air Cruiser Princess Damaged": {
-    "_aa": null,
+    "_aa": 240,
     "_api_id": 2365,
-    "_armor": null,
+    "_armor": 190,
     "_asw": 0,
     "_back": -12,
     "_can_debuff": true,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 205,
+    "_hp": 770,
     "_id": 2365,
     "_japanese_name": "防空巡新棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんしんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 150,
     "_type": 3,
     "_full_name": "New Anti-Air Cruiser Princess Damaged"
   },
   "New Anti-Air Cruiser Princess Damaged II": {
-    "_aa": null,
+    "_aa": 260,
     "_api_id": 2366,
-    "_armor": null,
+    "_armor": 220,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -26034,43 +26058,43 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 225,
+    "_hp": 820,
     "_id": 2366,
     "_japanese_name": "防空巡新棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんしんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 170,
     "_type": 3,
     "_full_name": "New Anti-Air Cruiser Princess Damaged II"
   },
   "New Anti-Air Cruiser Princess Damaged III": {
-    "_aa": null,
+    "_aa": 280,
     "_api_id": 2367,
-    "_armor": null,
+    "_armor": 290,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -26080,122 +26104,122 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 285,
+    "_hp": 880,
     "_id": 2367,
     "_japanese_name": "防空巡新棲姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "New Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんしんせいき-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 200,
     "_type": 3,
     "_full_name": "New Anti-Air Cruiser Princess Damaged III"
   },
   "New Anti-Air Cruiser Princess II": {
-    "_aa": null,
+    "_aa": 250,
     "_api_id": 2363,
-    "_armor": null,
+    "_armor": 190,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 195,
+    "_hp": 820,
     "_id": 2363,
     "_japanese_name": "防空巡新棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんしんせいき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 140,
     "_type": 3,
     "_full_name": "New Anti-Air Cruiser Princess II"
   },
   "New Anti-Air Cruiser Princess III": {
-    "_aa": null,
+    "_aa": 270,
     "_api_id": 2364,
-    "_armor": null,
+    "_armor": 240,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Air Radar Mark.III + FCS",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 245,
+    "_hp": 880,
     "_id": 2364,
     "_japanese_name": "防空巡新棲姫",
     "_los": null,
     "_luck": null,
     "_name": "New Anti-Air Cruiser Princess",
-    "_range": null,
+    "_range": 2,
     "_rarity": 8,
     "_reading": "ぼうくうじゅんしんせいき",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 3,
     "_full_name": "New Anti-Air Cruiser Princess III"
   },
@@ -38387,43 +38411,43 @@
     "_full_name": "Transport Ship Wa-Class Flagship"
   },
   "Twilight Water Demon Eldest Daughter": {
-    "_aa": null,
+    "_aa": 70,
     "_api_id": 2350,
-    "_armor": null,
+    "_armor": 168,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 810,
     "_id": 2350,
     "_japanese_name": "層間棲艦水鬼長女",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Eldest Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき ちょうじょ",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 120,
     "_type": 8,
     "_full_name": "Twilight Water Demon Eldest Daughter"
   },
@@ -38568,182 +38592,182 @@
     "_full_name": "Twilight Water Demon Eldest Daughter Damaged III"
   },
   "Twilight Water Demon Eldest Daughter II": {
-    "_aa": null,
+    "_aa": 90,
     "_api_id": 2351,
-    "_armor": null,
+    "_armor": 208,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 300,
+    "_hp": 910,
     "_id": 2351,
     "_japanese_name": "層間棲艦水鬼長女",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Eldest Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき ちょうじょ",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 140,
     "_type": 8,
     "_full_name": "Twilight Water Demon Eldest Daughter II"
   },
   "Twilight Water Demon Eldest Daughter III": {
-    "_aa": null,
+    "_aa": 110,
     "_api_id": 2352,
-    "_armor": null,
+    "_armor": 248,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 330,
+    "_hp": 1110,
     "_id": 2352,
     "_japanese_name": "層間棲艦水鬼長女",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Eldest Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき ちょうじょ",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 8,
     "_full_name": "Twilight Water Demon Eldest Daughter III"
   },
   "Twilight Water Demon Second Daughter": {
-    "_aa": null,
+    "_aa": 70,
     "_api_id": 2356,
-    "_armor": null,
+    "_armor": 170,
     "_asw": 0,
     "_back": -11,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 280,
+    "_hp": 800,
     "_id": 2356,
     "_japanese_name": "層間棲艦水鬼次女",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Second Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき じじょ",
     "_speed": 10,
-    "_torpedo": null,
+    "_torpedo": 120,
     "_type": 8,
     "_full_name": "Twilight Water Demon Second Daughter"
   },
   "Twilight Water Demon Second Daughter Damaged": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2359,
-    "_armor": null,
+    "_armor": 199,
     "_asw": null,
     "_back": -12,
     "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "size": 60
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 300,
+    "_hp": 800,
     "_id": 2359,
     "_japanese_name": "層間棲艦水鬼次女-壊",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Second Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき じじょ-かい",
     "_speed": 10,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 130,
     "_type": 8,
     "_full_name": "Twilight Water Demon Second Daughter Damaged"
   },
   "Twilight Water Demon Second Daughter Damaged II": {
-    "_aa": null,
+    "_aa": 100,
     "_api_id": 2360,
-    "_armor": null,
+    "_armor": 249,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
@@ -38751,173 +38775,173 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "size": 72
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 330,
+    "_hp": 900,
     "_id": 2360,
     "_japanese_name": "層間棲艦水鬼次女-壊",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Second Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき じじょ-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 150,
     "_type": 8,
     "_full_name": "Twilight Water Demon Second Daughter Damaged II"
   },
   "Twilight Water Demon Second Daughter Damaged III": {
-    "_aa": null,
+    "_aa": 120,
     "_api_id": 2361,
-    "_armor": null,
+    "_armor": 299,
     "_asw": null,
     "_back": -12,
     "_battle_card_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "size": 96
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 380,
+    "_hp": 1100,
     "_id": 2361,
     "_japanese_name": "層間棲艦水鬼次女-壊",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Second Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき じじょ-かい",
     "_speed": 10,
     "_suffix": "Damaged III",
-    "_torpedo": null,
+    "_torpedo": 180,
     "_type": 8,
     "_full_name": "Twilight Water Demon Second Daughter Damaged III"
   },
   "Twilight Water Demon Second Daughter II": {
-    "_aa": null,
+    "_aa": 90,
     "_api_id": 2357,
-    "_armor": null,
+    "_armor": 210,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 300,
+    "_hp": 900,
     "_id": 2357,
     "_japanese_name": "層間棲艦水鬼次女",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Second Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき じじょ",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 140,
     "_type": 8,
     "_full_name": "Twilight Water Demon Second Daughter II"
   },
   "Twilight Water Demon Second Daughter III": {
-    "_aa": null,
+    "_aa": 110,
     "_api_id": 2358,
-    "_armor": null,
+    "_armor": 250,
     "_asw": null,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal FCS + CIC",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 4
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 330,
+    "_hp": 1100,
     "_id": 2358,
     "_japanese_name": "層間棲艦水鬼次女",
     "_los": null,
     "_luck": null,
     "_name": "Twilight Water Demon Second Daughter",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "そうかんせいかんすいき じじょ",
     "_speed": 10,
     "_suffix": "III",
-    "_torpedo": null,
+    "_torpedo": 160,
     "_type": 8,
     "_full_name": "Twilight Water Demon Second Daughter III"
   },
