@@ -392,6 +392,14 @@ export interface APIMstEquipShip {
   '1040': The100
   '1041': The100
   '1046': The100
+  '1055': The1055
+  '1058': The100
+  '1060': The1031
+  '1061': The100
+  '1062': The100
+  '1065': The1065
+  '1067': The100
+  '1070': The100
   '114': The100
   '131': The131
   '136': The131
@@ -425,14 +433,14 @@ export interface APIMstEquipShip {
   '357': The100
   '358': The131
   '361': The131
-  '372': The372
+  '372': The100
   '380': The1003
   '381': The1031
   '382': The100
   '392': The131
   '395': The100
-  '411': The372
-  '412': The372
+  '411': The131
+  '412': The131
   '418': The100
   '419': The100
   '421': The100
@@ -441,9 +449,9 @@ export interface APIMstEquipShip {
   '434': The100
   '435': The100
   '445': The131
-  '446': The372
-  '447': The372
-  '450': The131
+  '446': The131
+  '447': The131
+  '450': The100
   '460': The352
   '464': The100
   '466': The1031
@@ -454,18 +462,18 @@ export interface APIMstEquipShip {
   '477': The100
   '478': The100
   '487': The100
-  '488': The372
+  '488': The100
   '489': The100
   '490': The100
   '491': The131
-  '496': The372
+  '496': The131
   '497': The100
   '498': The100
   '500': The131
-  '501': The372
-  '502': The100
-  '506': The131
-  '507': The372
+  '501': The100
+  '502': The131
+  '506': The100
+  '507': The131
   '511': The131
   '512': The131
   '513': The131
@@ -482,14 +490,14 @@ export interface APIMstEquipShip {
   '537': The100
   '538': The100
   '539': The530
-  '541': The372
+  '541': The131
   '542': The100
   '543': The100
   '546': The131
-  '547': The372
+  '547': The100
   '548': The100
   '553': The131
-  '554': The372
+  '554': The131
   '556': The100
   '559': The100
   '563': The100
@@ -499,24 +507,24 @@ export interface APIMstEquipShip {
   '568': The100
   '569': The100
   '573': The131
-  '574': The372
+  '574': The100
   '578': The100
-  '579': The100
-  '581': The131
-  '586': The372
+  '579': The131
+  '581': The100
+  '586': The131
   '587': The100
   '588': The100
   '591': The131
-  '592': The372
+  '592': The131
   '593': The100
   '605': The530
   '621': The621
-  '622': The372
+  '622': The131
   '623': The100
-  '624': The372
-  '626': The131
+  '624': The131
+  '626': The100
   '628': The100
-  '629': The372
+  '629': The100
   '630': The131
   '634': The621
   '635': The621
@@ -528,17 +536,17 @@ export interface APIMstEquipShip {
   '649': The100
   '650': The645
   '651': The100
-  '652': The372
+  '652': The131
   '656': The100
   '657': The131
-  '662': The372
-  '663': The372
+  '662': The100
+  '663': The100
   '666': The100
   '667': The100
-  '668': The100
+  '668': The131
   '670': The100
-  '690': The131
-  '694': The372
+  '690': The100
+  '694': The131
   '699': The100
   '703': The100
   '707': The1003
@@ -553,13 +561,13 @@ export interface APIMstEquipShip {
   '731': The530
   '733': The131
   '738': The100
-  '739': The372
+  '739': The131
   '743': The100
   '744': The100
   '745': The100
   '877': The877
-  '878': The131
-  '879': The100
+  '878': The100
+  '879': The131
   '884': The1031
   '885': The1003
   '889': The1031
@@ -567,10 +575,10 @@ export interface APIMstEquipShip {
   '899': The1003
   '900': The1003
   '908': The100
-  '911': The372
-  '915': The131
-  '916': The100
-  '920': The372
+  '911': The131
+  '915': The100
+  '916': The131
+  '920': The100
   '927': The131
   '939': The530
   '940': The530
@@ -589,10 +597,10 @@ export interface APIMstEquipShip {
   '963': The100
   '967': The100
   '968': The100
-  '969': The372
+  '969': The131
   '973': The727
   '975': The100
-  '978': The131
+  '978': The100
   '979': The100
   '981': The100
   '982': The100
@@ -601,9 +609,9 @@ export interface APIMstEquipShip {
   '987': The100
   '988': The988
   '995': The1003
-  '996': The372
+  '996': The131
   '998': The727
-  '999': The131
+  '999': The100
 }
 
 export interface The100 {
@@ -614,7 +622,7 @@ export interface The100_APIEquipType {
   '1'?: number[] | null
   '10'?: null
   '11'?: null
-  '12': null
+  '12'?: null
   '13'?: number[] | null
   '14'?: null
   '15'?: number[] | null
@@ -635,15 +643,16 @@ export interface The100_APIEquipType {
   '29'?: null
   '3'?: null
   '30'?: null
+  '31'?: null
   '33'?: null
   '34'?: null
   '35'?: null
   '36'?: null
   '37'?: null
-  '38'?: null
   '39'?: null
   '4'?: number[] | null
   '40'?: null
+  '41'?: null
   '42'?: null
   '43': null
   '44'?: null
@@ -746,15 +755,60 @@ export interface The1031_APIEquipType {
   '95'?: null
 }
 
+export interface The1055 {
+  api_equip_type: The1055_APIEquipType
+}
+
+export interface The1055_APIEquipType {
+  '12': null
+  '16': null
+  '17': null
+  '20': null
+  '21': null
+  '23': null
+  '28': null
+  '34': null
+  '35': null
+  '39': null
+  '4': null
+  '43': null
+  '50': null
+  '7': null
+  '9': null
+  '95': null
+}
+
+export interface The1065 {
+  api_equip_type: The1065_APIEquipType
+}
+
+export interface The1065_APIEquipType {
+  '1': null
+  '10': null
+  '12': null
+  '15': null
+  '17': null
+  '2': number[]
+  '20': null
+  '21': null
+  '23': null
+  '33': null
+  '34': null
+  '36': null
+  '39': null
+  '4': number[]
+  '43': null
+}
+
 export interface The131 {
   api_equip_type: The131_APIEquipType
 }
 
 export interface The131_APIEquipType {
-  '1'?: null
+  '1'?: number[] | null
   '10'?: null
   '11'?: number[] | null
-  '12'?: null
+  '12': null
   '13'?: null
   '14'?: null
   '15'?: null
@@ -775,9 +829,8 @@ export interface The131_APIEquipType {
   '29': null
   '3'?: null
   '30'?: null
-  '31'?: null
-  '33'?: null
-  '34': null
+  '33': null
+  '34'?: null
   '35'?: null
   '36'?: null
   '37'?: null
@@ -877,60 +930,6 @@ export interface The352_APIEquipType {
   '45': null
   '46'?: null
   '8'?: null
-}
-
-export interface The372 {
-  api_equip_type: The372_APIEquipType
-}
-
-export interface The372_APIEquipType {
-  '1'?: number[] | null
-  '10'?: null
-  '11'?: null
-  '12': null
-  '13'?: null
-  '14'?: null
-  '15'?: null
-  '16'?: null
-  '17': null
-  '18'?: null
-  '19'?: null
-  '2'?: number[] | null
-  '20'?: null
-  '21': null
-  '22'?: null
-  '23': null
-  '24'?: null
-  '25'?: null
-  '26'?: null
-  '27'?: number[] | null
-  '28'?: null
-  '29': null
-  '3'?: null
-  '30'?: null
-  '33': null
-  '34'?: null
-  '35'?: null
-  '36'?: null
-  '37'?: null
-  '38'?: null
-  '39': null
-  '4'?: number[] | null
-  '40'?: null
-  '41'?: null
-  '42'?: null
-  '43': null
-  '44'?: null
-  '45'?: null
-  '46'?: null
-  '5'?: null
-  '50'?: null
-  '54'?: null
-  '6'?: null
-  '7'?: null
-  '9'?: null
-  '93'?: null
-  '95'?: null
 }
 
 export interface The521 {
