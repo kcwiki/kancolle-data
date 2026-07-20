@@ -181,6 +181,7 @@
     "L2": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "M": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
     "M1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "M2": { "color": 15, "id": 4, "kind": 1, "type": "Supported" },
     "O": { "color": 4, "id": 6, "kind": 2, "type": "Select" },
     "P": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "P1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
