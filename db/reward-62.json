@@ -201,5 +201,60 @@
         { "api_id": 100, "api_type": 1, "api_value": 3, "api_item_no": 2 }
       ]
     }
+  },
+  { "map": "62-4", "difficulty": 1, "rewards": [{ "api_id": 1051, "api_type": 2, "api_value": 1 }], "selectreward": null },
+  {
+    "map": "62-4",
+    "difficulty": 4,
+    "rewards": [
+      { "api_id": 57, "api_type": 1, "api_value": 2 },
+      { "api_id": 105, "api_type": 1, "api_value": 7 },
+      { "api_id": 441, "api_type": 7, "api_value": 1 },
+      { "api_id": 581, "api_type": 3, "api_value": 1, "api_slot_level": 2 },
+      { "api_id": 78, "api_type": 1, "api_value": 1 },
+      { "api_id": 576, "api_type": 3, "api_value": 1, "api_slot_level": 2 },
+      { "api_id": 442, "api_type": 7, "api_value": 1 },
+      { "api_id": 583, "api_type": 3, "api_value": 1, "api_slot_level": 3 },
+      { "api_id": 1051, "api_type": 2, "api_value": 1 }
+    ],
+    "selectreward": {
+      "441": [
+        { "api_id": 105, "api_type": 1, "api_value": 3, "api_item_no": 1 },
+        { "api_id": 585, "api_type": 3, "api_value": 1, "api_item_no": 2, "api_slot_level": 6 }
+      ],
+      "442": [
+        { "api_id": 579, "api_type": 3, "api_value": 1, "api_item_no": 1, "api_slot_level": 6 },
+        { "api_id": 497, "api_type": 3, "api_value": 1, "api_item_no": 2, "api_slot_level": 6 }
+      ]
+    }
+  },
+  {
+    "map": "62-5",
+    "difficulty": 4,
+    "rewards": [
+      { "api_id": 57, "api_type": 1, "api_value": 3 },
+      { "api_id": 4, "api_type": 1, "api_value": 10 },
+      { "api_id": 541, "api_type": 7, "api_value": 1 },
+      { "api_id": 542, "api_type": 7, "api_value": 1 },
+      { "api_id": 101, "api_type": 1, "api_value": 1 },
+      { "api_id": 476, "api_type": 3, "api_value": 1, "api_slot_level": 1 },
+      { "api_id": 543, "api_type": 7, "api_value": 1 },
+      { "api_id": 61, "api_type": 1, "api_value": 1 },
+      { "api_id": 1055, "api_type": 2, "api_value": 1 }
+    ],
+    "selectreward": {
+      "541": [
+        { "api_id": 105, "api_type": 1, "api_value": 3, "api_item_no": 1 },
+        { "api_id": 584, "api_type": 3, "api_value": 1, "api_item_no": 2, "api_slot_level": 4 }
+      ],
+      "542": [
+        { "api_id": 105, "api_type": 1, "api_value": 4, "api_item_no": 1 },
+        { "api_id": 587, "api_type": 3, "api_value": 1, "api_item_no": 2, "api_slot_level": 4 }
+      ],
+      "543": [
+        { "api_id": 588, "api_type": 3, "api_value": 1, "api_item_no": 1, "api_slot_level": 5 },
+        { "api_id": 100, "api_type": 1, "api_value": 5, "api_item_no": 2 }
+      ]
+    }
   }
 ]

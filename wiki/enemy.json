@@ -38416,7 +38416,7 @@
     "_armor": 168,
     "_asw": 0,
     "_back": -11,
-    "_can_debuff": false,
+    "_can_debuff": true,
     "_equipment": [
       {
         "equipment": "Abyssal 16inch Triple Gun Mount Mk.6",
@@ -38597,7 +38597,10 @@
     "_armor": 208,
     "_asw": 0,
     "_back": -11,
+    "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
@@ -38640,7 +38643,10 @@
     "_armor": 248,
     "_asw": 0,
     "_back": -11,
+    "_battle_card_damaged_reference": "/",
     "_battle_card_reference": "/",
+    "_can_debuff": true,
+    "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
