@@ -249,6 +249,7 @@
       ]
     }
   },
+  { "map": "62-5", "difficulty": 1, "rewards": [{ "api_id": 1055, "api_type": 2, "api_value": 1 }], "selectreward": null },
   {
     "map": "62-5",
     "difficulty": 4,
