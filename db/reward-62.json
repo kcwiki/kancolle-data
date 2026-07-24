@@ -274,6 +274,27 @@
   { "map": "62-5", "difficulty": 1, "rewards": [{ "api_id": 1055, "api_type": 2, "api_value": 1 }], "selectreward": null },
   {
     "map": "62-5",
+    "difficulty": 2,
+    "rewards": [
+      { "api_id": 57, "api_type": 1, "api_value": 1 },
+      { "api_id": 4, "api_type": 1, "api_value": 5 },
+      { "api_id": 521, "api_type": 7, "api_value": 1 },
+      { "api_id": 522, "api_type": 7, "api_value": 1 },
+      { "api_id": 1055, "api_type": 2, "api_value": 1 }
+    ],
+    "selectreward": {
+      "521": [
+        { "api_id": 105, "api_type": 1, "api_value": 1, "api_item_no": 1 },
+        { "api_id": 584, "api_type": 3, "api_value": 1, "api_item_no": 2, "api_slot_level": 1 }
+      ],
+      "522": [
+        { "api_id": 588, "api_type": 3, "api_value": 1, "api_item_no": 1 },
+        { "api_id": 100, "api_type": 1, "api_value": 2, "api_item_no": 2 }
+      ]
+    }
+  },
+  {
+    "map": "62-5",
     "difficulty": 4,
     "rewards": [
       { "api_id": 57, "api_type": 1, "api_value": 3 },
