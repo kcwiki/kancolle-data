@@ -8218,6 +8218,20 @@
     "range": 1
   },
   {
+    "id": 1028,
+    "name": "Independence改",
+    "description": "USS Independence, at your service. <br>新鋭軽巡として設計され、途中から高速軽空母へと<br>改装。Essex級と共に、空母機動部隊の中核として、<br>ラバウル空襲を始め、太平洋戦域で活躍。夜間作戦<br>空母としても運用されました。<br>Bear this in mind.……please.",
+    "firepower": 18,
+    "torpedo": 0,
+    "armor": 22,
+    "aa": 34,
+    "bombing": 1,
+    "evasion": 30,
+    "asw": 20,
+    "los": -1,
+    "range": 2
+  },
+  {
     "id": 1030,
     "name": "Wasp改",
     "description": "Essex級航空母艦6番艦、Waspです。そう、あの空母<br>の名前を継いだ、あの戦い最強の量産型正規空母の一<br>隻。日本の本当に本土近くまで進出して攻撃を実施し<br>たわ。もちろん、反撃も凄かったけど。<br>現代では強力な戦力を投射する強襲揚陸艦にその名は<br>継がれているの。",
@@ -8370,6 +8384,34 @@
     "asw": 0,
     "los": -1,
     "range": 2
+  },
+  {
+    "id": 1058,
+    "name": "Vautour改",
+    "description": "フランスの大型駆逐艦。コントル・トルピエール<br>La classe Aigle Vautourです。フランス地中海艦隊<br>として他の主力艦と共にトゥーロンに展開、ヴァード<br>作戦でイタリア本土への攻撃も敢行しました。最期は<br>独軍の戦車が港に迫る中、燃える港と共に……。<br>私達の事も、覚えていて……。",
+    "firepower": 20,
+    "torpedo": 24,
+    "armor": 16,
+    "aa": 36,
+    "bombing": 3,
+    "evasion": 47,
+    "asw": 38,
+    "los": -1,
+    "range": 1
+  },
+  {
+    "id": 1060,
+    "name": "Béarn改",
+    "description": "フランス航空母艦、Béarnです。特徴のある三基のエ<br>レベータを持つ、フランスで生まれた正規空母です。<br>搭載機が少し旧式化したので、新鋭機を受領するため<br>米国に向かいましたが、帰国する前に本国は既に陸か<br>ら征服されていました……。設計的にも近代的実戦空<br>母ではないけれど、改装を重ねて、頑張ります！",
+    "firepower": 30,
+    "torpedo": 0,
+    "armor": 55,
+    "aa": 30,
+    "bombing": 1,
+    "evasion": 27,
+    "asw": 0,
+    "los": -1,
+    "range": 1
   },
   {
     "id": 1062,

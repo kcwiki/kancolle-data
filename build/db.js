@@ -75,7 +75,7 @@ const genNodeTypes = async eventId => {
 const main = async () => {
   if (process.env.DB_QUERY === 'ab') {
     for (const eventId of eventIds) {
-      for (const mapId of _.range(5, 5 + 1)) {
+      for (const mapId of _.range(1, 9 + 1)) {
         await queryTsun({
           query: `select * from enemycomp where (enemycomp->'isAirRaid') is not null and ${mapQuery(eventId, mapId)}`,
           file: `ab-${eventId}${mapId}`,
@@ -86,7 +86,7 @@ const main = async () => {
   }
   if (process.env.DB_QUERY === 'gauge') {
     for (const eventId of eventIds) {
-      for (const mapId of _.range(5, 5 + 1)) {
+      for (const mapId of _.range(1, 9 + 1)) {
         await queryTsun({
           query: `select map, node, difficulty, enemycomp->>'ship' as ship1, enemycomp->>'shipEscort' as ship2, enemycomp->>'mapStats' as mapStats, count(*)::int as count from enemycomp where ${mapQuery(
             eventId,

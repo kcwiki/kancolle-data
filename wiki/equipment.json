@@ -5412,7 +5412,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 21,
-    "_types": [4, 29, 21, 15, 0],
+    "_types": [4, 6, 21, 15, 0],
     "_wikipedia": "Type 96 25 mm AT/AA gun"
   },
   "25mm Single Autocannon Mount": {
@@ -8524,7 +8524,7 @@
     "_types": [2, 3, 5, 5, 0],
     "_wikipedia": "Type 95 torpedo"
   },
-  "55cm Five-tubes Composite Arrangement Torpedo Mounts Modèle 1932": {
+  "55cm Composite Arrangement Quintuple Torpedo Mount Modèle 1932": {
     "_aa": false,
     "_armor": false,
     "_asw": false,
@@ -8541,7 +8541,7 @@
     "_localized_name": null,
     "_los": false,
     "_luck": false,
-    "_name": "55cm Five-tubes Composite Arrangement Torpedo Mounts Modèle 1932",
+    "_name": "55cm Composite Arrangement Quintuple Torpedo Mount Modèle 1932",
     "_range": 1,
     "_rarity": 2,
     "_reading": null,
@@ -9118,7 +9118,7 @@
     "_id": 577,
     "_improvements": false,
     "_info": "大威力長射程を誇る、秘密兵器「九三式酸素魚雷」。<br>その必殺の酸素魚雷を四連装した水雷兵装の決定版、四連装【酸素魚雷】発射管、そのif調整最新改良型です。<br>調整を重ねた優秀な後期型酸素魚雷を、九二式四型をベースに防盾に装甲を施し、内部機構も一新した新型四連装魚雷発射管に搭載。<br>戦訓を取り入れ改良された、日本海軍駆逐艦部隊の最新の矛です。",
-    "_info_en": null,
+    "_info_en": "The secret weapon boasting immense power and long range, the \"Type 93 oxygen torpedo\".<br>This is the definitive quadruple-mount torpedo armament featuring the lethal Oxygen Torpedo, specifically, the quadruple [Oxygen Torpedo] launcher, in its latest \"what-if\" upgraded configuration.<br>These refined, high-performance late-model oxygen torpedoes are loaded into a new type of quadruple torpedo launcher, based on the Type 92 Model 4, which features an armored shield and a completely redesigned internal mechanism.<br>This is the latest spearhead of the Imperial Japanese Navy's destroyer force, improved by incorporating lessons learned in combat.",
     "_japanese_name": "61cm四連装(酸素)魚雷五型改三",
     "_los": false,
     "_luck": false,
@@ -10651,10 +10651,10 @@
     "_range": false,
     "_rarity": 2,
     "_reading": "そさいききゅう",
-    "_scrap_ammo": 0,
+    "_scrap_ammo": false,
     "_scrap_bauxite": 1,
     "_scrap_fuel": 1,
-    "_scrap_steel": 0,
+    "_scrap_steel": false,
     "_shelling_accuracy": false,
     "_special": false,
     "_speed": false,
@@ -10853,7 +10853,7 @@
     "_types": [4, 6, 21, 15, 0],
     "_wikipedia": "QF 2-pounder naval gun"
   },
-  "Bofors 12cm Single-barrel Dual-purpose Gun": {
+  "Bofors 12cm Single Dual-purpose Gun Mount": {
     "_aa": 5,
     "_armor": false,
     "_asw": false,
@@ -10870,7 +10870,7 @@
     "_localized_name": null,
     "_los": false,
     "_luck": false,
-    "_name": "Bofors 12cm Single-barrel Dual-purpose Gun",
+    "_name": "Bofors 12cm Single Dual-purpose Gun Mount",
     "_range": 1,
     "_rarity": 2,
     "_reading": null,
@@ -11894,13 +11894,13 @@
     "_buildable": false,
     "_evasion": false,
     "_firepower": false,
-    "_flight_cost": 18,
+    "_flight_cost": 16,
     "_flight_range": 4,
     "_icon": 37,
     "_id": 562,
     "_improvements": false,
-    "_info": "かの科学の国で開発され、数多く量産・運用された双発爆撃機 Do 17、その改良後継機Do217です。<br>高出力エンジン搭載により、爆弾搭載量を大幅up、さらに世界初の実用対艦ロケット誘導弾、いわゆる対艦ミサイルのご先祖様にあたる兵装を搭載して出撃、戦果を上げています。<br>※D型は、TV誘導も実装した改良後期型です。",
-    "_info_en": "These is the Do 17 twin-engine bomber improved successor, the Do 217, developed and mass-produced in that country of science.<br>Equipped with a high-output engine, it significantly increased its bomb payload capacity and was also deployed with the world's first practical anti-ship rocket-guided missile, essentially the ancestor of modern anti-ship missiles, achieving successful combat results.<br>※The D-type is an improved, later model that also incorporates TV-guidance.",
+    "_info": "かの科学の国で開発され、数多く量産・運用された双発爆撃機Do 17、その改良後継機Do 217です。<br>高出力エンジン搭載により、爆弾搭載量を大幅up、さらに世界初の実用対艦ロケット誘導弾、いわゆる対艦ミサイルのご先祖様にあたる兵装を搭載して出撃、戦果を上げています。<br>※本誘導弾D型は、TV誘導も実装した改良後期型です。",
+    "_info_en": "This is the Do 17 twin-engine bomber's improved successor, the Do 217, developed and mass-produced in that country of science.<br>Equipped with a high-output engine, it significantly increased its bomb payload capacity and was also deployed with the world's first practical anti-ship rocket-guided missile, essentially the ancestor of modern anti-ship missiles, achieving successful combat results.<br>※The D-type guided missile is an improved, later model that also incorporates TV-guidance.",
     "_japanese_name": "Do 217 E-5+TV誘導型 Hs293D",
     "_los": 3,
     "_luck": false,
@@ -13592,7 +13592,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 14],
+    "_types": [3, 5, 7, 7, 59],
     "_wikipedia": "Junkers Ju 87"
   },
   "Ju 87C Kai 2 (w/ KMX)": {
@@ -13628,7 +13628,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 14],
+    "_types": [3, 5, 7, 7, 59],
     "_wikipedia": "Junkers Ju 87"
   },
   "Ju 87C Kai 2 (w/ KMX/Skilled)": {
@@ -13664,7 +13664,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 14],
+    "_types": [3, 5, 7, 7, 59],
     "_wikipedia": "Junkers Ju 87"
   },
   "Ju 87D-4 (Fliegerass)": {
@@ -13780,7 +13780,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 15, 25, 21, 0],
+    "_types": [3, 15, 25, 21, 53],
     "_wikipedia": "Kayaba Ka-1"
   },
   "Ki-102 B": {
@@ -15188,7 +15188,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 15, 25, 21, 0],
+    "_types": [3, 15, 25, 21, 53],
     "_wikipedia": "Kayaba Ka-1"
   },
   "O Type Observation Autogyro Kai 2": {
@@ -15271,7 +15271,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 15, 25, 21, 0],
+    "_types": [3, 15, 25, 21, 53],
     "_wikipedia": "Kayaba Ka-1"
   },
   "OS2U": {
@@ -15499,7 +15499,7 @@
     "_types": [17, 33, 41, 33, 19],
     "_wikipedia": "Consolidated PBY Catalina"
   },
-  "PL 101 (Bomber)": {
+  "PL 101 (Bomb-carrying)": {
     "_aa": false,
     "_armor": false,
     "_asw": 3,
@@ -15518,7 +15518,7 @@
     "_localized_name": null,
     "_los": 3,
     "_luck": false,
-    "_name": "PL 101 (Bomber)",
+    "_name": "PL 101 (Bomb-carrying)",
     "_range": false,
     "_rarity": 1,
     "_reading": null,
@@ -16173,6 +16173,8 @@
     "_info": "かの国で開発されていた、ジャイロ機構によって自動変針と直線航行を繰り返し行い、面で敵艦を攻撃する「FaT航走パターン」仕様を実装した試製潜水艦搭載用酸素魚雷です。<br>Uボートによってもたらされた技術を応用した、平面を制圧する航路を疾走する特殊な試作魚雷です。",
     "_info_en": "This is a prototype, submarine oxygen torpedo with the \"FaT guidance system\" which uses a gyroscopic mechanism to change course over time that was developed by that country for use on surface attacks on enemy warships.<br>This prototype oxygen torpedo was brought by U-boats for practical use on sea-lane control.",
     "_japanese_name": "試製FaT仕様九五式酸素魚雷改",
+    "_list_japanese_name": "試製Fat仕様九五式酸素魚雷改",
+    "_list_name": "Prototype Fat Type 95 Oxygen Torpedo Kai",
     "_los": false,
     "_luck": false,
     "_name": "Prototype FaT Type 95 Oxygen Torpedo Kai",
@@ -18248,7 +18250,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 44, 25, 21, 0],
+    "_types": [3, 44, 25, 21, 53],
     "_wikipedia": "Sikorsky H-5"
   },
   "S-51J Kai": {
@@ -18322,7 +18324,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 25,
-    "_types": [3, 44, 25, 21, 0],
+    "_types": [3, 44, 25, 21, 53],
     "_wikipedia": "Sikorsky H-5"
   },
   "S9 Osprey": {
@@ -18460,7 +18462,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 21],
+    "_types": [3, 5, 7, 7, 62],
     "_wikipedia": "Curtiss SB2C Helldiver"
   },
   "SB2C-5": {
@@ -18496,7 +18498,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 21],
+    "_types": [3, 5, 7, 7, 62],
     "_wikipedia": "Curtiss SB2C Helldiver"
   },
   "SB2U": {
@@ -18549,8 +18551,8 @@
     "_icon": 7,
     "_id": 578,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "米海軍初の低翼単葉式の艦上急降下爆撃機です。<br>複葉機から近代的な艦爆への橋渡しとなる過渡的な機体で、機体の一部が布張り構造でした。<br>米空母「Ranger」や「Lexington」などに搭載、大戦前の哨戒や演習などで運用されました。<br>近代的な空母搭載機の先駆けとして、その存在は大戦初期に日本空母と死闘を演じた名機SBDドーントレスなどに受け継がれていきます。",
+    "_info_en": "It is the U.S. Navy's first low-wing monoplane carrier-based dive bomber.<br>It was a transitional plane that bridged the gap between biplanes and modern carrier-based dive bombers, featuring a structure that was partially fabric-covered.<br>It was deployed on U.S. aircraft carriers such as \"Ranger\" and \"Lexington\", and was used in pre-war patrols and exercises.<br>As a forerunner to modern carrier-based planes, its legacy was carried on by renowned planes such as the SBD Dauntless, which engaged in fierce battles against Japanese aircraft carriers during the early stages of the war.",
     "_japanese_name": "SB2U-2",
     "_localized_name": null,
     "_los": 2,
@@ -18606,7 +18608,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 21],
+    "_types": [3, 5, 7, 7, 62],
     "_version": 3,
     "_wikipedia": "Douglas SBD Dauntless"
   },
@@ -18679,7 +18681,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 21],
+    "_types": [3, 5, 7, 7, 62],
     "_wikipedia": "Douglas SBD Dauntless"
   },
   "SBD VS-2 (Reconnaissance Squadron)": {
@@ -18715,7 +18717,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 9,
-    "_types": [5, 7, 9, 9, 21],
+    "_types": [5, 7, 9, 9, 62],
     "_wikipedia": "Douglas SBD Dauntless"
   },
   "SBD-5": {
@@ -18751,7 +18753,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 7,
-    "_types": [3, 5, 7, 7, 21],
+    "_types": [3, 5, 7, 7, 62],
     "_wikipedia": "Douglas SBD Dauntless"
   },
   "SC Radar Kai (Calibrated Late Model)": {
@@ -20780,10 +20782,10 @@
     "_range": false,
     "_rarity": 1,
     "_reading": "はつえんそうち（えんまく）",
-    "_scrap_ammo": 0,
+    "_scrap_ammo": false,
     "_scrap_bauxite": 1,
     "_scrap_fuel": 1,
-    "_scrap_steel": 0,
+    "_scrap_steel": false,
     "_shelling_accuracy": false,
     "_special": "trigger Smoke screen",
     "_speed": false,
@@ -20813,10 +20815,10 @@
     "_range": false,
     "_rarity": 2,
     "_reading": "はつえんそうちかい（えんまく）",
-    "_scrap_ammo": 0,
+    "_scrap_ammo": false,
     "_scrap_bauxite": 2,
     "_scrap_fuel": 2,
-    "_scrap_steel": 0,
+    "_scrap_steel": false,
     "_shelling_accuracy": false,
     "_special": "trigger Smoke screen",
     "_speed": false,
@@ -22578,7 +22580,7 @@
     "_torpedo": 5,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 21],
+    "_types": [3, 5, 8, 8, 62],
     "_wikipedia": "Douglas TBD Devastator"
   },
   "TBD (Yellow Wings)": {
@@ -22650,7 +22652,7 @@
     "_torpedo": 9,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 8, 21],
+    "_types": [3, 5, 8, 8, 63],
     "_wikipedia": "Grumman TBF Avenger"
   },
   "TBM-3D": {
@@ -22686,7 +22688,7 @@
     "_torpedo": 9,
     "_torpedo_accuracy": false,
     "_type": 8,
-    "_types": [3, 5, 8, 46, 21],
+    "_types": [3, 5, 8, 46, 63],
     "_wikipedia": "Grumman TBF Avenger"
   },
   "TBM-3W+3S": {
@@ -27791,7 +27793,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 26,
-    "_types": [3, 16, 26, 22, 0],
+    "_types": [3, 16, 26, 22, 54],
     "_wikipedia": "Kokusai Ki-76"
   },
   "Type 3 Command Liaison Aircraft Kai": {
@@ -27826,7 +27828,7 @@
     "_torpedo": false,
     "_torpedo_accuracy": false,
     "_type": 26,
-    "_types": [3, 16, 26, 22, 0],
+    "_types": [3, 16, 26, 22, 54],
     "_wikipedia": "Kokusai Ki-76"
   },
   "Type 3 Command Liaison Aircraft Kai 2": {

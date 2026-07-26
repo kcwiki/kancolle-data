@@ -2144,8 +2144,8 @@
     "_armor_max": 52,
     "_armor_mod": 2,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 70,
     "_buildable": false,
@@ -2166,8 +2166,8 @@
         "size": 3
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 33,
+    "_evasion_max": 59,
     "_firepower": 40,
     "_firepower_max": 64,
     "_firepower_mod": 3,
@@ -2178,8 +2178,8 @@
     "_id": 641,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Algérie",
-    "_los": null,
-    "_los_max": null,
+    "_los": 13,
+    "_los_max": 40,
     "_luck": 5,
     "_luck_max": 35,
     "_luck_mod": false,
@@ -2201,7 +2201,7 @@
     "_torpedo_mod": 1,
     "_true_id": false,
     "_type": 5,
-    "_voice_actor": null,
+    "_voice_actor": "Inoue Kikuko",
     "_voice_flag": 1,
     "_wikipedia": "French cruiser Algérie",
     "_full_name": "Algérie"
@@ -2215,30 +2215,30 @@
     "_armor": 53,
     "_armor_max": 84,
     "_armor_mod": 3,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_class": "Algérie",
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "20.3cm/50 Twin Gun Mount Kai (SHS Improved Shells)",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": "Loire 130M",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": "55cm Triple Torpedo Mount Modèle 1924",
         "size": 3
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 3
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 38,
+    "_evasion_max": 72,
     "_firepower": 62,
     "_firepower_max": 91,
     "_firepower_mod": 4,
@@ -2248,8 +2248,8 @@
     "_id": 646,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Algérie改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 22,
+    "_los_max": 68,
     "_luck": 9,
     "_luck_max": 55,
     "_luck_mod": false,
@@ -2275,7 +2275,7 @@
     "_type": 5,
     "_voice_flag": 3,
     "_full_name": "Algérie Kai",
-    "_voice_actor": null,
+    "_voice_actor": "Inoue Kikuko",
     "_artist": null,
     "_availability": ["event_reward"],
     "_wikipedia": "French cruiser Algérie",
@@ -6330,8 +6330,8 @@
     "_armor_max": 70,
     "_armor_mod": 4,
     "_artist": "Akira",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_availability": ["event_reward"],
     "_build_time": 260,
     "_buildable": false,
@@ -6340,20 +6340,20 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "PL 101 (Reconnaissance)",
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": "PL 101 (Bomb-carrying)",
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 8
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 20,
+    "_evasion_max": 40,
     "_firepower": 20,
     "_firepower_max": 30,
     "_firepower_mod": false,
@@ -6364,8 +6364,8 @@
     "_id": 645,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Béarn",
-    "_los": null,
-    "_los_max": null,
+    "_los": 24,
+    "_los_max": 60,
     "_luck": 18,
     "_luck_max": 68,
     "_luck_mod": false,
@@ -6389,7 +6389,7 @@
     "_type": 11,
     "_voice_actor": null,
     "_voice_flag": 1,
-    "_wikipedia": null,
+    "_wikipedia": "French aircraft carrier Béarn",
     "_full_name": "Béarn"
   },
   "Béarn Amélioration": {
@@ -6401,30 +6401,30 @@
     "_armor": 57,
     "_armor_max": 87,
     "_armor_mod": 5,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_class": "Béarn",
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "G-36A (F4F Export Model)",
         "size": 22
       },
       {
-        "equipment": null,
+        "equipment": "V-156F (SB2U Export Model)",
         "size": 22
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 12
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 4
       }
     ],
     "_evasion": null,
-    "_evasion_max": null,
+    "_evasion_max": 55,
     "_firepower": 40,
     "_firepower_max": 55,
     "_firepower_mod": 1,
@@ -6435,14 +6435,14 @@
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Béarn amélioration",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 80,
     "_luck": 33,
     "_luck_max": 103,
     "_luck_mod": false,
     "_name": "Béarn",
     "_range": 3,
     "_rarity": 8,
-    "_reading": "ベアルン",
+    "_reading": "ベアルン アメリオラスィョン",
     "_remodel_ammo": 1080,
     "_remodel_arsenal": 1,
     "_remodel_blueprint": 1,
@@ -6469,7 +6469,7 @@
     "_voice_actor": null,
     "_artist": "Akira",
     "_availability": ["event_reward"],
-    "_wikipedia": null,
+    "_wikipedia": "French aircraft carrier Béarn",
     "_build_time": 260
   },
   "Béarn Kai": {
@@ -6481,30 +6481,30 @@
     "_armor": 55,
     "_armor_max": 85,
     "_armor_mod": 5,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 0,
+    "_asw_max": false,
     "_class": "Béarn",
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "V-156F (SB2U Export Model)",
         "size": 16
       },
       {
-        "equipment": null,
+        "equipment": "PL 101 (Bomb-carrying)",
         "size": 16
       },
       {
-        "equipment": null,
+        "equipment": "PL 101 (Reconnaissance)",
         "size": 6
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 2
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 27,
+    "_evasion_max": 48,
     "_firepower": 30,
     "_firepower_max": 44,
     "_firepower_mod": 1,
@@ -6514,8 +6514,8 @@
     "_id": 650,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Béarn改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 30,
+    "_los_max": 68,
     "_luck": 28,
     "_luck_max": 88,
     "_luck_mod": false,
@@ -6544,7 +6544,7 @@
     "_voice_actor": null,
     "_artist": "Akira",
     "_availability": ["event_reward"],
-    "_wikipedia": null,
+    "_wikipedia": "French aircraft carrier Béarn",
     "_build_time": 260
   },
   "C.Cappellini": {
@@ -13248,7 +13248,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Shimushu",
-    "_class_number": 4,
+    "_class_number": 3,
     "_equipment": [
       {
         "equipment": "12cm Single Gun Mount",
@@ -13296,7 +13296,7 @@
     "_type": 1,
     "_voice_actor": "Takao Kanon",
     "_voice_flag": 1,
-    "_wikipedia": "Japanese escort ship Hachijo",
+    "_wikipedia": "Japanese escort ship Hachijō",
     "_full_name": "Hachijou"
   },
   "Hachijou Kai": {
@@ -13313,7 +13313,7 @@
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Shimushu",
-    "_class_number": 4,
+    "_class_number": 3,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
@@ -13373,7 +13373,7 @@
     "_voice_actor": "Takao Kanon",
     "_artist": "UGUME",
     "_availability": ["event_reward"],
-    "_wikipedia": "Japanese escort ship Hachijo",
+    "_wikipedia": "Japanese escort ship Hachijō",
     "_build_time": 14
   },
   "Hagikaze": {
@@ -17763,8 +17763,8 @@
     "_armor_max": 18,
     "_armor_mod": 1,
     "_artist": "Akasaka Yuzu",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 1,
+    "_asw_max": 10,
     "_availability": ["event_drop"],
     "_build_time": 150,
     "_buildable": false,
@@ -17773,16 +17773,16 @@
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "14cm Single Gun Mount",
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": "Type 95 Depth Charge",
         "size": 1
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 14,
+    "_evasion_max": 26,
     "_firepower": 5,
     "_firepower_max": 23,
     "_firepower_mod": 1,
@@ -17793,8 +17793,8 @@
     "_id": 655,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "日枝丸",
-    "_los": null,
-    "_los_max": null,
+    "_los": 10,
+    "_los_max": 30,
     "_luck": 3,
     "_luck_max": 33,
     "_luck_mod": false,
@@ -17816,9 +17816,9 @@
     "_torpedo_mod": false,
     "_true_id": false,
     "_type": 20,
-    "_voice_actor": null,
+    "_voice_actor": "Inoue Kikuko",
     "_voice_flag": 1,
-    "_wikipedia": null,
+    "_wikipedia": "ja:日枝丸",
     "_full_name": "Hie Maru"
   },
   "Hie Maru Kai": {
@@ -17831,25 +17831,25 @@
     "_armor_max": 33,
     "_armor_mod": 1,
     "_asw": null,
-    "_asw_max": null,
+    "_asw_max": 18,
     "_class": "Kai Hikawa Maru",
     "_class_number": 2,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "12cm Single High-angle Gun Mount",
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": "25mm Twin Autocannon Mount",
         "size": 1
       },
       {
-        "equipment": null,
+        "equipment": "Underway Replenishment",
         "size": 1
       }
     ],
     "_evasion": null,
-    "_evasion_max": null,
+    "_evasion_max": 35,
     "_firepower": 13,
     "_firepower_max": 43,
     "_firepower_mod": 1,
@@ -17860,7 +17860,7 @@
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "日枝丸改",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 38,
     "_luck": 8,
     "_luck_max": 48,
     "_luck_mod": false,
@@ -17886,10 +17886,10 @@
     "_type": 20,
     "_voice_flag": 3,
     "_full_name": "Hie Maru Kai",
-    "_voice_actor": null,
+    "_voice_actor": "Inoue Kikuko",
     "_artist": "Akasaka Yuzu",
     "_availability": ["event_drop"],
-    "_wikipedia": null,
+    "_wikipedia": "ja:日枝丸",
     "_build_time": 150
   },
   "Hiei": {
@@ -22497,7 +22497,7 @@
     "_armor_max": 62,
     "_armor_mod": 3,
     "_asw": 32,
-    "_asw_max": null,
+    "_asw_max": 70,
     "_class": "Independence",
     "_class_number": 1,
     "_equipment": [
@@ -22519,7 +22519,7 @@
       }
     ],
     "_evasion": null,
-    "_evasion_max": null,
+    "_evasion_max": 65,
     "_firepower": 32,
     "_firepower_max": 50,
     "_firepower_mod": 1,
@@ -22530,7 +22530,7 @@
     "_implementation_date": [2026, 7, 8],
     "_japanese_name": "Independence Flight II",
     "_los": null,
-    "_los_max": null,
+    "_los_max": 84,
     "_luck": 39,
     "_luck_max": 108,
     "_luck_mod": false,
@@ -22599,7 +22599,7 @@
         "size": 3
       }
     ],
-    "_evasion": null,
+    "_evasion": 30,
     "_evasion_max": 57,
     "_firepower": 18,
     "_firepower_max": 42,
@@ -22610,7 +22610,7 @@
     "_id": 618,
     "_implementation_date": [2026, 7, 8],
     "_japanese_name": "Independence改",
-    "_los": null,
+    "_los": 50,
     "_los_max": 81,
     "_luck": 36,
     "_luck_max": 98,
@@ -22730,6 +22730,7 @@
     "_armor_mod": 5,
     "_asw": 0,
     "_asw_max": false,
+    "_back": 7,
     "_class": "South Dakota",
     "_class_number": 2,
     "_equipment": [
@@ -22750,7 +22751,7 @@
         "size": 3
       }
     ],
-    "_evasion": null,
+    "_evasion": 36,
     "_evasion_max": 66,
     "_firepower": 85,
     "_firepower_max": 108,
@@ -22761,7 +22762,7 @@
     "_id": 537,
     "_implementation_date": [2026, 7, 8],
     "_japanese_name": "Indiana改",
-    "_los": null,
+    "_los": 18,
     "_los_max": 61,
     "_luck": 46,
     "_luck_max": 122,
@@ -23351,7 +23352,7 @@
     "_buildable": false,
     "_buildable_lsc": false,
     "_class": "Shimushu",
-    "_class_number": 3,
+    "_class_number": 4,
     "_equipment": [
       {
         "equipment": "12cm Single Gun Mount",
@@ -23416,7 +23417,7 @@
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Shimushu",
-    "_class_number": 3,
+    "_class_number": 4,
     "_equipment": [
       {
         "equipment": "12cm Single High-angle Gun Mount Model E",
@@ -57626,8 +57627,8 @@
     "_armor_max": 28,
     "_armor_mod": 1,
     "_artist": null,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 36,
+    "_asw_max": 72,
     "_availability": ["event_drop"],
     "_build_time": 30,
     "_buildable": false,
@@ -57644,8 +57645,8 @@
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 46,
+    "_evasion_max": 81,
     "_firepower": 18,
     "_firepower_max": 38,
     "_firepower_mod": 1,
@@ -57656,8 +57657,8 @@
     "_id": 643,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Vautour",
-    "_los": null,
-    "_los_max": null,
+    "_los": 7,
+    "_los_max": 20,
     "_luck": 5,
     "_luck_max": 37,
     "_luck_mod": false,
@@ -57693,26 +57694,26 @@
     "_armor": 16,
     "_armor_max": 50,
     "_armor_mod": 1,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 38,
+    "_asw_max": 74,
     "_class": "Aigle",
     "_class_number": 3,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "13.8cm Single Gun Mount Modèle 1927",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "55cm Triple Torpedo Mount Modèle 1924",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 47,
+    "_evasion_max": 83,
     "_firepower": 20,
     "_firepower_max": 62,
     "_firepower_mod": 2,
@@ -57722,8 +57723,8 @@
     "_id": 648,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Vautour改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 10,
+    "_los_max": 40,
     "_luck": 9,
     "_luck_max": 57,
     "_luck_mod": false,
@@ -57992,8 +57993,8 @@
     "_armor_max": 20,
     "_armor_mod": false,
     "_artist": "drew",
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 50,
+    "_asw_max": 68,
     "_availability": ["event_drop"],
     "_build_time": 14,
     "_buildable": false,
@@ -58002,16 +58003,16 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Bofors 12cm Single Dual-purpose Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 50,
+    "_evasion_max": 91,
     "_firepower": 6,
     "_firepower_max": 22,
     "_firepower_mod": 1,
@@ -58022,8 +58023,8 @@
     "_id": 652,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Visby",
-    "_los": null,
-    "_los_max": null,
+    "_los": 8,
+    "_los_max": 28,
     "_luck": 20,
     "_luck_max": 80,
     "_luck_mod": false,
@@ -58047,7 +58048,7 @@
     "_type": 2,
     "_voice_actor": null,
     "_voice_flag": 1,
-    "_wikipedia": null,
+    "_wikipedia": "HSwMS Visby (J11)",
     "_full_name": "Visby"
   },
   "Visby Kai": {
@@ -58065,15 +58066,15 @@
     "_class_number": 1,
     "_equipment": [
       {
-        "equipment": null,
+        "equipment": "Bofors 12cm Single Dual-purpose Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": "Bofors 12cm Single Dual-purpose Gun Mount",
         "size": 0
       },
       {
-        "equipment": null,
+        "equipment": false,
         "size": 0
       }
     ],
@@ -58118,7 +58119,7 @@
     "_voice_actor": null,
     "_artist": "drew",
     "_availability": ["event_drop"],
-    "_wikipedia": null,
+    "_wikipedia": "HSwMS Visby (J11)",
     "_build_time": 14
   },
   "Wahoo": {

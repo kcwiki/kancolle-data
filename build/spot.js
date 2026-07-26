@@ -24,8 +24,8 @@ const main = async () => {
           // console.log(`<http://${server}/kcs2/resources/map/0${world}/0${map}_image${spots.length || ''}.png>`)
           const data = await (await fetch(url)).json()
           spots.push.apply(spots, data.spots)
-          if (data.airbase) {
-            airbases.push(data.airbase)
+          if (data.airbases) {
+            spots.push.apply(airbases, data.airbases)
           }
         } catch (_) {
           break
@@ -33,7 +33,7 @@ const main = async () => {
       }
       spots.push.apply(
         spots,
-        airbases.map(({ x, y }) => ({ no: -1, x, y })),
+        airbases.map(e => ({ no: -1, x: e.point.x, y: e.point.y })),
       )
       if (size(spots)) {
         data[map] = spots
