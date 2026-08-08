@@ -193,6 +193,7 @@
     "P2": { "color": 10, "id": 4, "kind": 6, "type": "Defense" },
     "P3": { "color": 4, "id": 4, "kind": 5, "type": "Normal" },
     "Q": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },
+    "R": { "color": 14, "id": 10, "kind": 0, "type": "Repair" },
     "S": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "T": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "U": { "color": 4, "id": 6, "kind": 0, "type": "Empty" },

@@ -5981,17 +5981,17 @@
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 44
+        "size": 46
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 43
+        "size": 46
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 43
+        "size": 38
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -6033,17 +6033,17 @@
       {
         "equipment": "Abyssal Night Dive Bomber",
         "estimation": true,
-        "size": 46
+        "size": 48
       },
       {
         "equipment": "Abyssal Night Revenge Torpedo Bomber",
         "estimation": true,
-        "size": 45
+        "size": 48
       },
       {
         "equipment": "Abyssal Patrolling Attack Hawk",
         "estimation": true,
-        "size": 45
+        "size": 40
       },
       {
         "equipment": "Abyssal Night Operation Aviation Equipment",
@@ -11615,9 +11615,9 @@
     "_full_name": "Caged French Aircraft Carrier Princess Damaged"
   },
   "Caged French Aircraft Carrier Princess Damaged II": {
-    "_aa": null,
+    "_aa": 150,
     "_api_id": 2396,
-    "_armor": null,
+    "_armor": 248,
     "_asw": 0,
     "_back": -12,
     "_battle_card_damaged_reference": "/Damaged",
@@ -11627,40 +11627,44 @@
     "_cg_reference": "/Damaged",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": true,
+        "size": 64
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 48
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 270,
+    "_hp": 1020,
     "_id": 2396,
     "_japanese_name": "仏蘭西空母籠姫-壊",
     "_los": null,
     "_luck": null,
     "_name": "Caged French Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "フランスくうぼかごき-かい",
     "_speed": 10,
     "_suffix": "Damaged II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Caged French Aircraft Carrier Princess Damaged II"
   },
@@ -11719,49 +11723,53 @@
     "_full_name": "Caged French Aircraft Carrier Princess Damaged III"
   },
   "Caged French Aircraft Carrier Princess II": {
-    "_aa": null,
+    "_aa": 120,
     "_api_id": 2393,
-    "_armor": null,
+    "_armor": 208,
     "_asw": 0,
     "_back": -11,
     "_battle_card_reference": "/",
     "_cg_reference": "/",
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Dive Bomber II",
+        "estimation": true,
+        "size": 40
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Rigging General Assault Seaplane",
+        "estimation": true,
+        "size": 40
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Cat Fighter II",
+        "estimation": true,
+        "size": 32
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Revenge Torpedo Bomber II",
+        "estimation": true,
+        "size": 16
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Night Operation Aviation Equipment",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 250,
+    "_hp": 1020,
     "_id": 2393,
     "_japanese_name": "仏蘭西空母籠姫",
     "_los": null,
     "_luck": null,
     "_name": "Caged French Aircraft Carrier Princess",
-    "_range": null,
+    "_range": 4,
     "_rarity": 8,
     "_reading": "フランスくうぼかごき",
     "_speed": 10,
     "_suffix": "II",
-    "_torpedo": null,
+    "_torpedo": 0,
     "_type": 11,
     "_full_name": "Caged French Aircraft Carrier Princess II"
   },
@@ -22061,49 +22069,49 @@
     "_full_name": "Heavy Cruiser Wi-Class"
   },
   "Heavy Cruiser Wi-Class Damaged": {
-    "_aa": null,
+    "_aa": 80,
     "_api_id": 2383,
-    "_armor": null,
+    "_armor": 155,
     "_asw": 0,
     "_back": -12,
     "_boss": false,
-    "_can_debuff": true,
+    "_can_debuff": false,
     "_equipment": [
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 28.3cm L/52 Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 28.3cm L/52 Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal 28.3cm L/52 Triple Gun Mount",
+        "size": 0
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "Abyssal Seamew Reconnaissance Seaplane",
+        "size": 2
       },
       {
-        "equipment": null,
-        "size": null
+        "equipment": "High-speed Abyssal Torpedo mod.3",
+        "size": 0
       }
     ],
     "_evasion": null,
-    "_firepower": null,
-    "_hp": null,
+    "_firepower": 245,
+    "_hp": 300,
     "_id": 2383,
     "_japanese_name": "重巡ヰ級-壊",
     "_los": null,
     "_luck": null,
     "_name": "Heavy Cruiser Wi-Class",
-    "_range": null,
+    "_range": 3,
     "_rarity": 8,
     "_reading": "じゅうじゅんヰきゅう-かい",
     "_speed": 5,
     "_suffix": "Damaged",
-    "_torpedo": null,
+    "_torpedo": 90,
     "_type": 5,
     "_full_name": "Heavy Cruiser Wi-Class Damaged"
   },
@@ -22116,7 +22124,7 @@
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
     "_boss": false,
-    "_can_debuff": true,
+    "_can_debuff": false,
     "_cg_damaged_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -22167,7 +22175,7 @@
     "_battle_card_damaged_reference": "/Damaged",
     "_battle_card_reference": "/Damaged",
     "_boss": false,
-    "_can_debuff": true,
+    "_can_debuff": false,
     "_cg_damaged_reference": "/Damaged",
     "_cg_reference": "/Damaged",
     "_equipment": [
@@ -22479,6 +22487,7 @@
     "_los": null,
     "_luck": null,
     "_name": "Heavy Tragic French Princess",
+    "_opening_torpedo": true,
     "_range": 3,
     "_rarity": 8,
     "_reading": "フランスあいじゅうき-かい",

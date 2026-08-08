@@ -2544,8 +2544,8 @@
     "_icon": 1,
     "_id": 579,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "フランス海軍が大型駆逐艦(コントル・トルピエール)の主兵装として開発した、駆逐艦としては大口径の単装主砲です。<br>大戦期のフランス大型駆逐艦の代表的な兵装で、Aigle級などの数多くの大型駆逐艦に採用されました。<br>シンプルな構造と高い信頼性で、日本の初期軽巡クラス並みの火力を、量産駆逐艦に与えています。",
+    "_info_en": "This is a large-caliber single-mount main gun developed by the French Navy as the primary armament for its large destroyers (contre-torpilleurs).<br>This was a representative armament for French large destroyers during World War II, adopted by numerous classes of large destroyers, such as the Aigle-class.<br>Thanks to its simple design and high reliability, it provides mass-produced destroyers with firepower comparable to that of early Japanese light cruisers.",
     "_japanese_name": "13.8cm単装砲 Modèle 1927",
     "_localized_name": null,
     "_los": false,
@@ -2565,7 +2565,7 @@
     "_torpedo_accuracy": false,
     "_type": 1,
     "_types": [1, 1, 1, 1, 0],
-    "_wikipedia": null
+    "_wikipedia": "Canon de 138 mm Modèle 1927"
   },
   "13.8cm Twin Gun Mount": {
     "_aa": 2,
@@ -5089,8 +5089,8 @@
     "_icon": 2,
     "_id": 583,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "フランス海軍の誇る重巡洋艦「Algérie」のために、従来量産型重巡主砲を改良発展させた充実の専用重巡主砲兵装、そのif改良兵装です。<br>完成度の高い同主砲をさらに改修、改良を加えたifSHS弾(超重量弾)を用いて、高い火力を発揮することが可能です。<br>初速と命中率低下の課題もありますが、将来的には重巡級としては圧倒的な破壊力を実現する可能性も！",
+    "_info_en": "For the French Navy's proud heavy cruiser \"Algérie\", this is a what-if improved version of the conventional heavy cruiser main gun, which is an improved version of the conventional mass-produced heavy cruiser main gun.<br>It is capable of delivering high firepower by utilizing what-if SHS rounds (Super-Heavy Shells), and upgraded and improved version of the already highly refined main gun.<br>While there are issues regarding initial velocity and a drop in accuracy, it holds the potential to achieve overwhelming firepower for a heavy cruiser in the future!",
     "_japanese_name": "20.3cm/50 連装砲改(SHS改良弾)",
     "_localized_name": null,
     "_los": false,
@@ -5110,7 +5110,7 @@
     "_torpedo_accuracy": false,
     "_type": 2,
     "_types": [1, 1, 2, 2, 0],
-    "_wikipedia": null
+    "_wikipedia": "203mm/50 Modèle 1924 gun"
   },
   "20.3cm/50 Twin Gun Mount Modèle 1931": {
     "_aa": 1,
@@ -5123,8 +5123,8 @@
     "_icon": 2,
     "_id": 582,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "フランス海軍の誇る重巡洋艦「Algérie」のために、従来量産型重巡主砲を改良発展させた充実の専用重巡主砲兵装です。<br>本兵装を集中配備することで、ライバルといえるイタリア海軍のZara級を圧倒することを目指し、開発されました。<br>さらに発展的なifSHS弾(超重量弾)を運用することで、仮想敵に対して圧倒的な火力を持って制圧することも可能です。",
+    "_info_en": "This is a robust, specialized main battery armament developed by improving upon standard mass-produced heavy cruiser main guns, designed for the French Navy's pride, the heavy cruiser \"Algérie\".<br>It was developed with the aim of overwhelming the Italian Navy's Zara-class, considered a rival, through the concentrated deployment of this armament.<br>Furthermore, by employing advanced what-if SHS rounds (Super-Heavy Shells), it is possible to suppress a hypothetical adversary with overwhelming firepower.",
     "_japanese_name": "20.3cm/50 連装砲 Modèle 1931",
     "_localized_name": null,
     "_los": false,
@@ -5144,7 +5144,7 @@
     "_torpedo_accuracy": false,
     "_type": 2,
     "_types": [1, 1, 2, 2, 0],
-    "_wikipedia": null
+    "_wikipedia": "203mm/50 Modèle 1924 gun"
   },
   "203mm/53 Twin Gun Mount": {
     "_aa": 1,
@@ -8535,8 +8535,8 @@
     "_icon": 5,
     "_id": 581,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "トリコロールの国の艦隊、その必殺の爪として配備運用された水雷戦用魚雷兵装、その重雷装版です。<br>艦体の中心線上ではありませんが、両舷に三連装と二連装の魚雷発射管を配備することで、左右計10射線を確保。<br>日本海軍の駆逐艦から見ると変則的ではありますが、独特の重雷装を実現しています。",
+    "_info_en": "This is the heavily armed torpedo configuration of the torpedo weaponry deployed for surface combat, serving as the lethal claws of the Tricolor country's fleet.<br>Although not located on the ship's centerline, triple and twin torpedo launchers are deployed on both broadsides, securing a total of 10 firing tubes.<br>Although unconventional by the standards of Imperial Japanese Navy destroyers, it creates a unique, heavily armed torpedo configuration.",
     "_japanese_name": "55cm複合配置五連装魚雷 Modèle 1932",
     "_localized_name": null,
     "_los": false,
@@ -8569,8 +8569,8 @@
     "_icon": 5,
     "_id": 580,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "トリコロールの国の艦隊、その必殺の爪として配備運用されたスタンダードな水雷戦用魚雷兵装です。<br>一般的な空気魚雷ではありますが、高い信頼性と実用性で、主力巡洋艦や大型駆逐艦に装備され、運用されました。<br>追加の二連装魚雷を加えて、複合した片舷五連装装備の艦種も！",
+    "_info_en": "This is a standard torpedo armament for surface warfare, deployed and operated as the lethal striking weapon of the Tricolor country's fleet.<br>Although it was a standard air-launched torpedo, its high reliability and practicality led to its deployment and operational use on frontline cruisers and large destroyers.<br>We also have ship types featuring a combined broadside armament of 5-tube launchers, achieved by adding an extra twin-tube launcher!",
     "_japanese_name": "55cm三連装魚雷 Modèle 1924",
     "_localized_name": null,
     "_los": false,
@@ -10864,8 +10864,8 @@
     "_icon": 1,
     "_id": 584,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "武装中立国のスウェーデンの優れた兵装メーカー、大口径機関砲で有名なBoforsの優秀な両用単装砲です。<br>対艦だけでなく、対空戦にも対応可能な、先進的な小口径駆逐艦主砲として、都市型駆逐艦などに採用されました。<br>時代を超えた、先進の小型艦艇の主砲兵装です。<br>改修により、今後射撃精度がより向上していきます。",
+    "_info_en": "This is an excellent single-barrel dual-purpose gun from Bofors, a top-tier arms manufacturer based in Sweden, a nation of armed neutrality, renowned for its large-caliber autocannons.<br>It was adopted on destroyer variants designed for operations near urban areas, as well as other similar vessels, serving as an advanced small‑caliber main gun capable of engaging both surface and air targets. <br>This is a state-of-the-art main gun armament for small vessels that transcends its era.<br>Thanks to the improvements, shooting accuracy will further increase going forward.",
     "_japanese_name": "Bofors 12cm単装両用砲",
     "_localized_name": null,
     "_los": false,
@@ -10885,7 +10885,7 @@
     "_torpedo_accuracy": false,
     "_type": 1,
     "_types": [1, 1, 1, 1, 0],
-    "_wikipedia": null
+    "_wikipedia": "Bofors 12 cm M/24 naval gun"
   },
   "Bofors 15.2cm Twin Gun Mount Model 1930": {
     "_aa": 4,
@@ -13189,8 +13189,8 @@
     "_icon": 6,
     "_id": 588,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "新鋭艦上戦闘機を喉から手が出るほど欲しかったフランス海軍は、あの米海軍の当時の新鋭機の輸入を計画。<br>例によってフランス式に改修……「G-36A」として完成……しましたが、独軍地上部隊の電撃的侵攻でパリは落城、フランスは降伏。<br>行き先を失った本機は、イギリスに引き取られて再改修されました。<br>幻の艦上戦闘機隊を、今、貴方の手で活躍を！",
+    "_info_en": "The French Navy, desperate to acquire a state-of-the-art carrier-based fighter, planned to import the cutting-edge aircraft then in service with the US Navy.<br>As usual, it was modified in the French style... and completed as the \"G-36A\"... but Paris fell in a lightning-fast invasion by German ground forces, and France surrendered.<br>Left without a destination, the aircraft was taken over by England and underwent further modification.<br>Bring the legendary carrier-based fighter squadron to life, now in your hands!",
     "_japanese_name": "G-36A(F4F輸出型)",
     "_localized_name": null,
     "_los": false,
@@ -13210,7 +13210,7 @@
     "_torpedo_accuracy": false,
     "_type": 6,
     "_types": [3, 5, 6, 6, 21],
-    "_wikipedia": null
+    "_wikipedia": "Grumman F4F Wildcat"
   },
   "GFCS Mk.37": {
     "_aa": 7,
@@ -15512,8 +15512,8 @@
     "_icon": 7,
     "_id": 586,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "フランス海軍初にして当時唯一の航空母艦「Béarn」に初期に多数配備された木と布も使った複葉の艦上機です。<br>当初は主力艦上機として配備されました。<br>列強の新鋭機には時代遅れの感は免れませんが、艦上爆撃機としては工夫によって効率的な運用も可能……です！<br>単葉金属製の新鋭機達には敵いませんが、可愛い複葉の軽艦爆として……ぜひあえて運用を！",
+    "_info_en": "This is a biplane carrier-based plane of wood and fabric construction, that was deployed in large numbers during the early service period of the \"Béarn\", the French Navy's first and, at the time, only aircraft carrier.<br>It was initially deployed as the main carrier-based plane.<br>It is inevitably starting to feel outdated compared to the cutting-edge planes of the major powers, but with a bit of ingenuity, it can still be operated efficiently as a carrier-based bomber... yes!<br>They may be no match for the cutting-edge all-metal monoplanes, but as cute, light biplane dive bombers... I urge you to give them a chance in action!",
     "_japanese_name": "PL101(爆装)",
     "_localized_name": null,
     "_los": 3,
@@ -15533,7 +15533,7 @@
     "_torpedo_accuracy": false,
     "_type": 7,
     "_types": [3, 5, 7, 7, 63],
-    "_wikipedia": null
+    "_wikipedia": "Levasseur PL.10"
   },
   "PL 101 (Reconnaissance)": {
     "_aa": false,
@@ -15548,8 +15548,8 @@
     "_icon": 9,
     "_id": 585,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "フランス海軍初にして当時唯一の航空母艦「Béarn」に初期に多数配備された木と布も使った複葉の艦上機です。<br>当初は艦上戦闘機として配備されましたが、列強の新鋭機には時代遅れの感は免れず、艦上偵察機としても運用されました。<br>単葉金属製の新鋭機達には全く敵いませんが、初期「Béarn」の主力艦載機として、頑張って運用したいですね！",
+    "_info_en": "This is a biplane carrier-based plane of wood and fabric construction, that was deployed in large numbers during the early service period of the \"Béarn\", the French Navy's first and, at the time, only aircraft carrier.<br>Although initially deployed as a carrier-based fighter, it inevitably seemed outdated compared to the cutting-edge planes of major powers, and was subsequently operated as a carrier-based reconnaissance aircraft as well.<br>They are no match for the cutting-edge all-metal monoplanes, but I would love to see it used as the main carrier-based plane for the initial \"Béarn\"!",
     "_japanese_name": "PL101(偵察)",
     "_localized_name": null,
     "_los": 3,
@@ -15569,7 +15569,7 @@
     "_torpedo_accuracy": false,
     "_type": 9,
     "_types": [5, 7, 9, 9, 63],
-    "_wikipedia": null
+    "_wikipedia": "Levasseur PL.10"
   },
   "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model)": {
     "_aa": false,
@@ -19242,6 +19242,9 @@
     "_wikipedia": "Nakajima C6N"
   },
   "Saiun (4th Recon Squad)": {
+    "_LBAS_japanese_name": "彩雲(偵4)",
+    "_LBAS_name": "Saiun (4th Recon Squad)",
+    "_LBAS_reading": null,
     "_aa": 2,
     "_armor": false,
     "_asw": false,
@@ -22692,6 +22695,9 @@
     "_wikipedia": "Grumman TBF Avenger"
   },
   "TBM-3W+3S": {
+    "_LBAS_japanese_name": "TBM-3W + 3S",
+    "_LBAS_name": "TBM-3W + 3S",
+    "_LBAS_reading": null,
     "_aa": false,
     "_armor": false,
     "_asw": 13,
@@ -28044,6 +28050,9 @@
     "_wikipedia": "Kawasaki Ki-61"
   },
   "Type 3 Fighter Hien Model 1D": {
+    "_LBAS_japanese_name": "飛燕一型丁 (キ61-I 丁)",
+    "_LBAS_name": "Hien Model 1D (Ki-61-I D)",
+    "_LBAS_reading": "ひえんいちがたてい(きろくじゅういち-I てい)",
     "_aa": 9,
     "_armor": false,
     "_asw": false,
@@ -31942,8 +31951,8 @@
     "_icon": 7,
     "_id": 587,
     "_improvements": false,
-    "_info": null,
-    "_info_en": null,
+    "_info": "フランス海軍初にして当時唯一の航空母艦「Béarn」。<br>彼女の足の遅さも問題ではありましたが、艦載機が旧式化していたことも大きな課題でした。<br>その問題を解決するため、SB2Uをフランス式に改修及び輸入して、「Béarn」搭載を図りました。<br>同機で編成された航空隊は迫りくる独軍部隊を迎撃して交戦、空母運用で活躍することなく、ほぼ全滅していきました。",
+    "_info_en": "The \"Béarn\" was the French Navy's first, and at the time, only aircraft carrier.<br>While her slow speed was an issue, the fact that her carrier-based planes had become obsolete was also a major problem.<br>To resolve that issue, the SB2U was modified to French standards and imported, with the aim of deploying it aboard the \"Béarn\".<br>The air unit equipped with these plane intercepted and engaged advancing German forces, but were almost completely wiped out without ever playing a significant role in aircraft carrier operations.",
     "_japanese_name": "V-156F(SB2U輸出型)",
     "_localized_name": null,
     "_los": 2,
@@ -31963,7 +31972,7 @@
     "_torpedo_accuracy": false,
     "_type": 7,
     "_types": [3, 5, 7, 7, 62],
-    "_wikipedia": null
+    "_wikipedia": "Vought SB2U Vindicator"
   },
   "WG42 (Wurfgerät 42)": {
     "_aa": false,

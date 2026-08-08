@@ -17830,7 +17830,7 @@
     "_armor": 17,
     "_armor_max": 33,
     "_armor_mod": 1,
-    "_asw": null,
+    "_asw": 6,
     "_asw_max": 18,
     "_class": "Kai Hikawa Maru",
     "_class_number": 2,
@@ -17848,7 +17848,7 @@
         "size": 1
       }
     ],
-    "_evasion": null,
+    "_evasion": 15,
     "_evasion_max": 35,
     "_firepower": 13,
     "_firepower_max": 43,
@@ -17859,7 +17859,7 @@
     "_id": 660,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "日枝丸改",
-    "_los": null,
+    "_los": 17,
     "_los_max": 38,
     "_luck": 8,
     "_luck_max": 48,
@@ -44271,7 +44271,7 @@
         "size": 0
       }
     ],
-    "_evasion": 37,
+    "_evasion": 38,
     "_evasion_max": 75,
     "_firepower": 18,
     "_firepower_max": 62,
@@ -58060,8 +58060,8 @@
     "_armor": 15,
     "_armor_max": 43,
     "_armor_mod": false,
-    "_asw": null,
-    "_asw_max": null,
+    "_asw": 60,
+    "_asw_max": 82,
     "_class": "Visby",
     "_class_number": 1,
     "_equipment": [
@@ -58075,11 +58075,11 @@
       },
       {
         "equipment": false,
-        "size": 0
+        "size": 1
       }
     ],
-    "_evasion": null,
-    "_evasion_max": null,
+    "_evasion": 54,
+    "_evasion_max": 99,
     "_firepower": 10,
     "_firepower_max": 30,
     "_firepower_mod": 1,
@@ -58089,8 +58089,8 @@
     "_id": 657,
     "_implementation_date": [2026, 7, 18],
     "_japanese_name": "Visby改",
-    "_los": null,
-    "_los_max": null,
+    "_los": 9,
+    "_los_max": 42,
     "_luck": 36,
     "_luck_max": 100,
     "_luck_mod": false,

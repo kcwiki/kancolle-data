@@ -1,2 +1,4 @@
 .env
 node_modules
+ab-*.json
+gauge-*.json
