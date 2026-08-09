@@ -17,16 +17,23 @@ const main = async () => {
     async map => {
       const spots = []
       const airbases = []
+      let phase = 1
       // eslint-disable-next-line no-constant-condition
       while (true) {
         try {
           const url = `http://${server}/kcs2/resources/map/0${world}/0${map}_info${spots.length || ''}.json`
           // console.log(`<http://${server}/kcs2/resources/map/0${world}/0${map}_image${spots.length || ''}.png>`)
           const data = await (await fetch(url)).json()
+          data.airbases = data.airbases || []
+          data.spots.forEach(spot => {
+            spot.phase = phase
+          })
+          data.airbases.forEach(spot => {
+            spot.phase = phase
+          })
+          ++phase
           spots.push.apply(spots, data.spots)
-          if (data.airbases) {
-            spots.push.apply(airbases, data.airbases)
-          }
+          spots.push.apply(airbases, data.airbases)
         } catch (_) {
           break
         }
