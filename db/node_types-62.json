@@ -152,6 +152,7 @@
     "X": { "color": 5, "id": 5, "kind": 5, "type": "Boss" },
     "Y": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
     "Y1": { "color": 4, "id": 4, "kind": 1, "type": "Normal" },
+    "Y2": { "color": 4, "id": 6, "kind": 1, "type": "Empty" },
     "Z": { "color": 5, "id": 5, "kind": 5, "type": "Boss" }
   },
   "625": {
