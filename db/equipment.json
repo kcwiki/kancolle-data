@@ -8127,10 +8127,10 @@
     "torpedo": 0,
     "armor": 0,
     "aa": 0,
-    "bombing": 0,
+    "bombing": 1,
     "evasion": 1,
     "asw": 3,
-    "los": 3,
+    "los": 2,
     "range": 0
   },
   {
