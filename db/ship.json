@@ -8316,6 +8316,20 @@
     "range": 1
   },
   {
+    "id": 1036,
+    "name": "Independence Flight II",
+    "description": "USS Independence, at your service. <br>新鋭軽巡として設計され、途中から高速軽空母へと<br>改装。Essex級と共に、空母機動部隊の中核として、<br>ラバウル空襲を始め、太平洋戦域で活躍。夜間作戦<br>空母としても運用されました。<br>Bear this in mind.……please.",
+    "firepower": 32,
+    "torpedo": 0,
+    "armor": 28,
+    "aa": 44,
+    "bombing": 1,
+    "evasion": 33,
+    "asw": 32,
+    "los": -1,
+    "range": 2
+  },
+  {
     "id": 1040,
     "name": "吹雪改三護(六式)",
     "description": "ワシントン条約制限下で設計された、世界中を驚愕さ<br>せたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！",
