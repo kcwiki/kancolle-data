@@ -15503,7 +15503,7 @@
     "_aa": false,
     "_armor": false,
     "_asw": 3,
-    "_bombing": false,
+    "_bombing": 1,
     "_buildable": false,
     "_evasion": 1,
     "_firepower": false,
@@ -15511,12 +15511,12 @@
     "_flight_range": 2,
     "_icon": 7,
     "_id": 586,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "フランス海軍初にして当時唯一の航空母艦「Béarn」に初期に多数配備された木と布も使った複葉の艦上機です。<br>当初は主力艦上機として配備されました。<br>列強の新鋭機には時代遅れの感は免れませんが、艦上爆撃機としては工夫によって効率的な運用も可能……です！<br>単葉金属製の新鋭機達には敵いませんが、可愛い複葉の軽艦爆として……ぜひあえて運用を！",
     "_info_en": "This is a biplane carrier-based plane of wood and fabric construction, that was deployed in large numbers during the early service period of the \"Béarn\", the French Navy's first and, at the time, only aircraft carrier.<br>It was initially deployed as the main carrier-based plane.<br>It is inevitably starting to feel outdated compared to the cutting-edge planes of the major powers, but with a bit of ingenuity, it can still be operated efficiently as a carrier-based bomber... yes!<br>They may be no match for the cutting-edge all-metal monoplanes, but as cute, light biplane dive bombers... I urge you to give them a chance in action!",
     "_japanese_name": "PL101(爆装)",
     "_localized_name": null,
-    "_los": 3,
+    "_los": 2,
     "_luck": false,
     "_name": "PL 101 (Bomb-carrying)",
     "_range": false,
@@ -15547,7 +15547,7 @@
     "_flight_range": 2,
     "_icon": 9,
     "_id": 585,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "フランス海軍初にして当時唯一の航空母艦「Béarn」に初期に多数配備された木と布も使った複葉の艦上機です。<br>当初は艦上戦闘機として配備されましたが、列強の新鋭機には時代遅れの感は免れず、艦上偵察機としても運用されました。<br>単葉金属製の新鋭機達には全く敵いませんが、初期「Béarn」の主力艦載機として、頑張って運用したいですね！",
     "_info_en": "This is a biplane carrier-based plane of wood and fabric construction, that was deployed in large numbers during the early service period of the \"Béarn\", the French Navy's first and, at the time, only aircraft carrier.<br>Although initially deployed as a carrier-based fighter, it inevitably seemed outdated compared to the cutting-edge planes of major powers, and was subsequently operated as a carrier-based reconnaissance aircraft as well.<br>They are no match for the cutting-edge all-metal monoplanes, but I would love to see it used as the main carrier-based plane for the initial \"Béarn\"!",
     "_japanese_name": "PL101(偵察)",
@@ -16573,7 +16573,7 @@
     "_torpedo_accuracy": false,
     "_type": 48,
     "_types": [22, 39, 48, 57, 20],
-    "_wikipedia": "Kyushu J7W Shinden"
+    "_wikipedia": "Kyūshū J7W Shinden"
   },
   "Prototype Shuusui": {
     "_aa": 2,
@@ -20097,7 +20097,7 @@
     "_type": 6,
     "_types": [3, 5, 6, 6, 20],
     "_version": 3,
-    "_wikipedia": "Kyushu J7W Shinden"
+    "_wikipedia": "Kyūshū J7W Shinden"
   },
   "Shinden Kai 2 (Carrier-based Fighter Model Kai 2)": {
     "_aa": 16,
@@ -20134,7 +20134,7 @@
     "_type": 6,
     "_types": [3, 5, 6, 6, 20],
     "_version": 3,
-    "_wikipedia": "Kyushu J7W Shinden"
+    "_wikipedia": "Kyūshū J7W Shinden"
   },
   "Shinden Kai 3 (Prototype Jet Shinden)": {
     "_aa": 17,

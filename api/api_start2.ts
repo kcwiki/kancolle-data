@@ -395,11 +395,12 @@ export interface APIMstEquipShip {
   '1055': The1055
   '1058': The100
   '1060': The1031
-  '1061': The100
+  '1061': The1031
   '1062': The100
   '1065': The1065
   '1067': The100
   '1070': The100
+  '1071': The100
   '114': The100
   '131': The131
   '136': The131
@@ -565,9 +566,11 @@ export interface APIMstEquipShip {
   '743': The100
   '744': The100
   '745': The100
+  '748': The100
+  '749': The100
   '877': The877
-  '878': The100
-  '879': The131
+  '878': The131
+  '879': The100
   '884': The1031
   '885': The1003
   '889': The1031
@@ -723,6 +726,7 @@ export interface The1031_APIEquipType {
   '15'?: null
   '16': null
   '17': null
+  '2'?: null
   '20': null
   '21': null
   '23': null
@@ -742,6 +746,7 @@ export interface The1031_APIEquipType {
   '43': null
   '44'?: null
   '46'?: null
+  '5'?: null
   '50': null
   '56'?: null
   '57'?: null
@@ -763,6 +768,7 @@ export interface The1055_APIEquipType {
   '12': null
   '16': null
   '17': null
+  '2': null
   '20': null
   '21': null
   '23': null
@@ -1156,7 +1162,7 @@ export interface APIMstMapinfo {
   api_item: number[]
   api_level: number
   api_maparea_id: number
-  api_max_maphp: number | null
+  api_max_maphp: null
   api_name: string
   api_no: number
   api_opetext: string
