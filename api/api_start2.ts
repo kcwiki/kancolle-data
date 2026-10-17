@@ -153,6 +153,7 @@ export interface The10_APIShipIDS {
   '574'?: number
   '593'?: number
   '656'?: number
+  '902'?: number
   '911'?: number
   '916'?: number
   '954'?: number
@@ -347,8 +348,10 @@ export interface The45_APIShipIDS {
   '1033': number
   '1035': number
   '1040': number
-  '564': number
-  '648': number
+  '145'?: number
+  '564'?: number
+  '648'?: number
+  '902': number
   '961': number
   '982': number
 }
@@ -577,6 +580,7 @@ export interface APIMstEquipShip {
   '894': The100
   '899': The1003
   '900': The1003
+  '902': The100
   '908': The100
   '911': The131
   '915': The100

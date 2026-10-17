@@ -1222,99 +1222,12 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_bonus": {
-      "@<span class='explain' title='Ayanami/Akatsuki/Hatsuharu'>DD</span>-class": {
-        "_aa": 1
-      },
-      "Kawakaze Kai Ni": {
-        "_evasion": 2
-      },
-      "Murasame Kai Ni": {
-        "_evasion": 1
-      },
-      "Shigure Kai Ni": {
-        "_firepower": 1
-      },
-      "Shiratsuyu Kai": {
-        "_evasion": 1
-      },
-      "Yuudachi Kai Ni": {
-        "_aa": 1,
-        "_evasion": 2,
-        "_firepower": 1,
-        "_torpedo": 1
-      }
-    },
     "_buildable": false,
     "_evasion": false,
     "_firepower": 3,
     "_icon": 1,
     "_id": 63,
-    "_improvements": {
-      "_ammo": 40,
-      "_bauxite": false,
-      "_fuel": 10,
-      "_products": {
-        "12.7cm Twin Gun Mount Model C Kai 2": {
-          "0": {
-            "_development_material": 2,
-            "_development_material_x": 2,
-            "_equipment": false,
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 2,
-            "_development_material_x": 2,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 4
-          },
-          "10": {
-            "_development_material": 4,
-            "_development_material_x": 8,
-            "_equipment": {
-              "12.7cm Twin Gun Mount": 3
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 7
-          },
-          "_ships": {
-            "Ayanami/Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": false
-            },
-            "Kawakaze/Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Yuudachi/Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": false
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": 70
-    },
+    "_improvements": true,
     "_info": "艦隊型駆逐艦の主砲のマイナーチェンジバージョンです。<br>基本形と同様、防盾で全周を遮蔽、弾片や荒天対策を施しており、また本バージョンでは仰角範囲等も改良されました。<br>駆逐艦夕立等に搭載されたとも云われています。",
     "_info_en": "This is a slightly improved version of the main guns of fleet destroyers.<br>Similar to the base model, it has a shielded, enclosed turret that protects against shrapnel and stormy weather. This version has had its maximum elevation improved.<br>It was equipped on the destroyer Yuudachi.",
     "_japanese_name": "12.7cm連装砲B型改二",
@@ -1348,45 +1261,7 @@
     "_firepower": 3,
     "_icon": 16,
     "_id": 296,
-    "_improvements": {
-      "_ammo": 90,
-      "_bauxite": 50,
-      "_fuel": 30,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 10,
-            "_development_material_x": 12,
-            "_equipment": {
-              "12.7cm Twin Gun Mount Model B Kai 2": 2
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 6
-          },
-          "6": {
-            "_development_material": 15,
-            "_development_material_x": 30,
-            "_equipment": {
-              "Type 94 Anti-Aircraft Fire Director": 1
-            },
-            "_improvement_material": 7,
-            "_improvement_material_x": 9
-          },
-          "_ships": {
-            "Shikinami/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 130
-    },
+    "_improvements": true,
     "_info": "やや旧式化したB型砲の余剰装備に全面改修を実施、両用砲に換装した戦時改修if駆逐艦主砲です。<br>現実的な対空戦闘に対応するため、最大仰角、装填機構の換装、高射装置との連動等、従来のB型砲とは全く別の駆逐艦用兵装に昇華しています。<br>特II型以降、初春型、白露型などでの装備運用を想定して改修され、両用砲として対空戦闘も可能です。",
     "_info_en": "A what-if remodel of what would happen if the remaining semi-obsolete Type-B guns underwent an extensive mid-war upgrade and conversion into dual-purpose main guns for destroyers.<br>In order to deal with the realities of anti-air combat, maximum elevation, and loading mechanisms have been improved. With the combination of a fire director, this Type-B gun has become an entirely new destroyer weapon.<br>It was meant to be equipped on the Special Type II, Special Type III, Hatsuharu-class, and Shiratsuyu-class after their upgrades. This dual-purpose gun is capable of anti-air combat.",
     "_japanese_name": "12.7cm連装砲B型改四(戦時改修)+高射装置",
@@ -10863,7 +10738,7 @@
     "_firepower": 2,
     "_icon": 1,
     "_id": 584,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "武装中立国のスウェーデンの優れた兵装メーカー、大口径機関砲で有名なBoforsの優秀な両用単装砲です。<br>対艦だけでなく、対空戦にも対応可能な、先進的な小口径駆逐艦主砲として、都市型駆逐艦などに採用されました。<br>時代を超えた、先進の小型艦艇の主砲兵装です。<br>改修により、今後射撃精度がより向上していきます。",
     "_info_en": "This is an excellent single-barrel dual-purpose gun from Bofors, a top-tier arms manufacturer based in Sweden, a nation of armed neutrality, renowned for its large-caliber autocannons.<br>It was adopted on destroyer variants designed for operations near urban areas, as well as other similar vessels, serving as an advanced small‑caliber main gun capable of engaging both surface and air targets. <br>This is a state-of-the-art main gun armament for small vessels that transcends its era.<br>Thanks to the improvements, shooting accuracy will further increase going forward.",
     "_japanese_name": "Bofors 12cm単装両用砲",
@@ -23128,7 +23003,7 @@
     "_flight_range": 5,
     "_icon": 46,
     "_id": 373,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」その改良後期型に、機上電探空六号の改良調整型と電波高度計などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦艦上攻撃機です。",
     "_info_en": "Developed as the successor to the \"Type 97 Torpedo Bomber\", the \"Tenzan\", with this improved, late-war model coming equipped with a tuned-up Type 6 Airborne RADAR and a radio altimeter for nighttime operations, being a carrier-based torpedo bomber capable of performing night attacks.",
     "_japanese_name": "天山一二型甲改(空六号電探改装備機)",
