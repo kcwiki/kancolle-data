@@ -41,7 +41,7 @@ const getLuaData = async name => {
       format: 'json',
       prop: 'revisions',
       rvprop: 'content',
-      titles: `Module:${name}`
+      titles: `Module:${name}`,
     }
     const data = await fetchRetry(`${process.env.WIKI_HOST}/w/api.php?${stringify(params)}`, JSON.parse)
     return parseLua(Object.values(data.query.pages)[0].revisions[0]['*'])

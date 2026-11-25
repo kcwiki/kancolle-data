@@ -1503,7 +1503,7 @@
     "_firepower": 3,
     "_icon": 1,
     "_id": 366,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "夕雲型駆逐艦などに搭載された駆逐艦主砲のif改修型です。<br>対空戦闘用に最大仰角を大きくとることに加え、装填システムを改良、仰角時の装填と発射速度の向上に成功したif改良D型主砲です。<br>数々の実戦の戦訓を取り入れた改修により、甲型及び改甲型駆逐艦での運用において、優れた戦闘力を発揮します。",
     "_info_en": "A what-if version of the destroyer main guns that were mounted on the Yuugumo-class destroyers.<br>In addition to increasing the maximum elevation angle for anti-aircraft combat, this is an improved D-type main gun that has an improved loading system and has succeeded in increasing loading at elevation angle and firing rate.<br>It incorporates many lessons learned in combat and will have outstanding performance on Type-A and Improved Type-A destroyers.",
     "_japanese_name": "12.7cm連装砲D型改三",
@@ -2418,7 +2418,7 @@
     "_firepower": 3,
     "_icon": 1,
     "_id": 579,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "フランス海軍が大型駆逐艦(コントル・トルピエール)の主兵装として開発した、駆逐艦としては大口径の単装主砲です。<br>大戦期のフランス大型駆逐艦の代表的な兵装で、Aigle級などの数多くの大型駆逐艦に採用されました。<br>シンプルな構造と高い信頼性で、日本の初期軽巡クラス並みの火力を、量産駆逐艦に与えています。",
     "_info_en": "This is a large-caliber single-mount main gun developed by the French Navy as the primary armament for its large destroyers (contre-torpilleurs).<br>This was a representative armament for French large destroyers during World War II, adopted by numerous classes of large destroyers, such as the Aigle-class.<br>Thanks to its simple design and high reliability, it provides mass-produced destroyers with firepower comparable to that of early Japanese light cruisers.",
     "_japanese_name": "13.8cm単装砲 Modèle 1927",
@@ -2990,59 +2990,12 @@
     "_armor": false,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 6,
     "_icon": 4,
     "_id": 247,
-    "_improvements": {
-      "_ammo": 150,
-      "_bauxite": 50,
-      "_fuel": 15,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 10,
-            "_development_material_x": 15,
-            "_equipment": {
-              "15.5cm Triple Secondary Gun Mount": 1
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 6
-          },
-          "6": {
-            "_development_material": 10,
-            "_development_material_x": 15,
-            "_equipment": {
-              "Type 22 Surface Radar": 2
-            },
-            "_improvement_material": 7,
-            "_improvement_material_x": 8
-          },
-          "_ships": {
-            "Richelieu/": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Richelieu/Kai": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 150
-    },
+    "_improvements": true,
     "_info": "トリコロールの国で開発された副砲です。<br>軽巡クラスに搭載する主砲としても運用されました。<br>ぜひ「Richelieu」級戦艦に搭載して、主砲＋主砲+副砲運用を！",
     "_info_en": "Secondary guns from the tricolore country.<br>Also used on light cruisers as main guns.<br>Certainly use this on \"Richelieu-class\" battleships in a Main+Main+Secondaries combination!",
     "_japanese_name": "15.2cm三連装砲",
@@ -8443,7 +8396,7 @@
     "_firepower": false,
     "_icon": 5,
     "_id": 580,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "トリコロールの国の艦隊、その必殺の爪として配備運用されたスタンダードな水雷戦用魚雷兵装です。<br>一般的な空気魚雷ではありますが、高い信頼性と実用性で、主力巡洋艦や大型駆逐艦に装備され、運用されました。<br>追加の二連装魚雷を加えて、複合した片舷五連装装備の艦種も！",
     "_info_en": "This is a standard torpedo armament for surface warfare, deployed and operated as the lethal striking weapon of the Tricolor country's fleet.<br>Although it was a standard air-launched torpedo, its high reliability and practicality led to its deployment and operational use on frontline cruisers and large destroyers.<br>We also have ship types featuring a combined broadside armament of 5-tube launchers, achieved by adding an extra twin-tube launcher!",
     "_japanese_name": "55cm三連装魚雷 Modèle 1924",
@@ -13483,7 +13436,7 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 305,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "かの国の急降下爆撃機の代表的存在。<br>日本に輸入された本機を改修し、磁気探知対潜兵装と艦載用装備を施した対潜用if艦爆です。<br>「スツーカ」というあまりにも有名な呼称と優れた急降下爆撃性能を誇る逆ガル式翼が特徴的な本機と対潜護衛空母の組み合わせで、新たな対潜捜索掃蕩戦を！",
     "_info_en": "An iconic dive-bomber from that country.<br>This what-if carrier-borne anti-submarine dive-bomber was imported into Japan, upgraded, and equipped with a magnetic anti-submarine detector.<br>When combined with an anti-submarine escort carrier, this excellent dive-bomber which bears the name \"Stuka\" and its inverted gull-wings, will enable new anti-submarine search-and-destroy combat!",
     "_japanese_name": "Ju87C改二(KMX搭載機)",
@@ -15247,75 +15200,12 @@
     "_armor": 1,
     "_asw": false,
     "_bombing": false,
-    "_buildable": false,
+    "_buildable": true,
     "_evasion": false,
     "_firepower": 8,
     "_icon": 4,
     "_id": 134,
-    "_improvements": {
-      "_ammo": 90,
-      "_bauxite": false,
-      "_fuel": 10,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 2,
-            "_development_material_x": 3,
-            "_equipment": false,
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 3,
-            "_development_material_x": 4,
-            "_equipment": {
-              "15.5cm Triple Gun Mount": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "_ships": {
-            "Italia/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Littorio/": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Roma/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Roma/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          }
-        }
-      },
-      "_steel": 120
-    },
+    "_improvements": true,
     "_info": "パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射砲です。<br>砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最新型です。<br>新型高速戦艦の副砲にも採用されました。",
     "_info_en": "Produced in the country of pasta, this is a reliable high-performance medium-caliber triple rapid-fire gun.<br>This latest model uses electric power to rapidly swivel and elevate, and for the ammunition supply and loading.<br>The newest fast battleships were equipped with it as a secondary cannon.",
     "_japanese_name": "OTO 152mm三連装速射砲",
@@ -16760,54 +16650,7 @@
     "_firepower": 3,
     "_icon": 1,
     "_id": 280,
-    "_improvements": {
-      "_ammo": 60,
-      "_bauxite": 20,
-      "_fuel": 20,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 6,
-            "_development_material_x": 7,
-            "_equipment": {
-              "12.7cm Twin Gun Mount": 2
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 5
-          },
-          "6": {
-            "_development_material": 7,
-            "_development_material_x": 8,
-            "_equipment": {
-              "12.7cm Twin Gun Mount Model B Kai 2": 2
-            },
-            "_improvement_material": 6,
-            "_improvement_material_x": 7
-          },
-          "_ships": {
-            "Jervis/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Jervis/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": 80
-    },
+    "_improvements": true,
     "_info": "紅茶の国の駆逐艦に搭載された主砲兵装、その改良版です。<br>可愛い駆逐艦用主砲、実戦で鍛え上げられた、優れた対潜戦闘力を誇る紅茶の国の駆逐艦達に、ASDICと共にぜひ搭載したいですね！",
     "_info_en": "This is an improved model of the main armament of destroyers from the country of tea.<br>It is the main gun of the darling destroyer that has been tempered in combat. The destroyers from the country of tea with the ASW they are proud of would like to equip it alongside ASDIC!",
     "_japanese_name": "QF 4.7inch砲 Mk.XII改",
@@ -23362,7 +23205,7 @@
     "_firepower": false,
     "_icon": 32,
     "_id": 412,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "水雷戦隊、特にその主力である駆逐艦の熟練見張員です。<br>その鍛え抜かれた肉眼視力による偵察力・索敵力は状況によっては大きな威力を発揮し、敵艦隊のレーダー兵装が充実するまでは、夜戦などで水雷戦隊の脅威の戦闘力を支えます。<br>※状況によって専用の夜戦雷撃、鼠輸送時反撃も可能です！",
     "_info_en": "A skilled lookout for torpedo squadrons, especially for those main force destroyers.<br>Depending on the circumstances, a trained eye can provide superior search and reconnaissance. Before the enemy's RADAR matured, this helped to increase the combat potential of torpedo squadrons in night battle.<br>※Depending on the setup, it's possible to perform exclusive night battle torpedo attacks or rat transport counterattacks!",
     "_japanese_name": "水雷戦隊 熟練見張員",
@@ -24777,54 +24620,7 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 219,
-    "_improvements": {
-      "_ammo": 140,
-      "_bauxite": 290,
-      "_fuel": 130,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 5,
-            "_development_material_x": 6,
-            "_equipment": {
-              "Type 0 Fighter Model 52": 3
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 6
-          },
-          "6": {
-            "_development_material": 6,
-            "_development_material_x": 9,
-            "_equipment": {
-              "Prototype Reppuu Late Model": 1
-            },
-            "_improvement_material": 5,
-            "_improvement_material_x": 7
-          },
-          "_ships": {
-            "Kumano/Carrier Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Suzuya/Carrier Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          }
-        }
-      },
-      "_steel": false
-    },
+    "_improvements": true,
     "_info": "零式艦上戦闘機の戦闘爆撃機仕様、通称「爆戦」の改良後期型です。<br>改良型エンジンに換装、燃料タンクを防弾仕様化した零戦の性能向上型、53型。<br>その胴体下に250kgまたは500kg爆弾懸吊架を増設、爆撃機動に耐えられるよう、一部機体強度も強化しています。<br>重巡改装の攻撃型軽空母などで、ぜひ機動部隊運用を！",
     "_info_en": "An improved, late-model version of the Zero \"Fighter-Bomber\".<br>The improved Model 53 features an improved engine and bulletproof fuel tanks.<br>Under the fuselage are added hardpoints for 250 kg or 500 kg bombs, and parts of the airframe have also been strengthened to better withstand the movements of bombing missions.<br>Add it to the improved heavy cruisers and light carriers of your mobile task force!",
     "_japanese_name": "零式艦戦63型(爆戦)",
@@ -25098,91 +24894,7 @@
     "_flight_range": 7,
     "_icon": 10,
     "_id": 25,
-    "_improvements": {
-      "_ammo": 20,
-      "_bauxite": 300,
-      "_fuel": 90,
-      "_products": {
-        "Type 2 Seaplane Fighter Kai": {
-          "0": {
-            "_development_material": 4,
-            "_development_material_x": 6,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 3
-          },
-          "6": {
-            "_development_material": 5,
-            "_development_material_x": 8,
-            "_equipment": {
-              "true": 2
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "10": {
-            "_development_material": 9,
-            "_development_material_x": 15,
-            "_equipment": {
-              "Type 0 Fighter Model 21": 3
-            },
-            "_improvement_material": 5,
-            "_improvement_material_x": 10
-          },
-          "_ships": {
-            "Akitsushima/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Chitose/A": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Chiyoda/A": {
-              "Friday": false,
-              "Monday": false,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": true
-            },
-            "Mizuho/": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Mizuho/Kai": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            }
-          },
-          "_stars": false
-        }
-      },
-      "_steel": false
-    },
+    "_improvements": true,
     "_info": "「零水偵」とも呼ばれる標準的な水上偵察機です。<br>戦艦や巡洋艦、水上機母艦などに搭載され、索敵任務担当として艦隊の「目」の役目を務めます。<br>海戦は索敵が大事！<br>ぜひ、主力艦艇に搭載して、運用してくださいね。",
     "_info_en": "The standard naval reconnaissance aircraft, also known as the \"Reimitei\".<br>Carried by battleships, cruisers, and seaplane tenders, it served as the \"Eye\" of the fleet, operating recon missions.<br>Scouting is important for battles!<br>Please operate it on your flagships!",
     "_japanese_name": "零式水上偵察機",
@@ -25325,7 +25037,7 @@
     "_flight_range": 7,
     "_icon": 50,
     "_id": 469,
-    "_improvements": false,
+    "_improvements": true,
     "_info": "艦隊の航空偵察の主役として、戦いの前半期では幅広い局面で活躍した「零式水上偵察機」。<br>各水上艦艇に搭載され、三座を活かして艦隊の「目」としての索敵任務に務めました。<br>本機は電探装備の同機をさらに改修、夜間偵察機として整備改修された新配備三座夜間水上偵察機です。",
     "_info_en": "The \"Type 0 Reconnaissance Seaplane\" was the leading reconnaissance seaplane of the fleet and was widely used during the first half of the war.<br>It was equipped on every ship in the fleet. The crew of three would undertake reconnaissance missions and act as the \"eyes\" of the fleet.<br>This unit is a new three-seater night reconnaissance seaplane that has been upgraded for night operations with the addition of a surface RADAR.",
     "_japanese_name": "零式水上偵察機11型乙改(夜偵)",
@@ -26623,7 +26335,7 @@
     "_id": 311,
     "_improvements": false,
     "_info": "十三試陸戦として開発された双発陸上戦闘機。<br>双発遠距離戦闘機開発としては成功しなかった本機を、偵察機として正式採用したのが、この「二式陸偵」です。<br>ラバウルに展開した本機が後に現地改修され、20mm斜銃2挺を装備、ラバウルや本土防空戦で大型爆撃機相手に奮戦した、あの夜間戦闘機「月光」が誕生しました。",
-    "_info_en": "A twin-engine land-based fighter developed during thirteen trial fights.<br> Developed as a twin-engine long-distance fighter plane that didn't succeed, was formally accepted as a reconnaissance plane, this is the \"Type 2 Land Based Reconnaissance Aircraft\".<br>Deployed in Rabaul the original plane was locally improved, equipped with two diagonally firing 20 mm guns, it fiercely fought a large-sized enemy bomber in Rabaul and in the mainland air defense, on those battles the night fighter \"Gekkou\" was born.",
+    "_info_en": "A twin-engine land-based fighter developed as the Type 13 Land-based Fighter.<br>This plane, the \"Type 2 Land-based Reconnaissance Aircraft\", was officially adopted for reconnaissance duties after failing to succeed in its original role as a twin-engine long-range fighter.<br>Planes deployed to Rabaul underwent field modifications, including the installation of 20 mm upward-firing cannons, which gave rise to the \"Gekkou\" night-fighter, which fought valiantly against heavy bombers during the battles at Rabaul and in the defense of the home islands.",
     "_japanese_name": "二式陸上偵察機",
     "_localized_name": "Moonlight",
     "_los": 8,
@@ -26643,7 +26355,7 @@
     "_torpedo_accuracy": false,
     "_type": 49,
     "_types": [25, 7, 49, 9, 31],
-    "_wikipedia": "Nakajima J1N"
+    "_wikipedia": "Nakajima J1N Gekkō"
   },
   "Type 2 Land-based Reconnaissance Aircraft (Skilled)": {
     "_aa": 3,
@@ -26659,7 +26371,7 @@
     "_id": 312,
     "_improvements": false,
     "_info": "十三試陸戦として開発された双発陸上戦闘機。<br>双発遠距離戦闘機開発としては成功しなかった本機を、偵察機として正式採用した「二式陸偵」、同機を装備した熟練搭乗員ペアによる偵察隊です。<br>ラバウルに展開した本機は現地改修され、20mm斜銃を装備し、後に本土防空戦で大型戦略爆撃機相手に奮戦した、あの夜間戦闘機「月光」隊が誕生します。",
-    "_info_en": "A twin-engine land-based fighter developed during thirteen trial fights.<br>Developed as a twin-engine long-distance fighter plane that didn't succeed, was formally accepted as a reconnaissance plane, this is the \"Type 2 Land Based Reconnaissance Aircraft\".<br>This is a reconnaissance squadron composed of skilled crews equipped with the plane. Deployed in Rabaul the original plane was locally improved, equipped with two diagonally firing 20 mm guns, it fiercely fought a large-sized enemy bomber in Rabaul, and in the mainland air defense, on those battles, the night fighter \"Gekkou\" was born.",
+    "_info_en": "A twin-engine land-based fighter developed as the Type 13 Land-based Fighter.<br>This plane, the \"Type 2 Land-based Reconnaissance Aircraft\", was officially adopted for reconnaissance duties after failing to succeed in its original role as a twin-engine long-range fighter, and crewed by pairs of highly skilled airmen.<br>Planes deployed to Rabaul later underwent field modifications, including the installation of a 20 mm upward-firing cannon, which gave rise to the \"Gekko\" night-fighter, that would later fight valiantly against large strategic bombers during the defense of the Japanese home islands.",
     "_japanese_name": "二式陸上偵察機(熟練)",
     "_localized_name": "Moonlight (Skilled)",
     "_los": 9,
@@ -26679,7 +26391,7 @@
     "_torpedo_accuracy": false,
     "_type": 49,
     "_types": [25, 7, 49, 9, 31],
-    "_wikipedia": "Nakajima J1N"
+    "_wikipedia": "Nakajima J1N Gekkō"
   },
   "Type 2 Large Flying Boat": {
     "_aa": false,
@@ -30910,45 +30622,7 @@
     "_flight_range": 6,
     "_icon": 50,
     "_id": 102,
-    "_improvements": {
-      "_ammo": 30,
-      "_bauxite": 480,
-      "_fuel": 100,
-      "_products": {
-        "false": {
-          "0": {
-            "_development_material": 4,
-            "_development_material_x": 7,
-            "_equipment": {
-              "Type 0 Reconnaissance Seaplane": 1
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 4
-          },
-          "6": {
-            "_development_material": 5,
-            "_development_material_x": 9,
-            "_equipment": {
-              "Type 0 Reconnaissance Seaplane": 2
-            },
-            "_improvement_material": 4,
-            "_improvement_material_x": 8
-          },
-          "_ships": {
-            "Sendai/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            }
-          }
-        }
-      },
-      "_steel": false
-    },
+    "_improvements": true,
     "_info": "水雷戦隊旗艦用に開発された水上夜間偵察機です。<br>長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する「夜間触接」が発生する可能性があります)。",
     "_info_en": "This is a night reconnaissance seaplane developed for torpedo squadron flagships.<br>The airframe is painted black has a skilled crew with excellent night-time detection ability, and can stay in the air for long periods of time (if conditions are right, \"night contact\" may occur to support night battles).",
     "_japanese_name": "九八式水上偵察機(夜偵)",
@@ -30985,135 +30659,7 @@
     "_flight_range": 4,
     "_icon": 7,
     "_id": 23,
-    "_improvements": {
-      "_ammo": 190,
-      "_bauxite": 290,
-      "_fuel": 190,
-      "_products": {
-        "Type 99 Dive Bomber Model 22": {
-          "0": {
-            "_development_material": 3,
-            "_development_material_x": 3,
-            "_equipment": {
-              "true": 1
-            },
-            "_improvement_material": 1,
-            "_improvement_material_x": 2
-          },
-          "6": {
-            "_development_material": 3,
-            "_development_material_x": 5,
-            "_equipment": {
-              "true": 2
-            },
-            "_improvement_material": 2,
-            "_improvement_material_x": 4
-          },
-          "10": {
-            "_development_material": 4,
-            "_development_material_x": 7,
-            "_equipment": {
-              "Type 0 Reconnaissance Seaplane": 2
-            },
-            "_improvement_material": 3,
-            "_improvement_material_x": 5
-          },
-          "_ships": {
-            "Hiryuu/": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Hiryuu/Kai": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Hiryuu/Kai Ni": {
-              "Friday": false,
-              "Monday": true,
-              "Saturday": false,
-              "Sunday": false,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": true
-            },
-            "Souryuu/": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Souryuu/Kai": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Souryuu/Kai Ni": {
-              "Friday": true,
-              "Monday": false,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": true,
-              "Tuesday": false,
-              "Wednesday": false
-            },
-            "Zuihou/": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": false
-            },
-            "Zuihou/Kai": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": false
-            },
-            "Zuihou/Kai Ni": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": false
-            },
-            "Zuihou/Kai Ni B": {
-              "Friday": true,
-              "Monday": true,
-              "Saturday": true,
-              "Sunday": true,
-              "Thursday": false,
-              "Tuesday": true,
-              "Wednesday": false
-            }
-          }
-        }
-      },
-      "_steel": false
-    },
+    "_improvements": true,
     "_info": "複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場しました。<br>「九九艦爆」と呼ばれ、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担います。<br>固定脚の低速機であるため、より高性能な高速艦爆「彗星」にその座を譲っていきました。",
     "_info_en": "It has been completely redesigned from the biplane Type 96 Carrier Attacker and resulted in a modern monoplane carrier-based bomber.<br>Called the \"Type 99 Dive Bomber\" and alongside the \"Type 97 Torpedo Bomber\", it formed the core of the initial task force's strength.<br>As it was a low-speed, fixed-gear aircraft, it was replaced by the more advanced high-speed \"Comet\" naval bomber.",
     "_japanese_name": "九九式艦爆",
@@ -31954,6 +31500,42 @@
     "_type": 6,
     "_types": [3, 5, 6, 6, 38],
     "_wikipedia": "Vought XF5U"
+  },
+  "XF6F-6": {
+    "_aa": 12,
+    "_armor": false,
+    "_asw": false,
+    "_bombing": false,
+    "_buildable": false,
+    "_evasion": 3,
+    "_firepower": 1,
+    "_flight_cost": 8,
+    "_flight_range": 4,
+    "_icon": 6,
+    "_id": 589,
+    "_improvements": false,
+    "_info": "大戦初期の太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、F6Fシリーズの改良発展型試作機です。<br>もともと強力なエンジンをさらに大出力なものに換装、F6Fシリーズとして最高速度と卓越した上昇性能を獲得しました。<br>太平洋の戦いには間に合わなかったものの「F6F」シリーズ最強のその力は、次代の艦上戦闘機「F8F」へと繋がっていきます。",
+    "_info_en": "This is an improved, evolved prototype of the F6F series, the successor to the F4F series of carrier-based fighters that went head-to-head with the Zero in the Pacific during the early stages of the war.<br>By replacing the original, already powerful engine with one of even greater output, the F6F series achieved a higher top speed and exceptional climb performance.<br>Although it did not arrive in time for the battles in the Pacific, the formidable power of the \"F6F\" series, the most potent of its line, would go on to influence the development of its successor, the \"F8F\" carrier-based fighter.",
+    "_japanese_name": "XF6F-6",
+    "_localized_name": null,
+    "_los": 1,
+    "_luck": false,
+    "_name": "XF6F-6",
+    "_range": false,
+    "_rarity": 5,
+    "_reading": null,
+    "_scrap_ammo": 4,
+    "_scrap_bauxite": 7,
+    "_scrap_fuel": 2,
+    "_scrap_steel": false,
+    "_shelling_accuracy": 1,
+    "_special": false,
+    "_speed": false,
+    "_torpedo": false,
+    "_torpedo_accuracy": false,
+    "_type": 6,
+    "_types": [3, 5, 6, 6, 21],
+    "_wikipedia": "Grumman F6F Hellcat"
   },
   "Zero Fighter Model 21 (w/ Iwamoto Flight)": {
     "_aa": 9,
