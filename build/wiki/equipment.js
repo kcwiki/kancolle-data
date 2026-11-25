@@ -14,15 +14,8 @@ const eqImprovement = require('../../db/improvement.json')
 
 const targets = process.argv[2].split(',').map(e => +e || e)
 
-const mw = promisifyAll(
-  new MW({
-    protocol: 'https',
-    server: process.env.WIKI_HOST,
-    path: process.env.WIKI_PATH,
-    username: process.env.BOT_USERNAME,
-    password: process.env.BOT_PASSWORD,
-  }),
-)
+// TODO: don't use nodemw
+const mw = promisifyAll(new MW())
 
 const old =
   (key, def = undefined) =>

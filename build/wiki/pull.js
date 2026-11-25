@@ -13,11 +13,16 @@ const ROOT = `${__dirname}/../..`
 let requests = 0
 let bytes = 0
 
+const headers = {
+  'User-Agent': 'kcwiki-kancolle-data/1.0 (+https://github.com/kcwiki/kancolle-data)',
+}
+
 const fetchRetry = (url, parser = x => x, method = 'GET') =>
   retry(async () => {
     ++requests
-    const res = await fetch_(url, { method })
-    // console.debug(res.status, url)
+    console.log(url)
+    const res = await fetch_(url, { method, headers })
+    console.log(res.status)
     const text = await res.text()
     bytes += text.length
     return parser(text)
@@ -28,9 +33,19 @@ const stringify = params =>
     .map(([k, v]) => `${k}=${v}`)
     .join('&')
 
+// TODO: use multiple titles at once
 const getLuaData = async name => {
   try {
-    return await fetchRetry(`${process.env.WIKI_HOST}/Module:${name}?action=raw`, parseLua)
+    const params = {
+      action: 'query',
+      format: 'json',
+      prop: 'revisions',
+      rvprop: 'content',
+      titles: `Module:${name}`
+    }
+    const data = await fetchRetry(`${process.env.WIKI_HOST}/w/api.php?${stringify(params)}`, JSON.parse)
+    return parseLua(Object.values(data.query.pages)[0].revisions[0]['*'])
+    // return await fetchRetry(`${process.env.WIKI_HOST}/Module:${name}?action=raw`, parseLua)
   } catch (_) {
     console.error(`FAILED: getLuaData on ${name}`)
   }
