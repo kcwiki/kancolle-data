@@ -204,6 +204,9 @@ export interface The106_APIShipIDS {
   '621'?: number
   '626'?: number
   '694'?: number
+  '750'?: number
+  '751'?: number
+  '753'?: number
   '894'?: number
   '899'?: number
   '911'?: number
@@ -266,6 +269,10 @@ export interface The12_APIShipIDS {
   '743'?: number
   '744'?: number
   '745'?: number
+  '750'?: number
+  '751'?: number
+  '752'?: number
+  '753'?: number
   '911'?: number
   '916'?: number
   '954'?: number
@@ -320,6 +327,9 @@ export interface The220_APIShipIDS {
   '507': number
   '508': number
   '509': number
+  '750': number
+  '751': number
+  '753': number
   '883': number
   '888': number
   '894': number
@@ -571,9 +581,13 @@ export interface APIMstEquipShip {
   '745': The100
   '748': The100
   '749': The100
+  '750': The131
+  '751': The100
+  '752': The100
+  '753': The131
   '877': The877
-  '878': The131
-  '879': The100
+  '878': The100
+  '879': The131
   '884': The1031
   '885': The1003
   '889': The1031
