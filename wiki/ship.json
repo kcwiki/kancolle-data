@@ -6502,6 +6502,7 @@
     "_armor_mod": 5,
     "_asw": 0,
     "_asw_max": false,
+    "_back": 7,
     "_class": "Béarn",
     "_class_number": 1,
     "_equipment": [
@@ -10197,6 +10198,7 @@
     "_firepower_max": 29,
     "_firepower_mod": 1,
     "_fuel": 15,
+    "_get_message": "はじめまして吹雪です。<br>よろしくお願い致します。",
     "_hp": 15,
     "_hp_max": 29,
     "_id": 11,
@@ -10390,6 +10392,7 @@
     "_armor_mod": 2,
     "_asw": 46,
     "_asw_max": 88,
+    "_back": 7,
     "_class": "Fubuki",
     "_class_number": 1,
     "_equipment": [
@@ -23971,8 +23974,7 @@
       {
         "equipment": false,
         "size": 0
-      },
-      ["_voice_flag", 1]
+      }
     ],
     "_evasion": 45,
     "_evasion_max": 89,
@@ -24012,6 +24014,7 @@
     "_torpedo_mod": 1,
     "_true_id": 1306,
     "_type": 2,
+    "_voice_flag": 1,
     "_full_name": "Isonami Kai",
     "_implementation_date": [2013, 4, 23],
     "_voice_actor": "Uesaka Sumire",
@@ -30946,6 +30949,7 @@
     "_firepower_max": 30,
     "_firepower_mod": false,
     "_fuel": 15,
+    "_get_message": "どうも！夕雲型の最終艦、清霜です。<br>到着遅れました、よろしくお願いです！",
     "_hp": 16,
     "_hp_max": 34,
     "_id": 210,
@@ -31143,6 +31147,7 @@
     "_armor_mod": 1,
     "_asw": 27,
     "_asw_max": 74,
+    "_back": 7,
     "_cg_damaged_reference": "/",
     "_cg_reference": "/",
     "_class": "Yuugumo",
@@ -53347,6 +53352,7 @@
     "_armor_mod": 1,
     "_asw": 30,
     "_asw_max": 74,
+    "_back": 7,
     "_class": "Yuugumo",
     "_class_number": 6,
     "_equipment": [
@@ -53385,7 +53391,7 @@
     "_luck_mod": false,
     "_name": "Takanami",
     "_range": 1,
-    "_rarity": 7,
+    "_rarity": 8,
     "_reading": "たかなみかいにてい",
     "_remodel_ammo": 440,
     "_remodel_arsenal": 2,
